@@ -1,0 +1,22 @@
+---
+const today = new Date();
+---
+
+<footer>
+	&copy; {today.getFullYear()} Vincent Kan. All rights reserved.
+	<p class="footer-tagline">🚀 Built with Astro • Hosted on Modal</p>
+</footer>
+<style>
+	footer {
+		text-align: center;
+		padding: 2rem 1rem;
+		margin-top: 3rem;
+		border-top: 1px solid var(--border);
+		color: var(--gray);
+		font-size: 0.9rem;
+	}
+	.footer-tagline {
+		margin-top: 0.3rem;
+		font-size: 0.8rem;
+	}
+</style>

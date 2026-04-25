@@ -1,0 +1,109 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="zh-HK">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section class="hero">
+				<h1>👋 你好，我係 Vincent Kan</h1>
+				<p class="tagline">
+					科技愛好者 • UFO/UAP 研究者 • AI 玩家 • 香港人
+				</p>
+				<p>
+					歡迎嚟到我嘅個人網站！呢度我會分享我嘅 Project、技術心得，
+					仲有我最鍾意嘅 UFO/UAP 研究記錄。
+				</p>
+			</section>
+
+			<section class="projects">
+				<h2>📂 Projects</h2>
+				<div class="project-grid">
+					<article class="project-card">
+						<h3>🤖 Robot Key</h3>
+						<p>個人 AI 助手，7x24 幫手處理日常 tasks、自動 monitoring、UFO 資訊追蹤。</p>
+						<span class="tag">AI</span>
+						<span class="tag">Automation</span>
+					</article>
+					<article class="project-card">
+						<h3>🛸 UAP 簡報系統</h3>
+						<p>自動定時搜集全球 UFO/UAP 新聞，整合簡報推送去 WhatsApp/Telegram。</p>
+						<span class="tag">Data</span>
+						<span class="tag">Automation</span>
+					</article>
+					<article class="project-card">
+						<h3>🌐 個人網站</h3>
+						<p>用 Astro 搭建嘅靜態網站，Blog + Project Showcase，呢個就係！</p>
+						<span class="tag">Web Dev</span>
+					</article>
+				</div>
+			</section>
+
+			<section class="latest-posts">
+				<h2>📝 最新文章</h2>
+				<p>睇下我嘅 <a href="/blog/">Blog</a> 了解最新動態。</p>
+			</section>
+		</main>
+		<Footer />
+
+		<style>
+			.hero {
+				text-align: center;
+				padding: 3rem 1rem;
+			}
+			.hero h1 {
+				font-size: 2.5rem;
+				margin-bottom: 0.5rem;
+			}
+			.tagline {
+				font-size: 1.2rem;
+				color: var(--accent);
+				margin-bottom: 1.5rem;
+			}
+			.projects {
+				margin: 3rem 0;
+			}
+			.project-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+				gap: 1.5rem;
+				margin-top: 1.5rem;
+			}
+			.project-card {
+				border: 1px solid var(--border);
+				border-radius: 12px;
+				padding: 1.5rem;
+				transition: transform 0.2s, box-shadow 0.2s;
+			}
+			.project-card:hover {
+				transform: translateY(-4px);
+				box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+			}
+			.project-card h3 {
+				margin-top: 0;
+				font-size: 1.3rem;
+			}
+			.tag {
+				display: inline-block;
+				background: var(--accent);
+				color: white;
+				padding: 0.2rem 0.6rem;
+				border-radius: 20px;
+				font-size: 0.8rem;
+				margin-right: 0.4rem;
+				margin-top: 0.5rem;
+			}
+			.latest-posts {
+				margin: 3rem 0;
+			}
+		</style>
+	</body>
+</html>

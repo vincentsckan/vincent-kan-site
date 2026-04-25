@@ -1,0 +1,128 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import { SITE_TITLE } from '../../consts';
+---
+
+<!doctype html>
+<html lang="zh-HK">
+	<head>
+		<BaseHead title={`Projects — ${SITE_TITLE}`} description="Vincent Kan 嘅 Projects" />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>📂 Projects</h1>
+			<p>我整過嘅 projects，有啲仲 active 緊。</p>
+
+			<div class="project-list">
+				<article class="project-card">
+					<div class="card-header">
+						<h2>🤖 Robot Key — AI 助手</h2>
+						<span class="status active">Active</span>
+					</div>
+					<p>個人 AI 助手，7x24 運行，幫手處理日常 tasks、自動 monitoring、UFO 資訊追蹤。支援 Telegram 同 WhatsApp 雙通道。</p>
+					<div class="tags">
+						<span class="tag">AI</span>
+						<span class="tag">Automation</span>
+						<span class="tag">Python/Node</span>
+					</div>
+				</article>
+
+				<article class="project-card">
+					<div class="card-header">
+						<h2>🛸 UAP 簡報系統</h2>
+						<span class="status active">Active</span>
+					</div>
+					<p>自動定時搜集全球 UFO/UAP 新聞，使用 AI 整合分析，每小時推送簡報去 WhatsApp/Telegram。涵蓋 Tier 1-3 新聞來源。</p>
+					<div class="tags">
+						<span class="tag">Data Pipeline</span>
+						<span class="tag">AI</span>
+						<span class="tag">Automation</span>
+					</div>
+				</article>
+
+				<article class="project-card">
+					<div class="card-header">
+						<h2>🌐 Vincent Site</h2>
+						<span class="status active">Active</span>
+					</div>
+					<p>呢個網站就係用 Astro 搭建嘅 personal blog + showcase site。快、靚、正。</p>
+					<div class="tags">
+						<span class="tag">Astro</span>
+						<span class="tag">Web Dev</span>
+						<span class="tag">Static Site</span>
+					</div>
+				</article>
+
+				<article class="project-card">
+					<div class="card-header">
+						<h2>⏳ More coming soon...</h2>
+						<span class="status draft">Draft</span>
+					</div>
+					<p>更多 project 準備緊，敬請期待！</p>
+				</article>
+			</div>
+		</main>
+		<Footer />
+
+		<style>
+			h1 {
+				margin-bottom: 0.5rem;
+			}
+			.project-list {
+				display: flex;
+				flex-direction: column;
+				gap: 1.5rem;
+				margin-top: 2rem;
+			}
+			.project-card {
+				border: 1px solid var(--border);
+				border-radius: 12px;
+				padding: 1.5rem;
+				transition: transform 0.2s, box-shadow 0.2s;
+			}
+			.project-card:hover {
+				transform: translateY(-2px);
+				box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+			}
+			.card-header {
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				margin-bottom: 0.5rem;
+			}
+			.card-header h2 {
+				margin: 0;
+				font-size: 1.3rem;
+			}
+			.status {
+				font-size: 0.8rem;
+				padding: 0.2rem 0.6rem;
+				border-radius: 20px;
+				font-weight: 600;
+			}
+			.status.active {
+				background: #d4edda;
+				color: #155724;
+			}
+			.status.draft {
+				background: #fff3cd;
+				color: #856404;
+			}
+			.tags {
+				margin-top: 0.8rem;
+			}
+			.tag {
+				display: inline-block;
+				background: var(--accent);
+				color: white;
+				padding: 0.2rem 0.6rem;
+				border-radius: 20px;
+				font-size: 0.8rem;
+				margin-right: 0.4rem;
+			}
+		</style>
+	</body>
+</html>

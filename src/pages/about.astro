@@ -1,0 +1,68 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="zh-HK">
+	<head>
+		<BaseHead title={`About — ${SITE_TITLE}`} description="關於 Vincent Kan" />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>👤 About Me</h1>
+
+			<section class="bio">
+				<h2>Vincent Kan</h2>
+				<p class="location">📍 香港</p>
+				<p>
+					科技愛好者，AI 玩家，UFO/UAP 研究愛好者。
+					鍾意探索新科技，整 automation tools 令生活更方便。
+				</p>
+			</section>
+
+			<section class="interests">
+				<h2>🔭 興趣</h2>
+				<ul>
+					<li><strong>AI & Automation</strong> — LLM, AI Agents, 自動化流程</li>
+					<li><strong>🛸 UFO/UAP</strong> — 追蹤全球 UAP 新聞同研究</li>
+					<li><strong>💻 Web Dev</strong> — Astro, React, 靜態網站</li>
+					<li><strong>🔧 Linux</strong> — Server management, DevOps</li>
+				</ul>
+			</section>
+
+			<section class="contact">
+				<h2>📬 聯絡我</h2>
+				<p>經 Telegram 或 WhatsApp 搵我最方便 😅</p>
+			</section>
+		</main>
+		<Footer />
+
+		<style>
+			.bio {
+				margin: 2rem 0;
+			}
+			.location {
+				color: var(--gray);
+				font-size: 1rem;
+			}
+			.interests ul {
+				list-style: none;
+				padding: 0;
+			}
+			.interests li {
+				padding: 0.5rem 0;
+				border-bottom: 1px solid var(--border);
+			}
+			.interests li:last-child {
+				border-bottom: none;
+			}
+			.contact {
+				margin: 2rem 0;
+			}
+		</style>
+	</body>
+</html>
