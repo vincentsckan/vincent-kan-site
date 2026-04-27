@@ -6,7 +6,8 @@ import { defineConfig, fontProviders } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://zo-workspace.tail4db885.ts.net',
+  site: 'https://vincentsckan.github.io',
+  base: '/vincent-kan-site',
 
   integrations: [mdx(), sitemap()],
   fonts: [
