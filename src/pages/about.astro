@@ -5,64 +5,80 @@ import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
 ---
 
-<!doctype html>
+<!DOCTYPE html>
 <html lang="zh-HK">
-	<head>
-		<BaseHead title={`About — ${SITE_TITLE}`} description="關於 Vincent Kan" />
-	</head>
-	<body>
-		<Header />
-		<main>
-			<h1>👤 About Me</h1>
+  <head>
+    <BaseHead title={`About — ${SITE_TITLE}`} description="About Vincent Kan" />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <article class="about-page">
+        <header class="page-header">
+          <h1>About</h1>
+        </header>
 
-			<section class="bio">
-				<h2>Vincent Kan</h2>
-				<p class="location">📍 香港</p>
-				<p>
-					科技愛好者，AI 玩家，UFO/UAP 研究愛好者。
-					鍾意探索新科技，整 automation tools 令生活更方便。
-				</p>
-			</section>
+        <div class="about-layout">
+          <div class="about-main">
+            <h2>Vincent Kan</h2>
+            <p class="about-location">📍 Hong Kong</p>
+            <div class="about-bio">
+              <p>科技愛好者，AI 玩家，UFO/UAP 研究愛好者。鍾意探索新科技，整 automation tools 令生活更方便。</p>
+              <p>相信 transparency 係推動 UAP 披露嘅關鍵。目前研究緊 AI agent automation 同全球 UFO 新聞監測系統。</p>
+            </div>
+            <div class="about-contact">
+              <span class="skill-badge">vincentsc.kan@gmail.com</span>
+              <span class="skill-badge">Telegram / WhatsApp</span>
+            </div>
+          </div>
+          <aside class="about-sidebar">
+            <div class="card">
+              <h3>Interests</h3>
+              <ul class="interest-list">
+                <li><strong>AI & Automation</strong> — LLM, AI Agents</li>
+                <li><strong>UFO/UAP</strong> — 全球新聞追蹤</li>
+                <li><strong>Web Dev</strong> — Astro, React</li>
+                <li><strong>Linux</strong> — Server infra, DevOps</li>
+                <li><strong>Data</strong> — Pipeline, scraping</li>
+              </ul>
+            </div>
+          </aside>
+        </div>
+      </article>
+    </main>
+    <Footer />
 
-			<section class="interests">
-				<h2>🔭 興趣</h2>
-				<ul>
-					<li><strong>AI & Automation</strong> — LLM, AI Agents, 自動化流程</li>
-					<li><strong>🛸 UFO/UAP</strong> — 追蹤全球 UAP 新聞同研究</li>
-					<li><strong>💻 Web Dev</strong> — Astro, React, 靜態網站</li>
-					<li><strong>🔧 Linux</strong> — Server management, DevOps</li>
-				</ul>
-			</section>
+    <style>
+      .page-header { margin-bottom: 2.5rem; }
+      .page-header h1 { font-size: 2rem; }
 
-			<section class="contact">
-				<h2>📬 聯絡我</h2>
-				<p>經 Telegram 或 WhatsApp 搵我最方便 😅</p>
-			</section>
-		</main>
-		<Footer />
+      .about-layout {
+        display: grid;
+        grid-template-columns: 1.4fr 1fr;
+        gap: 2rem;
+        align-items: start;
+      }
+      .about-main h2 { font-size: 1.6rem; margin-bottom: 0.25rem; }
+      .about-location { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1.2rem; }
+      .about-bio p { margin-bottom: 0.75rem; font-size: 0.95rem; }
+      .about-contact { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.5rem; }
+      .about-sidebar h3 { font-size: 1rem; margin-bottom: 1rem; }
+      .interest-list {
+        list-style: none;
+        padding: 0;
+      }
+      .interest-list li {
+        padding: 0.5rem 0;
+        font-size: 0.88rem;
+        border-bottom: 1px solid var(--border);
+        color: var(--text-secondary);
+      }
+      .interest-list li:last-child { border-bottom: none; }
+      .interest-list li strong { color: var(--text); }
 
-		<style>
-			.bio {
-				margin: 2rem 0;
-			}
-			.location {
-				color: var(--gray);
-				font-size: 1rem;
-			}
-			.interests ul {
-				list-style: none;
-				padding: 0;
-			}
-			.interests li {
-				padding: 0.5rem 0;
-				border-bottom: 1px solid var(--border);
-			}
-			.interests li:last-child {
-				border-bottom: none;
-			}
-			.contact {
-				margin: 2rem 0;
-			}
-		</style>
-	</body>
+      @media (max-width: 768px) {
+        .about-layout { grid-template-columns: 1fr; }
+      }
+    </style>
+  </body>
 </html>
