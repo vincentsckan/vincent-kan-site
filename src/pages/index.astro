@@ -40,6 +40,70 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
   50% { opacity: 0.08; }
   100% { transform: translateX(200%) rotate(5deg); opacity: 0; }
 }
+/* Animation element classes */
+.hero-stars {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+.star {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  background: #fff;
+  border-radius: 50%;
+  animation: twinkle var(--dur, 3s) ease-in-out infinite;
+  animation-delay: var(--delay, 0s);
+}
+.star.big { width: 4px; height: 4px; }
+.star.dim { opacity: 0.1; }
+.shooting-star {
+  position: absolute;
+  width: 2px;
+  height: 80px;
+  background: linear-gradient(to bottom, transparent, rgba(180, 200, 255, 0.6));
+  opacity: 0;
+  animation: fall var(--dur, 8s) linear infinite;
+  animation-delay: var(--delay, 0s);
+  top: 0;
+  transform: rotate(15deg);
+}
+.ufo-orb {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 30% 30%, #7dd3fc, #06b6d4);
+  box-shadow: 0 0 20px 8px rgba(6, 182, 212, 0.3), 0 0 40px 16px rgba(6, 182, 212, 0.1);
+  opacity: 0;
+  animation: floatUFO var(--dur, 25s) linear infinite;
+  animation-delay: var(--delay, 0s);
+}
+.ufo-orb:nth-child(2) {
+  width: 6px;
+  height: 6px;
+  background: radial-gradient(circle at 30% 30%, #f0abfc, #c026d3);
+  box-shadow: 0 0 15px 6px rgba(192, 38, 211, 0.3), 0 0 30px 12px rgba(192, 38, 211, 0.1);
+  animation: floatUFO2 var(--dur, 35s) linear infinite;
+  animation-delay: var(--delay, 0s);
+}
+.aurora-bar {
+  position: absolute;
+  width: 100%;
+  height: 200px;
+  top: 30%;
+  background: linear-gradient(90deg, transparent, rgba(6, 182, 212, 0.04) 20%, rgba(59, 130, 246, 0.06) 50%, rgba(6, 182, 212, 0.04) 80%, transparent);
+  filter: blur(40px);
+  animation: aurora 12s ease-in-out infinite;
+}
+.aurora-bar:nth-child(2) {
+  top: 55%;
+  background: linear-gradient(90deg, transparent, rgba(192, 38, 211, 0.03) 20%, rgba(59, 130, 246, 0.05) 50%, rgba(192, 38, 211, 0.03) 80%, transparent);
+  animation-duration: 18s;
+  animation-delay: -3s;
+}
     </style>
   <body>
     <Header />
@@ -292,101 +356,6 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
         z-index: 1;
       }
 
-      /* ===== CSS-only Sci-Fi Animated Stars ===== */
-      .hero-stars {
-        position: absolute;
-        inset: 0;
-        z-index: 0;
-        overflow: hidden;
-        pointer-events: none;
-      }
-      @keyframes twinkle {
-        0%, 100% { opacity: 0.15; transform: scale(0.8); }
-        50% { opacity: 0.8; transform: scale(1.2); }
-      }
-      @keyframes fall {
-        0% { transform: translateY(-100vh); opacity: 0; }
-        10% { opacity: 0.6; }
-        90% { opacity: 0.6; }
-        100% { transform: translateY(100vh); opacity: 0; }
-      }
-      @keyframes floatUFO {
-        0% { transform: translate(100vw, 20vh) scale(1); opacity: 0; }
-        10% { opacity: 0.5; }
-        50% { opacity: 0.7; }
-        90% { opacity: 0.5; }
-        100% { transform: translate(-10vw, 50vh) scale(1.2); opacity: 0; }
-      }
-      @keyframes floatUFO2 {
-        0% { transform: translate(50vw, -10vh) scale(0.8); opacity: 0; }
-        10% { opacity: 0.4; }
-        50% { opacity: 0.6; }
-        90% { opacity: 0.4; }
-        100% { transform: translate(-20vw, 80vh) scale(1.1); opacity: 0; }
-      }
-      @keyframes aurora {
-        0% { transform: translateX(-100%) rotate(0deg); opacity: 0.03; }
-        50% { opacity: 0.08; }
-        100% { transform: translateX(200%) rotate(5deg); opacity: 0; }
-      }
-      .star {
-        position: absolute;
-        width: 3px;
-        height: 3px;
-        background: #fff;
-        border-radius: 50%;
-        animation: twinkle var(--dur, 3s) ease-in-out infinite;
-        animation-delay: var(--delay, 0s);
-        top: var(--top, 0);
-        left: var(--left, 0);
-      }
-      .star.big { width: 4px; height: 4px; }
-      .star.dim { opacity: 0.1; }
-      .shooting-star {
-        position: absolute;
-        width: 2px;
-        height: 80px;
-        background: linear-gradient(to bottom, transparent, rgba(180, 200, 255, 0.6));
-        animation: fall var(--dur, 8s) linear infinite;
-        animation-delay: var(--delay, 0s);
-        top: 0;
-        left: var(--left, 10vw);
-        transform: rotate(15deg);
-        opacity: 0;
-      }
-      .ufo-orb {
-        position: absolute;
-        width: 8px;
-        height: 8px;
-        border-radius: 50%;
-        background: radial-gradient(circle at 30% 30%, #7dd3fc, #06b6d4);
-        box-shadow: 0 0 20px 8px rgba(6, 182, 212, 0.3), 0 0 40px 16px rgba(6, 182, 212, 0.1);
-        animation: floatUFO var(--dur, 25s) linear infinite;
-        animation-delay: var(--delay, 0s);
-      }
-      .ufo-orb:nth-child(2) {
-        width: 6px;
-        height: 6px;
-        background: radial-gradient(circle at 30% 30%, #f0abfc, #c026d3);
-        box-shadow: 0 0 15px 6px rgba(192, 38, 211, 0.3), 0 0 30px 12px rgba(192, 38, 211, 0.1);
-        animation: floatUFO2 var(--dur, 35s) linear infinite;
-        animation-delay: var(--delay, -8s);
-      }
-      .aurora-bar {
-        position: absolute;
-        width: 100%;
-        height: 200px;
-        top: 30%;
-        background: linear-gradient(90deg, transparent, rgba(6, 182, 212, 0.04) 20%, rgba(59, 130, 246, 0.06) 50%, rgba(6, 182, 212, 0.04) 80%, transparent);
-        filter: blur(40px);
-        animation: aurora 12s ease-in-out infinite;
-      }
-      .aurora-bar:nth-child(2) {
-        top: 55%;
-        background: linear-gradient(90deg, transparent, rgba(192, 38, 211, 0.03) 20%, rgba(59, 130, 246, 0.05) 50%, rgba(192, 38, 211, 0.03) 80%, transparent);
-        animation-duration: 18s;
-        animation-delay: -3s;
-      }
 
       .hero::before {
         content: '';
