@@ -229,14 +229,23 @@ const featuredUAP = uapPosts.slice(1, 4);
 
       /* ===== RESPONSIVE ===== */
       @media(max-width: 700px) {
-        .featured { grid-template-columns: 1fr; }
+        .featured { grid-template-columns: 1fr; gap: 0.75rem; }
+        .featured-main h2 { font-size: 1rem; }
+        .featured-main p { -webkit-line-clamp: 2; }
         .uap-grid { grid-template-columns: 1fr; }
-        .domains { grid-template-columns: repeat(2, 1fr); }
+        .domains { grid-template-columns: repeat(2, 1fr); gap: 0.5rem; }
+        .breaking { padding: 0.5rem 0.75rem; margin-top: 0.5rem; }
+        .breaking-title { font-size: 0.78rem; white-space: normal; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+        .section-hd h2 { font-size: 1rem; }
       }
       @media(max-width: 480px) {
-        .home-wrap { padding: 0 0.75rem; }
-        .featured-main-top { padding: 1rem; }
-        .breaking-title { white-space: normal; }
+        .home-wrap { padding: 0 0.65rem; }
+        .featured-main-top { padding: 0.85rem; }
+        .featured-main-footer { padding: 0.5rem 0.85rem; font-size: 0.65rem; }
+        .uap-card { padding: 0.8rem; }
+        .domain-item { padding: 0.7rem 0.5rem; }
+        .domain-icon { font-size: 1rem; }
+        .feed-item { padding: 0.6rem 0; }
       }
     </style>
   </head>
