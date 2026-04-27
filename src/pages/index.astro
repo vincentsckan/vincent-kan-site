@@ -9,9 +9,10 @@ import { getCollection } from 'astro:content';
 const posts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
-const latest = posts.slice(0, 5);
 const uapPosts = posts.filter(p => p.id.startsWith('ufo-')).slice(0, 6);
-const otherPosts = posts.filter(p => !p.id.startsWith('ufo-'));
+const otherPosts = posts.filter(p => !p.id.startsWith('ufo-')).slice(0, 4);
+const latestUAP = uapPosts[0];
+const featuredUAP = uapPosts.slice(1, 4);
 ---
 
 <!DOCTYPE html>
@@ -19,464 +20,354 @@ const otherPosts = posts.filter(p => !p.id.startsWith('ufo-'));
   <head>
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
     <style is:inline>
-      @keyframes twinkle {
-        0%,100%{ opacity: 0.08; transform: scale(.8) }
-        50%{ opacity: .6; transform: scale(1.3) }
-      }
-      @keyframes scanline {
-        0%{ transform: translateY(-100%) }
-        100%{ transform: translateY(100vh) }
-      }
-      @keyframes pulseGlow {
-        0%,100%{ box-shadow: 0 0 15px rgba(0,229,255,0.3) }
-        50%{ box-shadow: 0 0 35px rgba(0,229,255,0.6) }
-      }
-      @keyframes radarPulse {
-        0%{ box-shadow: 0 0 0 0 rgba(0,229,255,0.4) }
-        100%{ box-shadow: 0 0 0 30px rgba(0,229,255,0) }
-      }
-      @keyframes slideRight {
-        0%{ transform: translateX(-100%); opacity: 0 }
-        100%{ transform: translateX(0); opacity: 1 }
-      }
-      @keyframes fadeUp {
-        0%{ transform: translateY(20px); opacity: 0 }
-        100%{ transform: translateY(0); opacity: 1 }
-      }
+@keyframes fadeIn { 0%{opacity:0} 100%{opacity:1} }
+@keyframes slideUp { 0%{transform:translateY(15px);opacity:0} 100%{transform:translateY(0);opacity:1} }
+@keyframes pulseDot { 0%,100%{opacity:1} 50%{opacity:0.3} }
+@keyframes radarRing { 0%{transform:scale(.5);opacity:.6} 100%{transform:scale(2.5);opacity:0} }
+@keyframes glowPulse { 0%,100%{box-shadow:0 0 8px rgba(0,229,255,0.2)} 50%{box-shadow:0 0 25px rgba(0,229,255,0.4)} }
     </style>
     <style>
-      hr{ border: none; border-top: 1px solid var(--border); margin: 2.5rem 0 }
+      /* ===== LAYOUT ===== */
+      .home-wrap { max-width: 860px; margin: 0 auto; padding: 0 1.5rem; }
       
-      /* ===== BANNER ===== */
-      .banner {
-        position: relative;
-        width: 100%;
-        min-height: 280px;
-        background: linear-gradient(135deg, #0a0a2e 0%, #060618 40%, #0a0a2e 100%);
-        border: 1px solid var(--border);
-        border-radius: var(--radius);
-        overflow: hidden;
-        margin-bottom: 1.5rem;
-        display: flex;
-        align-items: center;
-      }
-      .banner-grid {
-        position: absolute;
-        inset: 0;
-        background-image: 
-          linear-gradient(rgba(0,229,255,0.03) 1px, transparent 1px),
-          linear-gradient(90deg, rgba(0,229,255,0.03) 1px, transparent 1px);
-        background-size: 40px 40px;
-      }
-      .banner-radar {
-        position: absolute;
-        width: 100px;
-        height: 100px;
-        border-radius: 50%;
-        border: 2px solid rgba(0,229,255,0.15);
-        top: 50%;
-        left: 15%;
-        transform: translate(-50%,-50%);
-        animation: radarPulse 3s ease-out infinite;
-      }
-      .banner-radar:nth-child(2) {
-        left: 25%;
-        animation-delay: 1s;
-        width: 70px;
-        height: 70px;
-      }
-      .banner-radar:nth-child(3) {
-        left: 35%;
-        animation-delay: 2s;
-        width: 50px;
-        height: 50px;
-      }
-      .banner-content {
-        position: relative;
-        z-index: 2;
-        padding: 2rem 2.5rem;
-        flex: 1;
-      }
-      .banner-label {
-        font-family: 'SF Mono', monospace;
-        font-size: 0.7rem;
-        color: var(--neon-cyan);
-        letter-spacing: 0.15em;
-        margin-bottom: 0.4rem;
-        display: flex;
-        align-items: center;
-        gap: 0.5rem;
-      }
-      .banner-dot {
-        width: 6px;
-        height: 6px;
-        background: #22c55e;
-        border-radius: 50%;
-        animation: pulseGlow 2s infinite;
-      }
-      .banner h2 {
-        font-size: 1.3rem;
-        font-weight: 700;
-        margin-bottom: 0.3rem;
-      }
-      .banner p {
-        font-size: 0.85rem;
-        color: var(--text-secondary);
-        margin-bottom: 0;
-      }
-      .banner-stats {
-        display: flex;
-        gap: 1.5rem;
-        margin-top: 1rem;
-        flex-wrap: wrap;
-      }
-      .banner-stat {
-        text-align: center;
-      }
-      .banner-stat-num {
-        font-size: 1.5rem;
-        font-weight: 700;
-        font-family: 'SF Mono', monospace;
-        color: var(--neon-cyan);
-      }
-      .banner-stat-label {
-        font-size: 0.65rem;
-        font-family: 'SF Mono', monospace;
-        color: var(--text-muted);
-        letter-spacing: 0.05em;
-      }
-      .banner-aside {
-        position: relative;
-        z-index: 2;
-        padding: 2rem 2.5rem 2rem 0;
-        text-align: right;
-        flex-shrink: 0;
-      }
-      .banner-badge {
-        display: inline-flex;
-        align-items: center;
-        gap: 0.5rem;
-        font-family: 'SF Mono', monospace;
-        font-size: 0.7rem;
-        padding: 0.35rem 0.8rem;
+      /* ===== BREAKING BANNER ===== */
+      .breaking {
+        display: flex; gap: 0.75rem; align-items: center;
+        padding: 0.7rem 1rem;
+        border: 1px solid rgba(239,68,68,0.15);
         border-radius: var(--radius-sm);
-        border: 1px solid rgba(0,229,255,0.2);
-        background: rgba(0,229,255,0.05);
-        color: var(--neon-cyan);
-        text-decoration: none;
+        background: rgba(239,68,68,0.04);
+        margin-bottom: 1.5rem; margin-top: 1rem;
+        text-decoration: none; color: inherit;
         transition: all 0.2s;
+        animation: slideUp 0.6s ease both;
       }
-      .banner-badge:hover {
-        background: rgba(0,229,255,0.1);
-        border-color: var(--neon-cyan);
-      }
+      .breaking:hover { border-color: rgba(239,68,68,0.3); }
+      .breaking-dot { width: 8px; height: 8px; background: #ef4444; border-radius: 50%; flex-shrink: 0; animation: pulseDot 1.5s infinite; }
+      .breaking-label { font-family:'SF Mono',monospace; font-size:0.68rem; color:#ef4444; font-weight:600; letter-spacing:0.05em; flex-shrink:0; }
+      .breaking-title { font-size:0.85rem; font-weight:500; flex:1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+      .breaking-arrow { flex-shrink:0; font-size:0.75rem; color:var(--text-muted); }
 
-      /* ===== MAIN LAYOUT ===== */
-      .home-layout {
-        max-width: 900px;
-        margin: 0 auto;
-        padding: 2rem 1.5rem 4rem;
+      /* ===== HERO FEATURED ===== */
+      .featured {
+        display: grid; grid-template-columns: 1.4fr 1fr; gap: 1rem;
+        margin-bottom: 2.5rem;
+        animation: slideUp 0.5s ease both;
+        animation-delay: 0.1s;
       }
-
-      /* ===== LATEST UAP ===== */
-      .section-label {
-        font-family: 'SF Mono', monospace;
-        font-size: 0.7rem;
-        color: var(--neon-cyan);
-        letter-spacing: 0.1em;
-        text-transform: uppercase;
-        margin-bottom: 0.25rem;
-      }
-      .section-head {
-        display: flex;
-        align-items: flex-end;
-        justify-content: space-between;
-        margin-bottom: 1.25rem;
-        gap: 0.5rem;
-      }
-      .section-head h2 {
-        font-size: 1.3rem;
-        font-weight: 700;
-      }
-      .section-head a {
-        font-size: 0.82rem;
-        color: var(--text-muted);
-        font-family: 'SF Mono', monospace;
-        text-decoration: none;
-        flex-shrink: 0;
-      }
-      .section-head a:hover { color: var(--neon-cyan); }
-
-      /* UAP articles grid */
-      .uap-grid {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 1rem;
-        margin-bottom: 2rem;
-      }
-      .uap-card {
-        display: flex;
-        flex-direction: column;
+      .featured-main {
+        position: relative;
         background: var(--bg-card);
         border: 1px solid var(--border);
         border-radius: var(--radius);
         overflow: hidden;
-        text-decoration: none;
-        color: inherit;
+        text-decoration: none; color: inherit;
         transition: all 0.3s;
-        animation: fadeUp 0.5s ease both;
+        display: flex; flex-direction: column;
       }
-      .uap-card:nth-child(2) { animation-delay: 0.08s; }
-      .uap-card:nth-child(3) { animation-delay: 0.16s; }
-      .uap-card:nth-child(4) { animation-delay: 0.24s; }
-      .uap-card:nth-child(5) { animation-delay: 0.32s; }
-      .uap-card:nth-child(6) { animation-delay: 0.4s; }
-      .uap-card:hover {
+      .featured-main:hover {
         border-color: var(--neon-cyan);
         box-shadow: 0 0 20px rgba(0,229,255,0.04);
-        transform: translateY(-2px);
       }
-      .uap-card-body {
-        padding: 1rem 1.25rem;
+      .featured-main-top {
+        padding: 1.5rem 1.5rem 1rem;
         flex: 1;
       }
-      .uap-card-meta {
-        font-family: 'SF Mono', monospace;
-        font-size: 0.68rem;
-        color: var(--text-muted);
-        margin-bottom: 0.3rem;
-        display: flex;
-        align-items: center;
-        gap: 0.5rem;
-      }
-      .uap-card-meta .tag-uap {
+      .featured-tag {
+        display: inline-block;
+        font-family:'SF Mono',monospace; font-size:0.62rem;
+        padding: 0.2rem 0.5rem;
+        border-radius: 4px;
+        background: rgba(0,229,255,0.08);
         color: var(--neon-cyan);
-        font-weight: 600;
+        letter-spacing: 0.05em;
+        margin-bottom: 0.6rem;
       }
-      .uap-card h3 {
-        font-size: 0.92rem;
-        font-weight: 600;
-        margin-bottom: 0.25rem;
-        line-height: 1.35;
+      .featured-main h2 {
+        font-size: 1.15rem; font-weight: 700;
+        margin-bottom: 0.4rem;
+        line-height: 1.3;
       }
-      .uap-card p {
-        font-size: 0.8rem;
-        color: var(--text-secondary);
-        margin: 0;
+      .featured-main p {
+        font-size: 0.82rem; color: var(--text-secondary);
+        margin: 0 0 0.8rem;
+        line-height: 1.5;
         display: -webkit-box;
-        -webkit-line-clamp: 2;
+        -webkit-line-clamp: 3;
         -webkit-box-orient: vertical;
         overflow: hidden;
-        line-height: 1.5;
       }
-      .uap-card-footer {
-        padding: 0.6rem 1.25rem;
+      .featured-main-footer {
+        padding: 0.7rem 1.5rem;
         border-top: 1px solid var(--border);
-        font-size: 0.75rem;
-        font-family: 'SF Mono', monospace;
+        display: flex; justify-content: space-between;
+        font-size: 0.72rem; font-family:'SF Mono',monospace;
         color: var(--text-muted);
-        display: flex;
-        justify-content: space-between;
       }
+      .featured-side {
+        display: flex; flex-direction: column; gap: 0.75rem;
+      }
+      .featured-side-item {
+        display: flex; gap: 0.75rem;
+        padding: 1rem;
+        background: var(--bg-card);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-sm);
+        text-decoration: none; color: inherit;
+        transition: all 0.2s;
+        flex: 1;
+      }
+      .featured-side-item:hover {
+        border-color: var(--neon-cyan);
+      }
+      .featured-side-icon { font-size: 1rem; margin-top: 0.1rem; }
+      .featured-side-body { flex: 1; min-width: 0; }
+      .featured-side-body h3 { font-size: 0.82rem; font-weight: 600; margin-bottom: 0.1rem; }
+      .featured-side-body p { font-size: 0.72rem; color: var(--text-muted); margin: 0; }
+      .featured-side-meta { font-size: 0.62rem; font-family:'SF Mono',monospace; color: var(--text-muted); }
+
+      /* ===== SECTION HEADERS ===== */
+      .section-hd {
+        display: flex; align-items: center; justify-content: space-between;
+        margin-bottom: 1rem;
+        animation: slideUp 0.4s ease both;
+        animation-delay: 0.2s;
+      }
+      .section-hd-left { display: flex; align-items: center; gap: 0.6rem; }
+      .section-hd-acc {
+        font-family:'SF Mono',monospace; font-size:0.65rem;
+        color: var(--neon-cyan); letter-spacing:0.08em;
+        padding: 0.15rem 0.4rem;
+        border: 1px solid rgba(0,229,255,0.15);
+        border-radius: 4px;
+      }
+      .section-hd h2 { font-size: 1.15rem; font-weight: 700; }
+      .section-hd a { font-size: 0.78rem; color: var(--text-muted); font-family:'SF Mono',monospace; }
+      .section-hd a:hover { color: var(--neon-cyan); }
+
+      /* ===== UAP GRID ===== */
+      .uap-grid {
+        display: grid; grid-template-columns: 1fr 1fr; gap: 0.85rem;
+        margin-bottom: 2.5rem;
+      }
+      .uap-card {
+        padding: 1rem 1.2rem;
+        background: var(--bg-card);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-sm);
+        text-decoration: none; color: inherit;
+        transition: all 0.25s;
+        animation: slideUp 0.4s ease both;
+      }
+      .uap-card:nth-child(1) { animation-delay: 0.05s; }
+      .uap-card:nth-child(2) { animation-delay: 0.1s; }
+      .uap-card:nth-child(3) { animation-delay: 0.15s; }
+      .uap-card:nth-child(4) { animation-delay: 0.2s; }
+      .uap-card:hover {
+        border-color: var(--neon-cyan);
+        box-shadow: 0 0 15px rgba(0,229,255,0.03);
+        transform: translateY(-1px);
+      }
+      .uap-card-meta {
+        font-family:'SF Mono',monospace; font-size:0.62rem;
+        color: var(--text-muted); margin-bottom: 0.25rem;
+        display: flex; gap: 0.4rem;
+      }
+      .uap-card-meta .uap-tag { color: var(--neon-cyan); font-weight: 600; }
+      .uap-card h3 { font-size: 0.88rem; font-weight: 600; margin-bottom: 0.2rem; }
+      .uap-card p { font-size: 0.76rem; color: var(--text-secondary); margin: 0;
+        display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 
       /* ===== FEED ===== */
       .feed { margin-bottom: 2.5rem; }
       .feed-item {
-        display: flex;
-        gap: 1rem;
-        padding: 0.9rem 0;
+        display: flex; gap: 0.85rem; padding: 0.8rem 0;
         border-bottom: 1px solid var(--border);
-        text-decoration: none;
-        color: inherit;
+        text-decoration: none; color: inherit;
         transition: all 0.2s;
-        animation: slideRight 0.4s ease both;
+        animation: fadeIn 0.5s ease both;
       }
-      .feed-item:nth-child(2) { animation-delay: 0.05s; }
-      .feed-item:nth-child(3) { animation-delay: 0.1s; }
-      .feed-item:nth-child(4) { animation-delay: 0.15s; }
-      .feed-item:nth-child(5) { animation-delay: 0.2s; }
+      .feed-item:last-child { border-bottom: none; }
       .feed-item:hover { opacity: 0.85; }
       .feed-item:hover h3 { color: var(--neon-cyan); }
-      .feed-item:last-child { border-bottom: none; }
       .feed-icon {
-        flex-shrink: 0;
-        width: 32px; height: 32px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        flex-shrink: 0; width: 28px; height: 28px;
+        display: flex; align-items: center; justify-content: center;
         background: rgba(0,229,255,0.04);
         border: 1px solid var(--border);
         border-radius: 50%;
-        font-size: 0.85rem;
+        font-size: 0.75rem;
       }
       .feed-body { flex: 1; min-width: 0; }
-      .feed-meta {
-        font-family: 'SF Mono', monospace;
-        font-size: 0.68rem;
-        color: var(--text-muted);
-        margin-bottom: 0.1rem;
-        display: flex;
-        gap: 0.4rem;
-      }
-      .feed-meta .tag-tech { color: var(--neon-purple); font-weight: 600; }
-      .feed-body h3 { font-size: 0.9rem; font-weight: 600; margin: 0 0 0.1rem; transition: color 0.2s; }
-      .feed-body p { font-size: 0.8rem; color: var(--text-secondary); margin: 0; }
-      .feed-time { flex-shrink: 0; font-size: 0.68rem; font-family: 'SF Mono', monospace; color: var(--text-muted); }
+      .feed-meta { font-family:'SF Mono',monospace; font-size:0.65rem; color:var(--text-muted); margin-bottom:0.05rem; }
+      .feed-body h3 { font-size:0.85rem; font-weight:600; margin:0; transition:color 0.2s; }
+      .feed-body p { font-size:0.76rem; color:var(--text-secondary); margin:0.1rem 0 0; }
+      .feed-time { flex-shrink:0; font-size:0.62rem; font-family:'SF Mono',monospace; color:var(--text-muted); }
 
-      /* ===== QUICK LINKS ===== */
-      .quick-links {
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        gap: 0.75rem;
-        margin-bottom: 3rem;
+      /* ===== DOMAINS ===== */
+      .domains {
+        display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.75rem;
+        margin-bottom: 2rem;
       }
-      .quick-link {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 0.25rem;
-        padding: 1rem 0.5rem;
+      .domain-item {
+        padding: 1rem 0.75rem;
         background: var(--bg-card);
         border: 1px solid var(--border);
-        border-radius: var(--radius);
-        text-decoration: none;
-        color: inherit;
+        border-radius: var(--radius-sm);
+        text-align: center;
+        text-decoration: none; color: inherit;
         transition: all 0.2s;
+        animation: slideUp 0.4s ease both;
       }
-      .quick-link:hover {
-        border-color: var(--neon-cyan);
-        box-shadow: 0 0 15px rgba(0,229,255,0.04);
-      }
-      .quick-link-icon { font-size: 1.3rem; }
-      .quick-link-label { font-size: 0.75rem; font-weight: 500; color: var(--text-secondary); }
-      .quick-link-count { font-size: 0.68rem; font-family: 'SF Mono', monospace; color: var(--neon-cyan); }
+      .domain-item:nth-child(2) { animation-delay: 0.05s; }
+      .domain-item:nth-child(3) { animation-delay: 0.1s; }
+      .domain-item:nth-child(4) { animation-delay: 0.15s; }
+      .domain-item:hover { border-color: var(--neon-cyan); background: rgba(0,229,255,0.02); }
+      .domain-icon { font-size: 1.2rem; margin-bottom: 0.25rem; }
+      .domain-label { font-size: 0.72rem; font-weight: 500; }
+      .domain-count { font-size: 0.62rem; font-family:'SF Mono',monospace; color: var(--neon-cyan); margin-top: 0.15rem; }
 
+      /* ===== RESPONSIVE ===== */
       @media(max-width: 700px) {
+        .featured { grid-template-columns: 1fr; }
         .uap-grid { grid-template-columns: 1fr; }
-        .banner-aside { display: none; }
-        .quick-links { grid-template-columns: repeat(2, 1fr); }
+        .domains { grid-template-columns: repeat(2, 1fr); }
       }
       @media(max-width: 480px) {
-        .home-layout { padding: 1rem 0.75rem 3rem; }
-        .banner-content { padding: 1.5rem; }
+        .home-wrap { padding: 0 0.75rem; }
+        .featured-main-top { padding: 1rem; }
+        .breaking-title { white-space: normal; }
       }
     </style>
   </head>
   <body>
     <Header />
     <main>
-      <div class="home-layout">
-        <!-- ===== LIVE BANNER ===== -->
-        <div class="banner">
-          <div class="banner-grid"></div>
-          <div class="banner-radar"></div>
-          <div class="banner-radar"></div>
-          <div class="banner-radar"></div>
-          <div class="banner-content">
-            <div class="banner-label">
-              <span class="banner-dot"></span>
-              LIVE TRACKING · UFO/UAP NEWS
-            </div>
-            <h2>全球 UFO 動態監測站</h2>
-            <p>AI 自動搜集 · 每日更新 · 實時推送</p>
-            <div class="banner-stats">
-              <div class="banner-stat">
-                <div class="banner-stat-num">{posts.length}</div>
-                <div class="banner-stat-label">總文章</div>
+      <div class="home-wrap">
+        <!-- ===== BREAKING ===== -->
+        {latestUAP && (
+          <a href={`/vincent-kan-site/blog/${latestUAP.id}/`} class="breaking">
+            <span class="breaking-dot"></span>
+            <span class="breaking-label">BREAKING</span>
+            <span class="breaking-title">{latestUAP.data.title}</span>
+            <span class="breaking-arrow">→</span>
+          </a>
+        )}
+
+        <!-- ===== FEATURED ===== -->
+        <div class="featured">
+          {latestUAP ? (
+            <a href={`/vincent-kan-site/blog/${latestUAP.id}/`} class="featured-main">
+              <div class="featured-main-top">
+                <span class="featured-tag">🛸 UFO/UAP</span>
+                <h2>{latestUAP.data.title}</h2>
+                <p>{latestUAP.data.description}</p>
               </div>
-              <div class="banner-stat">
-                <div class="banner-stat-num">{uapPosts.length}</div>
-                <div class="banner-stat-label">UFO 報導</div>
+              <div class="featured-main-footer">
+                <span><FormattedDate date={latestUAP.data.pubDate} /></span>
+                <span>閱讀全文 →</span>
               </div>
-              <div class="banner-stat">
-                <div class="banner-stat-num">{latest.length > 0 ? '24h' : '0'}</div>
-                <div class="banner-stat-label">最新</div>
-              </div>
-            </div>
-          </div>
-          <div class="banner-aside">
-            <a href="/vincent-kan-site/blog" class="banner-badge">
-              <span>→</span>
-              <span>ALL POSTS</span>
             </a>
+          ) : (
+            <div class="featured-main">
+              <div class="featured-main-top">
+                <span class="featured-tag">🛸 UFO/UAP</span>
+                <h2>全球UFO/UAP新聞摘要</h2>
+                <p>AI自動搜集每日全球UFO重點新聞，涵蓋政府披露、懸案分析、國際動態。點擊查看最新消息。</p>
+              </div>
+              <div class="featured-main-footer">
+                <span>AI自動更新</span>
+              </div>
+            </div>
+          )}
+
+          <div class="featured-side">
+            {uapPosts.slice(1, 3).map(p => (
+              <a href={`/vincent-kan-site/blog/${p.id}/`} class="featured-side-item">
+                <div class="featured-side-icon">🛸</div>
+                <div class="featured-side-body">
+                  <h3>{p.data.title}</h3>
+                  <p><FormattedDate date={p.data.pubDate} /></p>
+                </div>
+              </a>
+            ))}
+            {otherPosts.slice(0, 1).map(p => (
+              <a href={`/vincent-kan-site/blog/${p.id}/`} class="featured-side-item">
+                <div class="featured-side-icon">📝</div>
+                <div class="featured-side-body">
+                  <h3>{p.data.title}</h3>
+                  <p><FormattedDate date={p.data.pubDate} /></p>
+                </div>
+              </a>
+            ))}
           </div>
         </div>
 
-        <!-- ===== QUICK LINKS ===== -->
-        <div class="quick-links">
-          <a href="/vincent-kan-site/blog" class="quick-link">
-            <div class="quick-link-icon">🛸</div>
-            <div class="quick-link-label">UFO 新聞</div>
-            <div class="quick-link-count">{uapPosts.length} 篇</div>
+        <!-- ===== DOMAINS / QUICK LINKS ===== -->
+        <div class="domains">
+          <a href="/vincent-kan-site/blog" class="domain-item">
+            <div class="domain-icon">🛸</div>
+            <div class="domain-label">UFO 新聞</div>
+            <div class="domain-count">{uapPosts.length} 篇</div>
           </a>
-          <a href="/vincent-kan-site/projects" class="quick-link">
-            <div class="quick-link-icon">⚡</div>
-            <div class="quick-link-label">Projects</div>
-            <div class="quick-link-count">3 個</div>
+          <a href="/vincent-kan-site/projects" class="domain-item">
+            <div class="domain-icon">⚡</div>
+            <div class="domain-label">Projects</div>
+            <div class="domain-count">3 個</div>
           </a>
-          <a href="/vincent-kan-site/about" class="quick-link">
-            <div class="quick-link-icon">👤</div>
-            <div class="quick-link-label">關於我</div>
-            <div class="quick-link-count">About</div>
+          <a href="/vincent-kan-site/about" class="domain-item">
+            <div class="domain-icon">👤</div>
+            <div class="domain-label">關於我</div>
+            <div class="domain-count">了解更多</div>
           </a>
-          <a href="/vincent-kan-site/blog" class="quick-link">
-            <div class="quick-link-icon">📰</div>
-            <div class="quick-link-label">所有文章</div>
-            <div class="quick-link-count">{posts.length} 篇</div>
+          <a href="/vincent-kan-site/blog" class="domain-item">
+            <div class="domain-icon">📰</div>
+            <div class="domain-label">全部文章</div>
+            <div class="domain-count">{posts.length} 篇</div>
           </a>
         </div>
 
-        <!-- ===== LATEST UFO/UAP NEWS ===== -->
-        {uapPosts.length > 0 && (
+        <!-- ===== MORE UFO NEWS ===== -->
+        {uapPosts.length > 1 && (
           <>
-            <div class="section-head">
-              <div>
-                <div class="section-label">/ LATEST UAP</div>
-                <h2>🛸 最新 UFO/UAP 消息</h2>
+            <div class="section-hd">
+              <div class="section-hd-left">
+                <span class="section-hd-acc">/UAP</span>
+                <h2>UFO 新聞總覽</h2>
               </div>
               <a href="/vincent-kan-site/blog">View all →</a>
             </div>
-
             <div class="uap-grid">
-              {uapPosts.slice(0, 4).map(p => (
+              {uapPosts.slice(1, 5).map(p => (
                 <a href={`/vincent-kan-site/blog/${p.id}/`} class="uap-card">
-                  <div class="uap-card-body">
-                    <div class="uap-card-meta">
-                      <span class="tag-uap">UFO/UAP</span>
-                      <span><FormattedDate date={p.data.pubDate} /></span>
-                    </div>
-                    <h3>{p.data.title}</h3>
-                    <p>{p.data.description}</p>
+                  <div class="uap-card-meta">
+                    <span class="uap-tag">🛸 UFO/UAP</span>
+                    <span><FormattedDate date={p.data.pubDate} /></span>
                   </div>
-                  <div class="uap-card-footer">
-                    <span>閱讀全文 →</span>
-                  </div>
+                  <h3>{p.data.title}</h3>
+                  <p>{p.data.description}</p>
                 </a>
               ))}
             </div>
           </>
         )}
 
-        <!-- ===== OTHER POSTS FEED ===== -->
+        <!-- ===== OTHER POSTS ===== -->
         {otherPosts.length > 0 && (
           <>
-            <div class="section-head" style="margin-top: 2rem">
-              <div>
-                <div class="section-label">/ BLOG</div>
-                <h2>📝 最新文章</h2>
+            <div class="section-hd">
+              <div class="section-hd-left">
+                <span class="section-hd-acc">/BLOG</span>
+                <h2>最新文章</h2>
               </div>
-              <a href="/vincent-kan-site/blog">All posts →</a>
+              <a href="/vincent-kan-site/blog">All →</a>
             </div>
-            
             <div class="feed">
-              {otherPosts.slice(0, 5).map(p => (
+              {otherPosts.slice(0, 4).map(p => (
                 <a href={`/vincent-kan-site/blog/${p.id}/`} class="feed-item">
                   <div class="feed-icon">📝</div>
                   <div class="feed-body">
-                    <div class="feed-meta">
-                      <span class="tag-tech">Blog</span>
-                      <span><FormattedDate date={p.data.pubDate} /></span>
-                    </div>
+                    <div class="feed-meta"><FormattedDate date={p.data.pubDate} /></div>
                     <h3>{p.data.title}</h3>
                     <p>{p.data.description}</p>
                   </div>
@@ -487,64 +378,9 @@ const otherPosts = posts.filter(p => !p.id.startsWith('ufo-'));
           </>
         )}
 
-        <!-- ===== STATS & FOCUS ===== -->
-        <hr>
-
-        <div class="section-head">
-          <div>
-            <div class="section-label">/ FOCUS</div>
-            <h2>🔭 三大研究領域</h2>
-          </div>
-        </div>
-
-        <div class="uap-grid">
-          <div class="uap-card" style="cursor:default">
-            <div class="uap-card-body">
-              <div style="font-size:1.5rem;margin-bottom:0.5rem">🛸</div>
-              <h3>UAP 追蹤系統</h3>
-              <p>AI 自動搜集全球 UFO/UAP 新聞，每日自動整理重點摘要，涵蓋政府披露、科學研究、案例分析</p>
-            </div>
-            <div class="uap-card-footer">
-              <span>{uapPosts.length} articles</span>
-            </div>
-          </div>
-          <div class="uap-card" style="cursor:default">
-            <div class="uap-card-body">
-              <div style="font-size:1.5rem;margin-bottom:0.5rem">🤖</div>
-              <h3>AI Automation</h3>
-              <p>7×24 自動化 agent 系統 — 資訊搜集、網站維護、數據監控，全部由 AI 驅動</p>
-            </div>
-            <div class="uap-card-footer">
-              <span>Active</span>
-            </div>
-          </div>
-          <div class="uap-card" style="cursor:default">
-            <div class="uap-card-body">
-              <div style="font-size:1.5rem;margin-bottom:0.5rem">🔬</div>
-              <h3>神秘解構</h3>
-              <p>盤點著名 UAP 案例、交叉驗證公開數據、跟進最新科學研究同分析</p>
-            </div>
-            <div class="uap-card-footer">
-              <span>Ongoing</span>
-            </div>
-          </div>
-          <div class="uap-card" style="cursor:default">
-            <div class="uap-card-body">
-              <div style="font-size:1.5rem;margin-bottom:0.5rem">🌐</div>
-              <h3>開放數據</h3>
-              <p>整理公開嘅 UFO 報告數據庫、政府文件、同可信來源，方便查閱</p>
-            </div>
-            <div class="uap-card-footer">
-              <span>Resources</span>
-            </div>
-          </div>
-        </div>
-
-        <hr>
-
         <!-- ===== FOOTER CTA ===== -->
-        <div style="text-align:center;padding:2rem 0">
-          <p style="color:var(--text-muted);font-size:0.85rem;margin-bottom:1rem">想交流 UFO 話題或者 AI 技術？</p>
+        <div style="text-align:center;padding:2.5rem 0 3rem;border-top:1px solid var(--border)">
+          <p style="color:var(--text-muted);font-size:0.82rem;margin-bottom:1rem">有興趣交流 UFO 話題或者 AI 技術？隨時搵我</p>
           <a href="/vincent-kan-site/about" class="btn btn-primary">_about_me</a>
         </div>
       </div>
