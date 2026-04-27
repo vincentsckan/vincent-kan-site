@@ -19,66 +19,90 @@ const uapPosts = posts.filter(p => p.id.startsWith('ufo-')).slice(0, 5);
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
     <style is:inline>
 @keyframes twinkle {
-  0%,100%{opacity:0.15;transform:scale(.8)}
-  50%{opacity:.8;transform:scale(1.2)}
+  0%,100%{opacity:0.08;transform:scale(.8)}
+  50%{opacity:.7;transform:scale(1.3)}
 }
 @keyframes drift {
   0%{transform:translate(100vw,10vh);opacity:0}
-  10%{opacity:.4}
-  90%{opacity:.4}
+  10%{opacity:.5}
+  90%{opacity:.5}
   100%{transform:translate(-20vw,60vh);opacity:0}
 }
 @keyframes floatUp {
   0%{transform:translateY(100vh);opacity:0}
-  10%{opacity:.6}
-  90%{opacity:.6}
+  10%{opacity:.3}
+  90%{opacity:.3}
   100%{transform:translateY(-10vh);opacity:0}
 }
+@keyframes scanline {
+  0%{transform:translateY(-100%)}
+  100%{transform:translateY(100vh)}
+}
+@keyframes pulse {
+  0%,100%{opacity:.4}
+  50%{opacity:1}
+}
 .hero-stars{position:fixed;inset:0;z-index:-1;overflow:hidden;pointer-events:none}
+.hero-stars::before{content:'';position:absolute;inset:0;background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,229,255,.012) 2px,rgba(0,229,255,.012) 4px);pointer-events:none}
+.hero-stars::after{content:'';position:absolute;top:0;left:0;width:100%;height:2px;background:linear-gradient(90deg,transparent,var(--neon-cyan),transparent);opacity:.15;animation:scanline 8s linear infinite}
 .star{position:absolute;width:2px;height:2px;background:#fff;border-radius:50%;animation:twinkle var(--d,4s) ease-in-out infinite;animation-delay:var(--dd,0s)}
 .star.big{width:3px;height:3px}
-.orb{position:absolute;width:6px;height:6px;border-radius:50%;opacity:0;animation:drift var(--d,30s) linear infinite;animation-delay:var(--dd,0s)}
-.orb.c1{background:radial-gradient(circle at 30% 30%,#7dd3fc,#06b6d4);box-shadow:0 0 16px 6px rgba(6,182,212,.25)}
-.orb.c2{background:radial-gradient(circle at 30% 30%,#f0abfc,#c026d3);box-shadow:0 0 12px 5px rgba(192,38,211,.2);width:5px;height:5px}
-.bubble{position:absolute;width:4px;height:4px;border-radius:50%;background:rgba(150,200,255,.12);opacity:0;animation:floatUp var(--d,20s) linear infinite;animation-delay:var(--dd,0s)}
+.star.purple{background:var(--neon-purple);box-shadow:0 0 4px var(--neon-purple)}
+.star.cyan{background:var(--neon-cyan);box-shadow:0 0 4px var(--neon-cyan)}
+.star.yellow{background:var(--neon-yellow);box-shadow:0 0 4px var(--neon-yellow)}
+.orb{position:absolute;width:8px;height:8px;border-radius:50%;opacity:0;animation:drift var(--d,30s) linear infinite;animation-delay:var(--dd,0s)}
+.orb.c1{background:radial-gradient(circle at 30% 30%,#7dd3fc,#06b6d4);box-shadow:0 0 20px 8px rgba(6,182,212,.3)}
+.orb.c2{background:radial-gradient(circle at 30% 30%,#f0abfc,#c026d3);box-shadow:0 0 20px 8px rgba(192,38,211,.25);width:6px;height:6px}
+.orb.c3{background:radial-gradient(circle at 30% 30%,#fde047,#eab308);box-shadow:0 0 16px 6px rgba(234,179,8,.25);width:5px;height:5px}
+.bubble{position:absolute;width:3px;height:3px;border-radius:50%;background:var(--neon-cyan);opacity:0;animation:floatUp var(--d,20s) linear infinite;animation-delay:var(--dd,0s)}
+@keyframes neonPulse {
+  0%,100%{border-color:rgba(0,229,255,.12)}
+  50%{border-color:rgba(0,229,255,.3)}
+}
     </style>
     <style>
 hr{border:none;border-top:1px solid var(--border);margin:2.5rem 0}
-.section-title{font-size:1.6rem;font-weight:700;margin-bottom:1.5rem;letter-spacing:-.02em}
-.section-sub{margin-top:-1rem;margin-bottom:2rem;color:var(--text-muted);font-size:.9rem}
-/* --- Hero --- */
+.section-title{font-size:1.4rem;font-weight:700;margin-bottom:1.5rem;letter-spacing:-.02em}
+.section-title .acc{color:var(--neon-cyan);font-family:'SF Mono',monospace;font-size:.9rem}
+.section-sub{margin-top:-1rem;margin-bottom:2rem;color:var(--text-muted);font-size:.85rem;font-family:'SF Mono',monospace}
+/* Hero */
 .hero{min-height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:2rem 1.5rem 4rem;position:relative}
 .hero h1{font-size:clamp(2rem,5vw,3.5rem);font-weight:800;line-height:1.15;margin-bottom:1rem;letter-spacing:-.03em}
-.hero p{font-size:1.05rem;color:var(--text-secondary);max-width:500px;margin-bottom:2rem;line-height:1.7}
+.hero p{font-size:1rem;color:var(--text-secondary);max-width:500px;margin-bottom:2rem;line-height:1.7}
 .hero-actions{display:flex;gap:.75rem;flex-wrap:wrap;justify-content:center}
-.hero-scroll{margin-top:2rem;font-size:.8rem;color:var(--text-muted);animation:twinkle 2s ease-in-out infinite}
-/* --- Feed --- */
+.hero-scroll{margin-top:2rem;font-size:.72rem;color:var(--text-muted);font-family:'SF Mono',monospace;letter-spacing:.05em;animation:pulse 2s ease-in-out infinite}
+.hero-tagline{display:flex;gap:.5rem;justify-content:center;margin-bottom:1.5rem;flex-wrap:wrap}
+.hero-tag{font-size:.72rem;padding:.2rem .6rem;border-radius:100px;font-family:'SF Mono',monospace;letter-spacing:.03em}
+.hero-tag.t1{background:rgba(0,229,255,.1);color:var(--neon-cyan);border:1px solid rgba(0,229,255,.15)}
+.hero-tag.t2{background:rgba(168,85,247,.1);color:var(--neon-purple);border:1px solid rgba(168,85,247,.15)}
+.hero-tag.t3{background:rgba(234,179,8,.1);color:var(--neon-yellow);border:1px solid rgba(234,179,8,.15)}
+/* Feed */
 .feed{max-width:680px;margin:0 auto;padding:0 1.5rem 4rem}
-.feed-item{display:flex;gap:1rem;padding:1rem 0;border-bottom:1px solid var(--border);text-decoration:none;color:inherit;transition:opacity .15s}
-.feed-item:hover{opacity:.7}
+.feed-item{display:flex;gap:1rem;padding:1rem 0;border-bottom:1px solid var(--border);text-decoration:none;color:inherit;transition:all .2s}
+.feed-item:hover{opacity:.8}
+.feed-item:hover h3{color:var(--neon-cyan)}
 .feed-item:last-child{border-bottom:none}
-.feed-icon{flex-shrink:0;width:36px;height:36px;display:flex;align-items:center;justify-content:center;background:var(--bg-secondary);border-radius:50%;font-size:1.1rem}
+.feed-icon{flex-shrink:0;width:36px;height:36px;display:flex;align-items:center;justify-content:center;background:rgba(0,229,255,.04);border:1px solid var(--border);border-radius:50%;font-size:1rem}
 .feed-body{flex:1;min-width:0}
-.feed-meta{display:flex;gap:.5rem;font-size:.75rem;color:var(--text-muted);margin-bottom:.15rem}
+.feed-meta{display:flex;gap:.5rem;font-size:.72rem;color:var(--text-muted);margin-bottom:.15rem;font-family:'SF Mono',monospace}
 .feed-tag{font-weight:600}
-.feed-tag.uap{color:#0891b2}
-.feed-tag.tech{color:#7c3aed}
-.feed-tag.research{color:#059669}
-.feed-body h3{font-size:.95rem;font-weight:600;margin:0 0 .15rem;line-height:1.4}
-.feed-body p{font-size:.85rem;color:var(--text-secondary);margin:0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.feed-time{flex-shrink:0;font-size:.75rem;color:var(--text-muted)}
-/* --- Sections --- */
+.feed-tag.uap{color:var(--neon-cyan)}
+.feed-tag.tech{color:var(--neon-purple)}
+.feed-body h3{font-size:.92rem;font-weight:600;margin:0 0 .15rem;line-height:1.4;transition:color .2s}
+.feed-body p{font-size:.82rem;color:var(--text-secondary);margin:0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.feed-time{flex-shrink:0;font-size:.72rem;color:var(--text-muted);font-family:'SF Mono',monospace}
+/* Cards */
 .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}
-.card{background:var(--bg-secondary);border:1px solid var(--border);border-radius:var(--radius);padding:1.25rem;transition:transform .15s}
-.card:hover{transform:translateY(-2px)}
-.card-icon{font-size:1.5rem;margin-bottom:.5rem}
-.card h3{font-size:.95rem;font-weight:600;margin-bottom:.25rem}
-.card p{font-size:.82rem;color:var(--text-secondary);margin:0;line-height:1.6}
-.badge{display:inline-block;font-size:.7rem;font-weight:600;padding:.15rem .5rem;border-radius:100px;text-transform:uppercase;letter-spacing:.04em}
-.badge.active{background:#dcfce7;color:#166534}
-/* --- CTA --- */
+.card{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);padding:1.25rem;transition:all .3s}
+.card:hover{border-color:var(--neon-cyan);box-shadow:0 0 20px rgba(0,229,255,.04)}
+.card-icon{font-size:1.3rem;margin-bottom:.5rem}
+.card h3{font-size:.9rem;font-weight:600;margin-bottom:.25rem}
+.card p{font-size:.8rem;color:var(--text-secondary);margin:0;line-height:1.6}
+.badge{display:inline-block;font-size:.68rem;font-weight:600;padding:.15rem .45rem;border-radius:100px;font-family:'SF Mono',monospace;letter-spacing:.03em}
+.badge.active{background:rgba(34,197,94,.1);color:var(--neon-green);border:1px solid rgba(34,197,94,.15)}
+/* CTA */
 .cta{text-align:center;padding:3rem 0;margin-top:2rem}
-.cta p{color:var(--text-secondary);margin-bottom:1.25rem}
+.cta p{color:var(--text-secondary);margin-bottom:1.25rem;font-size:.9rem}
 @media(max-width:640px){
   .grid3{grid-template-columns:1fr}
   .feed{padding:0 1rem 3rem}
@@ -89,25 +113,23 @@ hr{border:none;border-top:1px solid var(--border);margin:2.5rem 0}
   <body>
     <Header />
     <div class="hero-stars">
-      <div class="star" style="top:8%;left:12%;--d:3.2s;--dd:.1s"></div>
+      <div class="star cyan" style="top:8%;left:12%;--d:3.2s;--dd:.1s"></div>
       <div class="star" style="top:15%;left:45%;--d:2.8s;--dd:1.3s"></div>
-      <div class="star big" style="top:22%;left:78%;--d:4s;--dd:.5s"></div>
+      <div class="star purple big" style="top:22%;left:78%;--d:4s;--dd:.5s"></div>
       <div class="star" style="top:30%;left:25%;--d:3.5s;--dd:2s"></div>
-      <div class="star big" style="top:38%;left:60%;--d:3s;--dd:.8s"></div>
-      <div class="star" style="top:45%;left:5%;--d:2.5s;--dd:3s"></div>
-      <div class="star" style="top:52%;left:35%;--d:3.8s;--dd:1.8s"></div>
+      <div class="star cyan big" style="top:38%;left:60%;--d:3s;--dd:.8s"></div>
+      <div class="star yellow" style="top:45%;left:5%;--d:2.5s;--dd:3s"></div>
+      <div class="star purple" style="top:52%;left:35%;--d:3.8s;--dd:1.8s"></div>
       <div class="star big" style="top:60%;left:70%;--d:4.2s;--dd:.3s"></div>
-      <div class="star" style="top:68%;left:15%;--d:2.6s;--dd:2.5s"></div>
+      <div class="star cyan" style="top:68%;left:15%;--d:2.6s;--dd:2.5s"></div>
       <div class="star" style="top:75%;left:50%;--d:3.1s;--dd:1s"></div>
-      <div class="star" style="top:82%;left:85%;--d:3.6s;--dd:2.2s"></div>
-      <div class="star big" style="top:88%;left:30%;--d:3.4s;--dd:.6s"></div>
+      <div class="star purple" style="top:82%;left:85%;--d:3.6s;--dd:2.2s"></div>
+      <div class="star yellow big" style="top:88%;left:30%;--d:3.4s;--dd:.6s"></div>
       <div class="star" style="top:93%;left:65%;--d:2.9s;--dd:1.5s"></div>
-      <div class="star" style="top:98%;left:10%;--d:4.1s;--dd:3.2s"></div>
-      <!-- Orbs -->
+      <div class="star cyan" style="top:98%;left:10%;--d:4.1s;--dd:3.2s"></div>
       <div class="orb c1" style="top:15%;--d:28s;--dd:0s"></div>
       <div class="orb c2" style="top:40%;--d:35s;--dd:-12s"></div>
-      <div class="orb c1" style="top:65%;--d:32s;--dd:-22s"></div>
-      <!-- Bubbles -->
+      <div class="orb c3" style="top:65%;--d:32s;--dd:-22s"></div>
       <div class="bubble" style="left:8%;--d:18s;--dd:0s"></div>
       <div class="bubble" style="left:25%;--d:22s;--dd:-5s"></div>
       <div class="bubble" style="left:45%;--d:15s;--dd:-10s"></div>
@@ -118,22 +140,27 @@ hr{border:none;border-top:1px solid var(--border);margin:2.5rem 0}
     <main>
       <!-- ===== HERO ===== -->
       <section class="hero">
-        <h1>
+        <div class="hero-tagline">
+          <span class="hero-tag t1">{`{ ai }`}</span>
+          <span class="hero-tag t2">{`{ uap }`}</span>
+          <span class="hero-tag t3">{`{ tech }`}</span>
+        </div>
+        <h1 class="text-gradient">
           科技愛好者 · 解構神秘<br>
-          <span style="background:linear-gradient(135deg,#06b6d4,#7c3aed,#eab308);-webkit-background-clip:text;-webkit-text-fill-color:transparent">AI 玩家</span>
+          <span style="color:var(--neon-cyan);text-shadow:0 0 10px rgba(0,229,255,.3)">AI 玩家</span>
         </h1>
         <p>香港。用 AI automation 探索科技前沿、解構 UFO/UAP 神秘現象</p>
         <div class="hero-actions">
-          <a href="/vincent-kan-site/blog" class="btn btn-primary">最新 UFO 新聞 🛸</a>
-          <a href="/vincent-kan-site/projects" class="btn btn-outline">Projects</a>
+          <a href="/vincent-kan-site/blog" class="btn btn-primary">🛸 最新 UFO 新聞</a>
+          <a href="/vincent-kan-site/projects" class="btn btn-outline">⚡ Projects</a>
         </div>
-        <div class="hero-scroll">↓ scroll for latest</div>
+        <div class="hero-scroll">$ scroll_down $</div>
       </section>
 
       <!-- ===== LATEST FEED ===== -->
       <section class="feed">
-        <h2 class="section-title">📡 最新動態</h2>
-        <p class="section-sub">UFO/UAP 新聞 · AI 實驗 · 深度研究</p>
+        <h2 class="section-title"><span class="acc">#</span> 最新動態</h2>
+        <p class="section-sub">// UFO/UAP · AI 實驗 · 深度研究</p>
 
         {uapPosts.slice(0, 3).map(p => (
           <a href={`/vincent-kan-site/blog/${p.id}/`} class="feed-item">
@@ -174,7 +201,7 @@ hr{border:none;border-top:1px solid var(--border);margin:2.5rem 0}
         <hr>
 
         <!-- ===== WHAT I DO ===== -->
-        <h2 class="section-title">🔭 我嘅 focus</h2>
+        <h2 class="section-title"><span class="acc">#</span> 我嘅 focus</h2>
         <div class="grid3">
           <div class="card">
             <div class="card-icon">🛸</div>
@@ -196,7 +223,7 @@ hr{border:none;border-top:1px solid var(--border);margin:2.5rem 0}
         <hr>
 
         <!-- ===== ACTIVE PROJECTS ===== -->
-        <h2 class="section-title">⚡ Projects</h2>
+        <h2 class="section-title"><span class="acc">#</span> Projects</h2>
         <div class="grid3">
           <div class="card">
             <div class="card-icon">🤖<span class="badge active" style="margin-left:.5rem">Active</span></div>
@@ -219,9 +246,9 @@ hr{border:none;border-top:1px solid var(--border);margin:2.5rem 0}
 
         <!-- ===== CTA ===== -->
         <div class="cta">
-          <h2 class="section-title">📬 有嘢想傾？</h2>
+          <h2 class="section-title"><span class="acc">#</span> 有嘢想傾？</h2>
           <p>UFO 神秘現象、AI 技術、或者就咁吹水都得</p>
-          <a href="/vincent-kan-site/about" class="btn btn-primary">關於我</a>
+          <a href="/vincent-kan-site/about" class="btn btn-primary">_about_me</a>
         </div>
       </div>
     </main>

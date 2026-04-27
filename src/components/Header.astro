@@ -5,12 +5,14 @@ import { SITE_TITLE } from '../consts';
 
 <header>
   <nav>
-    <a href="/vincent-kan-site/" class="logo">{SITE_TITLE}</a>
+    <a href="/vincent-kan-site/" class="logo">
+      <span class="logo-acc">&gt;</span> {SITE_TITLE}
+    </a>
     <div class="nav-links">
-      <HeaderLink href="/vincent-kan-site/">Home</HeaderLink>
-      <HeaderLink href="/vincent-kan-site/blog">Blog</HeaderLink>
-      <HeaderLink href="/vincent-kan-site/projects">Projects</HeaderLink>
-      <HeaderLink href="/vincent-kan-site/about">About</HeaderLink>
+      <HeaderLink href="/vincent-kan-site/">_home</HeaderLink>
+      <HeaderLink href="/vincent-kan-site/blog">_blog</HeaderLink>
+      <HeaderLink href="/vincent-kan-site/projects">_projects</HeaderLink>
+      <HeaderLink href="/vincent-kan-site/about">_about</HeaderLink>
     </div>
   </nav>
 </header>
@@ -20,7 +22,7 @@ import { SITE_TITLE } from '../consts';
     position: sticky;
     top: 0;
     z-index: 100;
-    background: rgba(255,255,255,0.85);
+    background: rgba(10,10,18,0.85);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
     border-bottom: 1px solid var(--border);
@@ -35,25 +37,36 @@ import { SITE_TITLE } from '../consts';
     justify-content: space-between;
   }
   .logo {
-    font-size: 1.1rem;
+    font-size: 1.05rem;
     font-weight: 700;
     color: var(--text);
     text-decoration: none;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
+    font-family: 'SF Mono', 'JetBrains Mono', monospace;
+  }
+  .logo-acc {
+    color: var(--neon-cyan);
+    text-shadow: 0 0 8px rgba(0,229,255,0.5);
   }
   .nav-links { display: flex; gap: 0.25rem; }
   .nav-links a {
-    padding: 0.45rem 0.75rem;
-    color: var(--text-secondary);
-    font-size: 0.88rem;
+    padding: 0.4rem 0.65rem;
+    color: var(--text-muted);
+    font-size: 0.82rem;
     font-weight: 500;
     border-radius: var(--radius-sm);
     text-decoration: none;
     transition: all 0.2s;
+    font-family: 'SF Mono', 'JetBrains Mono', monospace;
+    letter-spacing: 0.02em;
   }
-  .nav-links a:hover { background: var(--bg-secondary); color: var(--text); }
+  .nav-links a:hover { 
+    background: rgba(0,229,255,0.06); 
+    color: var(--neon-cyan);
+    box-shadow: 0 0 12px rgba(0,229,255,0.06);
+  }
   @media (max-width: 600px) {
     nav { padding: 0 1rem; }
-    .nav-links a { padding: 0.4rem 0.5rem; font-size: 0.82rem; }
+    .nav-links a { padding: 0.35rem 0.4rem; font-size: 0.75rem; }
   }
 </style>
