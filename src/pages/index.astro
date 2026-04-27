@@ -14,29 +14,32 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
     <Header />
 
     <main>
-      <!-- 🏆 Hero Section -->
+      <!-- 🏆 Hero Section with Sci-Fi Background -->
       <section class="hero">
-        <div class="hero-badge">
-          <span class="badge-dot"></span>
-          Vincent Kan
-        </div>
-        <h1>
-          科技愛好者<span class="text-gradient">·</span><br />
-          解構神秘 ·<br />
-          <span class="text-gradient">AI 玩家</span>
-        </h1>
-        <p class="hero-desc">
-          香港。探索科技前沿、解構神秘現象，用 AI 同 automation 
-          令生活更高效。呢度記錄咗我嘅 side projects、研究同 UFO/UAP 探索。
-        </p>
-        <div class="hero-actions">
-          <a href="/vincent-kan-site/about" class="btn btn-primary">
-            關於我
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
-          </a>
-          <a href="/vincent-kan-site/projects" class="btn btn-outline">
-            睇 Projects
-          </a>
+        <div class="hero-canvas" id="heroCanvas"></div>
+        <div class="hero-content">
+          <div class="hero-badge">
+            <span class="badge-dot"></span>
+            Vincent Kan
+          </div>
+          <h1>
+            科技愛好者<span class="text-gradient">·</span><br />
+            解構神秘 ·<br />
+            <span class="text-gradient">AI 玩家</span>
+          </h1>
+          <p class="hero-desc">
+            香港。探索科技前沿、解構神秘現象，用 AI 同 automation 
+            令生活更高效。呢度記錄咗我嘅 side projects、研究同 UFO/UAP 探索。
+          </p>
+          <div class="hero-actions">
+            <a href="/vincent-kan-site/about" class="btn btn-primary">
+              關於我
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+            </a>
+            <a href="/vincent-kan-site/projects" class="btn btn-outline">
+              睇 Projects
+            </a>
+          </div>
         </div>
       </section>
 
@@ -196,6 +199,20 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
         padding: 6rem 0 3rem;
         text-align: center;
         position: relative;
+        overflow: hidden;
+        min-height: 90vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .hero-canvas {
+        position: absolute;
+        inset: 0;
+        z-index: 0;
+      }
+      .hero-content {
+        position: relative;
+        z-index: 1;
       }
       .hero::before {
         content: '';
@@ -418,7 +435,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
       }
 
       @media (max-width: 640px) {
-        .hero { padding: 4rem 0 2rem; }
+        .hero { padding: 4rem 0 2rem; min-height: 80vh; }
         .hero h1 { font-size: 2rem; }
         .hero::before { width: 300px; height: 300px; }
 
@@ -439,5 +456,138 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
         .cta-card { padding: 2.5rem 1.5rem; }
       }
     </style>
+
+    <script>
+    (function() {
+      const canvas = document.getElementById('heroCanvas');
+      if (!canvas) return;
+      const ctx = canvas.getContext('2d');
+      let w, h, stars = [], ufos = [], particles = [];
+      
+      function resize() {
+        const hero = canvas.parentElement;
+        w = canvas.width = hero.offsetWidth;
+        h = canvas.height = hero.offsetHeight;
+      }
+      
+      // Stars
+      class Star {
+        constructor() { this.reset(); this.y = Math.random() * h; }
+        reset() {
+          this.x = Math.random() * w;
+          this.y = 0;
+          this.size = Math.random() * 2 + 0.5;
+          this.speed = Math.random() * 0.3 + 0.1;
+          this.opacity = Math.random() * 0.6 + 0.2;
+          this.twinkleSpeed = Math.random() * 0.02 + 0.005;
+          this.twinklePhase = Math.random() * Math.PI * 2;
+        }
+        update() {
+          this.y += this.speed;
+          if (this.y > h) this.reset();
+          this.currentOpacity = this.opacity * (0.6 + 0.4 * Math.sin(this.twinklePhase));
+          this.twinklePhase += this.twinkleSpeed;
+        }
+        draw() {
+          ctx.beginPath();
+          ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+          ctx.fillStyle = `rgba(255, 255, 255, ${this.currentOpacity})`;
+          ctx.fill();
+        }
+      }
+      
+      // UFOs (shooting stars / orbs)
+      class UFO {
+        constructor() {
+          this.reset(true);
+        }
+        reset(initial = false) {
+          this.x = initial ? Math.random() * w : w + 50;
+          this.y = Math.random() * h * 0.6 + 20;
+          this.speed = Math.random() * 1.5 + 0.5;
+          this.size = Math.random() * 3 + 2;
+          this.hue = Math.random() * 60 + 180; // teal/cyan to blue
+          this.wait = Math.random() * 300 + 200;
+          this.counter = 0;
+        }
+        update() {
+          this.counter++;
+          if (this.counter < this.wait && this.x > w * 0.8) return;
+          this.x -= this.speed * 0.3;
+          this.y += Math.sin(this.counter * 0.02) * 0.2;
+          if (this.x < -20) this.reset();
+        }
+        draw() {
+          const alpha = Math.min(1, Math.max(0.1, 1 - (w - this.x) / w * 0.8));
+          // Glow
+          const grad = ctx.createRadialGradient(this.x, this.y, 0, this.x, this.y, this.size * 6);
+          grad.addColorStop(0, `hsla(${this.hue}, 80%, 70%, ${alpha * 0.3})`);
+          grad.addColorStop(1, `hsla(${this.hue}, 80%, 70%, 0)`);
+          ctx.fillStyle = grad;
+          ctx.beginPath();
+          ctx.arc(this.x, this.y, this.size * 6, 0, Math.PI * 2);
+          ctx.fill();
+          // Core
+          ctx.beginPath();
+          ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+          ctx.fillStyle = `hsla(${this.hue}, 90%, 80%, ${alpha * 0.9})`;
+          ctx.fill();
+          // Light trail
+          ctx.beginPath();
+          ctx.moveTo(this.x, this.y);
+          ctx.lineTo(this.x + this.size * 3, this.y - this.size * 0.3);
+          ctx.strokeStyle = `hsla(${this.hue}, 80%, 70%, ${alpha * 0.3})`;
+          ctx.lineWidth = 1;
+          ctx.stroke();
+        }
+      }
+      
+      // Atmospheric particles
+      class Particle {
+        constructor() {
+          this.reset(true);
+        }
+        reset(initial = false) {
+          this.x = Math.random() * w;
+          this.y = initial ? Math.random() * h : h + 5;
+          this.size = Math.random() * 1.5 + 0.3;
+          this.speed = Math.random() * 0.15 + 0.05;
+          this.drift = Math.random() * 0.2 - 0.1;
+          this.opacity = Math.random() * 0.3 + 0.05;
+        }
+        update() {
+          this.y -= this.speed;
+          this.x += this.drift;
+          if (this.y < -5 || this.x < -5 || this.x > w + 5) this.reset();
+        }
+        draw() {
+          ctx.beginPath();
+          ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+          ctx.fillStyle = `rgba(150, 180, 255, ${this.opacity})`;
+          ctx.fill();
+        }
+      }
+      
+      function init() {
+        resize();
+        const count = Math.floor((w * h) / 8000);
+        stars = Array.from({ length: count }, () => new Star());
+        ufos = Array.from({ length: 3 }, () => new UFO());
+        particles = Array.from({ length: 20 }, () => new Particle());
+      }
+      
+      function animate() {
+        ctx.clearRect(0, 0, w, h);
+        stars.forEach(s => { s.update(); s.draw(); });
+        particles.forEach(p => { p.update(); p.draw(); });
+        ufos.forEach(u => { u.update(); u.draw(); });
+        requestAnimationFrame(animate);
+      }
+      
+      init();
+      animate();
+      window.addEventListener('resize', resize);
+    })();
+    </script>
   </body>
 </html>
