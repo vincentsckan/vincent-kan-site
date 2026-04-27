@@ -257,7 +257,7 @@ const featuredUAP = uapPosts.slice(1, 4);
         {latestUAP && (
           <a href={`/vincent-kan-site/blog/${latestUAP.id}/`} class="breaking">
             <span class="breaking-dot"></span>
-            <span class="breaking-label">BREAKING</span>
+            <span class="breaking-label">突發</span>
             <span class="breaking-title">{latestUAP.data.title}</span>
             <span class="breaking-arrow">→</span>
           </a>
@@ -321,13 +321,13 @@ const featuredUAP = uapPosts.slice(1, 4);
           </a>
           <a href="/vincent-kan-site/projects" class="domain-item">
             <div class="domain-icon">⚡</div>
-            <div class="domain-label">Projects</div>
+            <div class="domain-label">專案</div>
             <div class="domain-count">3 個</div>
           </a>
           <a href="/vincent-kan-site/about" class="domain-item">
             <div class="domain-icon">👤</div>
             <div class="domain-label">關於我</div>
-            <div class="domain-count">了解更多</div>
+            <div class="domain-count">簡介</div>
           </a>
           <a href="/vincent-kan-site/blog" class="domain-item">
             <div class="domain-icon">📰</div>
@@ -344,7 +344,7 @@ const featuredUAP = uapPosts.slice(1, 4);
                 <span class="section-hd-acc">/UAP</span>
                 <h2>UFO 新聞總覽</h2>
               </div>
-              <a href="/vincent-kan-site/blog">View all →</a>
+              <a href="/vincent-kan-site/blog">查看全部 →</a>
             </div>
             <div class="uap-grid">
               {uapPosts.slice(1, 5).map(p => (
@@ -369,7 +369,7 @@ const featuredUAP = uapPosts.slice(1, 4);
                 <span class="section-hd-acc">/BLOG</span>
                 <h2>最新文章</h2>
               </div>
-              <a href="/vincent-kan-site/blog">All →</a>
+              <a href="/vincent-kan-site/blog">全部 →</a>
             </div>
             <div class="feed">
               {otherPosts.slice(0, 4).map(p => (
@@ -390,7 +390,7 @@ const featuredUAP = uapPosts.slice(1, 4);
         <!-- ===== FOOTER CTA ===== -->
         <div style="text-align:center;padding:2.5rem 0 3rem;border-top:1px solid var(--border)">
           <p style="color:var(--text-muted);font-size:0.82rem;margin-bottom:1rem">有興趣交流 UFO 話題或者 AI 技術？隨時搵我</p>
-          <a href="/vincent-kan-site/about" class="btn btn-primary">_about_me</a>
+          <a href="/vincent-kan-site/about" class="btn btn-primary">關於我</a>
         </div>
       </div>
     </main>
