@@ -1,0 +1,54 @@
+---
+import Giscus from '@giscus/react';
+
+// This component renders the Giscus comment system on the client side only
+---
+
+<div id="comments" class="comments-section">
+	<h3 class="comments-title">💬 加入討論</h3>
+	<p class="comments-subtitle">用 GitHub 帳號登入即可留言，分享你嘅 UFO/UAP 見解！</p>
+	<Giscus
+		id="comments"
+		repo="vincentsckan/vincent-kan-site"
+		repoId="R_kgDOSMqXwA"
+		category="General"
+		categoryId="DIC_kwDOSMqXwM4C713T"
+		mapping="pathname"
+		reactionsEnabled="1"
+		emitMetadata="0"
+		inputPosition="top"
+		lang="en"
+		loading="lazy"
+		theme="noborder_dark"
+		strict="0"
+		client:only="react"
+	/>
+</div>
+
+<style>
+	.comments-section {
+		width: 720px;
+		max-width: calc(100% - 2em);
+		margin: 0 auto 3rem auto;
+		padding: 1.5rem;
+		border: 1px solid var(--accent);
+		border-radius: 12px;
+		background: rgba(0, 255, 255, 0.02);
+	}
+	.comments-title {
+		color: #00ffff;
+		text-shadow: 0 0 10px rgba(0,255,255,0.5);
+		margin: 0 0 0.3rem 0;
+		font-size: 1.3rem;
+	}
+	.comments-subtitle {
+		color: #888;
+		font-size: 0.9rem;
+		margin: 0 0 1.5rem 0;
+	}
+	@media (max-width: 700px) {
+		.comments-section {
+			padding: 1rem;
+		}
+	}
+</style>
