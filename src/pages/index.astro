@@ -239,54 +239,23 @@ const featuredUAP = uapPosts.slice(1, 4);
         width: 100%; background: #050505;
         display: flex; flex-direction: column; align-items: center; justify-content: center;
         padding: 30px 20px 15px;
-        font-family: 'Cormorant Garamond', 'Georgia', serif;
         min-height: 33vh; min-height: 33dvh;
         position: relative; overflow: hidden;
       }
       
-      /* Stars */
-      .ds-star { position:absolute; background:#ffffff; border-radius:50%; animation:dsTw var(--speed) ease-in-out infinite alternate; animation-delay:var(--delay); }
-      @keyframes dsTw { 0%{opacity:0.1} 100%{opacity:var(--max-opacity)} }
-      
-      /* Planet */
-      .ds-planet-c { position:absolute; top:15%; left:18%; width:28%; height:28%; }
-      .ds-planet { width:100%; height:100%; border-radius:50%; background:#ffffff; position:relative; }
-      .ds-planet-b { position:absolute; left:6%; width:88%; height:8%; background:rgba(0,0,0,0.1); border-radius:50%; }
-      .ds-planet-b1 { top:42%; } .ds-planet-b2 { top:54%; }
-      .ds-ring { position:absolute; top:44%; left:-12%; width:124%; height:14%; border:3px solid #ffffff; border-radius:50%; }
-      .ds-ring-back { clip-path:inset(0 0 50% 0); opacity:0.4; transform:rotate(-20deg); }
-      .ds-ring-front { clip-path:inset(50% 0 0 0); opacity:0.5; transform:rotate(-20deg); }
-      
-      /* Ship - Endurance style */
-      .ds-ship-c { position:absolute; top:38%; right:25%; width:28%; height:28%; animation:dsFly 8s ease-in-out infinite; }
-      @keyframes dsFly { 0%,100%{transform:translate(0,0) rotate(38deg)} 50%{transform:translate(-6px,3px) rotate(38deg)} }
-      
-      .ds-ship { position:relative; width:100%; height:100%; }
-      .ds-flame { position:absolute; bottom:-2%; left:50%; transform:translateX(-50%); width:20%; height:28%; background:#ffffff; border-radius:50%; opacity:0.3; animation:dsFl 0.4s ease-in-out infinite alternate; }
-      .ds-flame-i { position:absolute; bottom:-4%; left:50%; transform:translateX(-50%); width:12%; height:24%; background:#ffffff; border-radius:50%; opacity:0.55; animation:dsFl 0.3s ease-in-out infinite alternate-reverse; }
-      @keyframes dsFl { 0%{transform:translateX(-50%) scaleY(0.8);opacity:0.25} 100%{transform:translateX(-50%) scaleY(1.15);opacity:0.45} }
-      .ds-trail { position:absolute; bottom:-18%; left:50%; transform:translateX(-50%); width:3px; height:25%; background:linear-gradient(to bottom, rgba(255,255,255,0.35), transparent); animation:dsTr 1.5s linear infinite; }
-      @keyframes dsTr { 0%{height:5%;opacity:0.3} 100%{height:35%;opacity:0} }
-      
-      .ds-sbody { position:absolute; top:14%; left:42%; width:16%; height:50%; background:#ffffff; border-radius:1px; }
-      .ds-spod { position:absolute; top:3%; left:30%; width:40%; height:18%; background:#ffffff; clip-path:polygon(20% 0%,80% 0%,100% 100%,0% 100%); border-radius:3px 3px 0 0; }
-      .ds-spod-w { position:absolute; top:7%; left:50%; transform:translateX(-50%); width:34%; height:40%; background:#000; border-radius:50%; }
-      .ds-scargo { position:absolute; top:38%; left:30%; width:40%; height:18%; background:#ffffff; border:1px solid #000; }
-      .ds-sarm-l, .ds-sarm-r { position:absolute; top:18%; width:4%; height:38%; background:#ffffff; }
-      .ds-sarm-l { left:32%; } .ds-sarm-r { right:32%; }
-      .ds-spanel-l, .ds-spanel-r { position:absolute; top:15%; background:#ffffff; border-radius:1px; }
-      .ds-spanel-l { left:0%; width:22%; height:16%; } .ds-spanel-r { right:0%; width:22%; height:16%; }
-      .ds-sring-o { position:absolute; top:15%; left:15%; width:70%; height:46%; border:3px solid #ffffff; border-radius:50%; }
-      .ds-sring-i { position:absolute; top:21%; left:21%; width:58%; height:38%; border:2px solid #ffffff; border-radius:50%; }
-      .ds-spoke-v { position:absolute; top:0%; left:50%; transform:translateX(-50%); width:2px; height:76%; background:#ffffff; }
-      .ds-spoke-h { position:absolute; top:36%; left:10%; width:80%; height:2px; background:#ffffff; }
-      .ds-sdock { position:absolute; top:-4%; left:50%; transform:translateX(-50%); width:10%; height:6%; background:#ffffff; }
-      .ds-sleg-l, .ds-sleg-r { position:absolute; bottom:6%; width:2px; height:16%; background:#ffffff; }
-      .ds-sleg-l { left:36%; transform:rotate(16deg); } .ds-sleg-r { right:36%; transform:rotate(-16deg); }
-      
-      /* Grain + vignette */
-      .ds-grain { position:absolute; inset:0; border-radius:50%; opacity:0.03; pointer-events:none; background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"); background-size:100px 100px; }
-      .ds-vignette { position:absolute; inset:-5%; border-radius:50%; pointer-events:none; background:radial-gradient(ellipse at center, transparent 40%, rgba(0,0,0,0.55) 100%); }
+      .hero-bg-container {
+        width: 100%; max-width: 400px; margin: 0 auto;
+        position: relative; display: flex; justify-content: center;
+      }
+      .hero-bg-container img {
+        width: 100%; height: auto; max-width: 320px;
+        display: block; border-radius: 0;
+      }
+      .hero-bg-container .film-overlay {
+        position: absolute; inset: 0; border-radius: 0;
+        pointer-events: none;
+        box-shadow: inset 0 0 20px rgba(0,0,0,0.3);
+      }
       
       /* Text animations */
       .ds-text { text-align:center; margin-top:8px; width:100%; }
@@ -307,10 +276,10 @@ const featuredUAP = uapPosts.slice(1, 4);
       
       @media(min-width:701px) {
         .discloser-hero-wrap { min-height: 35vh; padding: 40px 20px; }
+        .hero-bg-container img { max-width: 320px; }
         .ds-cl, .ds-cr { font-size: 44px; letter-spacing: 16px; }
         .ds-en { font-size: 16px; letter-spacing: 11px; }
-      }
-      @media(max-width: 700px) {
+      }      @media(max-width: 700px) {
         .featured { grid-template-columns: 1fr; gap: 0.75rem; }
         .featured-main h2 { font-size: 1rem; }
         .featured-main p { -webkit-line-clamp: 2; }
@@ -336,118 +305,10 @@ const featuredUAP = uapPosts.slice(1, 4);
     <Header />
     <main>
 <section class="discloser-hero-wrap">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" style="width:280px;height:280px;max-width:55vw;max-height:55vw;display:block;margin:0 auto;">
-        <defs>
-          <clipPath id="dcCircle"><circle cx="300" cy="300" r="275"/></clipPath>
-          <filter id="dcGrain">
-            <feTurbulence type="fractalNoise" baseFrequency="0.55" numOctaves="3" result="n" stitchTiles="stitch"/>
-            <feColorMatrix type="saturate" values="0" in="n" result="gn"/>
-            <feBlend in="SourceGraphic" in2="gn" mode="multiply"/>
-            <feComponentTransfer><feFuncR type="linear" slope="1.15" intercept="-0.03"/><feFuncG type="linear" slope="1.15" intercept="-0.03"/><feFuncB type="linear" slope="1.15" intercept="-0.03"/></feComponentTransfer>
-          </filter>
-        </defs>
-        
-        <!-- Film frame -->
-        <circle cx="300" cy="300" r="290" fill="none" stroke="#ffffff" stroke-width="14"/>
-        <circle cx="300" cy="300" r="298" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.25"/>
-        <circle cx="300" cy="300" r="280" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.15"/>
-        <circle cx="300" cy="300" r="272" fill="none" stroke="#ffffff" stroke-width="3"/>
-        
-        <g clip-path="url(#dcCircle)" filter="url(#dcGrain)">
-          <!-- Space bg -->
-          <rect x="0" y="0" width="600" height="600" fill="#020202"/>
-          
-          <!-- Stars (key ones from SVG) -->
-          <circle cx="510" cy="140" r="0.8" fill="white" opacity="0.7"/>
-          <circle cx="180" cy="480" r="0.6" fill="white" opacity="0.65"/>
-          <circle cx="200" cy="380" r="1.0" fill="white" opacity="0.2"/>
-          <circle cx="260" cy="320" r="1.2" fill="white" opacity="0.15"/>
-          <circle cx="520" cy="480" r="1.0" fill="white" opacity="0.4"/>
-          <circle cx="300" cy="200" r="1.5" fill="white" opacity="0.1"/>
-          <circle cx="480" cy="260" r="1.0" fill="white" opacity="0.3"/>
-          <circle cx="450" cy="200" r="1.5" fill="white" opacity="0.15"/>
-          <circle cx="380" cy="80" r="0.7" fill="white" opacity="0.6"/>
-          <circle cx="150" cy="220" r="0.5" fill="white" opacity="0.5"/>
-          <circle cx="420" cy="120" r="0.5" fill="white" opacity="0.55"/>
-          <circle cx="250" cy="140" r="0.4" fill="white" opacity="0.7"/>
-          <circle cx="350" cy="180" r="0.3" fill="white" opacity="0.45"/>
-          <circle cx="490" cy="350" r="0.4" fill="white" opacity="0.3"/>
-          <circle cx="140" cy="300" r="0.8" fill="white" opacity="0.6"/>
-          <circle cx="180" cy="150" r="0.3" fill="white" opacity="0.55"/>
-          <circle cx="430" cy="450" r="0.5" fill="white" opacity="0.35"/>
-          <circle cx="340" cy="420" r="0.4" fill="white" opacity="0.3"/>
-          <circle cx="410" cy="330" r="0.3" fill="white" opacity="0.25"/>
-          <circle cx="210" cy="430" r="0.6" fill="white" opacity="0.4"/>
-          <circle cx="350" cy="350" r="1.0" fill="white" opacity="0.12"/>
-          <circle cx="530" cy="210" r="0.3" fill="white" opacity="0.4"/>
-          <circle cx="120" cy="420" r="0.5" fill="white" opacity="0.45"/>
-          <circle cx="460" cy="160" r="0.7" fill="white" opacity="0.5"/>
-          <circle cx="230" cy="350" r="0.4" fill="white" opacity="0.35"/>
-          <circle cx="380" cy="280" r="0.5" fill="white" opacity="0.4"/>
-          
-          <!-- Planet (top-left quadrant) -->
-          <g transform="translate(140, 130)">
-            <circle cx="60" cy="60" r="50" fill="#ffffff"/>
-            <!-- Bands -->
-            <ellipse cx="60" cy="48" rx="45" ry="5" fill="rgba(0,0,0,0.08)"/>
-            <ellipse cx="60" cy="58" rx="42" ry="4" fill="rgba(0,0,0,0.06)"/>
-            <ellipse cx="60" cy="72" rx="43" ry="4" fill="rgba(0,0,0,0.07)"/>
-            <!-- Rings -->
-            <ellipse cx="60" cy="60" rx="72" ry="10" fill="none" stroke="#ffffff" stroke-width="3" transform="rotate(-18, 60, 60)" clip-path="inset(0 0 55% 0)" opacity="0.4"/>
-            <ellipse cx="60" cy="60" rx="72" ry="10" fill="none" stroke="#ffffff" stroke-width="3" transform="rotate(-18, 60, 60)" clip-path="inset(55% 0 0 0)" opacity="0.5"/>
-          </g>
-          
-          <!-- Ship (top-right quadrant) - Endurance style -->
-          <g transform="translate(380, 170) rotate(38)">
-            <!-- Trail -->
-            <rect x="45" y="52" width="2" height="20" fill="rgba(255,255,255,0.2)" rx="1"/>
-            <!-- Flames -->
-            <ellipse cx="46" cy="48" rx="8" ry="10" fill="#ffffff" opacity="0.35"/>
-            <ellipse cx="46" cy="50" rx="5" ry="8" fill="#ffffff" opacity="0.6"/>
-            <!-- Main body -->
-            <rect x="42" y="6" width="8" height="24" fill="#ffffff"/>
-            <!-- Pod -->
-            <polygon points="40,0 52,0 56,10 36,10" fill="#ffffff"/>
-            <circle cx="46" cy="5" r="3.5" fill="#000000"/>
-            <!-- Cargo -->
-            <rect x="38" y="16" width="16" height="8" fill="#ffffff" stroke="#000" stroke-width="0.5"/>
-            <line x1="40" y1="18" x2="52" y2="18" stroke="#000" stroke-width="0.3"/>
-            <line x1="40" y1="20" x2="52" y2="20" stroke="#000" stroke-width="0.3"/>
-            <!-- Arms -->
-            <rect x="36" y="8" width="3" height="16" fill="#ffffff"/>
-            <rect x="53" y="8" width="3" height="16" fill="#ffffff"/>
-            <!-- Solar panels -->
-            <rect x="0" y="6" width="12" height="8" fill="#ffffff"/>
-            <rect x="80" y="6" width="12" height="8" fill="#ffffff"/>
-            <rect x="10" y="14" width="2" height="8" fill="#ffffff"/>
-            <rect x="80" y="14" width="2" height="8" fill="#ffffff"/>
-            <!-- Outer ring -->
-            <circle cx="46" cy="16" r="18" fill="none" stroke="#ffffff" stroke-width="2.5"/>
-            <circle cx="46" cy="16" r="14" fill="none" stroke="#ffffff" stroke-width="1.5"/>
-            <!-- Spokes -->
-            <line x1="46" y1="0" x2="46" y2="32" stroke="#ffffff" stroke-width="1"/>
-            <line x1="30" y1="16" x2="62" y2="16" stroke="#ffffff" stroke-width="1"/>
-            <line x1="33" y1="5" x2="58" y2="28" stroke="#ffffff" stroke-width="0.7" opacity="0.4"/>
-            <line x1="58" y1="5" x2="33" y2="28" stroke="#ffffff" stroke-width="0.7" opacity="0.4"/>
-            <!-- Docking port -->
-            <rect x="42" y="-4" width="8" height="5" fill="#ffffff"/>
-            <rect x="44" y="-6" width="4" height="3" fill="none" stroke="#ffffff" stroke-width="1.5" rx="2"/>
-            <!-- Landing legs -->
-            <line x1="40" y1="28" x2="37" y2="36" stroke="#ffffff" stroke-width="1.5"/>
-            <line x1="52" y1="28" x2="55" y2="36" stroke="#ffffff" stroke-width="1.5"/>
-          </g>
-          
-          <!-- Vignette -->
-          <circle cx="300" cy="300" r="275" fill="url(#dcVignette)"/>
-          <defs>
-            <radialGradient id="dcVignette" cx="50%" cy="50%" r="50%">
-              <stop offset="40%" stop-color="#000" stop-opacity="0"/>
-              <stop offset="100%" stop-color="#000" stop-opacity="0.45"/>
-            </radialGradient>
-          </defs>
-        </g>
-      </svg>
-      
+      <div class="hero-bg-container">
+        <img src="/vincent-kan-site/hero_bg.jpg" alt="披露 DISCLOSER" loading="lazy" decoding="async">
+        <div class="film-overlay"></div>
+      </div>
       <div class="ds-text">
         <div class="ds-cline">
           <span class="ds-cl">披</span><span class="ds-cr">露</span>
