@@ -94,38 +94,24 @@ export const prerender = true;
       }
       .platform-arrow { font-size: 0.9rem; color: var(--text-muted, #666); flex-shrink: 0; }
 
-      .rules-box {
-        margin-top: 2.5rem;
-        padding: 1.2rem 1.5rem;
+      .chat-container {
+        margin: 1.5rem 0;
         border: 1px solid var(--border, rgba(255,255,255,0.08));
         border-radius: var(--radius, 10px);
+        overflow: hidden;
         background: var(--bg-card, rgba(255,255,255,0.02));
         animation: slideUp 0.4s ease both;
         animation-delay: 0.25s;
       }
-      .rules-box h2 {
-        font-size: 0.85rem;
-        font-weight: 700;
-        margin-bottom: 0.8rem;
-        font-family: 'SF Mono', 'JetBrains Mono', monospace;
-        letter-spacing: 0.05em;
-        color: var(--neon-cyan, #00e5ff);
+      .chat-container chat-room {
+        --font-family: 'SF Mono', 'JetBrains Mono', monospace;
+        --primary-color: #00e5ff;
+        --bg-color: rgba(10,10,18,0.95);
+        --text-color: #e0e0e0;
       }
-      .rules-box ul { list-style: none; padding: 0; margin: 0; }
-      .rules-box li {
-        font-size: 0.78rem;
-        color: var(--text-secondary, #aaa);
-        padding: 0.35rem 0;
-        padding-left: 1.2rem;
-        position: relative;
-        line-height: 1.5;
-      }
-      .rules-box li::before {
-        content: '›';
-        position: absolute;
-        left: 0;
-        color: var(--neon-cyan, #00e5ff);
-        font-weight: 700;
+      chat-room {
+        height: 500px;
+        display: block;
       }
 
       @media (max-width: 600px) {
@@ -203,29 +189,50 @@ export const prerender = true;
           </a>
         </div>
 
-        <div class="rules-box">
-          <h2>討論區禮儀</h2>
-          <ul>
-            <li>保持開放心態，尊重不同意見</li>
-            <li>引用來源，唔好散播未經證實嘅資訊</li>
-            <li>理性討論，避免人身攻擊</li>
-            <li>分享你嘅經歷同見解，一齊探索未知</li>
-          </ul>
+        <div class="chat-container">
+          <script src="https://chitchatter.im/sdk.js" is:inline></script>
+          <chat-room room="ufo-hk-discussion" />
+        </div>
+
+        <div class="section-hd" style="animation: slideUp 0.4s ease both; animation-delay: 0.3s;">
+          <div class="section-hd-left">
+            <span class="section-hd-acc">LINKS</span>
+            <h2>其他UFO討論平台</h2>
+          </div>
+        </div>
+
+        <div class="platform-grid">
+          <a href="https://reddit.com/r/UFOs" target="_blank" rel="noopener noreferrer" class="platform-card" style="animation-delay: 0.35s">
+            <div class="platform-icon reddit">🔴</div>
+            <div class="platform-body">
+              <h3>Reddit – r/UFOs</h3>
+              <p>全球最大UFO討論社群，超過200萬成員</p>
+              <div class="platform-meta">reddit.com/r/UFOs</div>
+            </div>
+            <span class="platform-arrow">↗</span>
+          </a>
+
+          <a href="https://discord.gg/UFO" target="_blank" rel="noopener noreferrer" class="platform-card" style="animation-delay: 0.4s">
+            <div class="platform-icon discord">💬</div>
+            <div class="platform-body">
+              <h3>Discord – UFO/UAP</h3>
+              <p>即時語音同文字討論</p>
+              <div class="platform-meta">discord.gg/UFO</div>
+            </div>
+            <span class="platform-arrow">↗</span>
+          </a>
+
+          <a href="https://twitter.com/search?q=UFO%20UAP&f=live" target="_blank" rel="noopener noreferrer" class="platform-card" style="animation-delay: 0.45s">
+            <div class="platform-icon x">𝕏</div>
+            <div class="platform-body">
+              <h3>𝕏 (Twitter) – #UFO</h3>
+              <p>追蹤披露最新動態</p>
+              <div class="platform-meta">#UFO / #UAP</div>
+            </div>
+            <span class="platform-arrow">↗</span>
+          </a>
         </div>
       </div>
     </main>
-    <!--Start of Tawk.to Script-->
-    <script type="text/javascript" is:inline>
-    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-    (function(){
-    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-    s1.async=true;
-    s1.src='https://embed.tawk.to/69f04c4b3dea021c3775bb7e/1jn9ak2i0';
-    s1.charset='UTF-8';
-    s1.setAttribute('crossorigin','*');
-    s0.parentNode.insertBefore(s1,s0);
-    })();
-    </script>
-    <!--End of Tawk.to Script-->
   </body>
 </html>
