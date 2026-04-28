@@ -334,8 +334,10 @@ const featuredUAP = uapPosts.slice(1, 4);
     </style>
   </head>
   <body>
-    <!-- ===== DISCLOSER HERO ===== -->
-    <section class="discloser-hero-wrap">
+
+    <Header />
+    <main>
+<section class="discloser-hero-wrap">
       <div class="hero-circle">
         <div class="film-circle">
           <div class="film-circle-inner">
@@ -372,8 +374,7 @@ const featuredUAP = uapPosts.slice(1, 4);
         (function(){const c=document.getElementById('dStars');if(!c)return;for(let i=0;i<80;i++){const s=document.createElement('div');s.className='star';const sz=Math.random()*2+0.5;s.style.width=sz+'px';s.style.height=sz+'px';s.style.left=Math.random()*100+'%';s.style.top=Math.random()*100+'%';s.style.setProperty('--speed',(Math.random()*3+1.5)+'s');s.style.setProperty('--delay',(Math.random()*3)+'s');s.style.setProperty('--max-opacity',(Math.random()*0.7+0.3));c.appendChild(s);}})();
       </script>
     </section>
-    <Header />
-    <main>
+
       <div class="home-wrap">
         <!-- ===== BREAKING ===== -->
         {latestUAP && (
