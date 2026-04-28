@@ -11,6 +11,9 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 ## 事件概述
 
+![芝加哥奧黑爾機場](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+*芝加哥奧黑爾國際機場——2006年UFO目擊地點*
+
 2006 年 11 月 7 日下午約 4:30，芝加哥奧黑爾國際機場（O'Hare International Airport）嘅聯合航空公司員工突然見到一個神秘物體懸浮喺 C17 登機閘口嘅上空。
 
 呢個金屬灰色嘅碟形物體喺雲層下方盤旋約 5 分鐘，之後突然以極快速度垂直向上穿透雲層，留下一個完美圓形嘅雲洞。

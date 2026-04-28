@@ -11,9 +11,15 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 ## 起點：AATIP 時代
 
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/QKHg-vnTFsM" frameborder="0" allowfullscreen loading="lazy"></iframe>
+</div>
+
 2007 年，時任參議員 Harry Reid 主導啟動咗一個機密計劃——**先進航空威脅識別計劃（AATIP）**，由國防情報局（DIA）負責。項目由億萬富翁、Reid 嘅朋友 Robert Bigelow 嘅公司執行，每年撥款 2,200 萬美元。
 
 項目負責人 Luis Elizondo 後來成為公開推動 UAP 披露嘅關鍵人物。
+
+📺 上面係五角大樓官方發布嘅 GIMBAL UAP 影片，由 F/A-18 戰機 FLIR 系統拍攝。
 
 ## 分水嶺：2017 年
 

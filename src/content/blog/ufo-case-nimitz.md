@@ -11,9 +11,15 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 ## 事件概述
 
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/tf1uLwUTDA0" frameborder="0" allowfullscreen loading="lazy"></iframe>
+</div>
+
 2004 年 11 月 14 日，美國海軍核動力航母「尼米茲號」（USS Nimitz）戰鬥群喺加州對出太平洋海域進行例行訓練期間，遭遇咗一個無法解釋嘅不明飛行物體。
 
 呢次事件後來因為五角大樓喺 2017 年公開三段 UAP 影片（FLIR1、GIMBAL、GOFAST）而轟動全球，係少數獲得軍方正式確認嘅 UAP 事件。
+
+🇺🇸 **官方 UAP 影片來源：** [DVIDS 五角大樓官方](https://www.dvidshub.net/video/956955/gimbal-uap) 及 [AARO 官方網站](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)
 
 ## 關鍵人物證詞
 

@@ -11,6 +11,10 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 ## 事件概述
 
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/RJ9kz19fViY" frameborder="0" allowfullscreen loading="lazy"></iframe>
+</div>
+
 1947 年 6 月 24 日下午，私人飛行員 Kenneth Arnold 正駕駛佢嘅 CallAir A-2 飛機前往華盛頓州 Yakima。當佢飛近雷尼爾山（Mount Rainier）附近時，突然見到一串閃亮物體以難以置信嘅速度飛過。
 
 Arnold 後來描述：「佢哋嘅飛行方式好似一隻碟掉喺水面，跳住咁飛。」呢個描述令記者創造咗 **「Flying Saucer」（飛碟）** 呢個詞，從此成為 UFO 嘅代名詞。

@@ -36,6 +36,29 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				padding: 1em;
 				color: rgb(var(--gray-dark));
 			}
+			.prose img {
+				max-width: 100%;
+				height: auto;
+				border-radius: 8px;
+				margin: 1.5rem 0;
+				border: 1px solid var(--border);
+			}
+			.prose .video-embed {
+				position: relative;
+				width: 100%;
+				padding-bottom: 56.25%;
+				margin: 1.5rem 0;
+				border-radius: 8px;
+				overflow: hidden;
+				border: 1px solid var(--border);
+			}
+			.prose .video-embed iframe {
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+			}
 			.title {
 				margin-bottom: 1em;
 				padding: 1em 0;

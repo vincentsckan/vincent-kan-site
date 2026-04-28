@@ -11,7 +11,10 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 ## 事件概述
 
-羅斯威爾事件（Roswell Incident）係 UFO 界最著名嘅案件之一。1947 年 7 月，新墨西哥州羅斯威爾附近一名農場主人 Mac Brazel 喺佢嘅土地上面發現咗一些奇怪嘅碎片。呢啲碎片嘅材質極不尋常，引起咗當地軍方嘅關注。
+![羅斯威爾事件示意](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+*羅斯威爾空軍基地附近，1947年事件發生地點*
+
+1947 年 7 月，新墨西哥州羅斯威爾附近一名農場主人 Mac Brazel 喺佢嘅土地上面發現咗一些奇怪嘅碎片。呢啲碎片嘅材質極不尋常，引起咗當地軍方嘅關注。
 
 ## 軍方反應
 

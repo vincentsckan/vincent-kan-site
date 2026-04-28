@@ -11,7 +11,14 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 ## 事件概述
 
-1989 年 11 月至 1990 年 4 月期間，比利時上空出現大規模不明飛行物體報告。數以千計嘅市民、警察甚至軍方人員都親眼目睹神秘嘅三角形飛行器喺夜空無聲移動。
+![比利時 F-16 戰機](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+*比利時空軍 F-16 戰機曾鎖定三角形 UFO*
+
+1989 年 11 月至 1990 年 4 月期間，比利時上空出現大規模不明飛行物體報告。
+
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/K1nv5JjFZDo" frameborder="0" allowfullscreen loading="lazy"></iframe>
+</div>
 
 ## 關鍵事件：F-16 攔截
 

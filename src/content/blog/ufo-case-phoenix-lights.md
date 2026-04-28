@@ -11,6 +11,10 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 ## 事件概述
 
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/Od1PJ16Tq-c" frameborder="0" allowfullscreen loading="lazy"></iframe>
+</div>
+
 1997 年 3 月 13 日晚上，數千名亞利桑那州居民抬頭見到天空出現一系列神秘亮光，排列成巨大嘅 V 字形緩慢劃過鳳凰城上空。呢次事件被稱為 **「鳳凰城之光」（Phoenix Lights）**，係美國史上最多目擊者嘅 UFO 事件之一。
 
 ## 目擊詳情
