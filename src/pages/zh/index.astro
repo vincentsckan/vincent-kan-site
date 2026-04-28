@@ -1,14 +1,16 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import FormattedDate from '../components/FormattedDate.astro';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+// /zh/index.astro - Chinese version of Home
+// Reuses the same logic as index.astro but forces Chinese language
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import { SITE_TITLE } from '../../consts';
 import { getCollection } from 'astro:content';
-import { useTranslations, getLangFromUrl } from '../i18n';
+import { ui, defaultLang } from '../../i18n';
 
-const lang = getLangFromUrl(Astro.url);
-const t = useTranslations(lang);
+const lang = 'zh';
+const t = (key) => ui[lang][key] || ui.en[key] || key;
 
 const posts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
@@ -16,25 +18,12 @@ const posts = (await getCollection('blog')).sort(
 const uapPosts = posts.filter(p => p.id.startsWith('ufo-')).slice(0, 6);
 const otherPosts = posts.filter(p => !p.id.startsWith('ufo-')).slice(0, 4);
 const latestUAP = uapPosts[0];
-const featuredUAP = uapPosts.slice(1, 4);
-
-// English welcome section
-const welcomeEN = {
-  title: 'Welcome to the UFO/UAP Archive',
-  subtitle: 'A curated collection of UFO/UAP cases, daily news, and in-depth research',
-  cta: 'Browse Articles',
-  breaking: 'BREAKING',
-  more: 'View all →',
-  news_title: 'Latest UAP News',
-  all_articles: 'All Articles',
-  blog_note: '📝 Blog content is primarily in Chinese (Traditional). English summaries coming soon.',
-};
 ---
 
 <!DOCTYPE html>
-<html lang={lang === 'en' ? 'en' : 'zh-HK'}>
+<html lang="zh-HK">
   <head>
-    <BaseHead title={t('meta.title')} description={t('meta.desc')} />
+    <BaseHead title="Vincent Kan — UFO/UAP 研究與新聞" description="科技愛好者 • UFO/UAP 研究者 • AI 玩家 • 香港人" />
     <style is:inline>
 @keyframes fadeIn { 0%{opacity:0} 100%{opacity:1} }
 @keyframes slideUp { 0%{transform:translateY(15px);opacity:0} 100%{transform:translateY(0);opacity:1} }
@@ -130,112 +119,39 @@ const welcomeEN = {
         margin-bottom: 0.6rem;
       }
       .featured-main h2 { font-size: 1.15rem; font-weight: 700; margin-bottom: 0.4rem; line-height: 1.3; }
-      .featured-main p {
-        font-size: 0.82rem; color: var(--text-secondary); margin: 0 0 0.8rem;
-        line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
-      }
-      .featured-main-footer {
-        padding: 0.7rem 1.5rem; border-top: 1px solid var(--border);
-        display: flex; justify-content: space-between;
-        font-size: 0.72rem; font-family:'SF Mono',monospace; color: var(--text-muted);
-      }
+      .featured-main p { font-size: 0.82rem; color: var(--text-secondary); margin: 0 0 0.8rem; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+      .featured-main-footer { padding: 0.7rem 1.5rem; border-top: 1px solid var(--border); display: flex; justify-content: space-between; font-size: 0.72rem; font-family:'SF Mono',monospace; color: var(--text-muted); }
       .featured-side { display: flex; flex-direction: column; gap: 0.75rem; }
-      .featured-side-item {
-        display: flex; gap: 0.75rem; padding: 1rem;
-        background: var(--bg-card); border: 1px solid var(--border);
-        border-radius: var(--radius-sm); text-decoration: none; color: inherit;
-        transition: all 0.2s; flex: 1;
-      }
+      .featured-side-item { display: flex; gap: 0.75rem; padding: 1rem; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius-sm); text-decoration: none; color: inherit; transition: all 0.2s; flex: 1; }
       .featured-side-item:hover { border-color: var(--neon-cyan); }
       .featured-side-icon { font-size: 1rem; margin-top: 0.1rem; }
       .featured-side-body { flex: 1; min-width: 0; }
       .featured-side-body h3 { font-size: 0.82rem; font-weight: 600; margin-bottom: 0.1rem; }
       .featured-side-body p { font-size: 0.72rem; color: var(--text-muted); margin: 0; }
-      .section-hd {
-        display: flex; align-items: center; justify-content: space-between;
-        margin-bottom: 1rem; animation: slideUp 0.4s ease both; animation-delay: 0.2s;
-      }
+      .section-hd { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem; animation: slideUp 0.4s ease both; animation-delay: 0.2s; }
       .section-hd-left { display: flex; align-items: center; gap: 0.6rem; }
-      .section-hd-acc {
-        font-family:'SF Mono',monospace; font-size:0.65rem;
-        color: var(--neon-cyan); letter-spacing:0.08em;
-        padding: 0.15rem 0.4rem; border: 1px solid rgba(0,229,255,0.15); border-radius: 4px;
-      }
+      .section-hd-acc { font-family:'SF Mono',monospace; font-size:0.65rem; color: var(--neon-cyan); letter-spacing:0.08em; padding: 0.15rem 0.4rem; border: 1px solid rgba(0,229,255,0.15); border-radius: 4px; }
       .section-hd h2 { font-size: 1.15rem; font-weight: 700; }
       .section-hd a { font-size: 0.78rem; color: var(--text-muted); font-family:'SF Mono',monospace; }
       .section-hd a:hover { color: var(--neon-cyan); }
-
       .uap-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.85rem; margin-bottom: 2.5rem; }
-      .uap-card {
-        padding: 1rem 1.2rem; background: var(--bg-card);
-        border: 1px solid var(--border); border-radius: var(--radius-sm);
-        text-decoration: none; color: inherit;
-        transition: all 0.25s; animation: slideUp 0.4s ease both;
-      }
-      .uap-card:nth-child(1) { animation-delay: 0.05s; }
-      .uap-card:nth-child(2) { animation-delay: 0.1s; }
-      .uap-card:nth-child(3) { animation-delay: 0.15s; }
-      .uap-card:nth-child(4) { animation-delay: 0.2s; }
-      .uap-card:hover { border-color: var(--neon-cyan); box-shadow: 0 0 15px rgba(0,229,255,0.03); transform: translateY(-1px); }
+      .uap-card { padding: 1rem 1.2rem; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius-sm); text-decoration: none; color: inherit; transition: all 0.25s; animation: slideUp 0.4s ease both; }
+      .uap-card:hover { border-color: var(--neon-cyan); transform: translateY(-1px); }
       .uap-card-meta { font-family:'SF Mono',monospace; font-size:0.62rem; color: var(--text-muted); margin-bottom: 0.25rem; display: flex; gap: 0.4rem; }
       .uap-card-meta .uap-tag { color: var(--neon-cyan); font-weight: 600; }
       .uap-card h3 { font-size: 0.88rem; font-weight: 600; margin-bottom: 0.2rem; }
       .uap-card p { font-size: 0.76rem; color: var(--text-secondary); margin: 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-
-      .feed { margin-bottom: 2.5rem; }
-      .feed-item {
-        display: flex; gap: 0.85rem; padding: 0.8rem 0;
-        border-bottom: 1px solid var(--border);
-        text-decoration: none; color: inherit; transition: all 0.2s; animation: fadeIn 0.5s ease both;
-      }
-      .feed-item:last-child { border-bottom: none; }
-      .feed-item:hover h3 { color: var(--neon-cyan); }
-      .feed-icon {
-        flex-shrink: 0; width: 28px; height: 28px;
-        display: flex; align-items: center; justify-content: center;
-        background: rgba(0,229,255,0.04); border: 1px solid var(--border);
-        border-radius: 50%; font-size: 0.75rem;
-      }
-      .feed-body { flex: 1; min-width: 0; }
-      .feed-meta { font-family:'SF Mono',monospace; font-size:0.65rem; color:var(--text-muted); margin-bottom:0.05rem; }
-      .feed-body h3 { font-size:0.85rem; font-weight:600; margin:0; transition:color 0.2s; }
-      .feed-body p { font-size:0.76rem; color:var(--text-secondary); margin:0.1rem 0 0; }
-
-      .domains {
-        display: grid; grid-template-columns: repeat(5, 1fr); gap: 0.75rem;
-        margin-bottom: 2rem;
-      }
-      .domain-item {
-        padding: 1rem 0.75rem; background: var(--bg-card);
-        border: 1px solid var(--border); border-radius: var(--radius-sm);
-        text-align: center; text-decoration: none; color: inherit;
-        transition: all 0.2s; animation: slideUp 0.4s ease both;
-      }
-      .domain-item:hover { border-color: var(--neon-cyan); background: rgba(0,229,255,0.02); }
+      .domains { display: grid; grid-template-columns: repeat(5, 1fr); gap: 0.75rem; margin-bottom: 2rem; }
+      .domain-item { padding: 1rem 0.75rem; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius-sm); text-align: center; text-decoration: none; color: inherit; transition: all 0.2s; }
+      .domain-item:hover { border-color: var(--neon-cyan); }
       .domain-icon { font-size: 1.2rem; margin-bottom: 0.25rem; }
       .domain-label { font-size: 0.72rem; font-weight: 500; }
       .domain-count { font-size: 0.62rem; font-family:'SF Mono',monospace; color: var(--neon-cyan); margin-top: 0.15rem; }
-
-      .blog-note {
-        padding: 0.7rem 1rem;
-        border: 1px solid rgba(0,229,255,0.1);
-        border-radius: var(--radius-sm);
-        background: rgba(0,229,255,0.03);
-        margin-bottom: 1.5rem;
-        font-size: 0.8rem;
-        color: var(--text-muted);
-        font-family: 'SF Mono', monospace;
-      }
-
       @media(max-width: 700px) {
         .hero-section h1 { font-size: 1.5rem; }
         .featured { grid-template-columns: 1fr; }
         .uap-grid { grid-template-columns: 1fr; }
-        .domains { grid-template-columns: repeat(3, 1fr); gap: 0.5rem; }
-      }
-      @media(max-width: 480px) {
-        .hero-section { padding: 2rem 0; }
-        .home-wrap { padding: 0 0.65rem; }
+        .domains { grid-template-columns: repeat(3, 1fr); }
       }
     </style>
   </head>
@@ -243,41 +159,21 @@ const welcomeEN = {
     <Header />
     <main>
       <div class="home-wrap">
-        <!-- HERO -->
         <section class="hero-section">
-          <h1><span class="acc">UFO</span>/UAP Research & Archive</h1>
-          {lang === 'en' ? (
-            <>
-              <p>A curated collection of UFO/UAP cases, daily news updates, and in-depth research — free and ad-free.</p>
-              <a href="/vincent-kan-site/blog" class="hero-cta">Browse Articles →</a>
-            </>
-          ) : (
-            <>
-              <p>UFO/UAP 案例庫、每日新聞更新、深度研究分析 — 免費開放</p>
-              <a href="/vincent-kan-site/zh/blog" class="hero-cta">瀏覽文章 →</a>
-            </>
-          )}
+          <h1><span class="acc">UFO</span>/UAP 研究與新聞庫</h1>
+          <p>UFO/UAP 案例庫、每日新聞更新、深度研究分析 — 免費開放</p>
+          <a href="/vincent-kan-site/zh/blog" class="hero-cta">瀏覽文章 →</a>
         </section>
 
-        <!-- BREAKING -->
         {latestUAP && (
           <a href={`/vincent-kan-site/blog/${latestUAP.id}/`} class="breaking">
             <span class="breaking-dot"></span>
-            <span class="breaking-label">{lang === 'en' ? 'BREAKING' : '突發'}</span>
+            <span class="breaking-label">突發</span>
             <span class="breaking-title">{latestUAP.data.title}</span>
             <span class="breaking-arrow">→</span>
           </a>
         )}
 
-        <!-- Language note for English visitors -->
-        {lang === 'en' && (
-          <div class="blog-note">
-            📝 Blog content is currently in Chinese (Traditional). 
-            <a href="/vincent-kan-site/zh/" style="color: var(--neon-cyan);">View Chinese version →</a>
-          </div>
-        )}
-
-        <!-- FEATURED -->
         <div class="featured">
           {latestUAP ? (
             <a href={`/vincent-kan-site/blog/${latestUAP.id}/`} class="featured-main">
@@ -288,19 +184,18 @@ const welcomeEN = {
               </div>
               <div class="featured-main-footer">
                 <span><FormattedDate date={latestUAP.data.pubDate} /></span>
-                <span>{lang === 'en' ? 'Read more →' : '閱讀全文 →'}</span>
+                <span>閱讀全文 →</span>
               </div>
             </a>
           ) : (
             <div class="featured-main">
               <div class="featured-main-top">
                 <span class="featured-tag">🛸 UFO/UAP</span>
-                <h2>{lang === 'en' ? 'Global UFO/UAP News Digest' : '全球UFO/UAP新聞摘要'}</h2>
-                <p>{lang === 'en' ? 'Daily curated UFO news covering government disclosure, case analysis, and global developments.' : 'AI自動搜集每日全球UFO重點新聞，涵蓋政府披露、懸案分析。'}</p>
+                <h2>全球UFO/UAP新聞摘要</h2>
+                <p>AI自動搜集每日全球UFO重點新聞，涵蓋政府披露、懸案分析。</p>
               </div>
             </div>
           )}
-
           <div class="featured-side">
             {uapPosts.slice(1, 3).map(p => (
               <a href={`/vincent-kan-site/blog/${p.id}/`} class="featured-side-item">
@@ -323,44 +218,42 @@ const welcomeEN = {
           </div>
         </div>
 
-        <!-- QUICK LINKS -->
         <div class="domains">
-          <a href={lang === 'en' ? '/vincent-kan-site/blog' : '/vincent-kan-site/zh/blog'} class="domain-item">
+          <a href="/vincent-kan-site/zh/blog" class="domain-item">
             <div class="domain-icon">🛸</div>
-            <div class="domain-label">{lang === 'en' ? 'UFO News' : 'UFO 新聞'}</div>
-            <div class="domain-count">{uapPosts.length} {lang === 'en' ? 'posts' : '篇'}</div>
+            <div class="domain-label">UFO 新聞</div>
+            <div class="domain-count">{uapPosts.length} 篇</div>
           </a>
-          <a href={lang === 'en' ? '/vincent-kan-site/projects' : '/vincent-kan-site/zh/projects'} class="domain-item">
+          <a href="/vincent-kan-site/zh/projects" class="domain-item">
             <div class="domain-icon">⚡</div>
-            <div class="domain-label">{lang === 'en' ? 'Projects' : '專案'}</div>
-            <div class="domain-count">3</div>
+            <div class="domain-label">專案</div>
+            <div class="domain-count">3 個</div>
           </a>
-          <a href={lang === 'en' ? '/vincent-kan-site/about' : '/vincent-kan-site/zh/about'} class="domain-item">
+          <a href="/vincent-kan-site/zh/about" class="domain-item">
             <div class="domain-icon">👤</div>
-            <div class="domain-label">{lang === 'en' ? 'About' : '關於我'}</div>
-            <div class="domain-count">{lang === 'en' ? 'Bio' : '簡介'}</div>
+            <div class="domain-label">關於我</div>
+            <div class="domain-count">簡介</div>
           </a>
           <a href="/vincent-kan-site/forum" class="domain-item">
             <div class="domain-icon">💬</div>
-            <div class="domain-label">{lang === 'en' ? 'Forum' : '討論區'}</div>
-            <div class="domain-count">{lang === 'en' ? 'Chat' : '交流學習'}</div>
+            <div class="domain-label">討論區</div>
+            <div class="domain-count">交流學習</div>
           </a>
-          <a href={lang === 'en' ? '/vincent-kan-site/blog' : '/vincent-kan-site/zh/blog'} class="domain-item">
+          <a href="/vincent-kan-site/zh/blog" class="domain-item">
             <div class="domain-icon">📰</div>
-            <div class="domain-label">{lang === 'en' ? 'All Posts' : '全部文章'}</div>
-            <div class="domain-count">{posts.length} {lang === 'en' ? 'total' : '篇'}</div>
+            <div class="domain-label">全部文章</div>
+            <div class="domain-count">{posts.length} 篇</div>
           </a>
         </div>
 
-        <!-- MORE UFO NEWS -->
         {uapPosts.length > 1 && (
           <>
             <div class="section-hd">
               <div class="section-hd-left">
                 <span class="section-hd-acc">/UAP</span>
-                <h2>{lang === 'en' ? 'Latest UAP News' : 'UFO 新聞總覽'}</h2>
+                <h2>UFO 新聞總覽</h2>
               </div>
-              <a href={lang === 'en' ? '/vincent-kan-site/blog' : '/vincent-kan-site/zh/blog'}>{lang === 'en' ? 'View all →' : '查看全部 →'}</a>
+              <a href="/vincent-kan-site/zh/blog">查看全部 →</a>
             </div>
             <div class="uap-grid">
               {uapPosts.slice(1, 5).map(p => (
@@ -371,31 +264,6 @@ const welcomeEN = {
                   </div>
                   <h3>{p.data.title}</h3>
                   <p>{p.data.description}</p>
-                </a>
-              ))}
-            </div>
-          </>
-        )}
-
-        <!-- OTHER POSTS -->
-        {otherPosts.length > 0 && (
-          <>
-            <div class="section-hd">
-              <div class="section-hd-left">
-                <span class="section-hd-acc">/BLOG</span>
-                <h2>{lang === 'en' ? 'Latest Posts' : '最新文章'}</h2>
-              </div>
-              <a href={lang === 'en' ? '/vincent-kan-site/blog' : '/vincent-kan-site/zh/blog'}>{lang === 'en' ? 'View all →' : '全部 →'}</a>
-            </div>
-            <div class="feed">
-              {otherPosts.slice(0, 4).map(p => (
-                <a href={`/vincent-kan-site/blog/${p.id}/`} class="feed-item">
-                  <div class="feed-icon">📝</div>
-                  <div class="feed-body">
-                    <div class="feed-meta"><FormattedDate date={p.data.pubDate} /></div>
-                    <h3>{p.data.title}</h3>
-                    <p>{p.data.description}</p>
-                  </div>
                 </a>
               ))}
             </div>

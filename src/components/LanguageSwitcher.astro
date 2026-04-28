@@ -1,0 +1,49 @@
+---
+// LanguageSwitcher.astro - Language toggle component
+// Shows current language and allows switching
+
+import { useTranslations, getLangFromUrl, getLocalizedPath, languages, defaultLang } from '../i18n';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const targetLang = lang === 'en' ? 'zh' : 'en';
+const targetPath = getLocalizedPath(Astro.url.pathname, lang, targetLang);
+---
+
+<div class="lang-switcher">
+  <a href={targetPath} class="lang-link" title={t('lang.switch')}>
+    <span class="lang-icon">🌐</span>
+    <span class="lang-text">{t('lang.switch')}</span>
+  </a>
+</div>
+
+<style>
+  .lang-switcher {
+    display: inline-flex;
+    align-items: center;
+  }
+  .lang-link {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.3rem 0.7rem;
+    border-radius: 6px;
+    text-decoration: none;
+    color: var(--text-muted);
+    font-size: 0.78rem;
+    font-family: 'SF Mono', 'SFMono-Regular', monospace;
+    transition: all 0.2s;
+    border: 1px solid transparent;
+  }
+  .lang-link:hover {
+    color: var(--neon-cyan);
+    border-color: rgba(0, 229, 255, 0.15);
+    background: rgba(0, 229, 255, 0.03);
+  }
+  .lang-icon {
+    font-size: 0.9rem;
+  }
+  .lang-text {
+    white-space: nowrap;
+  }
+</style>

@@ -1,33 +1,39 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Footer from '../components/Footer.astro';
-import Header from '../components/Header.astro';
-import { useTranslations, getLangFromUrl } from '../i18n';
+import BaseHead from '../../components/BaseHead.astro';
+import { SITE_TITLE } from '../../consts';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
 
-const lang = getLangFromUrl(Astro.url);
-const t = useTranslations(lang);
+const ui = {
+  zh: {
+    'about.title': '關於',
+    'about.bio': '科技愛好者、UFO/UAP 研究者、AI 玩家，現居香港。',
+    'about.interests': '興趣',
+  }
+};
+const t = (key) => ui.zh[key] || key;
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-HK">
   <head>
-    <BaseHead title="About — Vincent Kan" description={t('about.bio')} />
+    <BaseHead title="關於 — Vincent Kan" description="關於 Vincent Kan" />
   </head>
   <body>
     <Header />
     <main>
       <article class="about-page">
         <header class="page-header">
-          <h1>{t('about.title')}</h1>
+          <h1>關於我</h1>
         </header>
 
         <div class="about-layout">
           <div class="about-main">
             <h2>Vincent Kan</h2>
-            <p class="about-location">📍 Hong Kong</p>
+            <p class="about-location">📍 香港</p>
             <div class="about-bio">
-              <p>Tech enthusiast, AI hobbyist, and UFO/UAP researcher. I love exploring new technology and building automation tools to make life easier.</p>
-              <p>I believe transparency is key to UAP disclosure. Currently researching AI automation and global UFO news monitoring systems.</p>
+              <p>科技愛好者，AI 玩家，UFO/UAP 研究愛好者。鍾意探索新科技，整自動化工具令生活更方便。</p>
+              <p>相信透明度係推動 UAP 披露嘅關鍵。目前研究緊 AI 自動化同全球 UFO 新聞監測系統。</p>
             </div>
             <div class="about-contact">
               <span class="skill-badge">vincentsc.kan@gmail.com</span>
@@ -36,13 +42,13 @@ const t = useTranslations(lang);
           </div>
           <aside class="about-sidebar">
             <div class="card">
-              <h3>{t('about.interests')}</h3>
+              <h3>興趣領域</h3>
               <ul class="interest-list">
-                <li><strong>AI & Automation</strong> — LLMs, AI agents</li>
-                <li><strong>UFO/UAP</strong> — Global news tracking</li>
-                <li><strong>Web Dev</strong> — Astro, React</li>
-                <li><strong>Linux</strong> — Servers, DevOps</li>
-                <li><strong>Data</strong> — Pipelines, scraping</li>
+                <li><strong>AI & 自動化</strong> — LLM, AI 代理</li>
+                <li><strong>UFO/UAP</strong> — 全球新聞追蹤</li>
+                <li><strong>網站開發</strong> — Astro, React</li>
+                <li><strong>Linux</strong> — 伺服器, DevOps</li>
+                <li><strong>數據</strong> — 資料管線, 爬蟲</li>
               </ul>
             </div>
           </aside>
@@ -54,13 +60,7 @@ const t = useTranslations(lang);
     <style>
       .page-header { margin-bottom: 2.5rem; }
       .page-header h1 { font-size: 2rem; }
-
-      .about-layout {
-        display: grid;
-        grid-template-columns: 1.4fr 1fr;
-        gap: 2rem;
-        align-items: start;
-      }
+      .about-layout { display: grid; grid-template-columns: 1.4fr 1fr; gap: 2rem; align-items: start; }
       .about-main h2 { font-size: 1.6rem; margin-bottom: 0.25rem; }
       .about-location { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1.2rem; }
       .about-bio p { margin-bottom: 0.75rem; font-size: 0.95rem; }

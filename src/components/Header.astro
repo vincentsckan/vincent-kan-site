@@ -1,19 +1,25 @@
 ---
 import HeaderLink from './HeaderLink.astro';
+import LanguageSwitcher from './LanguageSwitcher.astro';
 import { SITE_TITLE } from '../consts';
+import { useTranslations, getLangFromUrl } from '../i18n';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
 ---
 
 <header>
   <nav>
-    <a href="/vincent-kan-site/" class="logo">
+    <a href={lang === 'en' ? '/vincent-kan-site/' : '/vincent-kan-site/zh/'} class="logo">
       <span class="logo-acc">&gt;</span> {SITE_TITLE}
     </a>
     <div class="nav-links">
-      <HeaderLink href="/vincent-kan-site/">首頁</HeaderLink>
-      <HeaderLink href="/vincent-kan-site/blog">文章</HeaderLink>
-      <HeaderLink href="/vincent-kan-site/projects">專案</HeaderLink>
-      <HeaderLink href="/vincent-kan-site/forum">討論區</HeaderLink>
-      <HeaderLink href="/vincent-kan-site/about">關於</HeaderLink>
+      <HeaderLink href={lang === 'en' ? '/vincent-kan-site/' : '/vincent-kan-site/zh/'}>{t('nav.home')}</HeaderLink>
+      <HeaderLink href={lang === 'en' ? '/vincent-kan-site/blog' : '/vincent-kan-site/zh/blog'}>{t('nav.blog')}</HeaderLink>
+      <HeaderLink href={lang === 'en' ? '/vincent-kan-site/projects' : '/vincent-kan-site/zh/projects'}>{t('nav.projects')}</HeaderLink>
+      <HeaderLink href={lang === 'en' ? '/vincent-kan-site/forum' : '/vincent-kan-site/zh/forum'}>{t('nav.forum')}</HeaderLink>
+      <HeaderLink href={lang === 'en' ? '/vincent-kan-site/about' : '/vincent-kan-site/zh/about'}>{t('nav.about')}</HeaderLink>
+      <LanguageSwitcher />
     </div>
   </nav>
 </header>
