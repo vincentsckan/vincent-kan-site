@@ -1,0 +1,141 @@
+---
+export const prerender = true;
+---
+<!doctype html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>披露 DISCLOSER</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@700;900&display=swap');
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #050505; min-height: 100vh; min-height: 100dvh;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    font-family: 'Cormorant Garamond', 'Georgia', 'Times New Roman', serif;
+    overflow: hidden;
+  }
+  .container { width: 100%; max-width: 440px; padding: 20px; display: flex; flex-direction: column; align-items: center; }
+  .hero { position: relative; width: 100%; max-width: 360px; aspect-ratio: 1/1; margin: 0 auto; }
+  .film-circle {
+    position: relative; width: 100%; height: 100%; border-radius: 50%; overflow: hidden;
+    border: 10px solid #ffffff;
+    box-shadow: 0 0 0 2px rgba(255,255,255,0.15) inset, 0 0 0 4px rgba(255,255,255,0.08) inset,
+      0 0 0 8px rgba(0,0,0,1) inset, 0 0 0 10px rgba(255,255,255,0.25) inset, 0 0 30px rgba(0,0,0,0.6) inset;
+  }
+  .film-circle-inner { position: absolute; inset: 0; border-radius: 50%; background: #020202; overflow: hidden; }
+  .stars-container { position: absolute; inset: 0; }
+  .star { position: absolute; background: #ffffff; border-radius: 50%; animation: twinkle var(--speed) ease-in-out infinite alternate; animation-delay: var(--delay); }
+  @keyframes twinkle { 0%{opacity:0.1} 100%{opacity:var(--max-opacity)} }
+  .planet-container { position: absolute; top:22%; left:18%; width:35%; height:35%; animation: floatP 6s ease-in-out infinite; }
+  @keyframes floatP { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-6px)} }
+  .planet { width:100%; height:100%; border-radius:50%; background:#ffffff; position:relative; }
+  .planet-band { position:absolute; left:5%; width:90%; height:10%; background:rgba(0,0,0,0.08); border-radius:50%; }
+  .planet-band-1 { top:38%; } .planet-band-2 { top:56%; }
+  .ring-back, .ring-front { position:absolute; top:42%; left:-15%; width:130%; height:16%; border:3px solid #ffffff; border-radius:50%; transform:rotate(-22deg); }
+  .ring-back { clip-path:inset(0 0 50% 0); opacity:0.45; border-width:4px; }
+  .ring-front { clip-path:inset(50% 0 0 0); opacity:0.55; border-width:4px; }
+  .ship-container { position:absolute; top:42%; right:30%; width:30%; height:30%; animation: flyS 8s ease-in-out infinite; }
+  @keyframes flyS { 0%,100%{transform:translate(0,0) rotate(42deg)} 50%{transform:translate(-8px,4px) rotate(42deg)} }
+  .ship { position:relative; width:100%; height:100%; }
+  .ship-flame { position:absolute; bottom:2%; left:50%; transform:translateX(-50%); width:20%; height:25%; background:#ffffff; border-radius:50%; opacity:0.4; animation:flameP 0.4s ease-in-out infinite alternate; }
+  .ship-flame-inner { position:absolute; bottom:0%; left:50%; transform:translateX(-50%); width:12%; height:20%; background:#ffffff; border-radius:50%; opacity:0.7; animation:flameP 0.3s ease-in-out infinite alternate-reverse; }
+  @keyframes flameP { 0%{transform:translateX(-50%) scaleY(0.8);opacity:0.3} 100%{transform:translateX(-50%) scaleY(1.1);opacity:0.5} }
+  .ship-trail { position:absolute; bottom:-8%; left:50%; transform:translateX(-50%); width:4px; height:20%; background:linear-gradient(to bottom, rgba(255,255,255,0.3), transparent); animation:trailM 1s linear infinite; }
+  @keyframes trailM { 0%{height:5%;opacity:0.3} 100%{height:25%;opacity:0} }
+  .ship-body { position:absolute; top:10%; left:42%; width:16%; height:60%; background:#ffffff; border-radius:2px; }
+  .ship-pod { position:absolute; top:0%; left:30%; width:40%; height:25%; background:#ffffff; clip-path:polygon(20% 0%,80% 0%,100% 100%,0% 100%); border-radius:4px 4px 0 0; }
+  .ship-pod-window { position:absolute; top:8%; left:50%; transform:translateX(-50%); width:40%; height:40%; background:#000000; border-radius:50%; }
+  .ship-cargo { position:absolute; top:40%; left:30%; width:40%; height:25%; background:#ffffff; border:1px solid #000000; }
+  .ship-arm-l, .ship-arm-r { position:absolute; top:18%; width:6%; height:50%; background:#ffffff; }
+  .ship-arm-l { left:30%; } .ship-arm-r { right:30%; }
+  .ship-panel-l, .ship-panel-r { position:absolute; top:14%; width:20%; height:18%; background:#ffffff; border-radius:2px; }
+  .ship-panel-l { left:0%; } .ship-panel-r { right:0%; }
+  .ship-ring { position:absolute; top:16%; left:16%; width:68%; height:55%; border:3px solid #ffffff; border-radius:50%; }
+  .ship-ring-inner { position:absolute; top:22%; left:22%; width:56%; height:45%; border:2px solid #ffffff; border-radius:50%; }
+  .ship-spoke-v { position:absolute; top:0%; left:50%; transform:translateX(-50%); width:2px; height:80%; background:#ffffff; }
+  .ship-spoke-h { position:absolute; top:35%; left:10%; width:80%; height:2px; background:#ffffff; }
+  .ship-leg-l, .ship-leg-r { position:absolute; bottom:2%; width:3px; height:12%; background:#ffffff; }
+  .ship-leg-l { left:35%; transform:rotate(15deg); } .ship-leg-r { right:35%; transform:rotate(-15deg); }
+  .grain-overlay { position:absolute; inset:0; border-radius:50%; opacity:0.04; pointer-events:none; background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E"); background-size:128px 128px; }
+  .vignette { position:absolute; inset:-5%; border-radius:50%; pointer-events:none; background:radial-gradient(ellipse at center, transparent 45%, rgba(0,0,0,0.5) 100%); }
+  .text-area { text-align:center; margin-top:20px; width:100%; }
+  .chinese-line { display:flex; align-items:center; justify-content:center; }
+  .char-left, .char-right { font-size:44px; font-weight:900; color:#ffffff; display:inline-block; letter-spacing:20px; opacity:0; -webkit-animation:flyIn 0.8s cubic-bezier(0.16,1,0.3,1) forwards; animation:flyIn 0.8s cubic-bezier(0.16,1,0.3,1) forwards; }
+  .char-left { -webkit-animation-name:flyInL; animation-name:flyInL; -webkit-animation-delay:0.5s; animation-delay:0.5s; }
+  .char-right { -webkit-animation-name:flyInR; animation-name:flyInR; -webkit-animation-delay:0.5s; animation-delay:0.5s; }
+  @-webkit-keyframes flyInL { 0%{opacity:0;-webkit-transform:translateX(-80px);transform:translateX(-80px)} 100%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)} }
+  @keyframes flyInL { 0%{opacity:0;transform:translateX(-80px)} 100%{opacity:1;transform:translateX(0)} }
+  @-webkit-keyframes flyInR { 0%{opacity:0;-webkit-transform:translateX(80px);transform:translateX(80px)} 100%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)} }
+  @keyframes flyInR { 0%{opacity:0;transform:translateX(80px)} 100%{opacity:1;transform:translateX(0)} }
+  .separator { display:block; height:1.5px; background:rgba(255,255,255,0.6); margin:6px auto 0; width:0; -webkit-animation:sepG 0.7s ease-out forwards; animation:sepG 0.7s ease-out forwards; -webkit-animation-delay:1.2s; animation-delay:1.2s; }
+  @-webkit-keyframes sepG { 0%{width:0} 100%{width:150px} }
+  @keyframes sepG { 0%{width:0} 100%{width:150px} }
+  .english { font-size:16px; font-weight:700; color:rgba(255,255,255,0.7); letter-spacing:12px; margin-top:8px; opacity:0; -webkit-animation:riseUp 0.7s ease-out forwards; animation:riseUp 0.7s ease-out forwards; -webkit-animation-delay:1.4s; animation-delay:1.4s; }
+  @-webkit-keyframes riseUp { 0%{opacity:0;-webkit-transform:translateY(20px);transform:translateY(20px)} 100%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)} }
+  @keyframes riseUp { 0%{opacity:0;transform:translateY(20px)} 100%{opacity:1;transform:translateY(0)} }
+  .restart-btn { margin-top:20px; padding:8px 20px; background:transparent; border:1px solid rgba(255,255,255,0.2); color:rgba(255,255,255,0.4); font-family:'Cormorant Garamond',serif; font-size:12px; letter-spacing:3px; cursor:pointer; border-radius:4px; -webkit-appearance:none; appearance:none; -webkit-tap-highlight-color:transparent; }
+  .restart-btn:active { border-color:rgba(255,255,255,0.5); color:rgba(255,255,255,0.7); }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="hero">
+    <div class="film-circle">
+      <div class="film-circle-inner">
+        <div class="stars-container" id="starsContainer"></div>
+        <div class="planet-container">
+          <div class="planet">
+            <div class="planet-band planet-band-1"></div>
+            <div class="planet-band planet-band-2"></div>
+            <div class="ring-back"></div><div class="ring-front"></div>
+          </div>
+        </div>
+        <div class="ship-container">
+          <div class="ship">
+            <div class="ship-flame"></div><div class="ship-flame-inner"></div><div class="ship-trail"></div>
+            <div class="ship-body"></div>
+            <div class="ship-pod"><div class="ship-pod-window"></div></div>
+            <div class="ship-cargo"></div><div class="ship-arm-l"></div><div class="ship-arm-r"></div>
+            <div class="ship-panel-l"></div><div class="ship-panel-r"></div>
+            <div class="ship-ring"></div><div class="ship-ring-inner"></div>
+            <div class="ship-spoke-v"></div><div class="ship-spoke-h"></div>
+            <div class="ship-leg-l"></div><div class="ship-leg-r"></div>
+          </div>
+        </div>
+        <div class="grain-overlay"></div><div class="vignette"></div>
+      </div>
+    </div>
+  </div>
+  <div class="text-area">
+    <div class="chinese-line">
+      <span class="char-left">披</span><span class="char-right">露</span>
+    </div>
+    <span class="separator"></span>
+    <div class="english">D I S C L O S E R</div>
+  </div>
+  <button class="restart-btn" onclick="restartAnim()">⟳ REPLAY</button>
+</div>
+<script>
+  const c = document.getElementById('starsContainer');
+  for (let i = 0; i < 120; i++) {
+    const s = document.createElement('div'); s.className = 'star';
+    const sz = Math.random() * 2.5 + 0.5;
+    s.style.width = sz + 'px'; s.style.height = sz + 'px';
+    s.style.left = Math.random() * 100 + '%'; s.style.top = Math.random() * 100 + '%';
+    s.style.setProperty('--speed', (Math.random() * 3 + 1.5) + 's');
+    s.style.setProperty('--delay', (Math.random() * 3) + 's');
+    s.style.setProperty('--max-opacity', (Math.random() * 0.7 + 0.3));
+    c.appendChild(s);
+  }
+  function restartAnim() {
+    document.querySelectorAll('.char-left, .char-right, .separator, .english').forEach(el => {
+      el.style.animation = 'none'; el.style.webkitAnimation = 'none';
+      void el.offsetHeight;
+      el.style.animation = ''; el.style.webkitAnimation = '';
+    });
+  }
+</script>
+</body>
+</html>
