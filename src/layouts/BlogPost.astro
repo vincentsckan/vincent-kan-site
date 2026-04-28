@@ -75,6 +75,45 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			.last-updated-on {
 				font-style: italic;
 			}
+			.share-section {
+				margin-top: 2rem;
+				padding: 1rem 0;
+			}
+			.share-label {
+				font-size: 1.1rem;
+				margin-bottom: 0.8rem;
+				color: #00ffff;
+				text-shadow: 0 0 10px rgba(0,255,255,0.5);
+			}
+			.share-buttons {
+				display: flex;
+				gap: 0.8rem;
+				flex-wrap: wrap;
+			}
+			.share-btn {
+				padding: 0.5rem 1rem;
+				border-radius: 6px;
+				text-decoration: none;
+				font-size: 0.9rem;
+				font-family: inherit;
+				border: 1px solid var(--accent);
+				background: rgba(0,255,255,0.05);
+				color: var(--accent);
+				transition: all 0.2s;
+			}
+			.share-btn:hover {
+				background: rgba(0,255,255,0.2);
+				box-shadow: 0 0 15px rgba(0,255,255,0.3);
+				transform: translateY(-2px);
+			}
+			@media (max-width: 480px) {
+				.share-buttons {
+					flex-direction: column;
+				}
+				.share-btn {
+					text-align: center;
+				}
+			}
 		</style>
 	</head>
 
@@ -101,6 +140,16 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 						<hr />
 					</div>
 					<slot />
+					<div class="share-section">
+						<hr />
+						<p class="share-label">📤 分享呢篇文章</p>
+						<div class="share-buttons">
+							<a href="https://twitter.com/intent/tweet?text={encodeURIComponent(title)}&url={encodeURIComponent(Astro.url)}" target="_blank" rel="noopener" class="share-btn twitter">𝕏 Twitter</a>
+							<a href="https://www.facebook.com/sharer/sharer.php?u={encodeURIComponent(Astro.url)}" target="_blank" rel="noopener" class="share-btn facebook">📘 Facebook</a>
+							<a href="https://wa.me/?text={encodeURIComponent(title + ' ' + Astro.url)}" target="_blank" rel="noopener" class="share-btn whatsapp">📱 WhatsApp</a>
+							<a href="https://t.me/share/url?url={encodeURIComponent(Astro.url)}&text={encodeURIComponent(title)}" target="_blank" rel="noopener" class="share-btn telegram">✈️ Telegram</a>
+						</div>
+					</div>
 				</div>
 			</article>
 		</main>
