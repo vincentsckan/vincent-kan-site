@@ -246,9 +246,9 @@ const featuredUAP = uapPosts.slice(1, 4);
       }
       .discloser-hero-wrap .film-circle {
         position: relative; width: 100%; height: 100%; border-radius: 50%; overflow: hidden;
-        border: 8px solid #ffffff;
+        border: 10px solid #ffffff;
         box-shadow: 0 0 0 2px rgba(255,255,255,0.15) inset, 0 0 0 4px rgba(255,255,255,0.08) inset,
-          0 0 0 6px rgba(0,0,0,1) inset, 0 0 0 8px rgba(255,255,255,0.25) inset;
+          0 0 0 8px rgba(0,0,0,1) inset, 0 0 0 10px rgba(255,255,255,0.25) inset;
       }
       .discloser-hero-wrap .film-circle-inner { position: absolute; inset: 0; border-radius: 50%; background: #020202; overflow: hidden; }
       .discloser-hero-wrap .stars-container { position: absolute; inset: 0; }
@@ -267,48 +267,57 @@ const featuredUAP = uapPosts.slice(1, 4);
       .discloser-hero-wrap .ship-container { position:absolute; top:42%; right:28%; width:30%; height:30%; animation: dFly 8s ease-in-out infinite; }
       @keyframes dFly { 0%,100%{transform:translate(0,0) rotate(42deg)} 50%{transform:translate(-6px,3px) rotate(42deg)} }
       .discloser-hero-wrap .ship { position:relative; width:100%; height:100%; }
-      .discloser-hero-wrap .ship-flame { position:absolute; bottom:0%; left:50%; transform:translateX(-50%); width:22%; height:30%; background:#ffffff; border-radius:50%; opacity:0.4; animation:dFlame 0.4s ease-in-out infinite alternate; }
-      .discloser-hero-wrap .ship-flame-inner { position:absolute; bottom:-2%; left:50%; transform:translateX(-50%); width:14%; height:25%; background:#ffffff; border-radius:50%; opacity:0.7; animation:dFlame 0.3s ease-in-out infinite alternate-reverse; }
-      @keyframes dFlame { 0%{transform:translateX(-50%) scaleY(0.8);opacity:0.3} 100%{transform:translateX(-50%) scaleY(1.1);opacity:0.5} }
-      .discloser-hero-wrap .ship-trail { position:absolute; bottom:-15%; left:50%; transform:translateX(-50%); width:4px; height:25%; background:linear-gradient(to bottom, rgba(255,255,255,0.4), transparent); animation:dTrail 1.5s linear infinite; }
-      @keyframes dTrail { 0%{height:5%;opacity:0.3} 100%{height:35%;opacity:0} }
+      /* Engine flames */
+      .discloser-hero-wrap .ship-flame { position:absolute; bottom:-2%; left:50%; transform:translateX(-50%); width:24%; height:35%; background:#ffffff; border-radius:50%; opacity:0.35; animation:dFlame 0.4s ease-in-out infinite alternate; }
+      .discloser-hero-wrap .ship-flame-inner { position:absolute; bottom:-4%; left:50%; transform:translateX(-50%); width:14%; height:30%; background:#ffffff; border-radius:50%; opacity:0.6; animation:dFlame 0.3s ease-in-out infinite alternate-reverse; }
+      @keyframes dFlame { 0%{transform:translateX(-50%) scaleY(0.8);opacity:0.3} 100%{transform:translateX(-50%) scaleY(1.15);opacity:0.5} }
+      .discloser-hero-wrap .ship-trail { position:absolute; bottom:-20%; left:50%; transform:translateX(-50%); width:4px; height:30%; background:linear-gradient(to bottom, rgba(255,255,255,0.4), transparent); animation:dTrail 1.5s linear infinite; }
+      @keyframes dTrail { 0%{height:5%;opacity:0.3} 100%{height:40%;opacity:0} }
       
-      .discloser-hero-wrap .ship-body { position:absolute; top:12%; left:42%; width:16%; height:55%; background:#ffffff; border-radius:1px; }
-      .discloser-hero-wrap .ship-engine { position:absolute; bottom:8%; left:42%; width:16%; height:8%; background:#ffffff; }
-      .discloser-hero-wrap .ship-engine-bell { position:absolute; bottom:0%; left:36%; width:28%; height:12%; background:#ffffff; clip-path:polygon(10% 0%, 90% 0%, 65% 100%, 35% 100%); }
+      /* Main body */
+      .discloser-hero-wrap .ship-body { position:absolute; top:14%; left:40%; width:20%; height:52%; background:#ffffff; border-radius:2px; }
       
-      .discloser-hero-wrap .ship-pod { position:absolute; top:0%; left:30%; width:40%; height:22%; background:#ffffff; clip-path:polygon(20% 0%,80% 0%,100% 100%,0% 100%); border-radius:3px 3px 0 0; }
-      .discloser-hero-wrap .ship-pod-window { position:absolute; top:8%; left:50%; transform:translateX(-50%); width:40%; height:40%; background:#000000; border-radius:50%; }
+      /* Command pod - top */
+      .discloser-hero-wrap .ship-pod { position:absolute; top:2%; left:28%; width:44%; height:20%; background:#ffffff; clip-path:polygon(25% 0%,75% 0%,100% 100%,0% 100%); border-radius:3px 3px 0 0; }
+      .discloser-hero-wrap .ship-pod-window { position:absolute; top:8%; left:50%; transform:translateX(-50%); width:35%; height:40%; background:#000000; border-radius:50%; }
       
-      .discloser-hero-wrap .ship-cargo { position:absolute; top:38%; left:30%; width:40%; height:22%; background:#ffffff; border:1px solid #000000; }
-      .discloser-hero-wrap .ship-cargo-line { position:absolute; height:1px; background:#000000; left:6%; width:88%; }
+      /* Cargo section */
+      .discloser-hero-wrap .ship-cargo { position:absolute; top:40%; left:28%; width:44%; height:20%; background:#ffffff; border:1px solid #000000; }
+      .discloser-hero-wrap .ship-cargo-line { position:absolute; height:1px; background:#000000; left:6%; width:88%; opacity:0.6; }
       .discloser-hero-wrap .ship-cargo-line-1 { top:33%; } .discloser-hero-wrap .ship-cargo-line-2 { top:48%; } .discloser-hero-wrap .ship-cargo-line-3 { top:63%; }
       
-      .discloser-hero-wrap .ship-arm-l, .discloser-hero-wrap .ship-arm-r { position:absolute; top:16%; width:5%; height:45%; background:#ffffff; }
+      /* Arms connecting to rings */
+      .discloser-hero-wrap .ship-arm-l, .discloser-hero-wrap .ship-arm-r { position:absolute; top:18%; width:5%; height:42%; background:#ffffff; border-radius:1px; }
       .discloser-hero-wrap .ship-arm-l { left:30%; } .discloser-hero-wrap .ship-arm-r { right:30%; }
       
-      .discloser-hero-wrap .ship-panel-l, .discloser-hero-wrap .ship-panel-r { position:absolute; top:12%; background:#ffffff; border-radius:1px; }
-      .discloser-hero-wrap .ship-panel-l { left:0%; width:22%; height:20%; }
-      .discloser-hero-wrap .ship-panel-r { right:0%; width:22%; height:20%; }
-      .discloser-hero-wrap .ship-panel-strut-l, .discloser-hero-wrap .ship-panel-strut-r { position:absolute; top:30%; width:3px; height:20%; background:#ffffff; }
-      .discloser-hero-wrap .ship-panel-strut-l { left:20%; } .discloser-hero-wrap .ship-panel-strut-r { right:20%; }
+      /* Solar panels */
+      .discloser-hero-wrap .ship-panel-l, .discloser-hero-wrap .ship-panel-r { position:absolute; top:14%; background:#ffffff; border-radius:1px; }
+      .discloser-hero-wrap .ship-panel-l { left:-2%; width:24%; height:18%; }
+      .discloser-hero-wrap .ship-panel-r { right:-2%; width:24%; height:18%; }
+      .discloser-hero-wrap .ship-panel-strut-l, .discloser-hero-wrap .ship-panel-strut-r { position:absolute; top:30%; width:3px; height:18%; background:#ffffff; }
+      .discloser-hero-wrap .ship-panel-strut-l { left:22%; } .discloser-hero-wrap .ship-panel-strut-r { right:22%; }
+      .discloser-hero-wrap .ship-panel-detail-l { position:absolute; left:-2%; top:36%; width:24%; height:3px; background:#ffffff; opacity:0.4; }
+      .discloser-hero-wrap .ship-panel-detail-r { position:absolute; right:-2%; top:36%; width:24%; height:3px; background:#ffffff; opacity:0.4; }
       
-      .discloser-hero-wrap .ship-ring { position:absolute; top:14%; left:14%; width:72%; height:50%; border:3px solid #ffffff; border-radius:50%; }
-      .discloser-hero-wrap .ship-ring-inner { position:absolute; top:20%; left:20%; width:60%; height:42%; border:2px solid #ffffff; border-radius:50%; }
+      /* Rotating ring */
+      .discloser-hero-wrap .ship-ring-outer { position:absolute; top:13%; left:13%; width:74%; height:50%; border:3px solid #ffffff; border-radius:50%; }
+      .discloser-hero-wrap .ship-ring-inner { position:absolute; top:19%; left:19%; width:62%; height:42%; border:2px solid #ffffff; border-radius:50%; }
       
+      /* Spokes */
       .discloser-hero-wrap .ship-spoke-v { position:absolute; top:0%; left:50%; transform:translateX(-50%); width:2px; height:78%; background:#ffffff; }
       .discloser-hero-wrap .ship-spoke-h { position:absolute; top:35%; left:8%; width:84%; height:2px; background:#ffffff; }
-      .discloser-hero-wrap .ship-spoke-d1 { position:absolute; top:10%; left:24%; width:52%; height:2px; background:#ffffff; transform:rotate(-40deg); transform-origin:left center; opacity:0.5; }
-      .discloser-hero-wrap .ship-spoke-d2 { position:absolute; top:10%; right:24%; width:52%; height:2px; background:#ffffff; transform:rotate(40deg); transform-origin:right center; opacity:0.5; }
+      .discloser-hero-wrap .ship-spoke-d1 { position:absolute; top:10%; left:24%; width:55%; height:1px; background:#ffffff; transform:rotate(-35deg); transform-origin:left center; opacity:0.4; }
+      .discloser-hero-wrap .ship-spoke-d2 { position:absolute; top:10%; right:24%; width:55%; height:1px; background:#ffffff; transform:rotate(35deg); transform-origin:right center; opacity:0.4; }
       
-      .discloser-hero-wrap .ship-dock { position:absolute; top:-4%; left:50%; transform:translateX(-50%); width:12%; height:8%; background:#ffffff; }
-      .discloser-hero-wrap .ship-dock-ring { position:absolute; top:-10%; left:44%; width:12%; height:8%; border:2px solid #ffffff; border-radius:50%; }
+      /* Docking port */
+      .discloser-hero-wrap .ship-dock { position:absolute; top:-6%; left:50%; transform:translateX(-50%); width:10%; height:8%; background:#ffffff; }
+      .discloser-hero-wrap .ship-dock-ring { position:absolute; top:-12%; left:46%; width:8%; height:6%; border:2px solid #ffffff; border-radius:50%; }
       
-      .discloser-hero-wrap .ship-leg-l, .discloser-hero-wrap .ship-leg-r { position:absolute; bottom:8%; width:3px; height:18%; background:#ffffff; }
-      .discloser-hero-wrap .ship-leg-l { left:35%; transform:rotate(18deg); } .discloser-hero-wrap .ship-leg-r { right:35%; transform:rotate(-18deg); }
-      .discloser-hero-wrap .ship-leg-foot-l, .discloser-hero-wrap .ship-leg-foot-r { position:absolute; bottom:8%; width:10%; height:3px; background:#ffffff; }
-      .discloser-hero-wrap .ship-leg-foot-l { left:28%; } .discloser-hero-wrap .ship-leg-foot-r { right:28%; }
-      
+      /* Landing legs */
+      .discloser-hero-wrap .ship-leg-l, .discloser-hero-wrap .ship-leg-r { position:absolute; bottom:8%; width:3px; height:18%; background:#ffffff; border-radius:1px; }
+      .discloser-hero-wrap .ship-leg-l { left:36%; transform:rotate(16deg); } .discloser-hero-wrap .ship-leg-r { right:36%; transform:rotate(-16deg); }
+      .discloser-hero-wrap .ship-leg-foot-l, .discloser-hero-wrap .ship-leg-foot-r { position:absolute; bottom:8%; width:10%; height:2px; background:#ffffff; }
+      .discloser-hero-wrap .ship-leg-foot-l { left:29%; } .discloser-hero-wrap .ship-leg-foot-r { right:29%; }
       .discloser-hero-wrap .grain-overlay { position:absolute; inset:0; border-radius:50%; opacity:0.04; pointer-events:none; background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E"); background-size:100px 100px; }
       .discloser-hero-wrap .vignette { position:absolute; inset:-5%; border-radius:50%; pointer-events:none; background:radial-gradient(ellipse at center, transparent 45%, rgba(0,0,0,0.5) 100%); }
       
@@ -331,8 +340,10 @@ const featuredUAP = uapPosts.slice(1, 4);
       @keyframes dRise { 0%{opacity:0;transform:translateY(15px)} 100%{opacity:1;transform:translateY(0)} }
 
       @media(min-width:701px) {
-        .discloser-hero-wrap .hero-circle { width: 280px; height: 280px; }
-        .discloser-hero-wrap { min-height: 35vh; padding: 40px 20px; }
+        .discloser-hero-wrap .hero-circle { width: 320px; height: 320px; }
+        .discloser-hero-wrap { min-height: 38vh; padding: 45px 20px; }
+        .discloser-hero-wrap .char-left, .discloser-hero-wrap .char-right { font-size: 46px; letter-spacing: 18px; }
+        .discloser-hero-wrap .english { font-size: 17px; letter-spacing: 12px; }
       }
       @media(max-width: 700px) {
         .featured { grid-template-columns: 1fr; gap: 0.75rem; }
@@ -374,7 +385,6 @@ const featuredUAP = uapPosts.slice(1, 4);
               <div class="ship">
                 <div class="ship-trail"></div>
                 <div class="ship-flame"></div><div class="ship-flame-inner"></div>
-                <div class="ship-engine-bell"></div>
                 <div class="ship-body"></div>
                 <div class="ship-pod"><div class="ship-pod-window"></div></div>
                 <div class="ship-cargo"></div>
@@ -384,7 +394,8 @@ const featuredUAP = uapPosts.slice(1, 4);
                 <div class="ship-arm-l"></div><div class="ship-arm-r"></div>
                 <div class="ship-panel-l"></div><div class="ship-panel-r"></div>
                 <div class="ship-panel-strut-l"></div><div class="ship-panel-strut-r"></div>
-                <div class="ship-ring"></div><div class="ship-ring-inner"></div>
+                <div class="ship-panel-detail-l"></div><div class="ship-panel-detail-r"></div>
+                <div class="ship-ring-outer"></div><div class="ship-ring-inner"></div>
                 <div class="ship-spoke-v"></div><div class="ship-spoke-h"></div>
                 <div class="ship-spoke-d1"></div><div class="ship-spoke-d2"></div>
                 <div class="ship-dock"></div><div class="ship-dock-ring"></div>
