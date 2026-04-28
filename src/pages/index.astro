@@ -237,49 +237,11 @@ const featuredUAP = uapPosts.slice(1, 4);
       
       .discloser-hero-wrap {
         width: 100%; background: #050505;
-        display: flex; flex-direction: column; align-items: center; justify-content: center;
-        padding: 30px 20px 15px;
-        min-height: 33vh; min-height: 33dvh;
         position: relative; overflow: hidden;
       }
-      
-      .hero-bg-container {
-        width: 100%; max-width: 400px; margin: 0 auto;
-        position: relative; display: flex; justify-content: center;
-      }
-      .hero-bg-container img {
-        width: 100%; height: auto; max-width: 320px;
-        display: block; border-radius: 0;
-      }
-      .hero-bg-container .film-overlay {
-        position: absolute; inset: 0; border-radius: 0;
-        pointer-events: none;
-        box-shadow: inset 0 0 20px rgba(0,0,0,0.3);
-      }
-      
-      /* Text animations */
-      .ds-text { text-align:center; margin-top:8px; width:100%; }
-      .ds-cline { display:flex; align-items:center; justify-content:center; }
-      .ds-cl, .ds-cr { font-size:36px; font-weight:900; color:#fff; display:inline-block; letter-spacing:12px; opacity:0; -webkit-animation:dsIn 0.8s cubic-bezier(0.16,1,0.3,1) forwards; animation:dsIn 0.8s cubic-bezier(0.16,1,0.3,1) forwards; }
-      .ds-cl { -webkit-animation-name:dsL; animation-name:dsL; -webkit-animation-delay:0.4s; animation-delay:0.4s; }
-      .ds-cr { -webkit-animation-name:dsR; animation-name:dsR; -webkit-animation-delay:0.4s; animation-delay:0.4s; }
-      @-webkit-keyframes dsL { 0%{opacity:0;-webkit-transform:translateX(-60px);transform:translateX(-60px)} 100%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)} }
-      @keyframes dsL { 0%{opacity:0;transform:translateX(-60px)} 100%{opacity:1;transform:translateX(0)} }
-      @-webkit-keyframes dsR { 0%{opacity:0;-webkit-transform:translateX(60px);transform:translateX(60px)} 100%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)} }
-      @keyframes dsR { 0%{opacity:0;transform:translateX(60px)} 100%{opacity:1;transform:translateX(0)} }
-      .ds-sep { display:block; height:1.5px; background:rgba(255,255,255,0.6); margin:3px auto 0; width:0; -webkit-animation:dsG 0.6s ease-out forwards; animation:dsG 0.6s ease-out forwards; -webkit-animation-delay:1s; animation-delay:1s; }
-      @-webkit-keyframes dsG { 0%{width:0} 100%{width:100px} }
-      @keyframes dsG { 0%{width:0} 100%{width:100px} }
-      .ds-en { font-size:13px; font-weight:700; color:rgba(255,255,255,0.7); letter-spacing:9px; margin-top:4px; opacity:0; -webkit-animation:dsU 0.6s ease-out forwards; animation:dsU 0.6s ease-out forwards; -webkit-animation-delay:1.2s; animation-delay:1.2s; }
-      @-webkit-keyframes dsU { 0%{opacity:0;-webkit-transform:translateY(12px);transform:translateY(12px)} 100%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)} }
-      @keyframes dsU { 0%{opacity:0;transform:translateY(12px)} 100%{opacity:1;transform:translateY(0)} }
-      
-      @media(min-width:701px) {
-        .discloser-hero-wrap { min-height: 35vh; padding: 40px 20px; }
-        .hero-bg-container img { max-width: 320px; }
-        .ds-cl, .ds-cr { font-size: 44px; letter-spacing: 16px; }
-        .ds-en { font-size: 16px; letter-spacing: 11px; }
-      }      @media(max-width: 700px) {
+      .ds-en { font-weight:700; color:#ffffff; opacity:0; text-transform:uppercase; -webkit-animation:dsU 0.8s ease-out forwards; animation:dsU 0.8s ease-out forwards; -webkit-animation-delay:0.8s; animation-delay:0.8s; }
+      @-webkit-keyframes dsU { 0%{opacity:0;-webkit-transform:translateY(15px);transform:translateY(15px)} 100%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)} }
+      @keyframes dsU { 0%{opacity:0;transform:translateY(15px)} 100%{opacity:1;transform:translateY(0)} }      @media(max-width: 700px) {
         .featured { grid-template-columns: 1fr; gap: 0.75rem; }
         .featured-main h2 { font-size: 1rem; }
         .featured-main p { -webkit-line-clamp: 2; }
@@ -304,17 +266,12 @@ const featuredUAP = uapPosts.slice(1, 4);
 
     <Header />
     <main>
-<section class="discloser-hero-wrap">
-      <div class="hero-bg-container">
-        <img src="/vincent-kan-site/hero_bg.jpg" alt="披露 DISCLOSER" loading="lazy" decoding="async">
-        <div class="film-overlay"></div>
-      </div>
-      <div class="ds-text">
-        <div class="ds-cline">
-          <span class="ds-cl">披</span><span class="ds-cr">露</span>
+<section class="discloser-hero-wrap" style="padding:0;min-height:auto;">
+      <div style="width:100%;position:relative;">
+        <img src="/vincent-kan-site/hero_bg.jpg" alt="DISCLOSER" style="width:100%;height:auto;display:block;" loading="lazy" decoding="async">
+        <div style="position:absolute;bottom:8%;left:0;right:0;text-align:center;">
+          <div class="ds-en" style="font-size:clamp(14px,3vw,22px);letter-spacing:clamp(8px,1.5vw,14px);animation-delay:0.8s;">D I S C L O S E R</div>
         </div>
-        <span class="ds-sep"></span>
-        <div class="ds-en">D I S C L O S E R</div>
       </div>
     </section>
 
