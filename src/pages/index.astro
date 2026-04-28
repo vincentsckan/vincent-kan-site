@@ -240,8 +240,9 @@ const featuredUAP = uapPosts.slice(1, 4);
         display: flex; flex-direction: column; align-items: center; justify-content: center;
         padding: 30px 20px 15px;
         font-family: 'Cormorant Garamond', 'Georgia', serif;
-        min-height: 33vh; min-height: 33dvh;
+        height: 50vh; height: 50dvh;
         overflow: hidden;
+        display:flex; flex-direction:column; align-items:center; justify-content:center;
       }
       
       /* Stars */
@@ -306,7 +307,7 @@ const featuredUAP = uapPosts.slice(1, 4);
       @keyframes dsU { 0%{opacity:0;transform:translateY(12px)} 100%{opacity:1;transform:translateY(0)} }
       
       @media(min-width:701px) {
-        .discloser-hero-wrap { min-height: 35vh; padding: 40px 20px; }
+        .discloser-hero-wrap { height: 50vh; padding: 30px 20px; display:flex; flex-direction:column; align-items:center; justify-content:center; }
         .ds-cl, .ds-cr { font-size: 44px; letter-spacing: 16px; }
         .ds-en { font-size: 16px; letter-spacing: 11px; }
       }
@@ -334,8 +335,8 @@ const featuredUAP = uapPosts.slice(1, 4);
   <body style="height:100vh;height:100dvh;overflow:hidden;margin:0;display:flex;flex-direction:column;">
 
     <Header />
-    <main style="flex:1;display:flex;flex-direction:column;overflow:hidden;">
-<section class="discloser-hero-wrap" style="flex-shrink:0;">
+    <main style="height:100vh;height:100dvh;display:flex;flex-direction:column;">
+<section class="discloser-hero-wrap" style="flex-shrink:0;height:calc(100vh - var(--header-h,56px));height:calc(100dvh - var(--header-h,56px));">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" style="width:280px;height:280px;max-width:55vw;max-height:55vw;display:block;margin:0 auto;">
         <defs>
           <clipPath id="dcCircle"><circle cx="300" cy="300" r="275"/></clipPath>
