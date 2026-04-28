@@ -240,11 +240,10 @@ const featuredUAP = uapPosts.slice(1, 4);
         display: flex; flex-direction: column; align-items: center; justify-content: center;
         padding: 30px 20px 15px;
         font-family: 'Cormorant Garamond', 'Georgia', serif;
-        position: sticky; top: 0; z-index: 1;
-        min-height: 33vh; min-height: 33dvh;
+        position: fixed; top: 0; left: 0; right: 0; z-index: 1;
+        min-height: 33vh; min-height: 33dvh; height: 33vh; height: 33dvh;
         overflow: hidden;
       }
-      .discloser-hero-wrap + * { position: relative; z-index: 2; background: var(--bg); }
       
       /* Stars */
       .ds-star { position:absolute; background:#ffffff; border-radius:50%; animation:dsTw var(--speed) ease-in-out infinite alternate; animation-delay:var(--delay); }
@@ -459,7 +458,7 @@ const featuredUAP = uapPosts.slice(1, 4);
       </div>
     </section>
 
-      <div class="home-wrap">
+      <div class="home-wrap" style="position:relative;z-index:2;margin-top:33vh;background:var(--bg);">
         <!-- ===== BREAKING ===== -->
         {latestUAP && (
           <a href={`/vincent-kan-site/blog/${latestUAP.id}/`} class="breaking">
