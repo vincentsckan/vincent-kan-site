@@ -1,0 +1,137 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../../components/BaseHead.astro';
+import Footer from '../../../components/Footer.astro';
+import FormattedDate from '../../../components/FormattedDate.astro';
+import Header from '../../../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../../../consts';
+
+export async function getStaticPaths() {
+	const posts = (await getCollection('blog')).sort(
+		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+	);
+	const PER_PAGE = 50;
+	const totalPages = Math.max(1, Math.ceil(posts.length / PER_PAGE));
+	const paths = [];
+	for (let i = 1; i <= totalPages; i++) {
+		paths.push({ params: { page: String(i) } });
+	}
+	return paths;
+}
+
+const { page } = Astro.params;
+const currentPage = parseInt(page!);
+const PER_PAGE = 50;
+
+const allPosts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+const totalPages = Math.max(1, Math.ceil(allPosts.length / PER_PAGE));
+const start = (currentPage - 1) * PER_PAGE;
+const end = Math.min(start + PER_PAGE, allPosts.length);
+const posts = allPosts.slice(start, end);
+const hasPrev = currentPage > 1;
+const hasNext = currentPage < totalPages;
+---
+
+<!doctype html>
+<html lang="zh-HK">
+	<head>
+		<BaseHead title={"文章 ・第" + currentPage + "頁 · " + SITE_TITLE} description={SITE_DESCRIPTION} />
+		<link rel="canonical" href={`https://vincentsckan.github.io/vincent-kan-site/blog/page/${currentPage}/`} />
+		{hasPrev && <link rel="prev" href={`/vincent-kan-site/blog/page/${currentPage - 1}/`} />}
+		{hasNext && <link rel="next" href={`/vincent-kan-site/blog/page/${currentPage + 1}/`} />}
+		<style>
+			.blog-wrap { max-width: 700px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+			.page-hd { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 1.5rem; margin-top: 0; }
+			.page-hd h1 { font-size: 1.3rem; font-weight: 700; margin: 0; }
+			.post-count { font-size: 0.78rem; color: var(--text-muted); font-family:'SF Mono',monospace; margin-left: auto; }
+			.feed-item {
+				display: flex; gap: 0.85rem; padding: 0.9rem 0;
+				border-bottom: 1px solid var(--border);
+				text-decoration: none; color: inherit;
+				transition: all 0.2s;
+			}
+			.feed-item:last-child { border-bottom: none; }
+			.feed-item:hover { opacity: 0.85; }
+			.feed-item:hover h3 { color: var(--neon-cyan); }
+			.feed-icon {
+				flex-shrink: 0; width: 30px; height: 30px;
+				display: flex; align-items: center; justify-content: center;
+				background: rgba(0,229,255,0.04);
+				border: 1px solid var(--border);
+				border-radius: 50%;
+				font-size: 0.8rem;
+			}
+			.feed-body { flex: 1; min-width: 0; }
+			.feed-meta { font-family:'SF Mono',monospace; font-size:0.68rem; color:var(--text-muted); margin-bottom:0.1rem; display:flex; gap:0.4rem; }
+			.feed-meta .tag-uap { color: var(--neon-cyan); font-weight: 600; }
+			.feed-body h3 { font-size:0.9rem; font-weight:600; margin:0; transition:color 0.2s; }
+			.feed-body p { font-size:0.8rem; color:var(--text-secondary); margin:0.1rem 0 0; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+			.feed-time { flex-shrink:0; font-size:0.68rem; font-family:'SF Mono',monospace; color:var(--text-muted); }
+			/** Pagination */
+			.pagination { display: flex; justify-content: center; align-items: center; gap: 1rem; margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }
+			.pagination a, .pagination span { font-size: 0.85rem; font-family:'SF Mono',monospace; }
+			.pagination .page-btn { padding: 0.4rem 0.9rem; border: 1px solid var(--border); border-radius: 6px; text-decoration: none; color: var(--text); transition: all 0.2s; }
+			.pagination .page-btn:hover { border-color: var(--neon-cyan); color: var(--neon-cyan); }
+			.pagination .page-btn.disabled { opacity: 0.3; pointer-events: none; }
+			.pagination .page-info { color: var(--text-muted); }
+			hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
+			@media(max-width: 600px) {
+				.blog-wrap { padding: 1.5rem 0.75rem 3rem; }
+				.feed-item { padding: 0.7rem 0; }
+				.feed-time { display: none; }
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="blog-wrap">
+				<div class="page-hd">
+					<h1>📝 全部文章</h1>
+					<span class="post-count">{allPosts.length} 篇</span>
+				</div>
+
+				{allPosts.length > 0 && (
+					<>
+						<div class="feed">
+							{posts.map(p => (
+								<a href={`/vincent-kan-site/blog/${p.id}/`} class="feed-item">
+									<div class="feed-icon">{p.id.startsWith('ufo-') ? '🛸' : '📝'}</div>
+									<div class="feed-body">
+										<div class="feed-meta">
+											{p.id.startsWith('ufo-') && <span class="tag-uap">UFO/UAP</span>}
+											<span><FormattedDate date={p.data.pubDate} /></span>
+										</div>
+										<h3>{p.data.title}</h3>
+										<p>{p.data.description}</p>
+									</div>
+									<div class="feed-time"><FormattedDate date={p.data.pubDate} /></div>
+								</a>
+							))}
+						</div>
+
+						{/* Pagination */}
+						{totalPages > 1 && (
+							<nav class="pagination">
+								{hasPrev ? (
+									<a href={currentPage === 2 ? '/vincent-kan-site/blog/' : `/vincent-kan-site/blog/page/${currentPage - 1}/`} class="page-btn">← 上一頁</a>
+								) : (
+									<span class="page-btn disabled">← 上一頁</span>
+								)}
+								<span class="page-info">{currentPage} / {totalPages}</span>
+								{hasNext ? (
+									<a href={`/vincent-kan-site/blog/page/${currentPage + 1}/`} class="page-btn">下一頁 →</a>
+								) : (
+									<span class="page-btn disabled">下一頁 →</span>
+								)}
+							</nav>
+						)}
+					</>
+				)}
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

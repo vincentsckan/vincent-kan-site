@@ -6,19 +6,33 @@ import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 
-const posts = (await getCollection('blog')).sort(
+const PER_PAGE = 50;
+
+const allPosts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
-const uapPosts = posts.filter(p => p.id.startsWith('ufo-'));
-const otherPosts = posts.filter(p => !p.id.startsWith('ufo-'));
+const uapPosts = allPosts.filter(p => p.id.startsWith('ufo-'));
+const otherPosts = allPosts.filter(p => !p.id.startsWith('ufo-'));
+
+// First page: show first PER_PAGE posts
+const firstPagePosts = allPosts.slice(0, PER_PAGE);
+const firstPageUap = firstPagePosts.filter(p => p.id.startsWith('ufo-'));
+const firstPageOther = firstPagePosts.filter(p => !p.id.startsWith('ufo-'));
+
+const totalPages = Math.max(1, Math.ceil(allPosts.length / PER_PAGE));
+const hasMore = allPosts.length > PER_PAGE;
 ---
 
 <!doctype html>
 <html lang="zh-HK">
 	<head>
 		<BaseHead title={"文章 · " + SITE_TITLE} description={SITE_DESCRIPTION} />
+		{hasMore && <link rel="next" href="/vincent-kan-site/blog/page/2/" />}
 		<style>
 			.blog-wrap { max-width: 700px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+			.page-hd { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 1.5rem; margin-top: 0; }
+			.page-hd h1 { font-size: 1.3rem; font-weight: 700; margin: 0; }
+			.post-count { font-size: 0.78rem; color: var(--text-muted); font-family:'SF Mono',monospace; margin-left: auto; }
 			.section-hd { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 1rem; margin-top: 2rem; }
 			.section-hd:first-child { margin-top: 0; }
 			.section-hd-acc {
@@ -29,7 +43,6 @@ const otherPosts = posts.filter(p => !p.id.startsWith('ufo-'));
 				border-radius: 4px;
 			}
 			.section-hd h2 { font-size: 1.15rem; font-weight: 700; }
-			.post-count { font-size: 0.78rem; color: var(--text-muted); font-family:'SF Mono',monospace; margin-left: auto; }
 			.feed-item {
 				display: flex; gap: 0.85rem; padding: 0.9rem 0;
 				border-bottom: 1px solid var(--border);
@@ -53,6 +66,13 @@ const otherPosts = posts.filter(p => !p.id.startsWith('ufo-'));
 			.feed-body h3 { font-size:0.9rem; font-weight:600; margin:0; transition:color 0.2s; }
 			.feed-body p { font-size:0.8rem; color:var(--text-secondary); margin:0.1rem 0 0; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
 			.feed-time { flex-shrink:0; font-size:0.68rem; font-family:'SF Mono',monospace; color:var(--text-muted); }
+			/** Pagination */
+			.pagination { display: flex; justify-content: center; align-items: center; gap: 1rem; margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }
+			.pagination a, .pagination span { font-size: 0.85rem; font-family:'SF Mono',monospace; }
+			.pagination .page-btn { padding: 0.4rem 0.9rem; border: 1px solid var(--border); border-radius: 6px; text-decoration: none; color: var(--text); transition: all 0.2s; }
+			.pagination .page-btn:hover { border-color: var(--neon-cyan); color: var(--neon-cyan); }
+			.pagination .page-btn.disabled { opacity: 0.3; pointer-events: none; }
+			.pagination .page-info { color: var(--text-muted); }
 			hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
 			@media(max-width: 600px) {
 				.blog-wrap { padding: 1.5rem 0.75rem 3rem; }
@@ -65,57 +85,75 @@ const otherPosts = posts.filter(p => !p.id.startsWith('ufo-'));
 		<Header />
 		<main>
 			<div class="blog-wrap">
-				<!-- UFO/UAP Posts -->
-				{uapPosts.length > 0 && (
-					<>
-						<div class="section-hd">
-							<span class="section-hd-acc">/UFO</span>
-							<h2>🛸 UFO/UAP 新聞</h2>
-							<span class="post-count">{uapPosts.length} 篇</span>
-						</div>
-						<div class="feed">
-							{uapPosts.map(p => (
-								<a href={`/vincent-kan-site/blog/${p.id}/`} class="feed-item">
-									<div class="feed-icon">🛸</div>
-									<div class="feed-body">
-										<div class="feed-meta">
-											<span class="tag-uap">UFO/UAP</span>
-											<span><FormattedDate date={p.data.pubDate} /></span>
-										</div>
-										<h3>{p.data.title}</h3>
-										<p>{p.data.description}</p>
-									</div>
-									<div class="feed-time"><FormattedDate date={p.data.pubDate} /></div>
-								</a>
-							))}
-						</div>
-					</>
-				)}
+				<div class="page-hd">
+					<h1>📝 全部文章</h1>
+					<span class="post-count">{allPosts.length} 篇</span>
+				</div>
 
-				{/* Separator */}
-				{uapPosts.length > 0 && otherPosts.length > 0 && <hr />}
-
-				<!-- Other Posts -->
-				{otherPosts.length > 0 && (
+				{allPosts.length > 0 && (
 					<>
-						<div class="section-hd">
-							<span class="section-hd-acc">/BLOG</span>
-							<h2>📝 其他文章</h2>
-							<span class="post-count">{otherPosts.length} 篇</span>
-						</div>
-						<div class="feed">
-							{otherPosts.map(p => (
-								<a href={`/vincent-kan-site/blog/${p.id}/`} class="feed-item">
-									<div class="feed-icon">📝</div>
-									<div class="feed-body">
-										<div class="feed-meta"><FormattedDate date={p.data.pubDate} /></div>
-										<h3>{p.data.title}</h3>
-										<p>{p.data.description}</p>
-									</div>
-									<div class="feed-time"><FormattedDate date={p.data.pubDate} /></div>
-								</a>
-							))}
-						</div>
+						<!-- UFO/UAP Posts (Page 1) -->
+						{firstPageUap.length > 0 && (
+							<>
+								<div class="section-hd">
+									<span class="section-hd-acc">/UFO</span>
+									<h2>🛸 UFO/UAP 新聞</h2>
+									<span class="post-count">{uapPosts.length} 篇</span>
+								</div>
+								<div class="feed">
+									{firstPageUap.map(p => (
+										<a href={`/vincent-kan-site/blog/${p.id}/`} class="feed-item">
+											<div class="feed-icon">🛸</div>
+											<div class="feed-body">
+												<div class="feed-meta">
+													<span class="tag-uap">UFO/UAP</span>
+													<span><FormattedDate date={p.data.pubDate} /></span>
+												</div>
+												<h3>{p.data.title}</h3>
+												<p>{p.data.description}</p>
+											</div>
+											<div class="feed-time"><FormattedDate date={p.data.pubDate} /></div>
+										</a>
+									))}
+								</div>
+							</>
+						)}
+
+						{/* Separator */}
+						{firstPageUap.length > 0 && firstPageOther.length > 0 && <hr />}
+
+						<!-- Other Posts (Page 1) -->
+						{firstPageOther.length > 0 && (
+							<>
+								<div class="section-hd">
+									<span class="section-hd-acc">/BLOG</span>
+									<h2>📝 其他文章</h2>
+									<span class="post-count">{otherPosts.length} 篇</span>
+								</div>
+								<div class="feed">
+									{firstPageOther.map(p => (
+										<a href={`/vincent-kan-site/blog/${p.id}/`} class="feed-item">
+											<div class="feed-icon">📝</div>
+											<div class="feed-body">
+												<div class="feed-meta"><FormattedDate date={p.data.pubDate} /></div>
+												<h3>{p.data.title}</h3>
+												<p>{p.data.description}</p>
+											</div>
+											<div class="feed-time"><FormattedDate date={p.data.pubDate} /></div>
+										</a>
+									))}
+								</div>
+							</>
+						)}
+
+						{/* Pagination */}
+						{totalPages > 1 && (
+							<nav class="pagination">
+								<span class="page-btn disabled">← 上一頁</span>
+								<span class="page-info">1 / {totalPages}</span>
+								<a href="/vincent-kan-site/blog/page/2/" class="page-btn">下一頁 →</a>
+							</nav>
+						)}
 					</>
 				)}
 			</div>
