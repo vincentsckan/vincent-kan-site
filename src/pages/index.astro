@@ -240,9 +240,11 @@ const featuredUAP = uapPosts.slice(1, 4);
         display: flex; flex-direction: column; align-items: center; justify-content: center;
         padding: 30px 20px 15px;
         font-family: 'Cormorant Garamond', 'Georgia', serif;
+        position: sticky; top: 0; z-index: 1;
         min-height: 33vh; min-height: 33dvh;
-        position: relative; overflow: hidden;
+        overflow: hidden;
       }
+      .discloser-hero-wrap + * { position: relative; z-index: 2; background: var(--bg); }
       
       /* Stars */
       .ds-star { position:absolute; background:#ffffff; border-radius:50%; animation:dsTw var(--speed) ease-in-out infinite alternate; animation-delay:var(--delay); }
