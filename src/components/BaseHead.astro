@@ -45,6 +45,19 @@ const { title, description, image = FallbackImage } = Astro.props;
 <meta name="author" content="Vincent Kan" />
 <meta name="robots" content="index, follow" />
 
+<!-- GoatCounter analytics (no cookies, privacy-first) -->
+<script
+  data-goatcounter="https://vincentkan.goatcounter.com/count"
+  async src="//gc.zgo.at/count.js"
+></script>
+<noscript>
+  <img
+    src="https://vincentkan.goatcounter.com/count?p=/test-noscript"
+    alt=""
+    style="display:none"
+  />
+</noscript>
+
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
 <meta property="og:url" content={Astro.url} />
