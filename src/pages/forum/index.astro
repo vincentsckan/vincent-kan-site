@@ -103,14 +103,10 @@ export const prerender = true;
         animation: slideUp 0.4s ease both;
         animation-delay: 0.25s;
       }
-      .chat-container chat-room {
-        --font-family: 'SF Mono', 'JetBrains Mono', monospace;
-        --primary-color: #00e5ff;
-        --bg-color: rgba(10,10,18,0.95);
-        --text-color: #e0e0e0;
-      }
-      chat-room {
-        height: 500px;
+      .chat-container iframe {
+        width: 100%;
+        height: 550px;
+        border: none;
         display: block;
       }
 
@@ -190,8 +186,7 @@ export const prerender = true;
         </div>
 
         <div class="chat-container">
-          <script src="https://chitchatter.im/sdk.js" is:inline></script>
-          <chat-room room="ufo-hk-discussion" />
+          <iframe src="https://chitchatter.im/ufo-hk-discussion" title="UFO/UAP 即時討論區" allow="microphone; camera" loading="lazy"></iframe>
         </div>
 
         <div class="section-hd" style="animation: slideUp 0.4s ease both; animation-delay: 0.3s;">
