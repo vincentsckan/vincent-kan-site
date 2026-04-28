@@ -332,11 +332,11 @@ const featuredUAP = uapPosts.slice(1, 4);
       }
     </style>
   </head>
-  <body style="height:100vh;height:100dvh;overflow:hidden;margin:0;display:flex;flex-direction:column;background:var(--bg);">
+  <body style="height:100vh;height:100dvh;overflow:hidden;margin:0;display:grid;grid-template-rows:auto 1fr;background:var(--bg);">
 
     <Header />
-    <main style="flex:1;display:flex;flex-direction:column;overflow:hidden;">
-<section class="discloser-hero-wrap" style="flex:1 1 50%;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <main style="display:grid;grid-template-rows:1fr 1fr;overflow:hidden;">
+<section class="discloser-hero-wrap" style="display:flex;flex-direction:column;align-items:center;justify-content:center;overflow:hidden;">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" style="width:280px;height:280px;max-width:55vw;max-height:55vw;display:block;margin:0 auto;">
         <defs>
           <clipPath id="dcCircle"><circle cx="300" cy="300" r="275"/></clipPath>
@@ -458,7 +458,7 @@ const featuredUAP = uapPosts.slice(1, 4);
       </div>
     </section>
 
-      <div class="home-wrap" style="flex:1 1 50%;overflow-y:auto;">
+      <div class="home-wrap" style="overflow-y:auto;">
         <!-- ===== BREAKING ===== -->
         {latestUAP && (
           <a href={`/vincent-kan-site/blog/${latestUAP.id}/`} class="breaking">
