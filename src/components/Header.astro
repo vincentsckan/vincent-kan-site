@@ -11,7 +11,8 @@ const t = useTranslations(lang);
 <header>
   <nav>
     <a href={lang === 'en' ? '/vincent-kan-site/' : '/vincent-kan-site/zh/'} class="logo">
-      <span class="logo-acc">&gt;</span> {SITE_TITLE}
+      <img src="/vincent-kan-site/logo/ufo-logo.svg" alt="UFO" class="logo-icon" />
+      <span>{SITE_TITLE}</span>
     </a>
     <div class="nav-links">
       <HeaderLink href={lang === 'en' ? '/vincent-kan-site/' : '/vincent-kan-site/zh/'}>{t('nav.home')}</HeaderLink>
@@ -50,10 +51,15 @@ const t = useTranslations(lang);
     text-decoration: none;
     letter-spacing: 0.02em;
     font-family: 'SF Mono', 'JetBrains Mono', monospace;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
   }
-  .logo-acc {
-    color: var(--neon-cyan);
-    text-shadow: 0 0 8px rgba(0,229,255,0.5);
+  .logo-icon {
+    width: 26px;
+    height: 26px;
+    display: block;
+    filter: drop-shadow(0 0 4px rgba(0,229,255,0.3));
   }
   .nav-links { display: flex; gap: 0.25rem; }
   .nav-links a {
