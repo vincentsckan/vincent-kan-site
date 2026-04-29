@@ -12,7 +12,7 @@ import { ui, defaultLang } from '../../i18n';
 const lang = 'zh';
 const t = (key) => ui[lang][key] || ui.en[key] || key;
 
-const posts = (await getCollection('blog')).sort(
+const posts = (await getCollection('blog-zh')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 const uapPosts = posts.filter(p => p.id.startsWith('ufo-')).slice(0, 6);

@@ -9,7 +9,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../../../consts';
 
 const PER_PAGE = 50;
 
-const allPosts = (await getCollection('blog')).sort(
+const allPosts = (await getCollection('blog-zh')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 const uapPosts = allPosts.filter(p => p.id.startsWith('ufo-'));
@@ -101,7 +101,7 @@ const hasMore = allPosts.length > PER_PAGE;
 								</div>
 								<div class="feed">
 									{firstPageUap.map(p => (
-										<a href={`/vincent-kan-site/blog/${p.id}/`} class="feed-item">
+										<a href={`/vincent-kan-site/zh/blog/${p.id}/`} class="feed-item">
 											<div class="feed-icon">🛸</div>
 											<div class="feed-body">
 												<div class="feed-meta">
@@ -129,7 +129,7 @@ const hasMore = allPosts.length > PER_PAGE;
 								</div>
 								<div class="feed">
 									{firstPageOther.map(p => (
-										<a href={`/vincent-kan-site/blog/${p.id}/`} class="feed-item">
+										<a href={`/vincent-kan-site/zh/blog/${p.id}/`} class="feed-item">
 											<div class="feed-icon">📝</div>
 											<div class="feed-body">
 												<div class="feed-meta"><FormattedDate date={p.data.pubDate} /></div>

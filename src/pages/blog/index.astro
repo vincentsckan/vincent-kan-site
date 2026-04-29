@@ -8,7 +8,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 
 const PER_PAGE = 50;
 
-const allPosts = (await getCollection('blog')).sort(
+const allPosts = (await getCollection('blog-en')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 const uapPosts = allPosts.filter(p => p.id.startsWith('ufo-'));

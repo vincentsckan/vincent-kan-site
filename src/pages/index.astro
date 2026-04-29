@@ -10,7 +10,7 @@ import { useTranslations, getLangFromUrl } from '../i18n';
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 
-const posts = (await getCollection('blog')).sort(
+const posts = (await getCollection('blog-en')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 const uapPosts = posts.filter(p => p.id.startsWith('ufo-')).slice(0, 6);
