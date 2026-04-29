@@ -104,8 +104,8 @@ const hasNext = currentPage < totalPages;
 											{p.id.startsWith('ufo-') && <span class="tag-uap">UFO/UAP</span>}
 											<span><FormattedDate date={p.data.pubDate} /></span>
 										</div>
-										<h3>{p.data.title}</h3>
-										<p>{p.data.description}</p>
+										<h3>{p.data.titleEn || p.data.title}</h3>
+										<p>{p.data.descriptionEn || p.data.description}</p>
 									</div>
 									<div class="feed-time"><FormattedDate date={p.data.pubDate} /></div>
 								</a>

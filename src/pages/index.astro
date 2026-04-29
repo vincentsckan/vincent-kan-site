@@ -401,7 +401,7 @@ const welcomeEN = {
           <a href={`/vincent-kan-site/blog/${latestUAP.id}/`} class="breaking">
             <span class="breaking-dot"></span>
             <span class="breaking-label">{lang === 'en' ? 'BREAKING' : '突發'}</span>
-            <span class="breaking-title">{latestUAP.data.title}</span>
+            <span class="breaking-title">{latestUAP.data.titleEn || latestUAP.data.title}</span>
             <span class="breaking-arrow">→</span>
           </a>
         )}
@@ -409,8 +409,7 @@ const welcomeEN = {
         <!-- Language note for English visitors -->
         {lang === 'en' && (
           <div class="blog-note">
-            📝 Blog content is currently in Chinese (Traditional). 
-            <a href="/vincent-kan-site/zh/" style="color: var(--neon-cyan);">View Chinese version →</a>
+            📝 Article body content is mostly in Chinese (Traditional).
           </div>
         )}
 
@@ -420,8 +419,8 @@ const welcomeEN = {
             <a href={`/vincent-kan-site/blog/${latestUAP.id}/`} class="featured-main">
               <div class="featured-main-top">
                 <span class="featured-tag">🛸 UFO/UAP</span>
-                <h2>{latestUAP.data.title}</h2>
-                <p>{latestUAP.data.description}</p>
+                <h2>{latestUAP.data.titleEn || latestUAP.data.title}</h2>
+                <p>{latestUAP.data.descriptionEn || latestUAP.data.description}</p>
               </div>
               <div class="featured-main-footer">
                 <span><FormattedDate date={latestUAP.data.pubDate} /></span>
@@ -443,7 +442,7 @@ const welcomeEN = {
               <a href={`/vincent-kan-site/blog/${p.id}/`} class="featured-side-item">
                 <div class="featured-side-icon">🛸</div>
                 <div class="featured-side-body">
-                  <h3>{p.data.title}</h3>
+                  <h3>{p.data.titleEn || p.data.title}</h3>
                   <p><FormattedDate date={p.data.pubDate} /></p>
                 </div>
               </a>
@@ -452,7 +451,7 @@ const welcomeEN = {
               <a href={`/vincent-kan-site/blog/${p.id}/`} class="featured-side-item">
                 <div class="featured-side-icon">📝</div>
                 <div class="featured-side-body">
-                  <h3>{p.data.title}</h3>
+                  <h3>{p.data.titleEn || p.data.title}</h3>
                   <p><FormattedDate date={p.data.pubDate} /></p>
                 </div>
               </a>
@@ -506,8 +505,8 @@ const welcomeEN = {
                     <span class="uap-tag">🛸 UFO/UAP</span>
                     <span><FormattedDate date={p.data.pubDate} /></span>
                   </div>
-                  <h3>{p.data.title}</h3>
-                  <p>{p.data.description}</p>
+                  <h3>{p.data.titleEn || p.data.title}</h3>
+                  <p>{p.data.descriptionEn || p.data.description}</p>
                 </a>
               ))}
             </div>
@@ -530,8 +529,8 @@ const welcomeEN = {
                   <div class="feed-icon">📝</div>
                   <div class="feed-body">
                     <div class="feed-meta"><FormattedDate date={p.data.pubDate} /></div>
-                    <h3>{p.data.title}</h3>
-                    <p>{p.data.description}</p>
+                    <h3>{p.data.titleEn || p.data.title}</h3>
+                    <p>{p.data.descriptionEn || p.data.description}</p>
                   </div>
                 </a>
               ))}

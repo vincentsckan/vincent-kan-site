@@ -109,8 +109,8 @@ const hasMore = allPosts.length > PER_PAGE;
 													<span class="tag-uap">UFO/UAP</span>
 													<span><FormattedDate date={p.data.pubDate} /></span>
 												</div>
-												<h3>{p.data.title}</h3>
-												<p>{p.data.description}</p>
+												<h3>{p.data.titleEn || p.data.title}</h3>
+												<p>{p.data.descriptionEn || p.data.description}</p>
 											</div>
 											<div class="feed-time"><FormattedDate date={p.data.pubDate} /></div>
 										</a>
@@ -136,8 +136,8 @@ const hasMore = allPosts.length > PER_PAGE;
 											<div class="feed-icon">📝</div>
 											<div class="feed-body">
 												<div class="feed-meta"><FormattedDate date={p.data.pubDate} /></div>
-												<h3>{p.data.title}</h3>
-												<p>{p.data.description}</p>
+												<h3>{p.data.titleEn || p.data.title}</h3>
+												<p>{p.data.descriptionEn || p.data.description}</p>
 											</div>
 											<div class="feed-time"><FormattedDate date={p.data.pubDate} /></div>
 										</a>
