@@ -1,6 +1,8 @@
 ---
 title: '🛸 1969年日本UFO事件 — 九州上空神秘光球'
 description: '1969年日本福岡上空出現巨大發光球體，日本航空自衛隊戰機升空攔截，係日本最著名嘅UFO案例之一。'
+titleEn: '🗿 The Japan UFO Incident (1969) — A Detailed Case Analysis'
+descriptionEn: 'Japan\'s 1969 UFO incident involving multiple witnesses and official documentation. A deep dive into the evidence and historical context of this East Asian case.'
 pubDate: '2023-04-15'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---

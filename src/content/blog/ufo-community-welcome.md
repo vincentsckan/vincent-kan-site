@@ -1,6 +1,8 @@
 ---
 title: '🌍 加入討論區 — 同世界 UFO 愛好者一齊傾計'
 description: 'Vincent Kan UFO/UAP 資訊站而家開設咗討論區！用 GitHub 帳號就可以留言，歡迎世界各地 UFO 愛好者加入交流。'
+titleEn: '🌍 Join the Discussion — Connect with UFO Enthusiasts Worldwide'
+descriptionEn: 'The Vincent Kan UFO/UAP information site now has a discussion forum! Log in with GitHub to comment. UFO enthusiasts worldwide are welcome to join the conversation.'
 pubDate: '2025-01-01'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---

@@ -1,6 +1,8 @@
 ---
 title: '🛸 戴耶特事件 — 瑞典雷達鎖定UFO海底活動 (1992)'
 description: '1992年瑞典海軍喺波羅的海用聲納同雷達追蹤到海底有不明物體以極高速度移動，軍方艦艇同直昇機齊齊出動。'
+titleEn: '🛸 The Ubmeje UFO Case — Sweden\'s Most Remarkable Encounter'
+descriptionEn: 'Sweden\'s most compelling UFO case involving a close encounter at Ubmeje (Umeå). Physical evidence, witness testimony, and a detailed investigation.'
 pubDate: '2022-10-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---

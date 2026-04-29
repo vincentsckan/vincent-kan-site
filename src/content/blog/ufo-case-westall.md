@@ -1,6 +1,8 @@
 ---
 title: '🛸 西澳小學集體目擊事件 (1966)'
 description: '1966年澳洲墨爾本Westall小學發生集體UFO目擊，超過200名師生見到碟形物體降落再起飛，事件被學校立即封口。'
+titleEn: '🏫 The Westall UFO Incident — Australia\'s Largest Mass Sighting (1966, Melbourne)'
+descriptionEn: 'In 1966, over 200 students and teachers witnessed a UFO landing at Westall High School near Melbourne. One of Australia\'s most credible mass UFO cases.'
 pubDate: '2022-06-25'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---

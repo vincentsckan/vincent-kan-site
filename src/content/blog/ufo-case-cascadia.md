@@ -1,6 +1,8 @@
 ---
 title: '🛸 卡斯卡迪亞UAP事件 — 美國海岸警衛隊目擊 (2015)'
 description: '2015年美國海岸警衛隊喺阿拉斯加附近用熱成像拍到多個高速透明UAP，同時雷達同目視確認。'
+titleEn: '🌲 The Cascadia Subduction Zone — Could UFOs Predict Earthquakes?'
+descriptionEn: 'Before major earthquakes, witness reports of strange lights and UFOs surge. Explore the phenomenon linking UAP activity with seismic events in the Cascadia region.'
 pubDate: '2022-06-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---

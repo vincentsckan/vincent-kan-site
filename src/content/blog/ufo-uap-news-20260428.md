@@ -1,6 +1,8 @@
 ---
 title: '🛸 全球UFO/UAP新聞摘要 — 2026年4月28日'
 description: '尼利斯空軍基地UFO影片瘋傳 · Legacy UFO計劃吹哨人疑被滅口 · 國家太空研討會首辦UAP小組 · 洛斯阿拉莫斯秘密UFO文件曝光'
+titleEn: '🛸 Global UFO/UAP News Roundup — April 28, 2026'
+descriptionEn: 'Daily curated roundup of global UFO/UAP news: government disclosures, authoritative reports, and research progress from around the world.'
 pubDate: '2026-04-28'
 updatedDate: '2026-04-28T12:00+08:00'
 heroImage: '../../assets/blog-placeholder-2.jpg'

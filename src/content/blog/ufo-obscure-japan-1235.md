@@ -1,6 +1,8 @@
 ---
 title: '🇯🇵 1235年日本官方UFO調查 — 人類史上第一次國家級調查'
 description: '比Roswell早712年！日本將軍頼家喺1235年下令調查不明飛行物體，成為人類史上第一個官方UFO調查紀錄'
+titleEn: '⛩️ The 1235 Japan UFO Incident — A Medieval Sighting in Samurai Era'
+descriptionEn: 'In 1235, a Japanese general witnessed mysterious lights in the sky. His retainers reported "stars that were not stars" — one of the earliest recorded UFO cases in East Asia.'
 pubDate: '2026-04-28'
 tags: ['UFO歷史', '古代UFO', '日本', '冷門']
 heroImage: '../../assets/blog-placeholder-2.jpg'

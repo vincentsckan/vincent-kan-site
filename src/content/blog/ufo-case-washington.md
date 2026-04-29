@@ -1,6 +1,8 @@
 ---
 title: '🛸 美國空軍雷達UFO大規模鎖定 (1952)'
 description: '1952年7月，華盛頓特區上空出現大量UFO，民航機師、雷達站、空軍戰機全部確認，係五角大樓首次公開承認無法解釋。'
+titleEn: '💫 The Washington Nationals UFO Incident — UFOs Over the Capital (1952)'
+descriptionEn: 'In July 1952, UFOs were tracked on radar over Washington DC. F-94 jets scrambled but objects evaded them. The Air Force held a press conference, the largest of its time.'
 pubDate: '2022-08-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---

@@ -1,6 +1,8 @@
 ---
 title: '🛸 全球UFO/UAP新聞摘要 — 2026年4月29日'
 description: '每日精選全球UFO/UAP重點新聞 · 政府披露 · 權威報導 · 研究進展'
+titleEn: '🛸 Global UFO/UAP News Roundup — April 29, 2026'
+descriptionEn: 'Daily curated roundup of global UFO/UAP news: government disclosures, authoritative reports, and research progress from around the world.'
 pubDate: '2026-04-29'
 updatedDate: '2026-04-29'
 heroImage: '../../assets/blog-placeholder-1.jpg'

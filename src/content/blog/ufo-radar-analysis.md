@@ -1,6 +1,8 @@
 ---
 title: '🧠 UAP嘅雷達特徵 — 軍方雷達點樣發現UFO？'
 description: '雷達係人類偵測UAP嘅最重要工具。軍方雷達捕捉到嘅UAP信號有啲咩特徵？點解有時雷達見到但肉眼睇唔到？'
+titleEn: '📡 UFO Radar Analysis — How Experts Track Objects That Shouldn\'t Exist'
+descriptionEn: 'Technical exploration of how military and civilian radar systems detect UAP. From Doppler radar to phased array systems — how advanced tracking works.'
 pubDate: '2023-05-01'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---

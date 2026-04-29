@@ -1,6 +1,8 @@
 ---
 title: '🛸 羅斯威爾事件 — UFO 史上最著名墜毀案 (1947)'
 description: '羅斯威爾事件係 UFO 史上最具爭議性嘅案件，從 1947 年嘅碎片發現到軍方嘅矛盾解釋，至今仍然係研究焦點。'
+titleEn: '🛸 The Roswell Incident — The Crash That Started Modern UFO Culture (1947)'
+descriptionEn: 'In July 1947, something crashed on a ranch near Roswell, New Mexico. The US Army initially announced a "flying disc" then retracted. The most famous UFO case in history.'
 pubDate: '2022-01-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---

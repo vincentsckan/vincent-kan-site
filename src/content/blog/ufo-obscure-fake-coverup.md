@@ -1,6 +1,8 @@
 ---
 title: '🎭 美國政府夾埋造假UFO — AARO報告踢爆軍方誤導公眾40年'
 description: 'Pentagon報告承認：軍方刻意製造假UFO資料去掩飾隱形戰機，有人到2023年仲信緊個虛構外星人計劃'
+titleEn: '🎭 The Fake Cover-Up Theory — Did the Government Fabricate UFO Secrecy?'
+descriptionEn: 'Provocative theory: Did the US government deliberately foster UFO conspiracy theories? Exploring the "counterintelligence" angle of UFO secrecy.'
 pubDate: '2026-04-28'
 tags: ['AARO', 'Pentagon', '解密報告', '誤導', '冷門']
 heroImage: '../../assets/blog-placeholder-4.jpg'

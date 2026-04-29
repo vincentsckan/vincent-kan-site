@@ -1,6 +1,8 @@
 ---
 title: '🛸 2024年全球UFO新聞回顧 — 立法之年'
 description: '2024年UAP披露持續升溫：新聽證會、更多吹哨人、披露法案推進。'
+titleEn: '📰 UFO News 2024 — Disclosure Continues to Accelerate'
+descriptionEn: 'An overview of the most important UFO/UAP events of 2024, including AARO\'s new cases, Congressional action, and growing international cooperation on the issue.'
 pubDate: '2023-04-01'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 ---

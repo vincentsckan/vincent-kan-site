@@ -1,6 +1,8 @@
 ---
 title: '🧑‍🔬 海尼克博士 — UFO研究之父 (1910-1986)'
 description: 'J. Allen Hynek 由 UFO 懷疑者變成最權威嘅研究者，創立咗沿用至今嘅近距離接觸分類系統。'
+titleEn: '🔬 Dr. J. Allen Hynek — The Astronomer Who Went from UFO Skeptic to Pioneer'
+descriptionEn: 'Dr. J. Allen Hynek started as a skeptic hired by the US Air Force and became the most influential UFO researcher, creator of the famous Close Encounters classification.'
 pubDate: '2022-10-05'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
