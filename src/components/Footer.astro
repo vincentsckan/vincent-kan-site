@@ -22,8 +22,27 @@ const today = new Date();
     </div>
     <div class="footer-bottom">
       <span>{t('footer.copyright').replace('2026', today.getFullYear().toString())}</span>
-      <span class="footer-built">{t('footer.privacy')}</span>
+      <div class="footer-right">
+        <span id="visitor-count" class="footer-counter">👁️ <span class="count-num">--</span> {lang === 'en' ? 'visitors' : '瀏覽次數'}</span>
+        <span class="footer-built">{t('footer.privacy')}</span>
+      </div>
     </div>
+
+<script is:inline>
+(function() {
+  const el = document.getElementById('visitor-count');
+  if (!el) return;
+  const numEl = el.querySelector('.count-num');
+  fetch('https://visitor-badge.laobi.icu/badge?page_id=vincentkan.vincent-kan-site&format=json')
+  .then(r => r.json())
+  .then(data => {
+    if (data && data.value !== undefined) {
+      numEl.textContent = data.value.toLocaleString();
+    }
+  })
+  .catch(() => {});
+})();
+</script>
   </div>
 </footer>
 
@@ -83,6 +102,21 @@ const today = new Date();
     justify-content: space-between;
     color: var(--text-muted);
     font-size: 0.78rem;
+  }
+  .footer-right {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  .footer-counter {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    font-family: 'SF Mono', 'JetBrains Mono', monospace;
+    opacity: 0.7;
+  }
+  .footer-counter .count-num {
+    color: var(--neon-cyan);
+    font-weight: 600;
   }
   .footer-built {
     color: rgba(0,229,255,0.3);
