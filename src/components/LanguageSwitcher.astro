@@ -1,28 +1,39 @@
+---
 // LanguageSwitcher.astro - Language toggle that keeps the same page
-// Smart conversion: e.g. /vincent-kan-site/about -> /vincent-kan-site/zh/about
+// Reliable path construction without relying on getLocalizedPath()
 
-import { useTranslations, getLangFromUrl, languages, defaultLang } from '../i18n';
-
-const lang = getLangFromUrl(Astro.url);
-const t = useTranslations(lang);
-
-// Determine target language
+const lang = Astro.url.pathname.startsWith('/vincent-kan-site/zh') ? 'zh' : 'en';
 const targetLang = lang === 'en' ? 'zh' : 'en';
 
-// Build the localized path, preserving the current page
-// Strip /vincent-kan-site prefix to get the page path
-const pathname = Astro.url.pathname;
-const cleanPath = pathname.replace(/^\/vincent-kan-site/, '') || '/';
+// Get the current page path relative to the language root
+// e.g. /vincent-kan-site/zh/about -> about
+// e.g. /vincent-kan-site/about -> about
+// e.g. /vincent-kan-site/zh/ -> (empty)
+// e.g. /vincent-kan-site/ -> (empty)
 
-// If current is zh, remove /zh prefix for the page part
-const pagePath = lang === 'zh' 
-  ? cleanPath.replace(/^\/zh/, '') || '/'
-  : cleanPath;
+// Strip the base
+let pagePart = Astro.url.pathname.replace(/^\/vincent-kan-site/, '') || '/';
+// If zh, strip the /zh or /zh/ prefix
+if (lang === 'zh') {
+  pagePart = pagePart.replace(/^\/zh/, '') || '/';
+}
+if (!pagePart.startsWith('/')) pagePart = '/' + pagePart;
 
-// Build target URL
-const targetHref = targetLang === 'en' 
-  ? `/vincent-kan-site${pagePath}`
-  : `/vincent-kan-site/${targetLang}${pagePath}`;
+// Build target href
+let targetHref;
+if (targetLang === 'en') {
+  targetHref = `/vincent-kan-site${pagePart === '/' ? '' : pagePart}`;
+} else {
+  targetHref = `/vincent-kan-site/zh${pagePart === '/' ? '' : pagePart}`;
+}
+
+// Fallback: ensure we always have sensible defaults
+if (!targetHref || targetHref === '/vincent-kan-site/zh//') {
+  targetHref = targetLang === 'en' ? '/vincent-kan-site/' : '/vincent-kan-site/zh/';
+}
+
+import { useTranslations } from '../i18n';
+const t = useTranslations(lang);
 ---
 
 <div class="lang-switcher">
