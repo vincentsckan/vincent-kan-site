@@ -1,7 +1,7 @@
 ---
 title: '⚡ 快速認識UFO/UAP — 必知基礎知識'
 description: 'UFO同UAP有咩分別？邊啲機構負責調查？呢篇懶人包一次過話你知。'
-titleEn: '🚀 UFO Quick Guide — A Beginner\'s Introduction to the Phenomenon'
+titleEn: '🚀 UFO Quick Guide — A Beginner''s Introduction to the Phenomenon'
 descriptionEn: 'A fast-paced guide for UFO beginners. What are the most credible cases? What does the government know? A friendly starting point for your UFO journey.'
 pubDate: '2022-06-20'
 heroImage: '../../assets/blog-placeholder-1.jpg'

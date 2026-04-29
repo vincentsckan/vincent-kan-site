@@ -2,7 +2,7 @@
 title: '🛸 2023年全球UFO新聞回顧 — Grusch之年'
 description: '2023年係UAP史上最轟動嘅一年：Grusch聽證會、NASA報告、更多UAP影片公開。'
 titleEn: '📰 UFO News 2023 — The Biggest Year for UFO Disclosure'
-descriptionEn: '2023 was the most significant year for UFO disclosure, with Congressional hearings, whistleblower testimony, NASA\'s UAP study, and legislation pushing for transparency.'
+descriptionEn: '2023 was the most significant year for UFO disclosure, with Congressional hearings, whistleblower testimony, NASA''s UAP study, and legislation pushing for transparency.'
 pubDate: '2023-03-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---

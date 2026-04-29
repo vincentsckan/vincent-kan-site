@@ -1,7 +1,7 @@
 ---
 title: '🛸 沙港事件 — 加拿大版羅斯威爾 (1967)'
 description: '1967年加拿大新斯科舍省沙港，多個目擊者見到UFO墜入海中，加拿大海軍同RCMP展開大規模搜索，海軍潛水員下水調查。'
-titleEn: '🌊 The Shag Harbour Incident — Canada\'s Official UFO Case (1967)'
+titleEn: '🌊 The Shag Harbour Incident — Canada''s Official UFO Case (1967)'
 descriptionEn: 'In 1967, multiple witnesses in Nova Scotia saw a UFO crash into the ocean. The Canadian government and military conducted a search. An officially documented case.'
 pubDate: '2022-09-05'
 heroImage: '../../assets/blog-placeholder-2.jpg'
