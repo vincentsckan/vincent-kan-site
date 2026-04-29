@@ -2,16 +2,22 @@
 // LanguageSwitcher.astro - Language toggle component
 // Shows current language and allows switching
 
-import { useTranslations, getLangFromUrl, getLocalizedPath, languages, defaultLang } from '../i18n';
+import { useTranslations, getLangFromUrl, languages, defaultLang } from '../i18n';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
+
+// Build the target language path manually (more reliable)
 const targetLang = lang === 'en' ? 'zh' : 'en';
-const targetPath = getLocalizedPath(Astro.url.pathname, lang, targetLang);
+// If current is English (default, no prefix), go to /zh/
+// If current is zh, go back to root (English)
+const targetHref = lang === 'en' 
+  ? '/vincent-kan-site/zh/' 
+  : '/vincent-kan-site/';
 ---
 
 <div class="lang-switcher">
-  <a href={targetPath} class="lang-link" title={t('lang.switch')}>
+  <a href={targetHref} class="lang-link" title={t('lang.switch')}>
     <span class="lang-icon">🌐</span>
     <span class="lang-text">{t('lang.switch')}</span>
   </a>
