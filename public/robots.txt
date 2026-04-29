@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vincentsckan.github.io/vincent-kan-site/sitemap-index.xml
