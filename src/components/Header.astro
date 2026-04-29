@@ -11,8 +11,8 @@ const t = useTranslations(lang);
 <header>
   <nav>
     <a href={lang === 'en' ? '/vincent-kan-site/' : '/vincent-kan-site/zh/'} class="logo">
-      <img src="/vincent-kan-site/logo/ufo-logo.svg" alt="UFO" class="logo-icon" />
-      <span>{SITE_TITLE}</span>
+      <img src="/vincent-kan-site/logo/vk-logo.svg" alt="Vincent Kan" class="logo-img" />
+      <span class="logo-text" data-astro-cid-3ef6ksr2>{SITE_TITLE}</span>
     </a>
     <div class="nav-links">
       <HeaderLink href={lang === 'en' ? '/vincent-kan-site/' : '/vincent-kan-site/zh/'}>{t('nav.home')}</HeaderLink>
@@ -45,21 +45,22 @@ const t = useTranslations(lang);
     justify-content: space-between;
   }
   .logo {
-    font-size: 1.05rem;
-    font-weight: 700;
-    color: var(--text);
     text-decoration: none;
-    letter-spacing: 0.02em;
-    font-family: 'SF Mono', 'JetBrains Mono', monospace;
     display: flex;
     align-items: center;
     gap: 0.4rem;
   }
-  .logo-icon {
-    width: 26px;
-    height: 26px;
+  .logo-img {
+    height: 38px;
+    width: auto;
     display: block;
-    filter: drop-shadow(0 0 4px rgba(0,229,255,0.3));
+  }
+  .logo-text {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--text);
+    letter-spacing: 0.02em;
+    font-family: 'SF Mono', 'JetBrains Mono', monospace;
   }
   .nav-links { display: flex; gap: 0.25rem; }
   .nav-links a {
