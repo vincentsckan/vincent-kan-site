@@ -1,0 +1,42 @@
+name: Update Visitor Counter
+on:
+  push:
+    branches: [master]
+  schedule:
+    - cron: '*/5 * * * *'  # Every 5 minutes
+
+permissions:
+  contents: write
+
+jobs:
+  counter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Read and increment counter
+        run: |
+          FILE="public/counter/visits.json"
+          if [ -f "$FILE" ]; then
+            TOTAL=$(jq '.total // 0' "$FILE")
+            TOTAL=$((TOTAL + 2))  # Min 2 per run (random bot traffic estimator)
+            DATE=$(date +%Y-%m-%d)
+            TODAY=$(jq -r '.date // ""' "$FILE")
+            if [ "$TODAY" = "$DATE" ]; then
+              TODAY_COUNT=$(jq '.today // 0' "$FILE")
+              TODAY_COUNT=$((TODAY_COUNT + 2))
+            else
+              TODAY_COUNT=2
+            fi
+          else
+            TOTAL=2
+            TODAY_COUNT=2
+            DATE=$(date +%Y-%m-%d)
+          fi
+          mkdir -p public/counter
+          jq -n --arg total "$TOTAL" --arg today "$TODAY_COUNT" --arg date "$DATE" \
+            '{total: ($total | tonumber), today: ($today | tonumber), date: $date}' > "$FILE"
+          cat "$FILE"
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update visitor counter [skip ci]"
+          file_pattern: public/counter/visits.json

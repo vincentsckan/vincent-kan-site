@@ -23,11 +23,32 @@ const today = new Date();
     <div class="footer-bottom">
       <span>{t('footer.copyright').replace('2026', today.getFullYear().toString())}</span>
       <div class="footer-right">
-        <span class="footer-counter">
-          <img src="https://visitor-badge.laobi.icu/badge?page_id=vincentkan.vincent-kan-site" alt="visitors" style="height:18px;vertical-align:middle;border-radius:3px;" />
-        </span>
+        <span class="footer-counter" id="visit-counter">👁️ <span class="count-num">--</span> {lang === 'en' ? 'visitors' : '瀏覽次數'}</span>
         <span class="footer-built">{t('footer.privacy')}</span>
       </div>
+    </div>
+  </div>
+</footer>
+
+<script is:inline>
+(function() {
+  var el = document.getElementById('visit-counter');
+  if (!el) return;
+  var numEl = el.querySelector('.count-num');
+  if (!numEl) return;
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', '/vincent-kan-site/counter/visits.json', true);
+  xhr.onload = function() {
+    try {
+      var data = JSON.parse(xhr.responseText);
+      if (data && data.total !== undefined) {
+        numEl.textContent = data.total.toLocaleString();
+      }
+    } catch(e) {}
+  };
+  xhr.send();
+})();
+</script>
     </div>
 
 
@@ -99,11 +120,15 @@ const today = new Date();
   .footer-counter {
     display: inline-flex;
     align-items: center;
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    font-family: 'SF Mono', 'JetBrains Mono', monospace;
     opacity: 0.8;
   }
-  .footer-counter img {
-    height: 18px;
-    border-radius: 3px;
+  .footer-counter .count-num {
+    color: var(--neon-cyan);
+    font-weight: 600;
+    margin: 0 2px;
   }
   .footer-built {
     color: rgba(0,229,255,0.3);
