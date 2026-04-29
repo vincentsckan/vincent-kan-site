@@ -1,0 +1,233 @@
+---
+import BaseHead from '../../../components/BaseHead.astro';
+import Header from '../../../components/Header.astro';
+import { SITE_TITLE } from '../../../consts';
+
+export const prerender = true;
+---
+
+<!DOCTYPE html>
+<html lang="zh-HK">
+  <head>
+    <BaseHead title="UFO/UAP 討論區 — ${SITE_TITLE}" description="全球UFO/UAP愛好者交流討論區" />
+    <style is:global>
+      @keyframes fadeIn { 0%{opacity:0} 100%{opacity:1} }
+      @keyframes slideUp { 0%{transform:translateY(15px);opacity:0} 100%{transform:translateY(0);opacity:1} }
+    </style>
+    <style>
+      .forum-wrap { max-width: 860px; margin: 0 auto; padding: 2rem 1.5rem 4rem; animation: fadeIn 0.4s ease both; }
+
+      .hero-section {
+        text-align: center;
+        margin-bottom: 2.5rem;
+      }
+      .hero-section h1 {
+        font-size: 1.8rem;
+        font-weight: 800;
+        margin-bottom: 0.3rem;
+      }
+      .hero-section .hero-sub {
+        font-size: 0.88rem;
+        color: var(--text-muted, #888);
+        font-family: 'SF Mono', 'JetBrains Mono', monospace;
+      }
+      .hero-section .hero-desc {
+        font-size: 0.85rem;
+        color: var(--text-secondary, #aaa);
+        margin-top: 0.6rem;
+        line-height: 1.6;
+      }
+
+      .platform-grid {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+      }
+
+      .platform-card {
+        display: flex;
+        align-items: center;
+        gap: 1.2rem;
+        padding: 1.2rem 1.5rem;
+        background: var(--bg-card, rgba(255,255,255,0.03));
+        border: 1px solid var(--border, rgba(255,255,255,0.08));
+        border-radius: var(--radius, 10px);
+        text-decoration: none;
+        color: inherit;
+        transition: all 0.25s;
+        animation: slideUp 0.4s ease both;
+      }
+      .platform-card:hover {
+        border-color: var(--neon-cyan, #00e5ff);
+        box-shadow: 0 0 20px rgba(0,229,255,0.04);
+        transform: translateY(-2px);
+      }
+      .platform-card:nth-child(2) { animation-delay: 0.05s; }
+      .platform-card:nth-child(3) { animation-delay: 0.1s; }
+      .platform-card:nth-child(4) { animation-delay: 0.15s; }
+      .platform-card:nth-child(5) { animation-delay: 0.2s; }
+
+      .platform-icon {
+        width: 48px;
+        height: 48px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.6rem;
+        border-radius: 12px;
+        flex-shrink: 0;
+      }
+      .platform-icon.reddit { background: rgba(255,69,0,0.1); }
+      .platform-icon.discord { background: rgba(88,101,242,0.1); }
+      .platform-icon.x { background: rgba(255,255,255,0.05); }
+      .platform-icon.telegram { background: rgba(0,136,204,0.1); }
+      .platform-icon.youtube { background: rgba(255,0,0,0.08); }
+
+      .platform-body { flex: 1; min-width: 0; }
+      .platform-body h3 { font-size: 0.95rem; font-weight: 600; margin-bottom: 0.15rem; }
+      .platform-body p { font-size: 0.78rem; color: var(--text-secondary, #aaa); line-height: 1.5; margin: 0; }
+      .platform-meta {
+        font-family: 'SF Mono', 'JetBrains Mono', monospace;
+        font-size: 0.65rem;
+        color: var(--text-muted, #666);
+        margin-top: 0.15rem;
+      }
+      .platform-arrow { font-size: 0.9rem; color: var(--text-muted, #666); flex-shrink: 0; }
+
+      .chat-container {
+        margin: 1.5rem 0;
+        border: 1px solid var(--border, rgba(255,255,255,0.08));
+        border-radius: var(--radius, 10px);
+        overflow: hidden;
+        background: var(--bg-card, rgba(255,255,255,0.02));
+        animation: slideUp 0.4s ease both;
+        animation-delay: 0.25s;
+      }
+      .chat-container iframe {
+        width: 100%;
+        height: 550px;
+        border: none;
+        display: block;
+      }
+
+      @media (max-width: 600px) {
+        .forum-wrap { padding: 1.5rem 0.75rem 3rem; }
+        .hero-section h1 { font-size: 1.4rem; }
+        .platform-card { padding: 1rem; }
+        .platform-icon { width: 40px; height: 40px; font-size: 1.3rem; }
+        .platform-body h3 { font-size: 0.85rem; }
+        .platform-body p { font-size: 0.72rem; }
+      }
+    </style>
+  </head>
+  <body>
+    <Header />
+    <main>
+      <div class="forum-wrap">
+        <div class="hero-section">
+          <h1>🛸 UFO/UAP 討論區</h1>
+          <div class="hero-sub">/forum</div>
+          <p class="hero-desc">
+            同全球 UFO/UAP 愛好者互相交流學習<br>
+            以下係熱門嘅討論平台，一齊加入！
+          </p>
+        </div>
+
+        <div class="platform-grid">
+          <a href="https://reddit.com/r/UFOs" target="_blank" rel="noopener noreferrer" class="platform-card">
+            <div class="platform-icon reddit">🔴</div>
+            <div class="platform-body">
+              <h3>Reddit – r/UFOs</h3>
+              <p>全球最大UFO討論社群，超過200萬成員，每日大量新聞、影片、目擊報告同討論</p>
+              <div class="platform-meta">reddit.com/r/UFOs</div>
+            </div>
+            <span class="platform-arrow">↗</span>
+          </a>
+
+          <a href="https://discord.gg/UFO" target="_blank" rel="noopener noreferrer" class="platform-card">
+            <div class="platform-icon discord">💬</div>
+            <div class="platform-body">
+              <h3>Discord – UFO/UAP 社群</h3>
+              <p>即時語音同文字討論，適合深夜吹水、分享最新發現、實時交流</p>
+              <div class="platform-meta">discord.gg/UFO</div>
+            </div>
+            <span class="platform-arrow">↗</span>
+          </a>
+
+          <a href="https://twitter.com/search?q=UFO%20UAP&f=live" target="_blank" rel="noopener noreferrer" class="platform-card">
+            <div class="platform-icon x">𝕏</div>
+            <div class="platform-body">
+              <h3>𝕏 (Twitter) – #UFO #UAP</h3>
+              <p>追蹤披露最新動態，關注爆料者、研究員同新聞記者嘅即時推文</p>
+              <div class="platform-meta">@UFOUPAP / #UFO</div>
+            </div>
+            <span class="platform-arrow">↗</span>
+          </a>
+
+          <a href="https://t.me/UFO_News" target="_blank" rel="noopener noreferrer" class="platform-card">
+            <div class="platform-icon telegram">✈️</div>
+            <div class="platform-body">
+              <h3>Telegram – UFO/UAP 頻道</h3>
+              <p>Telegram上有大量UFO頻道同群組，接收最新消息、目擊影片同討論</p>
+              <div class="platform-meta">@UFO_News 等</div>
+            </div>
+            <span class="platform-arrow">↗</span>
+          </a>
+
+          <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" class="platform-card">
+            <div class="platform-icon youtube">▶️</div>
+            <div class="platform-body">
+              <h3>YouTube – 外星文明/披露頻道</h3>
+              <p>大量UFO YouTuber每日更新：案件分析、專家訪問、最新披露進展</p>
+              <div class="platform-meta">youtube.com 搜尋 UFO/UAP</div>
+            </div>
+            <span class="platform-arrow">↗</span>
+          </a>
+        </div>
+
+        <div class="chat-container">
+          <iframe src="https://chitchatter.im/ufo-hk-discussion" title="UFO/UAP 即時討論區" allow="microphone; camera" loading="lazy"></iframe>
+        </div>
+
+        <div class="section-hd" style="animation: slideUp 0.4s ease both; animation-delay: 0.3s;">
+          <div class="section-hd-left">
+            <span class="section-hd-acc">LINKS</span>
+            <h2>其他UFO討論平台</h2>
+          </div>
+        </div>
+
+        <div class="platform-grid">
+          <a href="https://reddit.com/r/UFOs" target="_blank" rel="noopener noreferrer" class="platform-card" style="animation-delay: 0.35s">
+            <div class="platform-icon reddit">🔴</div>
+            <div class="platform-body">
+              <h3>Reddit – r/UFOs</h3>
+              <p>全球最大UFO討論社群，超過200萬成員</p>
+              <div class="platform-meta">reddit.com/r/UFOs</div>
+            </div>
+            <span class="platform-arrow">↗</span>
+          </a>
+
+          <a href="https://discord.gg/UFO" target="_blank" rel="noopener noreferrer" class="platform-card" style="animation-delay: 0.4s">
+            <div class="platform-icon discord">💬</div>
+            <div class="platform-body">
+              <h3>Discord – UFO/UAP</h3>
+              <p>即時語音同文字討論</p>
+              <div class="platform-meta">discord.gg/UFO</div>
+            </div>
+            <span class="platform-arrow">↗</span>
+          </a>
+
+          <a href="https://twitter.com/search?q=UFO%20UAP&f=live" target="_blank" rel="noopener noreferrer" class="platform-card" style="animation-delay: 0.45s">
+            <div class="platform-icon x">𝕏</div>
+            <div class="platform-body">
+              <h3>𝕏 (Twitter) – #UFO</h3>
+              <p>追蹤披露最新動態</p>
+              <div class="platform-meta">#UFO / #UAP</div>
+            </div>
+            <span class="platform-arrow">↗</span>
+          </a>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
