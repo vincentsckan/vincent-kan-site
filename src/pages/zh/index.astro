@@ -285,11 +285,11 @@ const latestUAP = uapPosts[0];
         <section class="hero-section">
           <h1><span class="acc">UFO</span>/UAP 研究與新聞庫</h1>
           <p>UFO/UAP 案例庫、每日新聞更新、深度研究分析 — 免費開放</p>
-          <a href="/vincent-kan-site/zh/blog" class="hero-cta">瀏覽文章 →</a>
+          <a href="/zh/blog" class="hero-cta">瀏覽文章 →</a>
         </section>
 
         {latestUAP && (
-          <a href={`/vincent-kan-site/blog/${latestUAP.id}/`} class="breaking">
+          <a href={`/blog/${latestUAP.id}/`} class="breaking">
             <span class="breaking-dot"></span>
             <span class="breaking-label">突發</span>
             <span class="breaking-title">{latestUAP.data.title}</span>
@@ -299,7 +299,7 @@ const latestUAP = uapPosts[0];
 
         <div class="featured">
           {latestUAP ? (
-            <a href={`/vincent-kan-site/blog/${latestUAP.id}/`} class="featured-main">
+            <a href={`/blog/${latestUAP.id}/`} class="featured-main">
               <div class="featured-main-top">
                 <span class="featured-tag">🛸 UFO/UAP</span>
                 <h2>{latestUAP.data.title}</h2>
@@ -321,7 +321,7 @@ const latestUAP = uapPosts[0];
           )}
           <div class="featured-side">
             {uapPosts.slice(1, 3).map(p => (
-              <a href={`/vincent-kan-site/blog/${p.id}/`} class="featured-side-item">
+              <a href={`/blog/${p.id}/`} class="featured-side-item">
                 <div class="featured-side-icon">🛸</div>
                 <div class="featured-side-body">
                   <h3>{p.data.title}</h3>
@@ -330,7 +330,7 @@ const latestUAP = uapPosts[0];
               </a>
             ))}
             {otherPosts.slice(0, 1).map(p => (
-              <a href={`/vincent-kan-site/blog/${p.id}/`} class="featured-side-item">
+              <a href={`/blog/${p.id}/`} class="featured-side-item">
                 <div class="featured-side-icon">📝</div>
                 <div class="featured-side-body">
                   <h3>{p.data.title}</h3>
@@ -342,27 +342,27 @@ const latestUAP = uapPosts[0];
         </div>
 
         <div class="domains">
-          <a href="/vincent-kan-site/zh/blog" class="domain-item">
+          <a href="/zh/blog" class="domain-item">
             <div class="domain-icon">🛸</div>
             <div class="domain-label">UFO 新聞</div>
             <div class="domain-count">{uapPosts.length} 篇</div>
           </a>
-          <a href="/vincent-kan-site/zh/projects" class="domain-item">
+          <a href="/zh/projects" class="domain-item">
             <div class="domain-icon">⚡</div>
             <div class="domain-label">專案</div>
             <div class="domain-count">3 個</div>
           </a>
-          <a href="/vincent-kan-site/zh/about" class="domain-item">
+          <a href="/zh/about" class="domain-item">
             <div class="domain-icon">👤</div>
             <div class="domain-label">關於我</div>
             <div class="domain-count">簡介</div>
           </a>
-          <a href="/vincent-kan-site/forum" class="domain-item">
+          <a href="/forum" class="domain-item">
             <div class="domain-icon">💬</div>
             <div class="domain-label">討論區</div>
             <div class="domain-count">交流學習</div>
           </a>
-          <a href="/vincent-kan-site/zh/blog" class="domain-item">
+          <a href="/zh/blog" class="domain-item">
             <div class="domain-icon">📰</div>
             <div class="domain-label">全部文章</div>
             <div class="domain-count">{posts.length} 篇</div>
@@ -376,11 +376,11 @@ const latestUAP = uapPosts[0];
                 <span class="section-hd-acc">/UAP</span>
                 <h2>UFO 新聞總覽</h2>
               </div>
-              <a href="/vincent-kan-site/zh/blog">查看全部 →</a>
+              <a href="/zh/blog">查看全部 →</a>
             </div>
             <div class="uap-grid">
               {uapPosts.slice(1, 5).map(p => (
-                <a href={`/vincent-kan-site/blog/${p.id}/`} class="uap-card">
+                <a href={`/blog/${p.id}/`} class="uap-card">
                   <div class="uap-card-meta">
                     <span class="uap-tag">🛸 UFO/UAP</span>
                     <span><FormattedDate date={p.data.pubDate} /></span>
