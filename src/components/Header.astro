@@ -10,16 +10,16 @@ const t = useTranslations(lang);
 
 <header>
   <nav>
-    <a href={lang === 'en' ? '/vincent-kan-site/' : '/vincent-kan-site/zh/'} class="logo">
-      <img src="/vincent-kan-site/logo/vk-logo.svg" alt="Vincent Kan" class="logo-img" />
+    <a href={lang === 'en' ? '/' : '/zh/'} class="logo">
+      <img src="/logo/vk-logo.svg" alt="Vincent Kan" class="logo-img" />
       <span class="logo-text" data-astro-cid-3ef6ksr2>{SITE_TITLE}</span>
     </a>
     <div class="nav-links">
-      <HeaderLink href={lang === 'en' ? '/vincent-kan-site/' : '/vincent-kan-site/zh/'}>{t('nav.home')}</HeaderLink>
-      <HeaderLink href={lang === 'en' ? '/vincent-kan-site/blog' : '/vincent-kan-site/zh/blog'}>{t('nav.blog')}</HeaderLink>
-      <HeaderLink href={lang === 'en' ? '/vincent-kan-site/projects' : '/vincent-kan-site/zh/projects'}>{t('nav.projects')}</HeaderLink>
-      <HeaderLink href={lang === 'en' ? '/vincent-kan-site/forum' : '/vincent-kan-site/zh/forum'}>{t('nav.forum')}</HeaderLink>
-      <HeaderLink href={lang === 'en' ? '/vincent-kan-site/about' : '/vincent-kan-site/zh/about'}>{t('nav.about')}</HeaderLink>
+      <HeaderLink href={lang === 'en' ? '/' : '/zh/'}>{t('nav.home')}</HeaderLink>
+      <HeaderLink href={lang === 'en' ? '/blog' : '/zh/blog'}>{t('nav.blog')}</HeaderLink>
+      <HeaderLink href={lang === 'en' ? '/projects' : '/zh/projects'}>{t('nav.projects')}</HeaderLink>
+      <HeaderLink href={lang === 'en' ? '/forum' : '/zh/forum'}>{t('nav.forum')}</HeaderLink>
+      <HeaderLink href={lang === 'en' ? '/about' : '/zh/about'}>{t('nav.about')}</HeaderLink>
       <LanguageSwitcher />
     </div>
   </nav>
