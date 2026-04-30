@@ -28,7 +28,7 @@ const hasMore = allPosts.length > PER_PAGE;
 <html lang="zh-HK">
 	<head>
 		<BaseHead title={"文章 · " + SITE_TITLE} description={SITE_DESCRIPTION} />
-		{hasMore && <link rel="next" href="/vincent-kan-site/zh/blog/page/2/" />}
+		{hasMore && <link rel="next" href="/zh/blog/page/2/" />}
 		<style>
 			.blog-wrap { max-width: 700px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
 			.page-hd { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 1.5rem; margin-top: 0; }
@@ -101,7 +101,7 @@ const hasMore = allPosts.length > PER_PAGE;
 								</div>
 								<div class="feed">
 									{firstPageUap.map(p => (
-										<a href={`/vincent-kan-site/zh/blog/${p.id}/`} class="feed-item">
+										<a href={`/zh/blog/${p.id}/`} class="feed-item">
 											<div class="feed-icon">🛸</div>
 											<div class="feed-body">
 												<div class="feed-meta">
@@ -129,7 +129,7 @@ const hasMore = allPosts.length > PER_PAGE;
 								</div>
 								<div class="feed">
 									{firstPageOther.map(p => (
-										<a href={`/vincent-kan-site/zh/blog/${p.id}/`} class="feed-item">
+										<a href={`/zh/blog/${p.id}/`} class="feed-item">
 											<div class="feed-icon">📝</div>
 											<div class="feed-body">
 												<div class="feed-meta"><FormattedDate date={p.data.pubDate} /></div>
@@ -147,7 +147,7 @@ const hasMore = allPosts.length > PER_PAGE;
 							<nav class="pagination">
 								<span class="page-btn disabled">← 上一頁</span>
 								<span class="page-info">1 / {totalPages}</span>
-								<a href="/vincent-kan-site/zh/blog/page/2/" class="page-btn">下一頁 →</a>
+								<a href="/zh/blog/page/2/" class="page-btn">下一頁 →</a>
 							</nav>
 						)}
 					</>
