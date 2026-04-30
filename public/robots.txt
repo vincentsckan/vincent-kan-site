@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vincentsckan.github.io/vincent-kan-site/sitemap-index.xml
+Sitemap: https://www.disclosurehk.com/sitemap-index.xml
+
