@@ -11,8 +11,8 @@ const targetLang = lang === 'en' ? 'zh' : 'en';
 // e.g. /zh/ -> (empty)
 // e.g. / -> (empty)
 
-// Strip the base
-let pagePart = Astro.url.pathname.replace(/^\/, '') || '/';
+// Strip the base (now '/', so just start from the path)
+let pagePart = Astro.url.pathname;
 // If zh, strip the /zh or /zh/ prefix
 if (lang === 'zh') {
   pagePart = pagePart.replace(/^\/zh/, '') || '/';
@@ -22,7 +22,7 @@ if (!pagePart.startsWith('/')) pagePart = '/' + pagePart;
 // Build target href
 let targetHref;
 if (targetLang === 'en') {
-  targetHref = `/vincent-kan-site${pagePart === '/' ? '' : pagePart}`;
+  targetHref = `${pagePart === '/' ? '' : pagePart}`;
 } else {
   targetHref = `/zh${pagePart === '/' ? '' : pagePart}`;
 }
