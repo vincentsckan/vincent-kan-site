@@ -8,8 +8,8 @@ import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://vincentsckan.github.io',
-  base: '/vincent-kan-site',
+  site: 'https://www.disclosurehk.com',
+  base: '/',
 
   integrations: [mdx(), sitemap(), react()],
   fonts: [
