@@ -2,17 +2,17 @@
 // LanguageSwitcher.astro - Language toggle that keeps the same page
 // Reliable path construction without relying on getLocalizedPath()
 
-const lang = Astro.url.pathname.startsWith('/vincent-kan-site/zh') ? 'zh' : 'en';
+const lang = Astro.url.pathname.startsWith('/zh') ? 'zh' : 'en';
 const targetLang = lang === 'en' ? 'zh' : 'en';
 
 // Get the current page path relative to the language root
-// e.g. /vincent-kan-site/zh/about -> about
-// e.g. /vincent-kan-site/about -> about
-// e.g. /vincent-kan-site/zh/ -> (empty)
-// e.g. /vincent-kan-site/ -> (empty)
+// e.g. /zh/about -> about
+// e.g. /about -> about
+// e.g. /zh/ -> (empty)
+// e.g. / -> (empty)
 
 // Strip the base
-let pagePart = Astro.url.pathname.replace(/^\/vincent-kan-site/, '') || '/';
+let pagePart = Astro.url.pathname.replace(/^\/, '') || '/';
 // If zh, strip the /zh or /zh/ prefix
 if (lang === 'zh') {
   pagePart = pagePart.replace(/^\/zh/, '') || '/';
@@ -24,12 +24,12 @@ let targetHref;
 if (targetLang === 'en') {
   targetHref = `/vincent-kan-site${pagePart === '/' ? '' : pagePart}`;
 } else {
-  targetHref = `/vincent-kan-site/zh${pagePart === '/' ? '' : pagePart}`;
+  targetHref = `/zh${pagePart === '/' ? '' : pagePart}`;
 }
 
 // Fallback: ensure we always have sensible defaults
-if (!targetHref || targetHref === '/vincent-kan-site/zh//') {
-  targetHref = targetLang === 'en' ? '/vincent-kan-site/' : '/vincent-kan-site/zh/';
+if (!targetHref || targetHref === '/zh//') {
+  targetHref = targetLang === 'en' ? '/' : '/zh/';
 }
 
 import { useTranslations } from '../i18n';
