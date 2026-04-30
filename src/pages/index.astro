@@ -386,19 +386,19 @@ const welcomeEN = {
           {lang === 'en' ? (
             <>
               <p>A curated collection of UFO/UAP cases, daily news updates, and in-depth research — free and ad-free.</p>
-              <a href="/vincent-kan-site/blog" class="hero-cta">Browse Articles →</a>
+              <a href="/blog" class="hero-cta">Browse Articles →</a>
             </>
           ) : (
             <>
               <p>UFO/UAP 案例庫、每日新聞更新、深度研究分析 — 免費開放</p>
-              <a href="/vincent-kan-site/zh/blog" class="hero-cta">瀏覽文章 →</a>
+              <a href="/zh/blog" class="hero-cta">瀏覽文章 →</a>
             </>
           )}
         </section>
 
         <!-- BREAKING -->
         {latestUAP && (
-          <a href={`/vincent-kan-site/blog/${latestUAP.id}/`} class="breaking">
+          <a href={`/blog/${latestUAP.id}/`} class="breaking">
             <span class="breaking-dot"></span>
             <span class="breaking-label">{lang === 'en' ? 'BREAKING' : '突發'}</span>
             <span class="breaking-title">{latestUAP.data.titleEn || latestUAP.data.title}</span>
@@ -416,7 +416,7 @@ const welcomeEN = {
         <!-- FEATURED -->
         <div class="featured">
           {latestUAP ? (
-            <a href={`/vincent-kan-site/blog/${latestUAP.id}/`} class="featured-main">
+            <a href={`/blog/${latestUAP.id}/`} class="featured-main">
               <div class="featured-main-top">
                 <span class="featured-tag">🛸 UFO/UAP</span>
                 <h2>{latestUAP.data.titleEn || latestUAP.data.title}</h2>
@@ -439,7 +439,7 @@ const welcomeEN = {
 
           <div class="featured-side">
             {uapPosts.slice(1, 3).map(p => (
-              <a href={`/vincent-kan-site/blog/${p.id}/`} class="featured-side-item">
+              <a href={`/blog/${p.id}/`} class="featured-side-item">
                 <div class="featured-side-icon">🛸</div>
                 <div class="featured-side-body">
                   <h3>{p.data.titleEn || p.data.title}</h3>
@@ -448,7 +448,7 @@ const welcomeEN = {
               </a>
             ))}
             {otherPosts.slice(0, 1).map(p => (
-              <a href={`/vincent-kan-site/blog/${p.id}/`} class="featured-side-item">
+              <a href={`/blog/${p.id}/`} class="featured-side-item">
                 <div class="featured-side-icon">📝</div>
                 <div class="featured-side-body">
                   <h3>{p.data.titleEn || p.data.title}</h3>
@@ -461,27 +461,27 @@ const welcomeEN = {
 
         <!-- QUICK LINKS -->
         <div class="domains">
-          <a href={lang === 'en' ? '/vincent-kan-site/blog' : '/vincent-kan-site/zh/blog'} class="domain-item">
+          <a href={lang === 'en' ? '/blog' : '/zh/blog'} class="domain-item">
             <div class="domain-icon">🛸</div>
             <div class="domain-label">{lang === 'en' ? 'UFO News' : 'UFO 新聞'}</div>
             <div class="domain-count">{uapPosts.length} {lang === 'en' ? 'posts' : '篇'}</div>
           </a>
-          <a href={lang === 'en' ? '/vincent-kan-site/projects' : '/vincent-kan-site/zh/projects'} class="domain-item">
+          <a href={lang === 'en' ? '/projects' : '/zh/projects'} class="domain-item">
             <div class="domain-icon">⚡</div>
             <div class="domain-label">{lang === 'en' ? 'Projects' : '專案'}</div>
             <div class="domain-count">3</div>
           </a>
-          <a href={lang === 'en' ? '/vincent-kan-site/about' : '/vincent-kan-site/zh/about'} class="domain-item">
+          <a href={lang === 'en' ? '/about' : '/zh/about'} class="domain-item">
             <div class="domain-icon">👤</div>
             <div class="domain-label">{lang === 'en' ? 'About' : '關於我'}</div>
             <div class="domain-count">{lang === 'en' ? 'Bio' : '簡介'}</div>
           </a>
-          <a href="/vincent-kan-site/forum" class="domain-item">
+          <a href="/forum" class="domain-item">
             <div class="domain-icon">💬</div>
             <div class="domain-label">{lang === 'en' ? 'Forum' : '討論區'}</div>
             <div class="domain-count">{lang === 'en' ? 'Chat' : '交流學習'}</div>
           </a>
-          <a href={lang === 'en' ? '/vincent-kan-site/blog' : '/vincent-kan-site/zh/blog'} class="domain-item">
+          <a href={lang === 'en' ? '/blog' : '/zh/blog'} class="domain-item">
             <div class="domain-icon">📰</div>
             <div class="domain-label">{lang === 'en' ? 'All Posts' : '全部文章'}</div>
             <div class="domain-count">{posts.length} {lang === 'en' ? 'total' : '篇'}</div>
@@ -496,11 +496,11 @@ const welcomeEN = {
                 <span class="section-hd-acc">/UAP</span>
                 <h2>{lang === 'en' ? 'Latest UAP News' : 'UFO 新聞總覽'}</h2>
               </div>
-              <a href={lang === 'en' ? '/vincent-kan-site/blog' : '/vincent-kan-site/zh/blog'}>{lang === 'en' ? 'View all →' : '查看全部 →'}</a>
+              <a href={lang === 'en' ? '/blog' : '/zh/blog'}>{lang === 'en' ? 'View all →' : '查看全部 →'}</a>
             </div>
             <div class="uap-grid">
               {uapPosts.slice(1, 5).map(p => (
-                <a href={`/vincent-kan-site/blog/${p.id}/`} class="uap-card">
+                <a href={`/blog/${p.id}/`} class="uap-card">
                   <div class="uap-card-meta">
                     <span class="uap-tag">🛸 UFO/UAP</span>
                     <span><FormattedDate date={p.data.pubDate} /></span>
@@ -521,11 +521,11 @@ const welcomeEN = {
                 <span class="section-hd-acc">/BLOG</span>
                 <h2>{lang === 'en' ? 'Latest Posts' : '最新文章'}</h2>
               </div>
-              <a href={lang === 'en' ? '/vincent-kan-site/blog' : '/vincent-kan-site/zh/blog'}>{lang === 'en' ? 'View all →' : '全部 →'}</a>
+              <a href={lang === 'en' ? '/blog' : '/zh/blog'}>{lang === 'en' ? 'View all →' : '全部 →'}</a>
             </div>
             <div class="feed">
               {otherPosts.slice(0, 4).map(p => (
-                <a href={`/vincent-kan-site/blog/${p.id}/`} class="feed-item">
+                <a href={`/blog/${p.id}/`} class="feed-item">
                   <div class="feed-icon">📝</div>
                   <div class="feed-body">
                     <div class="feed-meta"><FormattedDate date={p.data.pubDate} /></div>
