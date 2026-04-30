@@ -111,7 +111,8 @@ export const ui = {
 export type TranslationKey = keyof typeof ui.en;
 
 export function getLangFromUrl(url: URL): Lang {
-  const pathname = url.pathname.replace(/^\/, '') || '/';
+  // With base: '/', just check if path starts with /zh
+  const pathname = url.pathname;
   if (pathname.startsWith('/zh')) return 'zh';
   return 'en';
 }
@@ -123,12 +124,14 @@ export function useTranslations(lang: Lang) {
 }
 
 export function getLocalizedPath(pathname: string, fromLang: Lang, toLang: Lang): string {
-  const cleanPath = pathname.replace(/^\/, '') || '/';
-  // Remove current lang prefix
-  let path = cleanPath.replace(/^\/(zh|en)/, '') || '/';
+  let path = pathname;
+  // Remove current lang prefix (with or without leading slash)
+  if (fromLang === 'zh') {
+    path = path.replace(/^\/zh/, '') || '/';
+  }
   // Ensure leading slash
   if (!path.startsWith('/')) path = '/' + path;
   // For default lang (en), no prefix
-  if (toLang === 'en') return `/vincent-kan-site${path}`;
+  if (toLang === 'en') return path;
   return `/${toLang}${path}`;
 }
