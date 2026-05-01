@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200">
+  <defs>
+    <linearGradient id="sky5" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="30%" style="stop-color:#16213e"/>
+      <stop offset="70%" style="stop-color:#0f3460"/>
+      <stop offset="100%" style="stop-color:#533483"/>
+    </linearGradient>
+    <filter id="glow6">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="200" fill="url(#sky5)"/>
+
+  <!-- Stars -->
+  <g fill="#fff" opacity="0.6">
+    <circle cx="40" cy="30" r="1"/><circle cx="130" cy="70" r="0.7"/>
+    <circle cx="260" cy="20" r="1.1"/><circle cx="390" cy="80" r="0.5"/>
+    <circle cx="510" cy="25" r="0.9"/><circle cx="640" cy="65" r="0.6"/>
+    <circle cx="770" cy="15" r="1.2"/><circle cx="890" cy="55" r="0.8"/>
+    <circle cx="1020" cy="30" r="1"/><circle cx="1140" cy="75" r="0.7"/>
+    <circle cx="200" cy="100" r="0.4"/><circle cx="480" cy="90" r="0.3"/>
+    <circle cx="720" cy="95" r="0.5"/><circle cx="950" cy="85" r="0.3"/>
+  </g>
+
+  <!-- Communications dish silhouette -->
+  <g transform="translate(200, 50)" opacity="0.35">
+    <path d="M0,100 L-40,40 Q0,80 40,40 Z" fill="none" stroke="#4fc3f7" stroke-width="1"/>
+    <line x1="0" y1="100" x2="0" y2="50" stroke="#4fc3f7" stroke-width="0.8"/>
+    <line x1="-30" y1="45" x2="30" y2="45" stroke="#4fc3f7" stroke-width="0.3"/>
+    <rect x="-2" y="100" width="4" height="30" fill="#4fc3f7"/>
+  </g>
+
+  <!-- Signal waves from dish -->
+  <g opacity="0.15" fill="none" stroke="#4fc3f7" stroke-width="0.5">
+    <path d="M230,60 Q260,40 350,60"/>
+    <path d="M240,50 Q290,20 370,50"/>
+    <path d="M250,40 Q310,5 390,40"/>
+  </g>
+
+  <!-- Receiving dish 2 -->
+  <g transform="translate(980, 60)" opacity="0.25">
+    <path d="M0,80 L-30,25 Q0,55 30,25 Z" fill="none" stroke="#4fc3f7" stroke-width="0.8"/>
+    <line x1="0" y1="80" x2="0" y2="35" stroke="#4fc3f7" stroke-width="0.6"/>
+  </g>
+
+  <!-- Floating UFO (distant, stylized) -->
+  <g transform="translate(600, 55)">
+    <ellipse cx="0" cy="0" rx="20" ry="4" fill="#666" opacity="0.3"/>
+    <ellipse cx="0" cy="-2" rx="8" ry="5" fill="#888" opacity="0.25"/>
+    <circle cx="0" cy="-1" r="2" fill="#4fc3f7" opacity="0.4" filter="url(#glow6)"/>
+  </g>
+
+  <!-- Data stream lines -->
+  <g opacity="0.08">
+    <path d="M300,180 L350,140 L400,160 L450,120 L500,145" fill="none" stroke="#4fc3f7" stroke-width="1.5"/>
+    <path d="M500,145 L550,110 L600,130 L650,90 L700,115" fill="none" stroke="#4fc3f7" stroke-width="1"/>
+    <path d="M700,115 L750,80 L800,100 L850,60" fill="none" stroke="#4fc3f7" stroke-width="0.8"/>
+  </g>
+
+  <!-- Data nodes -->
+  <g fill="#4fc3f7" opacity="0.15">
+    <circle cx="350" cy="140" r="3"/><circle cx="450" cy="120" r="2.5"/>
+    <circle cx="550" cy="110" r="3"/><circle cx="650" cy="90" r="2"/>
+    <circle cx="750" cy="80" r="2.5"/><circle cx="850" cy="60" r="2"/>
+  </g>
+
+  <!-- Bottom terrain -->
+  <path d="M0,200 L100,190 L200,195 L350,185 L500,190 L700,180 L900,188 L1050,175 L1200,185 L1200,200 Z" fill="#0f3460" opacity="0.1"/>
+</svg>
