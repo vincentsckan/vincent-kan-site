@@ -1,8 +1,8 @@
 ---
 title: '🛸 全球UFO/UAP新聞摘要 — 2026年5月1日'
-description: '三州立法：美國州級UFO研究運動崛起 · 歐盟五千宗目擊零系統追蹤 · 白宮加速解密進度追蹤'
+description: '⚡ Burlison正式要求FBI調查Sullivan死亡案 · ODNI吹哨人抹黑醜聞持續發酵 · 三角形UFO核電站入侵記錄曝光 · 白宮加速解密進程'
 titleEn: '🛸 Global UFO/UAP News Roundup — May 1, 2026'
-descriptionEn: 'Three US states legislate UFO studies: state-level UAP research momentum grows · 5000 EU sightings with no tracking system · White House disclosure progress update'
+descriptionEn: '⚡ Burlison formally requests FBI investigation into Sullivan death · ODNI whistleblower smear scandal unfolds · Triangular UFO incursions at nuclear sites revealed · White House pushes disclosure'
 pubDate: '2026-05-01'
 updatedDate: '2026-05-01'
 heroImage: '../../assets/blog-placeholder-2.jpg'
@@ -11,126 +11,170 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 > 📡 **每日UAP新聞精選** — 2026年5月1日（星期五）
 > 由AI自動搜集、整理及排版，聚焦權威來源及重要發展
 
-| 📍 *美國／歐盟* | 📅 *2026年4月至5月* | 🔍 *州立法／國際動態／政府披露* |
+| 📍 *美國／全球* | 📅 *2026年4月至5月* | 🔍 *國會行動／吹哨人抹黑／核設施入侵／政府披露* |
 
 ---
 
-## 🏛️ 政府披露與國會動態
+## ⚡ 頭條：最新關鍵動態
 
-### 三州立法：美國UFO研究從聯邦落到州級層面
-**來源：** UAP Check（2026年4月17日）／MUFON Journal 第696期（2026年4月）
+### 🚨 Burlison正式致函FBI要求調查Sullivan死亡案
+**來源：** Daily Mail／Liberation Times（2026年4月24日-30日）
 
-在聯邦層面的UAP披露進展屢屢受阻之際，美國三個州——新澤西州、康涅狄格州和佛蒙特州——各自以不同方式從州立法層面推動UFO研究，形成一場由下而上的披露運動。
+**最新進展：** 美國眾議員 Eric Burlison 已正式致函FBI局長 Kash Patel，要求就2024年5月去世的前空軍情報官 Matthew Sullivan 的死亡展開刑事調查。Burlison在信中寫道：「Sullivan死亡周圍的突發及可疑情況，引發了對潛在犯罪行為及其他相關人士安全的重大擔憂。」
 
-#### ✅ 新澤西州（Assembly Bill 5712）— 已成為法律
-2026年1月12日正式生效，包含一項劃時代條款：設立「不明空中現象研究中心」（Center for the Study of Unidentified Aerial Phenomena），由具備相關能力的高等教育機構管理，每年獲州政府撥款 **250萬美元**。該中心成為美國首個以州立法層級正式設立並獲得撥款的UFO研究機構。
+Sullivan年僅39歲，於2024年5月12日據報自殺身亡，但死因從未公開。Liberation Times 獨家報導揭露，Sullivan據稱曾直接參與一個涉及疑似非人類起源飛行器的 **UFO遺留計劃（legacy UFO program）** ，並為一間與美國情報機構合作的私營企業工作。
 
-#### ⏳ 康涅狄格州（Raised Bill No. 5422）— 審議中
-法案題為《關於不明空中現象研究的法案》（An Act Concerning a Study of Unidentified Aerial Phenomena），指定 **康涅狄格大學（UConn）** 主導研究，並可協調州軍事事務辦公室及其他機構協助。最引人注目的是，法案授權研究機構「在認為必要時」與「州內的國家非牟利UFO調查組織總監」合作——外界普遍認為這指向 MUFON 的康州分會。根據條款，UConn須在 **2027年7月1日** 前向州議會提交研究報告。
+**關鍵人物出席葬禮：** Sullivan的葬禮獲 Major General David Abba 出席。Abba在2021至2024年間擔任國防部特別訪問計劃中央辦公室主任，掌管美國最高級別的機密訪問權限。Abba在葬禮上形容Sullivan「背負了這個國家極少數人真正理解的秘密」。
 
-#### ⏳ 佛蒙特州（Bill H.654）— 審議中
-在所有三項法案中最為全面。H.654 提案設立 **佛蒙特州空域安全與不明現象工作小組**（Vermont Airspace Safety and Unidentified Phenomena Task Force），職責包括：
-
-- 審查及分析UAP報告
-- 評估空域及公共安全風險
-- 與學術機構及聯邦機構協調
-- 制定改善通報、應對及分析的建議
-
-工作小組由10名成員組成，包括州眾議員、參議員各一名、航空航天或大氣科學學術專家，以及雷達或傳感系統專家。值得注意的是，法案指定 **SCU（Scientific Coalition for UAP Studies）** 作為「與UAP相關數據及證據的主要科學分析機構」。工作小組須在每年12月15日前向州長及議會提交報告，並設有公開網頁及年度匯報會議。
-
-這三項法案的出現，反映出不少美國州份對聯邦層面UAP披露進展緩慢感到不耐。即使特朗普曾表示將指示戰爭部及聯邦機構開始解密UAP檔案，但至今未有實質公開。
-
-![新澤西州議會大廈](../../assets/blog-placeholder-1.jpg)
-*圖：新澤西州議會——該州 Assembly Bill 5712 已簽署成為法律，設立全美首個由州政府撥款的UFO研究中心。*
-
-[🔗 UAP Check 原文](https://www.uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/)
-
----
-
-### 白宮協調發布前所未見UFO材料 — 進度更新
-**來源：** Liberation Times（2026年4月14日）
-
-Liberation Times 先前獨家報導指出，戰爭部官員透露五角大樓UFO專門辦公室正與白宮及聯邦機構合作，準備發布從未公開的UAP材料。該報導至今已半個月，外界關注解密進度。雖然尚未有實質公開檔案推出，但消息人士持續向Liberation Times表示文件審查程序正在進行中，涉及多個情報機構之間的分類級別協調。
-
-[🔗 詳細報導](https://www.liberationtimes.com/home/war-department-says-white-house-coordinating-release-of-never-before-seen-ufo-material)
-
----
-
-### 已故情報官Sullivan葬禮獲高層出席 — 事件持續發酵
-**來源：** Liberation Times（2026年4月24日）
-
-Matthew Sullivan 事件持續成為UFO披露運動焦點。國會議員 Eric Burlison 已正式致函FBI局長 Kash Patel 要求就Sullivan的死亡展開刑事調查。與此同時，Sullivan葬禮上 Major General David Abba 的出席引發更多關注——Abba在2021至2024年間擔任國防部特別訪問計劃中央辦公室主任，掌管美國最高級別的機密訪問權限。Abba在葬禮上形容Sullivan「背負了這個國家極少數人真正理解的秘密」。
-
-正值FBI已正式主導調查近期11名科學家及國防人物死亡/失蹤案，Sullivan案與此調查的聯繫成為關注焦點。
-
-[🔗 Liberation Times 原文](https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program)
+Sullivan的死亡與David Grusch有關連——Grusch在Sullivan死前曾接觸他，並協助他準備以吹哨人身份出面。Burlison表示：「Grusch當時正在幫助他作為吹哨人站出來。」
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/6iLQ4ETJcPY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+
+![Matthew Sullivan](../../assets/blog-placeholder-3.jpg)
+
+---
+
+### 🚨 ODNI吹哨人調查爆嚴重抹黑指控
+**來源：** Liberation Times（2026年3月27日）— 事件持續發酵
+
+國家情報總監辦公室（ODNI）主導的一項UAP調查正陷入嚴重爭議。吹哨人 Matthew Brown 指控ODNI轄下的「總監倡議小組」（Director's Initiatives Group）在私人SCIF機密會議中對其進行抹黑：
+
+- 被標籤為「種族主義者、仇恨猶太人」
+- 被指控「完全編造了Immaculate Constellation文件的存在」
+- 被指控涉及「反間諜及叛國」行為
+
+Brown否認所有指控，並稱該小組的真正目的不是保護吹哨人，而是「評估他知道多少以及如何防止類似披露再次發生」。Brown此前曾在戰爭部及國務院任職，持有最高級別的TS/SCI安全許可。
+
+值得注意的是，該小組於2026年2月已被解散。消息人士向Liberation Times表示，部分小組成員確實以誠信態度審視UAP問題，而沒有跡象表明國家情報總監 Tulsi Gabbard 本人參與了任何恐嚇吹哨人的行為。
+
+[🔗 Liberation Times 原文](https://www.liberationtimes.com/home/director-of-national-intelligence-ufo-inquiry-rocked-by-claims-of-whistleblower-smears-and-intimidation)
+
+---
+
+## 🏛️ 白宮解密進程
+
+### 戰爭部：白宮協調發布前所未見UFO材料
+**來源：** Liberation Times（2026年4月14日，持續關注）
+
+戰爭部官員向Liberation Times證實，五角大樓的AARO辦公室正與白宮及聯邦機構協調，準備發布從未公開的UAP材料。官方表示歡迎特朗普總統加速解密工作的倡議。
+
+然而，國會議員 Anna Paulina Luna 於3月31日致函戰爭部長 Pete Hegseth 要求提供超過 **46段UAP影片**，其截止日期（4月14日）已過。Luna公開批評五角大樓的回應態度：「戰爭部長是我視為朋友的人，他支持總統。總統已授權發布，所以在五角大樓想耍花招的人可以滾蛋了。」
+
+調查記者 Jeremy Corbell 向Liberation Times表示他本人已直接觀看了大部分Luna要求的UAP影片檔案，並與 George Knapp 一起向國會提供了具體檔案名稱及精確位置。Corbell預告：「如果我們民選的代表被拒絕完整和誠實的披露，那就只能靠獨立新聞來確保公眾得到適當資訊了。」
+
+![戰爭部大樓](../../assets/blog-placeholder-1.jpg)
+
+[🔗 Liberation Times 原文](https://www.liberationtimes.com/home/war-department-says-white-house-coordinating-release-of-never-before-seen-ufo-material)
+
+---
+
+## 🌊 三角形UFO入侵美國核電站 — 最新解密記錄
+**來源：** Liberation Times（2026年4月8日）
+
+Liberation Times 通過《資訊自由法》（FOIA）取得的NRC文件揭露，2022年9月至2023年2月期間，美國敏感核設施發生 **22宗無人機入侵事件**。最引人注目的個案發生在賓夕法尼亞州 **Susquehanna蒸汽電站**——一個 **三角形物體** 攜帶大型探照燈在電站空域及周邊徘徊超過兩小時。
+
+**關鍵事件：**
+
+- **2022年9月26日：** 八架無人機進入電站空域，持續約 **2小時45分鐘**
+- **2022年10月3日：** 至少四架無人機從多個方向進入，其中三架為四軸飛行器，第四架被描述為 **大型三角形**，疑似攜帶大型探照燈——燈光呈紅、綠、白色，至少一架帶藍燈
+- **2022年10月29日：** 五架四軸無人機在電站附近活動
+- **華盛頓州Columbia發電站：** 9宗事件，部分無人機估計直徑達 **8至10英尺**（約2.4至3米），帶紅白閃光燈
+- 另外涉及 Comanche Peak（德州）、Monticello（明尼蘇達州）、Peach Bottom（賓夕法尼亞州）
+
+Columbia發電站周邊的Hanford地區自1940年代起就已有異常現象報告記錄。1945年二戰期間，雷達操作員曾探測到一個不明物體在Hanford上空出現——當時該地是全球最大的武器級鈈生產設施。
+
+前國務院分析師 Marik Von Rennenkampff 形容：「未經授權的無人機入侵敏感核基礎設施的報告真正令人震驚——尤其最近Barksdale空軍基地（路易斯安那州）連續多日發生不明物體入侵事件。Barksdale正是美國空軍全球打擊司令部總部所在地，負責監督美國的核洲際彈道導彈和空射核武器。」
+
+![核電站](../../assets/blog-placeholder-4.jpg)
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/hSGF6yjJJjc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+
+[🔗 Liberation Times 原文](https://www.liberationtimes.com/home/newly-released-records-reveal-drone-incursions-including-triangular-object-with-spotlight-above-us-nuclear-sites)
+
+---
+
+## 🔍 遺留UFO計劃揭秘
+
+### 已故空軍情報官與疑似非人類飛行器計劃有關聯
+**來源：** Liberation Times（2026年4月24日）
+
+Liberation Times 消息人士透露，已故空軍情報官 Matthew Sullivan 被指直接參與了一個UFO遺留計劃的 **技術方面**，該計劃涉及一個被認為可能源自非人類的 **奇特飛行器（exotic vehicle）**。Sullivan為一間與美國情報機構合作的私營公司執行這項工作，但其參與據了解始於他在空軍服役期間。
+
+Sullivan曾在多個高級情報機構任職：
+- 國家空天情報中心（NASIC）
+- 國家安全局（NSA）
+- 空軍情報局（AFIA）
+- 曾在美軍中央司令部和印太司令部部署
+- 因在「持久自由行動」中的英勇表現獲頒銅星勳章
+
+值得注意的是，Sullivan的死亡正值 **11名科學家及國防相關人物死亡或失蹤** 的廣泛報導風潮。其中最著名的是已故空軍退役將軍 William "Neil" McCasland，他於2月從阿爾伯克基家中失蹤，至今下落不明。
+
+McCasland曾是 **空軍研究實驗室（AFRL）前指揮官**，在Wright-Patterson空軍基地掌控五角大樓最先進的航空航天研究。退役後他與Blink-182樂隊的 Tom DeLonge 合作，參與了現代UAP披露運動的奠基工作。
+
+**目前McCasland失蹤案最新進展：**
+- 超過700戶住宅已被搜查
+- FBI阿爾伯克基地區辦公室參與協調
+- 空軍特別調查辦公室已協助初步信息搜集
+- 其 .38口徑左輪手槍仍未找到——妻子證實他通常不會帶槍去行山
+- 警方表示他經歷過「精神迷霧」（mental fog）症狀，部分觀察者注意到此症狀與哈瓦那綜合症相似
+
+[🔗 Liberation Times — Sullivan報導](https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program)
+[🔗 Liberation Times — McCasland失蹤報導](https://www.liberationtimes.com/home/the-missing-general-neil-mccasland-ufo-claims-and-an-unfolding-mystery)
 
 ---
 
 ## 🌍 國際動態
 
-### 歐洲去年錄得逾5,000宗UFO目擊 — 但EU零追蹤系統
-**來源：** UAP Check（2026年3月20日）— 歐洲UAP日報導
+### 歐洲去年逾5,000宗UFO目擊 但EU零追蹤系統
+**來源：** UAP Check（2026年3月）
 
-歐洲UAP日（3月20日）發布的報告揭示一個驚人事實：歐洲在過去一年錄得 **超過5,000宗** UFO目擊報告，然而歐盟至今仍未建立統一的UAP追蹤與應對系統。
+歐洲在過去一年錄得超過5,000宗UFO目擊報告，然而歐盟至今仍未建立統一的UAP追蹤與應對系統。各國通報機制極度碎片化——德國有GEP，意大利有CISU，法國有GEIPAN——但各國之間缺乏任何系統化的數據共享機制。
 
-歐洲各國的UFO通報機制極度碎片化——德國有GEP（研究不明空中現象協會），意大利有CISU（意大利UFO研究中心），法國有GEIPAN（國家太空研究中心旗下UFO調查組），但各國之間缺乏任何系統化的數據共享與協調機制。
+北約歐洲盟國在波羅的海、北海、英倫海峽面對嚴重無人機偵察入侵，卻缺乏統一的空中異常事件通報框架。歐盟內部研究組織已呼籲成立類似AARO的歐洲UAP辦公室。
 
-這種情況與美國形成鮮明對比：美國已設有AARO（全域異常解決辦公室）、多個州層級UAP研究機構正在成立（見上文），而參議員Schumer和Rounds更最近提交了獨立UAP披露法案。大西洋兩岸在UAP問題上的應對能力差距正在擴大——北約歐洲盟國在波羅的海、北海及英倫海峽面對嚴重無人機偵察入侵，卻缺乏統一的空中異常事件通報框架。
-
-歐盟內部的研究組織已呼籲成立類似AARO的歐洲UAP辦公室，以及歐盟層面的標準化通報平台。
-
-[🔗 UAP Check 歐洲UAP日報導](https://www.uapcheck.com/news/)
+[🔗 UAP Check](https://www.uapcheck.com/news/)
 
 ---
 
-### 北約無人機威脅 — 兼論UFO社群的取證標準
+### 證據、無人機與UFO辯論
 **來源：** Liberation Times（2026年4月10日）
 
-Liberation Times 記者 Franc Milburn 發表深度分析，指出歐洲北約盟國在波羅的海、北海、黑海、大西洋、北極及英倫海峽均面臨嚴重的無人機入侵問題。Milburn 援引其最新研究論文，批評社交媒體將2024年11月RAF Lakenheath事件過早標籤為「UFO活動」，而實際情報已確認涉及俄羅斯無人機偵察。
+記者 Franc Milburn 發表深度分析，批評社交媒體將RAF Lakenheath事件（2024年11月）過早標籤為「UFO活動」，而實際情報已確認涉及俄羅斯無人機偵察。Milburn指出歐洲缺乏統一無人機應對策略本身就是安全隱患，這種監管真空可能同時被敵對國家及真正異常現象利用。
 
-但Milburn同時指出，這並不意味著所有報告都可被輕易解釋——歐洲缺乏統一無人機應對策略本身就是安全隱患，這種監管真空可能同時被敵對國家及真正異常現象利用。
-
-![北約旗幟](../../assets/blog-placeholder-4.jpg)
-*圖：北約歐洲盟國面對日益嚴重的無人機入侵問題，呼籲建立統一的空中異常事件通報機制。*
-
-[🔗 詳細報導](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate)
-[🔗 延伸閱讀 — 俄羅斯、無人機與UFO敘事](https://www.liberationtimes.com/home/russia-drones-and-the-ufo-narrative)
+[🔗 詳細分析](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate)
 
 ---
 
-## 🔬 科學研究進展
+## 🔮 前瞻與趨勢
 
-### 科學家從UAP研究中推動數據驅動框架
-**來源：** Liberation Times（2026年1月15日，持續關注）
-
-《The Age of Disclosure》紀錄片的影響仍在發酵。34名政府官員（包括國務卿Rubio及跨黨派國會議員）在片中公開了他們能披露的UFO資訊。研究人員持續反駁「UFO缺乏科學證據」的說法，並呼籲建立更多數據驅動的研究框架——三位美國州份（見上文）的立法行動某程度上正是回應了這個呼籲。
-
----
-
-## 🔮 世界局勢前瞻
-
-### 從UFO學到UFO識別 — 新時代的研究框架
+### 從「UFO學」到「UFO識別」——新研究框架
 **來源：** UAP Check（2026年4月13日）
 
-UAP Check 提出從「UFO學」（Ufology）邁向「UFO識別」（UFO Identification）的概念轉變——前者側重於個案收集與目擊者證詞，後者則強調利用科技手段（雷達數據、多傳感器驗證、光譜分析）對異常現象進行系統識別與分類。這與法國GEIPAN等機構的科學化調查方法學相呼應，也反映了整個UAP研究領域的專業化趨勢。
+研究界提出從側重個案收集與目擊者證詞的「UFO學」（Ufology），轉向利用雷達數據、多傳感器驗證、光譜分析等科技手段進行系統識別的「UFO識別」（UFO Identification）框架。這與歐洲GEIPAN等機構的科學化調查方法相呼應。
 
 ---
 
-## 📌 本週回顧
-
-**4月最後一週重點一覽：**
+## 📌 重點速覽
 
 | 事件 | 重要性 | 狀態 |
 |------|--------|------|
-| Schumer-Rounds 提交獨立UAP披露法案 | ⭐⭐⭐⭐⭐ | 待參議院審議 |
-| FBI主導調查11名科學家死亡/失蹤案 | ⭐⭐⭐⭐⭐ | 調查進行中 |
-| 三州立法推動UFO研究（NJ已簽署） | ⭐⭐⭐⭐ | NJ已生效，CT/VT審議中 |
+| Burlison正式要求FBI調查Sullivan死亡 | ⭐⭐⭐⭐⭐ | 調查請求已提交 |
+| ODNI吹哨人抹黑醜聞 | ⭐⭐⭐⭐⭐ | 持續發酵 |
+| 三角形UFO入侵核電站解密 | ⭐⭐⭐⭐⭐ | FOIA文件已公開 |
 | 白宮協調UFO材料解密 | ⭐⭐⭐⭐ | 審查進行中 |
-| Sullivan遺留UFO計劃 | ⭐⭐⭐⭐ | FBI調查要求已提交 |
-| 歐洲5,000宗目擊零追蹤系統 | ⭐⭐⭐ | 呼籲建立EU層級機制 |
+| 戰爭部向國會提供UAP影片 | ⭐⭐⭐⭐ | Luna委員施壓中 |
+| McCasland將軍失蹤案 | ⭐⭐⭐⭐ | 搜索持續 |
+| 歐洲5,000宗目擊零追蹤系統 | ⭐⭐⭐ | 呼籲成立EU層級機制 |
+
+---
+
+## 🎬 推薦觀看
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/1KMyf6VSEI4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+*The Age of Disclosure 紀錄片預告 — 34名政府官員公開UFO資訊*
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Gru2EDJvj9Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+*北約無人機威脅及歐洲UAP現狀分析*
 
 ---
 
@@ -138,15 +182,16 @@ UAP Check 提出從「UFO學」（Ufology）邁向「UFO識別」（UFO Identifi
 
 *🤖 本文章由 AI 自動搜集及整理*
 *🕐 更新時間：2026-05-01 12:00 HKT*
-*📋 資料來源：UAP Check、Liberation Times、MUFON Journal等*
+*📋 資料來源：Liberation Times、Daily Mail、UAP Check、MUFON Journal等*
 
 **來源連結：**
-- [UAP Check — 三州UFO法案（MUFON Journal 2026年4月）](https://www.uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/)
-- [Liberation Times — 白宮協調發布UFO材料](https://www.liberationtimes.com/home/war-department-says-white-house-coordinating-release-of-never-before-seen-ufo-material)
-- [Liberation Times — 已故空軍情報官Sullivan](https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program)
-- [Liberation Times — 北約無人機與UFO敘事](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate)
-- [Liberation Times — 俄羅斯、無人機與UFO](https://www.liberationtimes.com/home/russia-drones-and-the-ufo-narrative)
-- [Liberation Times — 科學證據研究](https://www.liberationtimes.com/home/we-were-told-there-is-no-scientific-evidence-for-ufos-our-research-says-otherwise)
-- [UAP Check — 歐洲UAP日](https://www.uapcheck.com/news/)
+- [Liberation Times — 已故空軍情報官Sullivan與遺留UFO計劃](https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program)
+- [Liberation Times — 白宮協調發布前所未見UFO材料](https://www.liberationtimes.com/home/war-department-says-white-house-coordinating-release-of-never-before-seen-ufo-material)
+- [Liberation Times — ODNI吹哨人抹黑與恐嚇醜聞](https://www.liberationtimes.com/home/director-of-national-intelligence-ufo-inquiry-rocked-by-claims-of-whistleblower-smears-and-intimidation)
+- [Liberation Times — 三角形UFO入侵核電站解密記錄](https://www.liberationtimes.com/home/newly-released-records-reveal-drone-incursions-including-triangular-object-with-spotlight-above-us-nuclear-sites)
+- [Liberation Times — McCasland失蹤將軍謎團](https://www.liberationtimes.com/home/the-missing-general-neil-mccasland-ufo-claims-and-an-unfolding-mystery)
+- [Liberation Times — 證據、無人機與UFO辯論](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate)
+- [Daily Mail — Sullivan死亡案詳細報導](https://www.dailymail.com/sciencetech/article-15742843/death-air-force-whistleblower-ufo-virginia.html)
+- [UAP Check — 歐洲UAP日及州級立法](https://www.uapcheck.com/news/)
 
 </div>
