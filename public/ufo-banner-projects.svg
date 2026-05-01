@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200">
+  <defs>
+    <linearGradient id="sky1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#050510"/>
+      <stop offset="40%" style="stop-color:#0a0a20"/>
+      <stop offset="100%" style="stop-color:#1a0a2e"/>
+    </linearGradient>
+    <linearGradient id="monolithGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#000;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#1a237e;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#000;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#sky1)"/>
+  
+  <!-- Stars -->
+  <g fill="#fff" opacity="0.6">
+    <circle cx="80" cy="25" r="1"/><circle cx="180" cy="50" r="0.8"/>
+    <circle cx="300" cy="20" r="1.2"/><circle cx="420" cy="70" r="0.5"/>
+    <circle cx="550" cy="15" r="1"/><circle cx="680" cy="60" r="0.7"/>
+    <circle cx="780" cy="30" r="0.9"/><circle cx="920" cy="55" r="0.6"/>
+    <circle cx="1050" cy="25" r="1.1"/><circle cx="1150" cy="65" r="0.8"/>
+    <circle cx="200" cy="90" r="0.4"/><circle cx="450" cy="40" r="0.5"/>
+    <circle cx="700" cy="85" r="0.3"/><circle cx="1000" cy="45" r="0.7"/>
+    <circle cx="150" cy="45" r="0.3"/><circle cx="880" cy="15" r="0.3"/>
+  </g>
+
+  <!-- Monolith - 2001: A Space Odyssey style -->
+  <rect x="540" y="30" width="60" height="150" fill="#0a0a0a" rx="1"/>
+  <rect x="542" y="32" width="56" height="146" fill="none" stroke="#333" stroke-width="0.5"/>
+  <!-- Monolith edge glow -->
+  <line x1="540" y1="50" x2="540" y2="180" stroke="#1a237e" stroke-width="0.5" opacity="0.4"/>
+  <line x1="600" y1="50" x2="600" y2="180" stroke="#1a237e" stroke-width="0.5" opacity="0.4"/>
+  <!-- Base shadow -->
+  <ellipse cx="570" cy="182" rx="50" ry="6" fill="#1a237e" opacity="0.15"/>
+  
+  <!-- Planet with ring (Jupiter/Saturn) -->
+  <circle cx="300" cy="60" r="30" fill="#e0c090" opacity="0.15"/>
+  <circle cx="300" cy="60" r="28" fill="#d4a854" opacity="0.08"/>
+  <ellipse cx="300" cy="60" rx="48" ry="8" fill="none" stroke="#d4a854" stroke-width="0.8" opacity="0.25" transform="rotate(-15,300,60)"/>
+  <ellipse cx="300" cy="60" rx="48" ry="8" fill="none" stroke="#e0c090" stroke-width="0.4" opacity="0.15" transform="rotate(-15,300,60)"/>
+
+  <!-- Small moon near planet -->
+  <circle cx="370" cy="45" r="5" fill="#aaa" opacity="0.3"/>
+  
+  <!-- Ground horizon line (very subtle) -->
+  <path d="M0,195 Q300,180 600,190 Q900,200 1200,185" fill="none" stroke="#1a1a2e" stroke-width="1" opacity="0.5"/>
+  
+  <!-- Film grain overlay -->
+  <rect width="1200" height="200" fill="#000" opacity="0.03"/>
+</svg>
