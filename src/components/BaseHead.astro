@@ -84,3 +84,37 @@ const metaKeywords = lang === 'en'
 <meta property="twitter:title" content={metaTitle} />
 <meta property="twitter:description" content={metaDesc} />
 <meta property="twitter:image" content={new URL(image.src, Astro.url)} />
+<meta name="twitter:site" content="@disclosurehk" />
+<meta name="twitter:creator" content="@vincentk666" />
+
+<!-- JSON-LD Structured Data -->
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "DisclosureHK — UFO/UAP Research & News",
+  "url": Astro.site,
+  "author": {
+    "@type": "Person",
+    "name": "Vincent Kan",
+    "url": "https://www.disclosurehk.com/about"
+  },
+  "description": metaDesc,
+  "inLanguage": lang === 'en' ? 'en' : 'zh-HK',
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": `${Astro.site}search?q={search_term_string}`
+    },
+    "query-input": "required name=search_term_string"
+  }
+})} />
+
+<!-- Google tag (gtag.js) for analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script is:inline>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XXXXXXXXXX');
+</script>
