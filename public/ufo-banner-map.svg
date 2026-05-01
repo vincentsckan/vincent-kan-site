@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200">
+  <defs>
+    <linearGradient id="sky4" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#000510"/>
+      <stop offset="40%" style="stop-color:#051020"/>
+      <stop offset="100%" style="stop-color:#0a1530"/>
+    </linearGradient>
+    <filter id="glow5">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="200" fill="url(#sky4)"/>
+
+  <!-- Deep space particles -->
+  <g fill="#fff" opacity="0.3">
+    <circle cx="60" cy="40" r="0.5"/><circle cx="180" cy="90" r="0.3"/>
+    <circle cx="320" cy="25" r="0.8"/><circle cx="450" cy="70" r="0.4"/>
+    <circle cx="580" cy="35" r="0.6"/><circle cx="720" cy="85" r="0.5"/>
+    <circle cx="880" cy="20" r="0.7"/><circle cx="1020" cy="60" r="0.4"/>
+    <circle cx="1120" cy="40" r="0.6"/><circle cx="250" cy="110" r="0.3"/>
+    <circle cx="650" cy="105" r="0.4"/><circle cx="950" cy="95" r="0.3"/>
+  </g>
+
+  <!-- Radar screen style grid -->
+  <g opacity="0.08">
+    <line x1="400" y1="50" x2="800" y2="50" stroke="#4fc3f7" stroke-width="0.3"/>
+    <line x1="400" y1="80" x2="800" y2="80" stroke="#4fc3f7" stroke-width="0.3"/>
+    <line x1="400" y1="110" x2="800" y2="110" stroke="#4fc3f7" stroke-width="0.3"/>
+    <line x1="400" y1="140" x2="800" y2="140" stroke="#4fc3f7" stroke-width="0.3"/>
+    <line x1="500" y1="30" x2="500" y2="170" stroke="#4fc3f7" stroke-width="0.3"/>
+    <line x1="600" y1="30" x2="600" y2="170" stroke="#4fc3f7" stroke-width="0.3"/>
+    <line x1="700" y1="30" x2="700" y2="170" stroke="#4fc3f7" stroke-width="0.3"/>
+  </g>
+
+  <!-- Radar arch -->
+  <path d="M400,170 Q600,20 800,170" fill="none" stroke="#4fc3f7" stroke-width="0.5" opacity="0.12"/>
+  <path d="M450,170 Q600,40 750,170" fill="none" stroke="#4fc3f7" stroke-width="0.3" opacity="0.08"/>
+
+  <!-- Detected blips -->
+  <g filter="url(#glow5)">
+    <circle cx="530" cy="110" r="4" fill="#4fc3f7" opacity="0.3"/>
+    <circle cx="530" cy="110" r="2" fill="#4fc3f7" opacity="0.6"/>
+    <circle cx="680" cy="90" r="3.5" fill="#4fc3f7" opacity="0.3"/>
+    <circle cx="680" cy="90" r="1.8" fill="#4fc3f7" opacity="0.6"/>
+    <circle cx="620" cy="135" r="2.5" fill="#4fc3f7" opacity="0.3"/>
+    <circle cx="620" cy="135" r="1.2" fill="#4fc3f7" opacity="0.5"/>
+  </g>
+
+  <!-- Tracking lines -->
+  <g opacity="0.15">
+    <line x1="530" y1="110" x2="530" y2="175" stroke="#4fc3f7" stroke-width="0.3"/>
+    <line x1="680" y1="90" x2="680" y2="175" stroke="#4fc3f7" stroke-width="0.3"/>
+    <line x1="620" y1="135" x2="620" y2="175" stroke="#4fc3f7" stroke-width="0.3"/>
+    <text x="530" y="185" fill="#4fc3f7" font-size="6" font-family="monospace" text-anchor="middle" opacity="0.3">TRK-01</text>
+    <text x="680" y="185" fill="#4fc3f7" font-size="6" font-family="monospace" text-anchor="middle" opacity="0.3">TRK-07</text>
+    <text x="620" y="195" fill="#4fc3f7" font-size="6" font-family="monospace" text-anchor="middle" opacity="0.3">TRK-12</text>
+  </g>
+
+  <!-- Compass rose -->
+  <g transform="translate(950,100)" opacity="0.15">
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#4fc3f7" stroke-width="0.3"/>
+    <circle cx="0" cy="0" r="15" fill="none" stroke="#4fc3f7" stroke-width="0.2"/>
+    <circle cx="0" cy="0" r="10" fill="none" stroke="#4fc3f7" stroke-width="0.2"/>
+    <line x1="0" y1="-20" x2="0" y2="20" stroke="#4fc3f7" stroke-width="0.3"/>
+    <line x1="-20" y1="0" x2="20" y2="0" stroke="#4fc3f7" stroke-width="0.3"/>
+  </g>
+
+  <!-- Bottom scan line -->
+  <line x1="0" y1="190" x2="1200" y2="190" stroke="#1a237e" stroke-width="1" opacity="0.2"/>
+  <line x1="0" y1="192" x2="1200" y2="192" stroke="#1a237e" stroke-width="0.5" opacity="0.1"/>
+</svg>
