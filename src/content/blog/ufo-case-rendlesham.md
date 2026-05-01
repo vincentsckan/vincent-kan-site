@@ -13,7 +13,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 ## 事件概述
 
-![倫德爾沙姆森林](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![倫德爾沙姆森林](../../assets/blog-placeholder-3.jpg)
 *英國薩福克郡倫德爾沙姆森林，UFO事件發生地點*
 
 1980 年 12 月 26 日凌晨，英國皇家空軍伍德布里奇基地（RAF Woodbridge）嘅美國空軍人員報告，附近嘅倫德爾沙姆森林（Rendlesham Forest）出現神秘亮光。

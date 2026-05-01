@@ -47,7 +47,7 @@ Grey嘅形象很大程度上係由媒體塑造嘅：
 - **Reptilian（爬蟲型）**：有鱗片嘅爬蟲類生物
 - **Insectoid（昆蟲型）**：昆蟲特徵嘅生物
 
-![灰色外星人](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![灰色外星人](../../assets/blog-placeholder-4.jpg)
 *流行文化中Grey嘅經典形象*
 
 <div class="video-embed">

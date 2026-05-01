@@ -11,7 +11,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 > 📅 **1952年7月**
 > 🔍 **雷達確認、大規模事件**
 
-![1952年華盛頓UFO大入侵](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![1952年華盛頓UFO大入侵](../../assets/blog-placeholder-5.jpg)
 *1952年華盛頓特區上空嘅UFO雷達回波示意圖*
 
 1952年7月12日至29日期間，華盛頓特區上空出現咗一系列神秘雷達回波。華盛頓國家機場同安德魯斯空軍基地嘅雷達同時鎖定多個不明目標，以每小時1,800公里嘅速度移動，做出急轉彎同懸停等動作。

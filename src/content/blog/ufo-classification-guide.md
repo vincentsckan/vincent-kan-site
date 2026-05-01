@@ -44,7 +44,7 @@ Jacques Vallee更細緻嘅系統分為8個MA（Manifestation）類型，強調UF
 - **菱形**
 - **不規則形**
 
-![UAP分類](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UAP分類](../../assets/blog-placeholder-2.jpg)
 *UFO常見形狀分類示意圖*
 
 <div class="video-embed">

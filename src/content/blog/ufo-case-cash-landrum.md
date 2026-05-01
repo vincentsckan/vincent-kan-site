@@ -28,7 +28,7 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 
 Betty Cash 同 Landrum 家族後來起訴美國政府，要求賠償21.7萬美元。但法院最終駁回訴訟，理由係「國家安全」。
 
-![Cash-Landrum示意](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![Cash-Landrum示意](../../assets/blog-placeholder-2.jpg)
 *Cash-Landrum事件中嘅菱形UFO示意圖*
 
 <div class="video-embed">

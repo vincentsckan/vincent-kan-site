@@ -28,7 +28,7 @@ heroImage: '../../assets/blog-placeholder-4.jpg'
 ### 2010年杭州機場事件
 蕭山國際機場因UFO活動關閉跑道約1小時。
 
-![中國UFO](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![中國UFO](../../assets/blog-placeholder-4.jpg)
 *中國古代繪畫中嘅神秘天空現象*
 
 <div class="video-embed">

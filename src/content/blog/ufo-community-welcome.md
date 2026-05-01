@@ -31,7 +31,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 或者直接喺下面嘅留言區開始傾計！
 
-![討論區](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![討論區](../../assets/blog-placeholder-3.jpg)
 *全球 UFO 愛好者一齊討論*
 
 <div class="video-embed">

@@ -105,7 +105,7 @@ Kirkpatrick 堅稱AARO的發現得到機密及公開數據支持，並已向國�
 
 🎙️ **[完整播客：When the Math Says Aliens Are Already Here — Mayim Bialik's Breakdown](https://bialikbreakdown.substack.com/p/when-the-math-says-aliens-are-already)**
 
-![核導彈基地與UAP示意圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![核導彈基地與UAP示意圖](../../assets/blog-placeholder-1.jpg)
 
 ---
 

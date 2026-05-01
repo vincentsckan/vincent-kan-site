@@ -39,7 +39,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 AARO前主任 **Sean Kirkpatrick** 曾暗示，部分UAP嘅技術水平超越美國至少 **50-100年**。
 
-![UAP推進示意](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UAP推進示意](../../assets/blog-placeholder-3.jpg)
 *UAP可能推進系統概念圖*
 
 <div class="video-embed">

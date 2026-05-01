@@ -17,7 +17,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 2. **情報遮蓋**：CIA曾經協助空軍淡化UFO事件
 3. **心理戰**：評估UFO現象對公眾心理嘅影響
 
-![CIA UFO 檔案](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![CIA UFO 檔案](../../assets/blog-placeholder-3.jpg)
 *CIA已解密嘅UFO相關檔案封面*
 
 **關鍵解密內容：**

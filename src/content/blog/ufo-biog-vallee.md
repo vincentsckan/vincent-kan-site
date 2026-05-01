@@ -17,7 +17,7 @@ Vallee喺1960年代本來係一位備受尊重嘅天文學家。佢同Hynek合�
 
 > **UFO可能唔係外星飛船，而係一種跨維度嘅控制系統**
 
-![Jacques Vallee](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![Jacques Vallee](../../assets/blog-placeholder-5.jpg)
 *Jacques Vallee——提出UFO跨維度理論嘅先驅*
 
 ## 瓦萊分類法

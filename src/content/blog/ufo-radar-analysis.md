@@ -40,7 +40,7 @@ UAP經常被雷達、光學、紅外線同時鎖定。
 - **比利時浪潮**：F-16火控雷達鎖定三角形UFO
 - **俄羅斯雷達**：蘇聯時期有多次大規模UAP雷達事件
 
-![UAP雷達示意](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![UAP雷達示意](../../assets/blog-placeholder-5.jpg)
 *AEGIS神盾雷達系統曾經追蹤Tic Tac UAP*
 
 <div class="video-embed">

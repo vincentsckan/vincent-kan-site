@@ -15,7 +15,7 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 
 ## 核心發現
 
-![ODNI UAP報告](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![ODNI UAP報告](../../assets/blog-placeholder-2.jpg)
 *ODNI 2021年UAP評估報告封面*
 
 | 項目 | 數字 |

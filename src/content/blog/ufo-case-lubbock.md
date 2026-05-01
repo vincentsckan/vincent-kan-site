@@ -19,7 +19,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 呢啲照片被送到空軍Project Blue Book進行分析。雖然部分分析認為係候鳥反射城市燈光或飛機，但嗰三名教授堅決否認呢啲解釋。Blue Book最終將案件列為「無法解釋」。
 
-![Lubbock Lights](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![Lubbock Lights](../../assets/blog-placeholder-1.jpg)
 *1951年拍攝嘅著名Lubbock Lights照片*
 
 <div class="video-embed">

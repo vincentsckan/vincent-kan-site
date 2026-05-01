@@ -32,7 +32,7 @@ Liberation Times 消息人士稱，Sullivan 以私人企業身份與某美國情
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/6iLQ4ETJcPY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-![美國空軍標誌](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![美國空軍標誌](../../assets/blog-placeholder-1.jpg)
 *圖：Matthew Sullivan 曾任職於美國國家空天情報中心（NASIC），其死亡引發國會及FBI關注。*
 
 [🔗 Liberation Times 原文](https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program)
@@ -62,7 +62,7 @@ Liberation Times 消息人士稱，Sullivan 以私人企業身份與某美國情
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/HX2G5N_kplg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-![外星生命搜尋概念圖](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![外星生命搜尋概念圖](../../assets/blog-placeholder-5.jpg)
 *圖：藝術家筆下外星生命的想像——科學家提出透過分析行星群模式而非單一行星來尋找生命。*
 
 [🔗 The Debrief 原文](https://thedebrief.org/scientists-propose-new-way-to-detect-alien-life-using-planetary-patterns/)
@@ -82,7 +82,7 @@ Liberation Times 消息人士稱，Sullivan 以私人企業身份與某美國情
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/5jR8OqFOmdg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-![實驗室研究示意](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![實驗室研究示意](../../assets/blog-placeholder-2.jpg)
 *圖：次聲波實驗示意——低頻聲波可在人不知情的情況下引發煩躁、焦慮等情緒變化。*
 
 [🔗 The Debrief 原文](https://thedebrief.org/scientists-explore-paranormal-experiences-and-the-effects-of-inaudible-infrasound/)

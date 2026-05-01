@@ -15,7 +15,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 日本防衛廳（即現時嘅防衛省）喺內部報告中承認「無法識別」。呢次事件係日本近代最著名嘅UFO案例之一，亦係亞洲少數有軍方記錄嘅UAP事件。
 
-![日本UFO事件](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![日本UFO事件](../../assets/blog-placeholder-3.jpg)
 *日本九州——1969年UFO目擊地點*
 
 <div class="video-embed">

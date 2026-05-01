@@ -23,7 +23,7 @@ heroImage: '../../assets/blog-placeholder-5.jpg'
 
 多年後，Santilli 承認影片唔係真跡，而係根據原有底片（佢話已經損壞）重新製作嘅「還原版」。但佢一直堅持1947年嘅原始底片確實存在。
 
-![外星人解剖影片](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![外星人解剖影片](../../assets/blog-placeholder-5.jpg)
 *1995年轟動全球嘅外星人解剖影片劇照*
 
 ## 文化影響

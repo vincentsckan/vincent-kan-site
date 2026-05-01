@@ -43,7 +43,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 - 多名新吹哨人出現
 - 國會UAP立法獲兩黨支持
 
-![2023年UAP回顧](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![2023年UAP回顧](../../assets/blog-placeholder-1.jpg)
 *2023年係UAP披露嘅分水嶺*
 
 <div class="video-embed">

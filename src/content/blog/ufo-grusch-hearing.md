@@ -25,7 +25,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 4. **「有人因揭密受傷甚至死亡」** — 吹哨人遭受報復
 5. **「我在40多位情報人員確認後先公開」**
 
-![David Grusch 國會聽證](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![David Grusch 國會聽證](../../assets/blog-placeholder-3.jpg)
 *David Grusch 喺2023年7月國會聽證會上宣誓作證*
 
 ## 全球反應

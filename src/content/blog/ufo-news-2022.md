@@ -32,7 +32,7 @@ heroImage: '../../assets/blog-placeholder-5.jpg'
 - 《2023國防授權法案》包含UAP披露條款
 - 吹哨人保護機制開始建立
 
-![2022年UAP回顧](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![2022年UAP回顧](../../assets/blog-placeholder-5.jpg)
 *2022年UAP披露時間線*
 
 <div class="video-embed">

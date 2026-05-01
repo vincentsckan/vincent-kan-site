@@ -17,7 +17,7 @@ heroImage: '../../assets/blog-placeholder-4.jpg'
 
 1972年至1995年，CIA同美國陸軍情報部門資助咗一個名為 **Project Stargate（星際之門）** 嘅機密項目，專門研究遠距觀測嘅軍事應用。
 
-![遠距觀測](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![遠距觀測](../../assets/blog-placeholder-4.jpg)
 *CIA Stargate計劃嘅遠距觀測訓練資料*
 
 ## 同UFO嘅關聯

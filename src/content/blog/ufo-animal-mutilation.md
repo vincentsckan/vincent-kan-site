@@ -30,7 +30,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 - 三角形發光物體
 - 無標記嘅黑色直升機
 
-![動物殘割報告](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![動物殘割報告](../../assets/blog-placeholder-1.jpg)
 *FBI動物殘割調查檔案封面*
 
 ## 主流理論

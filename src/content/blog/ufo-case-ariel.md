@@ -13,7 +13,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 1994年9月16日，津巴布韋首都哈拉雷附近嘅**阿里爾學校（Ariel School）**發生咗震驚全球嘅事件。62名學童喺課間休息時見到多個銀色發光物體降落喺學校後面嘅叢林，仲有「外星人」走出來。
 
-![阿里爾學校](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![阿里爾學校](../../assets/blog-placeholder-3.jpg)
 *津巴布韋阿里爾學校——62名學童集體目擊外星生物*
 
 目擊者描述嘅外星生物特徵非常一致：

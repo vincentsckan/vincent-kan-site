@@ -29,7 +29,7 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 - **NUFORC**：年度報告突破5,000宗
 - **中國**：民間UFO組織報告量亦增加
 
-![2024年UAP](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![2024年UAP](../../assets/blog-placeholder-2.jpg)
 *2024年UAP披露進展*
 
 <div class="video-embed">

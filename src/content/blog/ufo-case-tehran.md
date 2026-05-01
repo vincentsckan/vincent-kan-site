@@ -24,7 +24,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 - 飛行員緊急規避，小型物體繞返主UFO旁邊
 - 主UFO以無法追蹤嘅速度瞬間飛離
 
-![伊朗 F-4 戰機](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![伊朗 F-4 戰機](../../assets/blog-placeholder-1.jpg)
 *伊朗空軍F-4 Phantom II戰機——曾經鎖定UFO但系統失靈*
 
 美國國防情報局（DIA）後來解密咗呢份報告，稱「無法解釋」，結論係「物體表現出超越已知科技嘅能力」。

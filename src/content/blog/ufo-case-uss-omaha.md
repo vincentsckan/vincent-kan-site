@@ -17,7 +17,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 2021年，五角大樓正式確認呢段影片係由海軍人員拍攝，並列為UAP事件。與之前嘅尼米茲號事件唔同，奧馬哈號嘅影片係**第一個有艦載雷達同光學系統同時記錄**嘅跨介質UAP案例。
 
-![USS奧馬哈號](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![USS奧馬哈號](../../assets/blog-placeholder-1.jpg)
 *USS Omaha（LCS-12）拍攝到球形UAP*
 
 ## 跨介質能力
