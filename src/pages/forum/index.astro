@@ -17,6 +17,15 @@ export const prerender = true;
     <style>
       .forum-wrap { max-width: 860px; margin: 0 auto; padding: 2rem 1.5rem 4rem; animation: fadeIn 0.4s ease both; }
 
+      .banner-wrap {
+        width: 100%;
+        height: 140px;
+        border-radius: 12px;
+        overflow: hidden;
+        margin-bottom: 1rem;
+        background: linear-gradient(135deg, #0a0a2e 0%, #1a1a4e 50%, #2a1a3e 100%);
+      }
+      .banner-wrap img { width: 100%; height: 100%; object-fit: cover; }
       .hero-section {
         text-align: center;
         margin-bottom: 2.5rem;
@@ -124,7 +133,7 @@ export const prerender = true;
     <Header />
     <main>
       <div class="forum-wrap">
-        <div class="hero-section">
+        <div class="banner-wrap"><img src="/ufo-banner.svg" alt="UFO Forum" /></div><div class="hero-section">
           <h1>🛸 UFO/UAP Forum</h1>
           <div class="hero-sub">/forum</div>
           <p class="hero-desc">
