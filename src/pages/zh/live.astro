@@ -1,0 +1,85 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { useTranslations, getLangFromUrl } from '../../i18n';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+
+<html lang="zh-HK">
+  <head>
+    <BaseHead title="UFO/UAP 聽證會直播 | DisclosureHK" description="即時直播美國國會 UFO/UAP 聽證會及相關報導" />
+    <style>
+      .live-wrap { max-width: 1000px; margin: 0 auto; padding: 2rem 1.5rem; text-align: center; }
+      .live-badge { display: inline-flex; align-items: center; gap: 0.5rem; background: rgba(255,0,0,0.15); border: 1px solid rgba(255,0,0,0.3); padding: 0.5rem 1.2rem; border-radius: 50px; color: #ff4444; font-weight: 700; font-size: 0.9rem; margin-bottom: 1.5rem; }
+      .live-dot { width: 10px; height: 10px; border-radius: 50%; background: #ff0000; display: inline-block; animation: pulse 1.5s infinite; }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
+      .video-container { position: relative; width: 100%; padding-bottom: 56.25%; border-radius: 16px; overflow: hidden; box-shadow: 0 0 40px rgba(0,229,255,0.15); border: 1px solid rgba(0,229,255,0.2); }
+      .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+      .live-info { margin-top: 1.5rem; color: var(--text-muted); line-height: 1.8; }
+      .alt-streams { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin-top: 2rem; text-align: left; }
+      .alt-stream { background: rgba(0,229,255,0.03); border: 1px solid var(--border); border-radius: 12px; padding: 1rem; transition: all 0.2s; }
+      .alt-stream:hover { border-color: var(--neon-cyan); background: rgba(0,229,255,0.06); }
+      .alt-stream h4 { margin: 0 0 0.3rem; }
+      .alt-stream p { margin: 0; font-size: 0.85rem; color: var(--text-muted); }
+      .alt-stream a { color: var(--neon-cyan); text-decoration: none; }
+      .alt-stream a:hover { text-decoration: underline; }
+      .note-box { background: rgba(255,200,0,0.06); border: 1px solid rgba(255,200,0,0.2); border-radius: 12px; padding: 1rem; margin-top: 2rem; font-size: 0.85rem; color: var(--text-muted); text-align: left; }
+    </style>
+  </head>
+  <body>
+    <Header />
+    <main>
+      <div class="live-wrap">
+        <div class="live-badge">
+          <span class="live-dot"></span>
+          🔴 UFO/UAP 聽證會直播
+        </div>
+        <h1>🛸 UFO/UAP 國會聽證會即時直播</h1>
+        <p style="color:var(--text-muted);margin-bottom:2rem;">
+          即時追蹤美國國會 UFO/UAP 聽證會、吹哨人證詞及相關報導
+        </p>
+
+        <div class="video-container">
+          <iframe 
+            src="https://www.youtube.com/embed/NN-lfF5Bxiw?autoplay=1&rel=0" 
+            frameborder="0" 
+            allow="autoplay; encrypted-media; fullscreen" 
+            allowfullscreen>
+          </iframe>
+        </div>
+        <div class="live-info">
+          <p><strong>🎙 Mirror Now</strong> — 美國國會 UFO/UAP 聽證會直播</p>
+          <p>📡 <a href="https://www.youtube.com/watch?v=NN-lfF5Bxiw" target="_blank" style="color:var(--neon-cyan)">在 YouTube 觀看 ↗</a></p>
+        </div>
+
+        <hr style="border-color:var(--border);margin:2rem 0;" />
+        <h3 style="margin-bottom:1.5rem;">📺 其他直播源</h3>
+        <div class="alt-streams">
+          <div class="alt-stream">
+            <h4>🎬 Hindustan Times</h4>
+            <p>UFO 聽證會直播</p>
+            <a href="https://www.youtube.com/watch?v=6P0di8zHynk" target="_blank">在 YouTube 觀看 ↗</a>
+          </div>
+          <div class="alt-stream">
+            <h4>🎬 Mirror Now (備用)</h4>
+            <p>特朗普 UFO 聽證會直播</p>
+            <a href="https://www.youtube.com/watch?v=cDEKj4fTVwc" target="_blank">在 YouTube 觀看 ↗</a>
+          </div>
+          <div class="alt-stream">
+            <h4>📰 NewsNation</h4>
+            <p>UFO 吹哨人相關報導</p>
+            <a href="https://www.youtube.com/@NewsNation" target="_blank">NewsNation 頻道 ↗</a>
+          </div>
+        </div>
+
+        <div class="note-box">
+          <strong>ℹ️ 注意：</strong> 直播源來自第三方新聞頻道。如直播離線，請嘗試其他備用源。持續更新最新 UFO/UAP 聽證會資訊。
+        </div>
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>

@@ -1,0 +1,116 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { useTranslations, getLangFromUrl } from '../i18n';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+
+<html lang="en">
+  <head>
+    <BaseHead title="UFO/UAP Hearings Live Stream | DisclosureHK" description="Live stream of the latest UFO/UAP Congressional hearings and related coverage" />
+    <style>
+      .live-wrap { max-width: 1000px; margin: 0 auto; padding: 2rem 1.5rem; text-align: center; }
+      .live-badge {
+        display: inline-flex; align-items: center; gap: 0.5rem;
+        background: rgba(255,0,0,0.15); border: 1px solid rgba(255,0,0,0.3);
+        padding: 0.5rem 1.2rem; border-radius: 50px;
+        color: #ff4444; font-weight: 700; font-size: 0.9rem;
+        margin-bottom: 1.5rem;
+      }
+      .live-dot {
+        width: 10px; height: 10px; border-radius: 50%;
+        background: #ff0000; display: inline-block;
+        animation: pulse 1.5s infinite;
+      }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
+      .video-container {
+        position: relative; width: 100%; padding-bottom: 56.25%;
+        border-radius: 16px; overflow: hidden;
+        box-shadow: 0 0 40px rgba(0,229,255,0.15);
+        border: 1px solid rgba(0,229,255,0.2);
+      }
+      .video-container iframe {
+        position: absolute; top: 0; left: 0;
+        width: 100%; height: 100%;
+      }
+      .live-info { margin-top: 1.5rem; color: var(--text-muted); line-height: 1.8; }
+      .alt-streams {
+        display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 1rem; margin-top: 2rem; text-align: left;
+      }
+      .alt-stream {
+        background: rgba(0,229,255,0.03); border: 1px solid var(--border);
+        border-radius: 12px; padding: 1rem;
+        transition: all 0.2s;
+      }
+      .alt-stream:hover { border-color: var(--neon-cyan); background: rgba(0,229,255,0.06); }
+      .alt-stream h4 { margin: 0 0 0.3rem; }  
+      .alt-stream p { margin: 0; font-size: 0.85rem; color: var(--text-muted); }
+      .alt-stream a { color: var(--neon-cyan); text-decoration: none; }
+      .alt-stream a:hover { text-decoration: underline; }
+      .note-box {
+        background: rgba(255,200,0,0.06); border: 1px solid rgba(255,200,0,0.2);
+        border-radius: 12px; padding: 1rem; margin-top: 2rem;
+        font-size: 0.85rem; color: var(--text-muted); text-align: left;
+      }
+    </style>
+  </head>
+  <body>
+    <Header />
+    <main>
+      <div class="live-wrap">
+        <div class="live-badge">
+          <span class="live-dot"></span>
+          🔴 UAP HEARING COVERAGE
+        </div>
+        <h1>🛸 UFO/UAP Live Coverage</h1>
+        <p style="color:var(--text-muted);margin-bottom:2rem;">
+          Live streams covering UFO/UAP Congressional hearings, whistleblower testimony, and related events
+        </p>
+
+        <!-- Primary Stream: MIRROR NOW -->
+        <div class="video-container">
+          <iframe 
+            src="https://www.youtube.com/embed/NN-lfF5Bxiw?autoplay=1&rel=0" 
+            frameborder="0" 
+            allow="autoplay; encrypted-media; fullscreen" 
+            allowfullscreen>
+          </iframe>
+        </div>
+        <div class="live-info">
+          <p><strong>🎙 Mirror Now</strong> — Congress Hearing LIVE: UFO/UAP Coverage</p>
+          <p>📡 <a href="https://www.youtube.com/watch?v=NN-lfF5Bxiw" target="_blank" style="color:var(--neon-cyan)">Open on YouTube ↗</a></p>
+        </div>
+
+        <!-- Alternative Streams -->
+        <hr style="border-color:var(--border);margin:2rem 0;" />
+        <h3 style="margin-bottom:1.5rem;">📺 Alternative Sources</h3>
+        <div class="alt-streams">
+          <div class="alt-stream">
+            <h4>🎬 Hindustan Times</h4>
+            <p>UFO Hearing Live — Alternative coverage</p>
+            <a href="https://www.youtube.com/watch?v=6P0di8zHynk" target="_blank">Watch on YouTube ↗</a>
+          </div>
+          <div class="alt-stream">
+            <h4>🎬 Mirror Now (Alt)</h4>
+            <p>Trump UFO Hearing LIVE — Additional feed</p>
+            <a href="https://www.youtube.com/watch?v=cDEKj4fTVwc" target="_blank">Watch on YouTube ↗</a>
+          </div>
+          <div class="alt-stream">
+            <h4>📰 NewsNation</h4>
+            <p>UFO whistleblower & related coverage</p>
+            <a href="https://www.youtube.com/@NewsNation" target="_blank">NewsNation Channel ↗</a>
+          </div>
+        </div>
+
+        <div class="note-box">
+          <strong>ℹ️ Note:</strong> Streams embedded are from third-party news channels. If a stream appears offline, try the alternative sources above. Check back for the latest UFO/UAP hearing coverage.
+        </div>
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>
