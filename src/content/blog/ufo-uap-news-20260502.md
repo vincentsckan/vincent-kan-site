@@ -1,17 +1,17 @@
 ---
 title: '🛸 全球UFO/UAP新聞摘要 — 2026年5月2日'
-description: '✈️ 已故空軍軍官涉UFO遺留計劃 · 十一名科學家神秘失蹤白宮介入調查 · AARO主持機密工作坊推動數據標準化 · 蘑菇形UAP新影片曝光 表現瞬間加速'
+description: '✈️ 已故空軍軍官涉UFO遺留計劃 · 十一名科學家神秘失蹤白宮介入調查 · AARO主持機密工作坊推動數據標準化 · 🍄蘑菇形UAP新影片 · 🌊51區附近地震群引發猜測'
 titleEn: '🛸 Global UFO/UAP News Roundup — May 2, 2026'
-descriptionEn: '✈️ Late Air Force officer linked to legacy UFO program · 11 scientists vanish mysteriously, White House investigates · AARO hosts private workshop on data standardization · Mushroom-shaped UAP footage shows instant acceleration'
+descriptionEn: '✈️ Late AF officer linked to legacy UFO program · 11 scientists vanish · AARO hosts workshop · 🍄Mushroom UAP footage · 🌊Earthquake swarm near Area 51'
 pubDate: '2026-05-02'
-updatedDate: '2026-05-02'
+updatedDate: '2026-05-02T16:00:00Z'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
 
 > 📡 **每日UAP新聞精選** — 2026年5月2日（星期六）
 > 由AI自動搜集、整理及排版，聚焦權威來源及重要發展
 
-| 📍 *美國：維珍尼亞、華盛頓DC、敘利亞邊境* | 📅 *2026年2月-5月* | 🔍 *UAP披露·科學家失蹤·AARO工作坊·新影片* |
+| 📍 *美國：維珍尼亞、華盛頓DC、內華達、敘利亞邊境* | 📅 *2026年2月-5月* | 🔍 *UAP披露·科學家失蹤·AARO工作坊·51區地震群·新影片* |
 
 ---
 
@@ -164,10 +164,70 @@ Luna公開批評戰爭部初期「沒有人回應，直到我們主動聯繫」�
 
 ---
 
-## 📌 重點一覽：2026年5月初UAP新聞重點
+## ⚡ 突發：過去24小時最新消息
+
+### 🌊 51區附近密集地震群引發猜測
+**來源：** Daily Mail（2026年5月2日）
+
+過去24小時內，**內華達州極機密軍事基地51區附近錄得17次地震**，其中最大一次達到**黎克特制4.4級**，震源深度僅約4公里（2.5英里），引發外界對**地下秘密測試**的猜測。
+
+地震學家 **Stefan Burns** 形容這個位置「不是正常會發生地震的地方」，因為該地區歷史上一向相對平靜。他指出地震和地下爆炸有時會產生相似的震波信號，但強調這起事件「最大可能是自然地震」，只是數據中存在「一些模糊性」。
+
+超過百人向美國地質調查局（USGS）報告感覺到震動，但由於該地區主要為軍方人員居住，普遍反饋有限。網上隨即出現大量陰謀論，有網民開玩笑稱「外星人在搖晃地球！」。
+
+這次地震群適逢 **51區相關爭議再度升溫**——此前一份2025年的報告揭露，美國國防部曾刻意製造UFO陰謀論，包括在冷戰時期分發偽造飛碟照片予居民，以掩飾機密武器測試項目。
+
+![內華達沙漠](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/LSyMDpKzjnI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+*關於2026年科學家神秘失蹤與死亡的媒體報導合集*
+
+[🔗 Daily Mail — Area 51 Earthquake Swarm](https://www.dailymail.com/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)
+
+---
+
+### 👩‍🔬 家人首度開腔：失蹤NASA科學家Monica Reza事件——特朗普下令調查
+**來源：** Daily Mail（2026年5月1日）
+
+**Monica Reza**，一名**60歲航空航天工程師**，自2025年6月22日在加州Mount Waterman行山徑失蹤已近10個月。近日她的家人和朋友**首次打破沉默**向Daily Mail發聲，表示「整件事極度可疑」。
+
+Reza的家屬直言：「我知道這遠不止她失足跌下懸崖或被路人抓走。我一直懷疑這與工作有關。我心底裡知道她是被綁架的。」
+
+**關鍵背景：** Reza在1990年代中期在Rocketdyne共同發明了 **Mondaloy**——一種用於火箭引擎的鎳基超級合金。這個項目由**空軍研究實驗室（AFRL）**資助，由至今仍未尋獲的失蹤少將 **Neil McCasland** 監督。Reza和McCasland曾同時駐守Wright-Patterson空軍基地——一個與UFO傳說密切相關的設施。
+
+另一令人關注線索：Reza與McCasland均涉及**高端航空航太研究**。McCasland在2026年2月27日從阿爾伯克基郊區失蹤後，引發了關於科學家遭有系統針對的陰謀論。
+
+家人稱，有政府官員表示正在調查Reza的案件，部分受訪者因**擔心自身安全**要求匿名。
+
+2026年4月，**特朗普總統**宣布其政府將對Reza及至少**10至12名**其他失蹤或死亡的美國科學家展開調查，這些科學家大多掌握國防、核能和航空航天領域的高級機密。截至4月30日，特朗普表示已聽取調查情況簡報：「其中一些是非常悲慘的個案，有人患病，有人自尋短見……有時案件之間確實有關聯……但至今我們發現關聯不大。」
+
+![NASA科學家](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+
+[🔗 Daily Mail — Missing Scientist Monica Reza Family Speaks Out](https://www.dailymail.com/sciencetech/article-15769971/missing-scientist-hiking-nasa-jpl-suspicious-disappearance-monica-reza.html)
+
+---
+
+### ✈️ Matthew Sullivan命案：Burlison正式要求FBI調查
+**來源：** Daily Mail（2026年5月1日）／Liberation Times
+
+美國眾議員 **Eric Burlison** 已正式去信聯邦調查局（FBI）局長 **Kash Patel**，要求對已故空軍情報官 **Matthew Sullivan** 的死亡展開刑事調查。Sullivan在2024年5月12日去世，年僅39歲，官方死因至今未公開。
+
+Burlison在信中寫道：「他死亡前後的突然及可疑情況，引發對可能涉及不軌行為及其他相關人士安全的嚴重關憂。」
+
+情報社群監察長（Intelligence Community Inspector General）的調查據報已發現「嚴重的不當行為指控及可能違法活動」，指向Sullivan的死**並非自殺**。
+
+Sullivan被揭露是**UAP任務小組**原定的關鍵證人，他曾由吹哨人David Grusch協助準備挺身而出，卻在作證前突然離世，令知情者深感不安。
+
+[🔗 Daily Mail — Sullivan Death Investigation](https://www.dailymail.com/sciencetech/article-15742843/death-air-force-whistleblower-ufo-virginia.html)
+
+---
+
+## 📌 重點一覽：2026年5月2日UAP新聞重點
 
 | 事件 | 狀態 | 關鍵人物／機構 |
 |------|------|--------------|
+| 🌊 51區附近17次地震 | ⏳ USGS監測中 | 物探學家Stefan Burns, Area 51 |
+| 👩‍🔬 失蹤NASA科學家家人首度開腔 | 🏛️ 特朗普下令調查 | Monica Reza, McCasland將軍 |
 | ✈️ Sullivan涉UFO遺留計劃 | 📰 Liberation Times獨家報導 | Matthew Sullivan, Eric Burlison, David Grusch |
 | 🔍 11名科學家失蹤 | 🏛️ 白宮回應調查中 | Karoline Leavitt, Neil McCasland |
 | 🏛️ AARO數據標準化工作坊 | 📄 白皮書已發布 | AARO, AUI, 學術及民間研究組織 |
@@ -180,7 +240,7 @@ Luna公開批評戰爭部初期「沒有人回應，直到我們主動聯繫」�
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 2em;">
 
 *🤖 本文章由 AI 自動搜集及整理*
-*🕐 更新時間：2026-05-02 12:00 HKT*
+*🕐 更新時間：2026-05-02 23:59 HKT*
 *📋 資料來源：Liberation Times、The Debrief、NewsWeek、White House Briefing等*
 
 **來源連結：**
@@ -193,5 +253,8 @@ Luna公開批評戰爭部初期「沒有人回應，直到我們主動聯繫」�
 - [Liberation Times — McCasland失蹤將軍](https://www.liberationtimes.com/home/the-missing-general-neil-mccasland-ufo-claims-and-an-unfolding-mystery)
 - [Liberation Times — 證據、無人機與UFO辯論](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate)
 - [WEAPONIZED Podcast — 蘑菇形UAP影片](https://www.youtube.com/watch?v=nKtJslcHlCQ)
+- [Daily Mail — Area 51 Earthquake Swarm](https://www.dailymail.com/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)
+- [Daily Mail — Missing Scientist Monica Reza Family Speaks Out](https://www.dailymail.com/sciencetech/article-15769971/missing-scientist-hiking-nasa-jpl-suspicious-disappearance-monica-reza.html)
+- [Daily Mail — Sullivan Death Investigation](https://www.dailymail.com/sciencetech/article-15742843/death-air-force-whistleblower-ufo-virginia.html)
 
 </div>
