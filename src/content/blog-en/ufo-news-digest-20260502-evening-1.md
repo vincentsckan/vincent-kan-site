@@ -1,6 +1,8 @@
 ---
 title: "🛸 全球UFO/UAP新聞摘要 — 2026-05-02"
+titleEn: '🛸 Global UFO/UAP News Digest — 2026-05-02'
 description: "今日UFO/UAP最新消息匯總：美國國會聽證會後續、全球目擊報告、政府檔案解密進展"
+descriptionEn: 'Daily roundup of latest UFO/UAP news including disclosure updates and sightings.'
 pubDate: 2026-05-02T20:04:26Z
 updatedDate: 2026-05-02T20:04:26Z
 author: "UFO News Monitor"

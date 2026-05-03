@@ -1,6 +1,8 @@
 ---
 title: "🛸 UFO/UAP 快訊 — 5月2日09:03"
+titleEn: '🛸 UFO/UAP News Flash — 5月2日09:03'
 description: "國會議員追問海外巨型UAP結構、多哈雷暴中三角形UFO編隊、加州夜視拍到三角UFO、吹哨人爆料情報機構深層UAP機密"
+descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: 2026-05-02T09:03:00.000Z
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---

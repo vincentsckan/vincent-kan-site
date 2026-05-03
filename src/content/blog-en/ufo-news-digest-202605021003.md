@@ -1,6 +1,8 @@
 ---
 title: '🛸 UFO/UAP 快訊 — 05月02日18:03'
+titleEn: '🛸 UFO/UAP News Flash — 05月02日18:03'
 description: 'UFO影片大集合！今日 YouTube UFO界最爆影片一覽：480K觀看蘑菇形UAP、155K新片、多位頭條主講人現身，另有今日UAP冷知識—羅斯威爾事件的華人關聯'
+descriptionEn: 'UFO/UAP breaking news roundup: Latest developments in UAP disclosure, congressional hearings, and global sightings.'
 pubDate: '2026-05-02T10:03:00Z'
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---

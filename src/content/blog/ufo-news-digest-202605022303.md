@@ -1,6 +1,8 @@
 ---
 title: '🛸 UFO/UAP 快訊 — 05月03日 07:03'
+titleEn: '🛸 UFO/UAP News Flash — '
 description: '🧐 NUFORC揭1967年Fortuna冷戰雷達神秘高速UFO事件 · 51區附近17次地震群引熱議 · 密芝根夜光球UFO調查報告 · ⭐多條精選UFO影片'
+descriptionEn: 'UFO/UAP breaking news roundup: Latest developments in UAP disclosure, congressional hearings, and global sightings.'
 tags: ["UFO", "UAP", "news", "自動更新"]
 pubDate: 2026-05-02T23:03:00.000Z
 ---

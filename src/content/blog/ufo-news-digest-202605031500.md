@@ -1,6 +1,8 @@
 ---
 title: "🛸 UFO/UAP 快訊 — 5月3日15:00"
+titleEn: '🛸 UFO/UAP News Flash — 5月3日15:00'
 description: "Project Serpo 傳奇再成熱話 · 三角形UFO夜視片持續發酵 · 多哈雷暴中神秘三角光球 · 新舉報人爆UFO隱秘架構"
+descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: 2026-05-03T15:00:00Z
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---

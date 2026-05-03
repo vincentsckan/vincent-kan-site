@@ -1,6 +1,8 @@
 ---
 title: '🛸 UFO/UAP 快訊 — 5月2日11:03'
+titleEn: '🛸 UFO/UAP News Flash — 5月2日11:03'
 description: 'Nick Pope逝世引發猜測 · Area 51淺層地震集團 · Chandra Levy父母聲稱女兒死亡涉UFO · Avi Loeb回應 · 眾議員Luna以《以諾書》框架談UFO披露 · Spielberg《Disclosure Day》新預告'
+descriptionEn: 'UFO/UAP breaking news roundup: Latest developments in UAP disclosure, congressional hearings, and global sightings.'
 pubDate: '2026-05-02T11:03:00Z'
 tags: ['UFO', 'UAP', 'news', '自動更新']
 heroImage: '../../assets/blog-placeholder-5.jpg'

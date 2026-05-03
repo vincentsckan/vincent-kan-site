@@ -1,6 +1,8 @@
 ---
 title: "🛸 UFO/UAP 快訊 — 05月03日02:03"
+titleEn: '🛸 UFO/UAP News Flash — 05月03日02:03'
 description: "最新UFO/UAP新聞：國防部長承諾披露UFO檔案、美國太空總署AARO新動向、加拿大UAP報告引發關注、前總統奧巴馬談外星生命、巴西Varginha事件30週年"
+descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-02T18:03:00Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---

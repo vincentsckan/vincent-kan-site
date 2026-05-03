@@ -1,6 +1,8 @@
 ---
 title: "🛸 UFO/UAP 快訊 — 05月03日15:03"
+titleEn: '🛸 UFO/UAP News Flash — 05月03日15:03'
 description: "特朗普承諾釋放「你唔會相信嘅嘢」UFO檔案、國會議員承諾披露非人類智慧體資訊、Rendlesham Forest UFO經典案例再度討論——最新UFO動態一次過睇"
+descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-03T07:02:00.000Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---

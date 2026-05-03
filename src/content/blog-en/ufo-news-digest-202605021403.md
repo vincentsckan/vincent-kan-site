@@ -1,6 +1,8 @@
 ---
 title: '🛸 UFO/UAP 快訊 — 5月02日14:03'
+titleEn: '🛸 UFO/UAP News Flash — 5月02日14:03'
 description: '特朗普承諾公開UFO檔案：極不尋常事件 · 國會女議員稱將展示非人類起源證據 · Area 51附近17次地震群引發猜測 · 前國防部官員：UFO資訊絕非空砲彈'
+descriptionEn: 'UFO/UAP breaking news roundup: Latest developments in UAP disclosure, congressional hearings, and global sightings.'
 pubDate: '2026-05-02T14:03:00Z'
 tags: ["UFO", "UAP", "news", "自動更新"]
 heroImage: '../../assets/blog-placeholder-4.jpg'

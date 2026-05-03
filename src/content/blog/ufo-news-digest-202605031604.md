@@ -1,6 +1,8 @@
 ---
 title: "🛸 UFO/UAP 快訊 — 05月04日00:04"
+titleEn: '🛸 UFO/UAP News Flash — 05月04日00:04'
 description: "特朗普暗示即將公開更多UFO機密文件，著名UFO研究者David Wilcock離世，FBI介入調查科學家死亡事件，國會UAP聽證會即將舉行"
+descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: 2026-05-03T16:04:00.000Z
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---

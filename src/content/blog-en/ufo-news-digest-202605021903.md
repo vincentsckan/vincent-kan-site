@@ -1,6 +1,8 @@
 ---
 title: "🛸 UFO/UAP 快訊 — 5月2日19:03"
+titleEn: '🛸 UFO/UAP News Flash — 5月2日19:03'
 description: "UFO界傳奇人物Nick Pope逝世終年60歲｜特朗普奧巴馬隔空罵戰：外星人真係存在？｜《The Age of Disclosure》紀錄片34位高官爆料｜Goldie Hawn親述外星人接觸經歷"
+descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-02T19:03:00.000Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---

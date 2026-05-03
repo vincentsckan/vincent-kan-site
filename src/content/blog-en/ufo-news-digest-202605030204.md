@@ -1,6 +1,8 @@
 ---
 title: "🛸 UFO/UAP 快訊 — 05月03日10:04"
+titleEn: '🛸 UFO/UAP News Flash — 05月03日10:04'
 description: "UFO研究員David Wilcock自殺身亡、FBI調查科學家連環死亡失蹤案、Hellfire導彈打中UFO繼續飛、白宮註冊Aliens.gov⋯⋯多宗震撼消息一次過睇！"
+descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-03T02:04:00Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---

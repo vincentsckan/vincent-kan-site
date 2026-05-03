@@ -1,6 +1,8 @@
 ---
 title: "🛸 UFO/UAP 快訊 — 05月03日01:04"
+titleEn: '🛸 UFO/UAP News Flash — 05月03日01:04'
 description: "Area 51地震群更新、MKUltra聽證前奏、5月天空異常活動預測、UFO迷必看太空冷知識"
+descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: 2026-05-02T17:04:00Z
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---

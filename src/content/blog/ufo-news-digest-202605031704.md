@@ -1,6 +1,8 @@
 ---
 title: "🛸 UFO/UAP 快訊 — 5月3日17:04"
+titleEn: '🛸 UFO/UAP News Flash — 5月3日17:04'
 description: "特朗普今日多篇報導稱五角大樓準備公開「非常有趣」的UFO檔案；前AARO局長柯克派屈克與退役海軍少將加拉德特公開開火；眾議院監督委員會5月13日UAP聽證會即將到來；國防部錯過提交UAP影片最後期限。"
+descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: 2026-05-03T17:04:00.000Z
 updatedDate: 2026-05-03T17:04:00.000Z
 heroImage: ../../assets/blog-placeholder-2.jpg

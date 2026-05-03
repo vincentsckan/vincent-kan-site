@@ -1,6 +1,8 @@
 ---
 title: "🛸 UFO/UAP 快訊 — 05月03日00:04"
+titleEn: '🛸 UFO/UAP News Flash — 05月03日00:04'
 description: "Area 51附近出現異常地震群、眾議員爆料隱藏巨型UFO、MKUltra聽證會5月舉行、NASA科學家失蹤案引發揣測"
+descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: 2026-05-02T16:04:00Z
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---

@@ -1,6 +1,8 @@
 ---
 title: "🛸 UFO/UAP 快訊 — 05月03日08:03"
+titleEn: '🛸 UFO/UAP News Flash — 05月03日08:03'
 description: "月球發現1.5英里長UFO停泊在隕石坑、火星疑似發現生物痕跡、意大利拿坡里上空神秘光球、太陽附近7英里巨型UFO掠過——多宗目擊事件匯總！"
+descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-03T00:03:00Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---

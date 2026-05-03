@@ -1,6 +1,8 @@
 ---
 title: "🛸 UFO/UAP 快訊 — 05月02日23:03"
+titleEn: '🛸 UFO/UAP News Flash — 05月02日23:03'
 description: "Area 51 附近發生17次地震｜國會議員爆料海外有超大不可移動UFO被藏於建築內｜MKUltra聽證會5月13日舉行｜科學家失蹤事件調查期限逼近"
+descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-02T15:03:00.000Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---

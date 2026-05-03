@@ -1,6 +1,8 @@
 ---
 title: "🛸 UFO/UAP 快訊 — 05月03日06:03"
+titleEn: '🛸 UFO/UAP News Flash — 05月03日06:03'
 description: "UFO研究員David Wilcock離世、白宮註冊Aliens.gov域名、FBI及國會調查科學家死亡失蹤事件、國會聽證會進展 － 最新UFO新聞一次睇晒"
+descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-02T22:03:00Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---

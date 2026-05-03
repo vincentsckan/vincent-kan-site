@@ -1,6 +1,8 @@
 ---
 title: '🛸 UFO/UAP 快訊 — 05月02日20:03'
+titleEn: '🛸 UFO/UAP News Flash — 05月02日20:03'
 description: 'UFO研究員David Wilcock逝世終年53歲 · Area 51附近凌晨發生17次地震最高4.4級 · FBI聯同國會調查科學家連環死亡/失蹤案 · 白宮註冊Aliens.gov域名 · MKUltra聽證會5月13日舉行 · Hellfire導彈擊中UAP竟彈開無損毀'
+descriptionEn: 'UFO/UAP breaking news roundup: Latest developments in UAP disclosure, congressional hearings, and global sightings.'
 pubDate: '2026-05-02T12:03:00Z'
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---

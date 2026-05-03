@@ -1,6 +1,8 @@
 ---
 title: "🛸 UFO/UAP 快訊 — 05月03日12:05"
+titleEn: '🛸 UFO/UAP News Flash — 05月03日12:05'
 description: "特朗普再提UFO文件公開、Area 51附近異常地震群、NASA內部電郵揭露GoFast UFO分析漏洞、揭露倡導者Bassett分析三大推動力"
+descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-03T04:05:00Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---

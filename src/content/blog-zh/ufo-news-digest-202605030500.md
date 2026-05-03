@@ -1,6 +1,8 @@
 ---
 title: "🛸 UFO/UAP 快訊 — 5月3日05:00"
+titleEn: '🛸 UFO/UAP News Flash — 5月3日05:00'
 description: "特朗普承諾釋放UFO檔案，前國防官員稱資訊非「無聊嘢」，國會女議員預告將展示非人類起源證據"
+descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-03T05:00:00.000Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---
