@@ -135,6 +135,26 @@ EOF
     git push origin master 2>&1
     
     echo "Pushed to GitHub - site will auto-deploy"
+    
+    # 5. Send email notification
+    SITE_URL="https://vincentsckan.github.io/vincent-kan-site/"
+    python3 -c "
+import smtplib
+from email.mime.text import MIMEText
+
+msg = MIMEText('''Hi Vincent,\n\n🔴 A U.S. government UFO/UAP hearing live stream has been detected!\n\nTitle: ${VIDEO_TITLE}\nYouTube: https://www.youtube.com/watch?v=${FIRST_ID}\n\nIt has been automatically posted to your website with live embed:\n${SITE_URL}\n\nCheck it out!\n\n- Robot Key 😅''')
+msg['Subject'] = '🔴 UAP Hearing LIVE - Posted to Your Website'
+msg['From'] = 'vincentsc.kan@gmail.com'
+msg['To'] = 'vincentsc.kan@gmail.com'
+
+with smtplib.SMTP('smtp.gmail.com', 587) as s:
+    s.starttls()
+    s.login('vincentsc.kan@gmail.com', 'afgr dkgj uqeg cyla')
+    s.send_message(msg)
+    print('Email notification sent!')
+"
+    
+    echo "Email notification sent to vincentsc.kan@gmail.com"
   else
     echo "No new live stream detected (same as previous)"
   fi
