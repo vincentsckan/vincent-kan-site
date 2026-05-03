@@ -1,6 +1,8 @@
 ---
 title: '🛸 中國UFO歷史 — 從古代天象到現代目擊'
 description: '中國關於UFO嘅記錄可以追溯到數千年前。由《宋史》記載嘅「天火」到現代解放軍接觸案例，中國嘅UFO歷史同樣豐富。'
+titleEn: '🏮 UFOs in Chinese History — From Ancient Silk Scrolls to Modern Encounters'
+descriptionEn: 'Over 4,000 years of Chinese UFO records, from ancient emperor encounters to modern military sightings. A comprehensive look at UFO phenomena in Chinese civilization.'
 pubDate: '2023-04-20'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
@@ -26,7 +28,7 @@ heroImage: '../../assets/blog-placeholder-4.jpg'
 ### 2010年杭州機場事件
 蕭山國際機場因UFO活動關閉跑道約1小時。
 
-![中國UFO](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![中國UFO](../../assets/blog-placeholder-4.jpg)
 *中國古代繪畫中嘅神秘天空現象*
 
 <div class="video-embed">

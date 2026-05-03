@@ -1,6 +1,8 @@
 ---
 title: '🛸 2024年全球UFO新聞回顧 — 立法之年'
 description: '2024年UAP披露持續升溫：新聽證會、更多吹哨人、披露法案推進。'
+titleEn: '📰 UFO News 2024 — Disclosure Continues to Accelerate'
+descriptionEn: 'An overview of the most important UFO/UAP events of 2024, including AARO''s new cases, Congressional action, and growing international cooperation on the issue.'
 pubDate: '2023-04-01'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
@@ -27,7 +29,7 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 - **NUFORC**：年度報告突破5,000宗
 - **中國**：民間UFO組織報告量亦增加
 
-![2024年UAP](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![2024年UAP](../../assets/blog-placeholder-2.jpg)
 *2024年UAP披露進展*
 
 <div class="video-embed">

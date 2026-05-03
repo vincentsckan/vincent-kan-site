@@ -1,6 +1,8 @@
 ---
 title: '🧑‍🔬 雅克·瓦萊 — 現代UFO研究嘅科學先驅'
 description: '法裔天文學家Jacques Vallee提出UFO可能唔係外星飛船，而係一種跨維度現象，徹底改變咗UFO研究嘅方向。'
+titleEn: '📖 Dr. Jacques Vallée — The Scientist Who Saw UFOs as Something Stranger Than Aliens'
+descriptionEn: 'French astronomer and computer scientist Dr. Jacques Vallée proposed a bold theory: UFOs may not be extraterrestrial spacecraft, but something far more complex.'
 pubDate: '2022-10-20'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
@@ -15,7 +17,7 @@ Vallee喺1960年代本來係一位備受尊重嘅天文學家。佢同Hynek合�
 
 > **UFO可能唔係外星飛船，而係一種跨維度嘅控制系統**
 
-![Jacques Vallee](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![Jacques Vallee](../../assets/blog-placeholder-5.jpg)
 *Jacques Vallee——提出UFO跨維度理論嘅先驅*
 
 ## 瓦萊分類法

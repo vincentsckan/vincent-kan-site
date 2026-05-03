@@ -1,6 +1,8 @@
 ---
 title: '🧠 CIA遙視計劃Stargate & UFO — 心靈能力與外星智慧嘅邊界'
 description: 'CIA用20年研究遙視能力，其中一個viewer準確描述咗人類未知嘅木星環。而家有人爆料軍方用「心靈能力」召回UFO'
+titleEn: '🧠 Project Stargate — The CIA''s Psychic Remote Viewing Program'
+descriptionEn: 'The CIA''s Project Stargate investigated psychic remote viewing for intelligence gathering. Some believe remote viewers successfully observed extraterrestrial intelligence.'
 pubDate: '2026-04-28'
 tags: ['CIA', 'Stargate', '遙視', '心靈能力', '冷門']
 heroImage: '../../assets/blog-placeholder-3.jpg'

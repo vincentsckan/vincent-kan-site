@@ -1,6 +1,8 @@
 ---
 title: '🧠 UAP分類全面指南 — Hynek、Vallee同現代分型系統'
 description: '由Hynek嘅三類近距離接觸到Vallee跨維度模型再到現代AARO分類，一次過睇晒UAP研究嘅分類系統。'
+titleEn: '📖 UFO Classification Guide — Decoding the UAP Alphabet Soup'
+descriptionEn: 'A guide to UFO classification terms: UFO, UAP, UAPTF, AARO, NHI — explaining all the key acronyms and concepts in the field.'
 pubDate: '2022-11-10'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
@@ -42,7 +44,7 @@ Jacques Vallee更細緻嘅系統分為8個MA（Manifestation）類型，強調UF
 - **菱形**
 - **不規則形**
 
-![UAP分類](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UAP分類](../../assets/blog-placeholder-2.jpg)
 *UFO常見形狀分類示意圖*
 
 <div class="video-embed">

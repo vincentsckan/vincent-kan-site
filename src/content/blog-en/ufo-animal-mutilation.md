@@ -1,52 +1,51 @@
 ---
 title: '🛸 動物殘割事件 — FBI調查半世紀嘅UFO相關謎團'
 description: '自1960年代以嚟，北美各地出現大量牛隻神秘死亡事件，動物器官被精準切除，沒有血跡，FBI檔案顯示同UFO活動有關聯。'
+titleEn: '🐄 Animal Mutilations — The Unsolved Mystery Linking UFOs and Livestock Deaths'
+descriptionEn: 'Since the 1960s, thousands of livestock have been found dead with surgically precise incisions and no blood. Is there a connection to UFOs?'
 pubDate: '2023-01-05'
 heroImage: '../../assets/blog-placeholder-1.jpg'
-
-titleEn: '🛸 Animal Mutilations — The FBI''s Half-Century UFO-Linked Mystery'
-descriptionEn: '**Animal Mutilation** refers to animals found dead with specific body parts (lips, genitals, rectum, tongue) removed in an extremely precise manner. Characteristics include:'
 ---
-> 📍 **Western United States, Canada, Puerto Rico**
-> 📅 **1967 — Present**
-> 🔍 **Animal Mutilation, FBI Investigation, UFO Connection**
 
-## What is Animal Mutilation?
+> 📍 **美國西部、加拿大、波多黎各**
+> 📅 **1967年 — 至今**
+> 🔍 **動物殘割、FBI調查、UFO關聯**
 
-**Animal Mutilation** refers to animals found dead with specific body parts (lips, genitals, rectum, tongue) removed in an extremely precise manner. Characteristics include:
-- Clean incision edges, as if cut by laser
-- Complete absence of blood
-- Precise removal of internal organs
-- No signs of bone crushing
+## 咩係動物殘割？
 
-## FBI Investigation
+**動物殘割（Animal Mutilation）** 指嘅係動物被發現死亡，身體特定部位（嘴唇、生殖器、直腸、舌頭）被以極其精準嘅方式切除。特徵包括：
+- 切口邊緣整齊，似用激光切割
+- 完全冇血跡
+- 內臟器官精準移除
+- 骨骼冇粉碎跡象
 
-The U.S. Federal Bureau of Investigation (FBI) launched a large-scale investigation in the 1970s, named **"Operation Animal Mutilation."** FBI files show that over **10,000** animal mutilation reports are linked.
+## FBI調查
 
-## Connection to UFOs
+美國聯邦調查局（FBI）喺1970年代展開咗大規模調查，名為 **「Operation Animal Mutilation」**。FBI嘅檔案顯示，超過 **10,000宗** 動物殘割報告之間有關聯。
 
-Multiple witnesses simultaneously reported seeing in the incident areas:
-- Mysterious low-flying lights
-- Triangular glowing objects
-- Unmarked black helicopters
+## 同UFO嘅關聯
 
-![Animal Mutilation Report](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
-*FBI Animal Mutilation Investigation File Cover*
+多個目擊者同時報告喺事發區域見到：
+- 神秘嘅低空飛行光點
+- 三角形發光物體
+- 無標記嘅黑色直升機
 
-## Mainstream Theories
+![動物殘割報告](../../assets/blog-placeholder-1.jpg)
+*FBI動物殘割調查檔案封面*
 
-| Theory | Supporters | Issues |
-|--------|------------|--------|
-| Natural Predation | Mainstream Science | Cannot explain incision precision |
-| Cult Rituals | FBI | No cults have been caught |
-| Alien Sampling | UFO Research Community | No direct evidence |
-| Secret Government Program | Conspiracy Theorists | No evidence |
+## 主流理論
+
+| 理論 | 支持者 | 問題 |
+|------|--------|------|
+| 自然捕食 | 主流科學 | 無法解釋切口精準度 |
+| 邪教儀式 | FBI | 冇任何邪教被捕 |
+| 外星人取樣 | UFO研究界 | 冇直接證據 |
+| 秘密政府計劃 | 陰謀論者 | 冇證據 |
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/GEioQCEv2hE" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
-'
 ---
 
-*📚 References: FBI Files, University Research*
+*📚 參考：FBI檔案、大學研究*

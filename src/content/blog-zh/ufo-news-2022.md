@@ -1,6 +1,8 @@
 ---
 title: '🛸 2022年全球UFO新聞回顧 — 披露之年'
 description: '2022年係UAP披露嘅關鍵年份：AARO成立、NASA加入研究、國會聽證會頻繁。一次過回顧全年大事。'
+titleEn: '📰 UFO News 2022 — A Year of Milestones in UAP Disclosure'
+descriptionEn: 'A comprehensive review of 2022 UFO/UAP news, including the first public Congressional hearing in 50 years, the formation of AARO, and major disclosure events.'
 pubDate: '2023-03-01'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
@@ -30,7 +32,7 @@ heroImage: '../../assets/blog-placeholder-5.jpg'
 - 《2023國防授權法案》包含UAP披露條款
 - 吹哨人保護機制開始建立
 
-![2022年UAP回顧](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![2022年UAP回顧](../../assets/blog-placeholder-5.jpg)
 *2022年UAP披露時間線*
 
 <div class="video-embed">

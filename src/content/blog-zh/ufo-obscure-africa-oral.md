@@ -1,6 +1,8 @@
 ---
 title: '🌍 非洲祖魯族長老記載嘅外星訪客 — 被遺忘嘅原住民口述歷史'
 description: '前殖民時期非洲原住民已經記載咗「火焰訪客」同「灰白色實體」，同現代UFO描述驚人相似'
+titleEn: '🌍 Oral Traditions and UFOs — Africa''s Forgotten Encounters'
+descriptionEn: 'Across Africa, oral traditions describe sky beings and anomalous phenomena. Exploring the little-known connection between indigenous folklore and modern UFO encounters.'
 pubDate: '2026-04-28'
 tags: ['UFO歷史', '非洲', '原住民', '祖魯族', '冷門']
 heroImage: '../../assets/blog-placeholder-5.jpg'

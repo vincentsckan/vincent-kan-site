@@ -1,6 +1,8 @@
 ---
 title: '🛸 全球UFO/UAP新聞摘要 — 2026年4月28日'
 description: '尼利斯空軍基地UFO影片瘋傳 · Legacy UFO計劃吹哨人疑被滅口 · 國家太空研討會首辦UAP小組 · 洛斯阿拉莫斯秘密UFO文件曝光'
+titleEn: '🛸 Global UFO/UAP News Roundup — April 28, 2026'
+descriptionEn: 'Daily curated roundup of global UFO/UAP news: government disclosures, authoritative reports, and research progress from around the world.'
 pubDate: '2026-04-28'
 updatedDate: '2026-04-28T12:00+08:00'
 heroImage: '../../assets/blog-placeholder-2.jpg'
@@ -72,7 +74,7 @@ UAP Files 的 Jimmy 分析指出，這段影片「既不容易被推翻，也無
 
 *📺 全面分析尼利斯空軍基地UFO影片的技術細節和驗證結果*
 
-![UFO目擊圖片](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO目擊圖片](../../assets/blog-placeholder-1.jpg)
 
 ---
 
@@ -141,7 +143,7 @@ Sullivan 之死被認為是近年一連串與敏感航太及國防計劃相關�
 
 *📺 國家太空研討會首次UAP小組討論精華片段*
 
-![太空研討會圖片](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![太空研討會圖片](../../assets/blog-placeholder-3.jpg)
 
 ---
 

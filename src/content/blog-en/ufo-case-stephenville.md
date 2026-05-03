@@ -1,20 +1,20 @@
 ---
 title: '🛸 史蒂芬維爾UFO事件 — 得州小鎮大規模目擊 (2008)'
 description: '2008年得州史蒂芬維爾鎮出現一系列神秘大型UFO目擊，目擊者包括商人、警察同醫生，圖片同影片廣泛流傳。'
+titleEn: '🤠 The Stephenville Sightings — TX Town Faces a UFO Mystery (2008)'
+descriptionEn: 'In January 2008, residents of Stephenville, Texas reported a massive UFO. The FAA and military gave conflicting statements. Over 200 witnesses came forward.'
 pubDate: '2022-10-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
-
-titleEn: '🛸 Stephenville Lights — Texas Town Witnesses Massive UFO (2008)'
-descriptionEn: 'On the evening of January 8, 2008, a series of UFO sighting reports emerged in Stephenville, Texas. Residents described a massive object flying low over the town, estimated to be about 1 mile in lengt'
 ---
-> 📍 **Stephenville, Texas, USA**
-> 📅 **January 8, 2008**
-> 🔍 **Mass Sighting, Multiple Videos**
 
-On the evening of January 8, 2008, a series of UFO sighting reports emerged in Stephenville, Texas. Residents described a massive object flying low over the town, estimated to be about 1 mile in length. The object emitted a bright light, causing the ground to shake.
+> 📍 **美國德克薩斯州史蒂芬維爾**
+> 📅 **2008年1月8日**
+> 🔍 **大規模目擊、多個影片**
 
-Over 200 people reported sightings, including a county sheriff, business owners, and aviation professionals. The wide range of witnesses' backgrounds made the case difficult to dismiss. Multiple amateur videos and subsequent MUFON investigation reports further confirmed the authenticity of the event. The military initially denied any activity, later acknowledging that F-16 fighter jets were training in the area, but could not explain the massive object described by witnesses.
+2008年1月8日黃昏，得州史蒂芬維爾鎮（Stephenville）出現咗一系列UFO目擊報告。居民描述一個巨大嘅物體低空飛過小鎮，長度估計有1英里。物體發出明亮光芒，令地面震動。
+
+超過200人報告目擊，包括縣治安官、商人、同航空專業人士。目擊者嘅背景廣泛，令案件難以忽略。多段業餘影片同日後嘅MUFON調查報告進一步確認事件嘅真實性。軍方最初否認有任何活動，後來承認有F-16戰機在該空域訓練，但無法解釋目擊者描述嘅巨型物體。
 
 ---
 
-*📚 References: MUFON Reports, Media Coverage*
+*📚 參考：MUFON報告、媒體報導*

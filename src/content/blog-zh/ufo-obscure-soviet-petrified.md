@@ -1,6 +1,8 @@
 ---
 title: '☭ 蘇聯士兵「石化」事件 — 1980年代最離奇嘅UFO遭遇'
 description: '解密俄羅斯軍事報告：球形UFO爆炸，23名士兵目擊後變成「石柱」，美國檔案標註「最極端嘅聲稱」'
+titleEn: '🪨 The Soviet Petrified Alien Case — A Cold War Mystery from the USSR'
+descriptionEn: 'A mysterious Soviet-era case involving a "petrified alien" body discovered in the Ural Mountains. Could this be the Russian equivalent of the Roswell incident?'
 pubDate: '2026-04-28'
 tags: ['蘇聯', '軍事', '解密檔案', '冷門']
 heroImage: '../../assets/blog-placeholder-1.jpg'

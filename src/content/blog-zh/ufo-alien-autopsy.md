@@ -1,6 +1,8 @@
 ---
 title: '👽 灰色外星人解剖 — 最爭議性嘅UFO影片 (1995)'
 description: '1995年轟動全球嘅「外星人解剖」影片，自稱由軍方人員拍攝，但後來被揭發係偽造。呢單事件改變咗公眾對UFO媒體嘅信任。'
+titleEn: '👽 Alien Autopsy — The Biggest UFO Hoax in History?'
+descriptionEn: 'The 1995 alien autopsy footage claimed to show a real extraterrestrial body from Roswell. The full story behind one of UFOlogy''s most controversial films.'
 pubDate: '2022-11-20'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
@@ -21,7 +23,7 @@ heroImage: '../../assets/blog-placeholder-5.jpg'
 
 多年後，Santilli 承認影片唔係真跡，而係根據原有底片（佢話已經損壞）重新製作嘅「還原版」。但佢一直堅持1947年嘅原始底片確實存在。
 
-![外星人解剖影片](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![外星人解剖影片](../../assets/blog-placeholder-5.jpg)
 *1995年轟動全球嘅外星人解剖影片劇照*
 
 ## 文化影響

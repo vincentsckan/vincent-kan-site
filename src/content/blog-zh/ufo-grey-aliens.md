@@ -1,6 +1,8 @@
 ---
 title: '👽 灰人Grey — UAP文化中最經典嘅外星生物形象'
 description: '灰色外星人（Grey）係UFO文化中最常見嘅外星生物形象。佢哋嘅形象係點樣形成嘅？背後有冇真實案例嘅支撐？'
+titleEn: '👽 The Greys — The Most Iconic Alien Image in UAP Culture'
+descriptionEn: 'Grey aliens are the most common extraterrestrial image in UFO culture. How did this archetype form? Is there supporting evidence from real cases?'
 pubDate: '2023-02-15'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
@@ -45,7 +47,7 @@ Grey嘅形象很大程度上係由媒體塑造嘅：
 - **Reptilian（爬蟲型）**：有鱗片嘅爬蟲類生物
 - **Insectoid（昆蟲型）**：昆蟲特徵嘅生物
 
-![灰色外星人](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![灰色外星人](../../assets/blog-placeholder-4.jpg)
 *流行文化中Grey嘅經典形象*
 
 <div class="video-embed">

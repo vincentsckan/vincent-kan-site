@@ -1,6 +1,8 @@
 ---
 title: '🛸 美國海軍USS奧馬哈號UAP事件 (2019)'
 description: '2019年USS奧馬哈號戰鬥艦拍攝到球形UAP從空中降落海面，五角大樓確認影片真實。'
+titleEn: '🌊 The USS Omaha Incident — US Navy''s Swarming UFO Encounter (2019)'
+descriptionEn: 'In 2019, the USS Omaha encountered a swarm of UFOs off the California coast. The Navy released footage showing a sphere entering the water. An officially confirmed case.'
 pubDate: '2022-12-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
@@ -15,7 +17,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 2021年，五角大樓正式確認呢段影片係由海軍人員拍攝，並列為UAP事件。與之前嘅尼米茲號事件唔同，奧馬哈號嘅影片係**第一個有艦載雷達同光學系統同時記錄**嘅跨介質UAP案例。
 
-![USS奧馬哈號](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![USS奧馬哈號](../../assets/blog-placeholder-1.jpg)
 *USS Omaha（LCS-12）拍攝到球形UAP*
 
 ## 跨介質能力

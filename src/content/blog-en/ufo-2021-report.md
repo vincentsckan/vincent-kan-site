@@ -1,57 +1,56 @@
 ---
 title: '🛸 2021年UAP報告 — 美國史上第一份官方UFO報告'
 description: '2021年6月25日，美國國家情報總監辦公室發布咗史上第一份官方UAP評估報告，承認144宗事件無法解釋。'
+titleEn: '🛸 The 2021 UAP Report — America''s First Official UFO Report'
+descriptionEn: 'On June 25, 2021, the US Office of the Director of National Intelligence released the first official UAP assessment report, acknowledging 143 out of 144 cases remained unexplained.'
 pubDate: '2023-01-15'
 heroImage: '../../assets/blog-placeholder-2.jpg'
-
-titleEn: '🛸 The 2021 UAP Report — America''s First Official UFO Document'
-descriptionEn: 'On June 25, 2021, the Office of the Director of National Intelligence (ODNI) released a **9-page preliminary UAP assessment report**. This is the first official UAP report publicly released by the U.S'
 ---
-> 📍 **United States** | 📅 **June 25, 2021** | 🔍 **Official Report, Historical Milestone**
 
-## Report Background
+> 📍 **美國** | 📅 **2021年6月25日** | 🔍 **官方報告、歷史里程碑**
 
-On June 25, 2021, the Office of the Director of National Intelligence (ODNI) released a **9-page preliminary UAP assessment report**. This is the first official UAP report publicly released by the U.S. government in history.
+## 報告背景
 
-## Key Findings
+2021年6月25日，美國國家情報總監辦公室（ODNI）發布咗一份 **9頁嘅UAP初步評估報告**。呢係美國政府史上第一份公開嘅UAP官方報告。
 
-![ODNI UAP Report](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
-*Cover of the ODNI 2021 UAP Assessment Report*
+## 核心發現
 
-| Item | Number |
-|------|--------|
-| Cases Investigated | 144 |
-| Explainable | 1 (large deflating balloon) |
-| Unexplainable | 143 |
-| With anomalous flight characteristics | 80 |
-| Confirmed by radar | Over 50 |
+![ODNI UAP報告](../../assets/blog-placeholder-2.jpg)
+*ODNI 2021年UAP評估報告封面*
 
-## Five Categories
+| 項目 | 數字 |
+|------|------|
+| 調查個案 | 144宗 |
+| 可解釋 | 1宗（大型破氣球） |
+| 無法解釋 | 143宗 |
+| 有異常飛行特性 | 80宗 |
+| 有雷達確認 | 超過50宗 |
 
-ODNI classified UAPs into five categories:
+## 五大分類
 
-1. **Airborne Clutter**: Birds, balloons, drones
-2. **Natural Atmospheric Phenomena**: Ice crystals, plasma
-3. **U.S. Commercial/Government Technology**: Classified projects
-4. **Foreign Adversary Technology**: Secret aircraft from China and Russia
-5. **"Other"**: Unclassifiable
+ODNI將UAP分為五類：
 
-**Category 5 "Other" accounted for the majority of the report.**
+1. **空中雜物**：鳥類、氣球、無人機
+2. **自然大氣現象**：冰晶、等離子體
+3. **美國商業/政府技術**：機密項目
+4. **外國對手技術**：中俄秘密飛行器
+5. **「其他」**：無法分類
 
-## Important Conclusions
+**第五類「其他」佔咗報告嘅大部分。**
 
-> "UAP clearly pose a flight safety issue and may pose a challenge to U.S. national security."
+## 重要結論
 
-The report specifically noted that some UAPs exhibit "breakthrough aerospace technologies," including:
-- No visible propulsion systems
-- Extremely high speeds
-- Anomalous maneuverability
+> 「UAP顯然構成飛行安全問題，並可能對美國國家安全構成挑戰。」
+
+報告特別指出，部分UAP展現出「突破性嘅航空技術」，包括：
+- 無明顯推進系統
+- 極高速度
+- 異常機動性能
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/46XNFq6ECJc" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
-'
 ---
 
-*📚 References: ODNI UAP Report Original Text, Department of Defense Announcement*
+*📚 參考：ODNI UAP報告原文、國防部公告*

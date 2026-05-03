@@ -1,6 +1,8 @@
 ---
 title: '🛸 特拉維斯·沃爾頓劫持事件 — 最著名的外星綁架案 (1975)'
 description: '1975年伐木工Travis Walton被強光帶走，失蹤5日後離奇出現，故事被拍成電影《Fire in the Sky》。'
+titleEn: '👽 The Travis Walton Abduction — The Most Credible Alien Abduction Case (1975)'
+descriptionEn: 'In 1975, logger Travis Walton disappeared for 5 days after encountering a UFO in Arizona. He reappeared with detailed memories of an alien abduction. Tested by polygraph.'
 pubDate: '2022-08-10'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
@@ -13,7 +15,7 @@ heroImage: '../../assets/blog-placeholder-4.jpg'
 
 Walton出於好奇落車靠近，突然被一道藍綠色光束擊中，整個人彈飛倒地。佢嘅同事驚慌失措揸車逃離現場。
 
-![Travis Walton 劫持事件](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![Travis Walton 劫持事件](../../assets/blog-placeholder-4.jpg)
 *Travis Walton 事後接受訪問*
 
 當佢哋返返現場時，Walton已經消失咗。警方展開大規模搜索，但一無所獲。佢嘅同事後來通過測謊測試，證實佢哋嘅證詞可信。

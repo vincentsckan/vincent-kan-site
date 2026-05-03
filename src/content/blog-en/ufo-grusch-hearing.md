@@ -1,44 +1,43 @@
 ---
 title: '🛸 戴維·格魯什國會聽證會 — 2023年改變一切嘅證詞'
 description: '2023年7月26日，吹哨人David Grusch喺美國國會作證，聲稱政府擁有非人類智能飛行器同生物遺骸，震撼全球。'
+titleEn: '🏛️ The Grusch Hearings — Whistleblower Testimony That Shook Washington (2023)'
+descriptionEn: 'In July 2023, former intelligence official David Grusch testified before the US Congress about secret UAP recovery programs. One of the most significant hearings in UFO history.'
 pubDate: '2022-12-15'
 heroImage: '../../assets/blog-placeholder-3.jpg'
-
-titleEn: '🛸 David Grusch Congressional Hearing — The Whistleblower Who Changed Everything (2023)'
-descriptionEn: '**David Charles Grusch** is a retired U.S. Air Force officer and former senior intelligence official at the National Geospatial-Intelligence Agency (NGA) and the National Reconnaissance Office (NRO). '
 ---
-> 📍 **Washington D.C., United States, Capitol Hill**  
-> 📅 **July 26, 2023**  
-> 🔍 **Congressional Hearing, Whistleblower, Historic Moment**
 
-## Who is Grusch?
+> 📍 **美國華盛頓特區，國會山莊**
+> 📅 **2023年7月26日**
+> 🔍 **國會聽證、吹哨人、歷史時刻**
 
-**David Charles Grusch** is a retired U.S. Air Force officer and former senior intelligence official at the National Geospatial-Intelligence Agency (NGA) and the National Reconnaissance Office (NRO). He served as a representative of the UAPTF and participated in some of the most advanced intelligence analysis work.
+## Grusch 係邊個？
 
-## Key Points of the Hearing
+**David Charles Grusch** 係美國空軍退役軍官、前國家地理空間情報局（NGA）同國家偵察局（NRO）高級情報官員。佢曾擔任UAPTF嘅代表，參與過最先進嘅情報分析工作。
 
-On July 26, 2023, Grusch testified before the U.S. House Oversight Committee. Below are the most shocking statements from his testimony:
+## 聽證會重點
 
-1. **"The U.S. government possesses vehicles of non-human intelligence (NHI)"**  
-2. **"There are biological remains"** — Claiming the government recovered alien biological bodies from crashed UAPs  
-3. **"Secret reverse engineering programs"** — The government has been attempting to replicate UAP technology  
-4. **"Some people have been harmed or even killed for exposing the truth"** — Whistleblowers faced retaliation  
-5. **"I only went public after confirmation from over 40 intelligence personnel"**
+2023年7月26日，Grusch喺美國眾議院監督委員會作證，以下係最震撼嘅證詞：
 
-![David Grusch Congressional Hearing](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)  
-*David Grusch sworn in during the July 2023 congressional hearing*
+1. **「美國政府擁有非人類智能（NHI）飛行器」**
+2. **「有生物遺骸」** — 聲稱政府從墜毀UAP中回收咗外星生物屍體
+3. **「秘密逆向工程計劃」** — 政府一直試圖複製UAP科技
+4. **「有人因揭密受傷甚至死亡」** — 吹哨人遭受報復
+5. **「我在40多位情報人員確認後先公開」**
 
-## Global Reactions
+![David Grusch 國會聽證](../../assets/blog-placeholder-3.jpg)
+*David Grusch 喺2023年7月國會聽證會上宣誓作證*
 
-- **Mainstream Media**: CNN, BBC, New York Times covered it extensively  
-- **Political Impact**: Bipartisan consensus on the need for greater transparency  
-- **Legislative Progress**: UAP disclosure legislation accelerated shortly after  
+## 全球反應
+
+- **主流媒體**：CNN、BBC、New York Times 全面報導
+- **政治影響**：兩黨一致認為需要更大透明度
+- **立法推進**：隨即加快UAP披露立法
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/jO5hJsPmsyQ" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
-'
 ---
 
-*📚 References: Congressional hearing records, mainstream media reports*
+*📚 參考：國會聽證記錄、主流媒體報導*

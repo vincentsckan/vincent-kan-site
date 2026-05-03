@@ -1,67 +1,67 @@
 ---
 title: '🧠 UAP 科學研究入門 — 從懷疑到實證嘅分析方法'
 description: 'UAP 研究點樣從陰謀論走向主流科學？呢篇文章介紹科學界點樣運用數據同實證方法分析不明空中現象。'
+titleEn: '🔭 A Scientific Introduction to UFOs — From Stigma to Serious Study'
+descriptionEn: 'After decades of stigma, science is finally taking UFOs seriously. Introduction to UAP scientific research methods, data analysis, and what we''ve learned from credible evidence.'
 pubDate: '2022-04-20'
 heroImage: '../../assets/blog-placeholder-1.jpg'
-
-titleEn: '🔬 UFO Science — A Scientific Introduction to the Phenomenon'
-descriptionEn: 'For a long time, UFO/UAP has been labeled as "conspiracy theory" and "pseudoscience." However, with the U.S. government officially acknowledging the reality of UAP, the scientific community has begun '
 ---
-> 🧪 **Series Articles**: UAP Scientific Research  
-> **Purpose**: Introducing scientific analysis methods for UAP phenomena  
 
-## Preface  
+> 🧪 **系列文章**：UAP 科學研究
+> **目的**：介紹 UAP 現象嘅科學分析方法
 
-For a long time, UFO/UAP has been labeled as "conspiracy theory" and "pseudoscience." However, with the U.S. government officially acknowledging the reality of UAP, the scientific community has begun to take this issue seriously.  
+## 前言
 
-## Data Sources  
+長期以來，UFO/UAP 一直被貼上「陰謀論」同「偽科學」嘅標籤。但隨着美國政府官方承認 UAP 嘅真實性，科學界開始認真對待呢個議題。
 
-Modern UAP research relies on data including:  
+## 數據來源
 
-### Radar Data  
-- Military (AEGIS, SPY-1)  
-- Civilian (FAA air traffic control radar, weather radar)  
-- Features: Provides precise location, speed, and altitude information  
+現代 UAP 研究依賴嘅數據包括：
 
-### Optical/Infrared  
-- Military aircraft FLIR systems (e.g., the Tic Tac video mentioned earlier)  
-- Satellite monitoring systems  
-- Ground-based telescopes  
+### 雷達數據
+- 軍用（AEGIS 宙斯盾、SPY-1）
+- 民用（FAA 航管雷達、氣象雷達）
+- 特點：提供精確嘅位置、速度、高度信息
 
-### Sensor Networks  
-- Radio frequency monitoring  
-- Acoustic sensors  
-- Magnetic anomaly detectors  
-- Radiation counters  
+### 光學/紅外線
+- 軍機 FLIR 系統（如前文提到嘅 Tic Tac 影片）
+- 衛星監測系統
+- 地面望遠鏡
 
-## Analysis Methods  
+### 傳感器網絡
+- 無線電頻率監測
+- 聲學感測器
+- 磁場異常探測器
+- 輻射計數器
 
-### Forward Analysis  
-1. **Data Validation**: Confirm sensor data integrity  
-2. **Cross-Comparison**: Verify with multiple independent sources  
-3. **Eliminate Known Phenomena**: Rule out aircraft, drones, balloons, birds, etc., one by one  
-4. **Physical Modeling**: Assess whether object flight performance exceeds human technology  
+## 分析方法
 
-### Reverse Analysis  
-1. **Testimony Credibility Assessment**: Witness background, professional training  
-2. **Collective Sighting Verification**: Consistency of descriptions from multiple witnesses  
-3. **Timeline Reconstruction**: Confirm event sequence  
+### 正向分析
+1. **數據驗證**：確認傳感器數據完整性
+2. **交叉比對**：多個獨立來源互相驗證
+3. **排除已知現象**：逐一排除飛機、無人機、氣球、鳥類等
+4. **物理建模**：評估物體飛行性能是否超越人類科技
 
-## NASA UAP Research Team  
+### 反向分析
+1. **證詞可信度評估**：目擊者背景、專業訓練
+2. **集體目擊驗證**：多個目擊者描述一致性
+3. **時間線重建**：確認事件時序
 
-In 2023, NASA established an independent UAP research team, marking the first time a mainstream scientific institution has formally entered this field. The team's goal is to develop a systematic method for UAP data collection and analysis.  
+## NASA UAP 研究組
 
-## Challenges  
+2023 年，NASA 成立咗獨立嘅 UAP 研究團隊，係首次有主流科學機構正式涉足呢個領域。研究組嘅目標係開發一套系統化嘅 UAP 數據收集同分析方法。
 
-- Data scarcity: UAP events are difficult to predict  
-- Sensor standardization: Different military branches/agencies use different standards  
-- Stigma: Scientists still worry that studying UAP could harm their academic reputation  
+## 挑戰
 
-## Conclusion  
+- 數據稀缺：UAP 事件難以預測
+- 感測器標準化：各軍種/機構使用唔同標準
+- 污名化：科學家仍擔心研究 UAP 會影響學術聲譽
 
-UAP research is gradually moving toward scientific rigor. Although there is still a long way to go before fully understanding these phenomena, at least the current research framework has shifted from "whether to believe" to "how to analyze."  
+## 結論
 
----  
+UAP 研究正逐步走向科學化。雖然距離完全理解呢啲現象仲有漫漫長路，但至少而家嘅研究框架已經從「信唔信」轉向「點樣分析」。
 
-*📚 Sources: NASA reports, scientific journals, AARO documents*  
-*🕐 Article creation date: 2022-04-20*
+---
+
+*📚 資料來源：NASA 報告、科學期刊、AARO 文件*
+*🕐 文章建立日期：2022-04-20*

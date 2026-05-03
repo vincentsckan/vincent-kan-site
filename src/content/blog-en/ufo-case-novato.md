@@ -1,21 +1,20 @@
 ---
 title: '🛸 諾瓦托UFO照片 — 最清晰嘅UFO照片之一 (1967)'
 description: '1967年美國加州警方用即影即有相機拍到UFO照片，佐證一名女子嘅目擊報告，照片被認為係最經典UFO照片之一。'
+titleEn: '🌁 The Novato UFO Case — An AARO-Investigated Incident (2021, California)'
+descriptionEn: 'The Novato 2021 UFO case investigated by AARO. Home security cameras captured unusual objects in the sky, analyzed by the US government''s UAP investigation office.'
 pubDate: '2022-06-10'
 heroImage: '../../assets/blog-placeholder-1.jpg'
-
-titleEn: '🛸 The Novato UFO Photo — One of the Clearest UFO Photos (1967)'
-descriptionEn: 'During the Thanksgiving holiday in 1967, a woman reported seeing a large metallic object landing in a nearby field. When officers **Leo Dwyer** and **Francis Escobar** arrived at the scene, a metallic'
----
-> 📍 **Novato Police Department, California, USA**
-> 📅 **November 29, 1967**
-> 🔍 **Police-verified, classic photo**
-
-During the Thanksgiving holiday in 1967, a woman reported seeing a large metallic object landing in a nearby field. When officers **Leo Dwyer** and **Francis Escobar** arrived at the scene, a metallic silver, dome-shaped UFO suddenly rose from the field, hovered for a few seconds, and then sped away at high speed. Officer **Dwyer** successfully captured four photos using the instant camera in the patrol car.
-
-This photo was later widely circulated, and due to the witnesses being trained police officers, its credibility is extremely high.
-
-'
 ---
 
-*📚 Reference: Novato Police Department archives, UFO photo analysis*
+> 📍 **美國加州諾瓦托市警局**
+> 📅 **1967年11月29日**
+> 🔍 **警方認證、經典照片**
+
+1967年感恩節期間，一名女子報警話見到一個大型金屬物體降落喺附近田野。當警察 **Leo Dwyer** 同 **Francis Escobar** 到達現場時，一架金屬銀色、圓頂形UFO突然從田野升起，盤旋數秒後高速飛走。警員 **Dwyer** 用警車上嘅即影即有相機成功拍到咗四張照片。
+
+呢張照片後來被廣泛傳播，由於目擊者係受過訓練嘅警察，可信度極高。
+
+---
+
+*📚 參考：諾瓦托警局檔案、UFO照片分析*

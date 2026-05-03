@@ -1,6 +1,8 @@
 ---
 title: '🛸 動物殘割事件 — FBI調查半世紀嘅UFO相關謎團'
 description: '自1960年代以嚟，北美各地出現大量牛隻神秘死亡事件，動物器官被精準切除，沒有血跡，FBI檔案顯示同UFO活動有關聯。'
+titleEn: '🐄 Animal Mutilations — The Unsolved Mystery Linking UFOs and Livestock Deaths'
+descriptionEn: 'Since the 1960s, thousands of livestock have been found dead with surgically precise incisions and no blood. Is there a connection to UFOs?'
 pubDate: '2023-01-05'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
@@ -28,7 +30,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 - 三角形發光物體
 - 無標記嘅黑色直升機
 
-![動物殘割報告](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![動物殘割報告](../../assets/blog-placeholder-1.jpg)
 *FBI動物殘割調查檔案封面*
 
 ## 主流理論

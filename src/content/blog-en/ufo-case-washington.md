@@ -1,26 +1,25 @@
 ---
 title: '🛸 美國空軍雷達UFO大規模鎖定 (1952)'
 description: '1952年7月，華盛頓特區上空出現大量UFO，民航機師、雷達站、空軍戰機全部確認，係五角大樓首次公開承認無法解釋。'
+titleEn: '💫 The Washington Nationals UFO Incident — UFOs Over the Capital (1952)'
+descriptionEn: 'In July 1952, UFOs were tracked on radar over Washington DC. F-94 jets scrambled but objects evaded them. The Air Force held a press conference, the largest of its time.'
 pubDate: '2022-08-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
-
-titleEn: '🛸 Washington D.C. UFOs — The Radar-Confirmed Wave of 1952'
-descriptionEn: '![1952 Washington UFO Invasion](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)'
----
-> 📍 **Washington D.C., USA**
-> 📅 **July 1952**
-> 🔍 **Radar Confirmation, Mass Event**
-
-![1952 Washington UFO Invasion](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
-*Schematic diagram of UFO radar echoes over Washington D.C. in 1952*
-
-Between July 12 and 29, 1952, a series of mysterious radar echoes appeared over Washington D.C. Radars at Washington National Airport and Andrews Air Force Base simultaneously locked onto multiple unidentified targets, moving at speeds of 1,800 km/h, performing sharp turns and hovering maneuvers.
-
-On the night of July 19, multiple commercial airline pilots also reported seeing these bright orange objects. The Air Force ordered F-94 Starfire fighters to intercept, but the UFOs immediately turned off their lights and disappeared, only to reappear after the fighters left. The incident ultimately led then-Air Force Director of Intelligence **John Samford** to hold a press conference, acknowledging "there are unexplained radar echoes."
-
-This event, known as the "Washington UFO Invasion," marked the first time the Pentagon was forced to publicly acknowledge the UFO phenomenon.
-
-'
 ---
 
-*📚 References: U.S. Air Force Archives, Press Conference Records*
+> 📍 **美國華盛頓特區**
+> 📅 **1952年7月**
+> 🔍 **雷達確認、大規模事件**
+
+![1952年華盛頓UFO大入侵](../../assets/blog-placeholder-5.jpg)
+*1952年華盛頓特區上空嘅UFO雷達回波示意圖*
+
+1952年7月12日至29日期間，華盛頓特區上空出現咗一系列神秘雷達回波。華盛頓國家機場同安德魯斯空軍基地嘅雷達同時鎖定多個不明目標，以每小時1,800公里嘅速度移動，做出急轉彎同懸停等動作。
+
+7月19日晚，多架民航機師亦報告見到呢啲亮橙色物體。空軍下令 F-94 星火戰鬥機升空攔截，但 UFO 立即熄燈消失，戰機離開後又再次出現。事件最終導致時任空軍情報總監 **John Samford** 將軍召開記者會，承認「確實有無法解釋嘅雷達回波」。
+
+呢次被稱為「華盛頓UFO大入侵」嘅事件，係五角大樓首次被迫公開承認UFO現象。
+
+---
+
+*📚 參考：美國空軍檔案、記者會記錄*

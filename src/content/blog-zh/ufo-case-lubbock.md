@@ -1,6 +1,8 @@
 ---
 title: '🛸 盧比克光點 — 1951年德州天空嘅神秘V形編隊'
 description: '1951年德州盧比克上空出現V形排列嘅神秘光點，三名科學家觀測到，並用相機拍到照片。Project Blue Book無法解釋。'
+titleEn: '💡 The Lubbock Lights — A Mass Sighting That Shocked America (1951, Texas)'
+descriptionEn: 'In 1951, dozens of residents in Lubbock, Texas saw V-shaped formations of lights streaking across the sky. Photos were taken by university professors.'
 pubDate: '2023-05-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
@@ -17,7 +19,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 呢啲照片被送到空軍Project Blue Book進行分析。雖然部分分析認為係候鳥反射城市燈光或飛機，但嗰三名教授堅決否認呢啲解釋。Blue Book最終將案件列為「無法解釋」。
 
-![Lubbock Lights](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![Lubbock Lights](../../assets/blog-placeholder-1.jpg)
 *1951年拍攝嘅著名Lubbock Lights照片*
 
 <div class="video-embed">

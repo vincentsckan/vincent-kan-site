@@ -1,52 +1,51 @@
 ---
 title: '🧑‍🔬 雅克·瓦萊 — 現代UFO研究嘅科學先驅'
 description: '法裔天文學家Jacques Vallee提出UFO可能唔係外星飛船，而係一種跨維度現象，徹底改變咗UFO研究嘅方向。'
+titleEn: '📖 Dr. Jacques Vallée — The Scientist Who Saw UFOs as Something Stranger Than Aliens'
+descriptionEn: 'French astronomer and computer scientist Dr. Jacques Vallée proposed a bold theory: UFOs may not be extraterrestrial spacecraft, but something far more complex.'
 pubDate: '2022-10-20'
 heroImage: '../../assets/blog-placeholder-5.jpg'
-
-titleEn: '🧑🔬 Jacques Vallee — The Scientific Pioneer of Modern UFO Research'
-descriptionEn: '**Jacques Vallee** is a French-American astronomer, computer scientist, and UFO research pioneer. His status in the UFO field is second only to Hynek, but his views are more challenging to mainstream '
 ---
-> 📍 **France/United States** | 📅 **1939-Present** | 🔍 **Biography, Alternative Theories**
 
-**Jacques Vallee** is a French-American astronomer, computer scientist, and UFO research pioneer. His status in the UFO field is second only to Hynek, but his views are more challenging to mainstream understanding.
+> 📍 **法國/美國** | 📅 **1939-至今** | 🔍 **人物傳記、另類理論**
 
-## From Astronomer to UFO Researcher
+**Jacques Vallee**（雅克·瓦萊）係一位法裔美國天文學家、電腦科學家同UFO研究先驅。佢喺UFO界嘅地位僅次於Hynek，但佢嘅觀點更加挑戰主流認知。
 
-In the 1960s, Vallee was originally a highly respected astronomer. After collaborating with Hynek to study UFO data, he began to propose a revolutionary perspective:
+## 從天文學家到UFO研究者
 
-> **UFOs may not be alien spacecraft, but rather a cross-dimensional control system**
+Vallee喺1960年代本來係一位備受尊重嘅天文學家。佢同Hynek合作研究UFO數據後，開始提出一個革命性嘅觀點：
 
-![Jacques Vallee](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
-*Jacques Vallee—Pioneer of the cross-dimensional UFO theory*
+> **UFO可能唔係外星飛船，而係一種跨維度嘅控制系統**
 
-## Vallee Classification System
+![Jacques Vallee](../../assets/blog-placeholder-5.jpg)
+*Jacques Vallee——提出UFO跨維度理論嘅先驅*
 
-In addition to the Hynek classification, Vallee proposed another, more complex classification system:
+## 瓦萊分類法
 
-| Type | Description |
-|------|-------------|
-| **MA-1** | Light points flying through the air |
-| **MA-2** | Physical effects (radar lock-on) |
-| **MA-3** | Physical remnants left behind |
-| **MA-4** | Witness affected (amnesia, missing time) |
-| **MA-5** | Severe physical and psychological effects |
+除了Hynek分類，Vallee提出咗另一套更複雜嘅分類系統：
 
-## Major Works
+| 類型 | 描述 |
+|------|------|
+| **MA-1** | 飛越空中嘅光點 |
+| **MA-2** | 有物理影響（雷達鎖定） |
+| **MA-3** | 有物理遺留物 |
+| **MA-4** | 目擊者受影響（失憶、時間缺失） |
+| **MA-5** | 嚴重身心影響 |
 
-- *Passport to Magonia* (1969) — Connection between UFOs and folklore
-- *The Invisible College* (1975) — A network of scientists studying UFOs
-- *Dimensions* (1988) — Cross-dimensional theory
+## 主要著作
 
-## Key Figure in Silicon Valley
+- 《Passport to Magonia》（1969）— UFO同民間傳說嘅聯繫
+- 《The Invisible College》（1975）— 科學家網絡研究UFO
+- 《Dimensions》（1988）— 跨維度理論
 
-Beyond UFO research, Vallee was also an important figure in the early internet—he was one of the early developers of ARPANET (the precursor to the internet).
+## 硅谷關鍵人物
+
+除咗UFO研究，Vallee仲係早期互聯網嘅重要人物——佢係ARPANET（互聯網前身）嘅早期開發者之一。
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/UziQ3Z4qyRo" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
-'
 ---
 
-*📚 References: Vallee's collected works, academic interviews*
+*📚 參考：Vallee著作集、學術訪談*

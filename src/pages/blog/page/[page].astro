@@ -10,7 +10,7 @@ export async function getStaticPaths() {
 	const posts = (await getCollection('blog-en')).sort(
 		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 	);
-	const PER_PAGE = 50;
+	const PER_PAGE = 20;
 	const totalPages = Math.max(1, Math.ceil(posts.length / PER_PAGE));
 	const paths = [];
 	for (let i = 1; i <= totalPages; i++) {
@@ -21,7 +21,7 @@ export async function getStaticPaths() {
 
 const { page } = Astro.params;
 const currentPage = parseInt(page!);
-const PER_PAGE = 50;
+const PER_PAGE = 20;
 
 const allPosts = (await getCollection('blog-en')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
@@ -39,8 +39,8 @@ const hasNext = currentPage < totalPages;
 	<head>
 		<BaseHead title={"文章 ・第" + currentPage + "頁 · " + SITE_TITLE} description={SITE_DESCRIPTION} />
 		<link rel="canonical" href={`https://vincentsckan.github.io/vincent-kan-site/blog/page/${currentPage}/`} />
-		{hasPrev && <link rel="prev" href={`/vincent-kan-site/blog/page/${currentPage - 1}/`} />}
-		{hasNext && <link rel="next" href={`/vincent-kan-site/blog/page/${currentPage + 1}/`} />}
+		{hasPrev && <link rel="prev" href={`/blog/page/${currentPage - 1}/`} />}
+		{hasNext && <link rel="next" href={`/blog/page/${currentPage + 1}/`} />}
 		<style>
 			.blog-wrap { max-width: 700px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
 			.page-hd { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 1.5rem; margin-top: 0; }
@@ -97,7 +97,7 @@ const hasNext = currentPage < totalPages;
 					<>
 						<div class="feed">
 							{posts.map(p => (
-								<a href={`/vincent-kan-site/blog/${p.id}/`} class="feed-item">
+								<a href={`/blog/${p.id}/`} class="feed-item">
 									<div class="feed-icon">{p.id.startsWith('ufo-') ? '🛸' : '📝'}</div>
 									<div class="feed-body">
 										<div class="feed-meta">
@@ -116,13 +116,13 @@ const hasNext = currentPage < totalPages;
 						{totalPages > 1 && (
 							<nav class="pagination">
 								{hasPrev ? (
-									<a href={currentPage === 2 ? '/vincent-kan-site/blog/' : `/vincent-kan-site/blog/page/${currentPage - 1}/`} class="page-btn">← 上一頁</a>
+									<a href={currentPage === 2 ? '/blog/' : `/blog/page/${currentPage - 1}/`} class="page-btn">← 上一頁</a>
 								) : (
 									<span class="page-btn disabled">← 上一頁</span>
 								)}
 								<span class="page-info">{currentPage} / {totalPages}</span>
 								{hasNext ? (
-									<a href={`/vincent-kan-site/blog/page/${currentPage + 1}/`} class="page-btn">下一頁 →</a>
+									<a href={`/blog/page/${currentPage + 1}/`} class="page-btn">下一頁 →</a>
 								) : (
 									<span class="page-btn disabled">下一頁 →</span>
 								)}

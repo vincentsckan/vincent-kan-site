@@ -1,80 +1,80 @@
 ---
 title: '☭ 蘇聯士兵「石化」事件 — 1980年代最離奇嘅UFO遭遇'
 description: '解密俄羅斯軍事報告：球形UFO爆炸，23名士兵目擊後變成「石柱」，美國檔案標註「最極端嘅聲稱」'
+titleEn: '🪨 The Soviet Petrified Alien Case — A Cold War Mystery from the USSR'
+descriptionEn: 'A mysterious Soviet-era case involving a "petrified alien" body discovered in the Ural Mountains. Could this be the Russian equivalent of the Roswell incident?'
 pubDate: '2026-04-28'
 tags: ['蘇聯', '軍事', '解密檔案', '冷門']
 heroImage: '../../assets/blog-placeholder-1.jpg'
-
-titleEn: '🇷🇺 Soviet Petrified Alien Body — The Hidden Russian UFO Artifact'
-descriptionEn: 'Under the shadow of the Cold War, a military exercise suddenly turned into a real-life sci-fi horror film. In the late 1980s, during a secret military exercise, 23 Soviet soldiers turned into **stone '
 ---
-> **"If this KGB file is real, then this is an extremely dangerous case."** — Anonymous official comment in a CIA declassified file
 
-Under the shadow of the Cold War, a military exercise suddenly turned into a real-life sci-fi horror film. In the late 1980s, during a secret military exercise, 23 Soviet soldiers turned into **stone pillars** in just a few seconds. That's right, you didn't misread—it was **petrification**—like the Greek myth of Medusa, except this time the "culprit" might have been visitors from outer space.
+> **「如果呢份KGB檔案係真嘅，噉呢個就係極端危險嘅案例。」** — CIA解密檔案中嘅匿名官員評語
 
-This incident is almost unheard of in Asia, but in European and American UFO circles, it has a specific name: **"The Siberian Petrification Incident."** The source of this story comes from a declassified document uploaded to the CIA's official website—file number **DOC_0005517761**.
+喺冷戰嘅陰影之下，軍事演習突然變成一場真實嘅科幻恐怖片。1980年代末，蘇聯軍隊喺一次秘密軍事演習中，23名士兵喺短短幾秒鐘之內，全部變成咗「石柱」。無錯，你冇睇錯，係**石化**——好似希臘神話入面見到蛇妖美杜莎噉，只不過今次嘅「兇手」，可能係來自外星嘅訪客。
+
+呢件事喺亞洲幾乎冇人講過，但係喺歐美嘅UFO圈子入面，佢有個專有名稱：**「The Siberian Petrification Incident」**（西伯利亞石化事件）。而呢個故事嘅源頭，嚟自一份CIA官方網站上載嘅解密文件——檔案號 **DOC_0005517761**。
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-## What exactly happened?
+## 到底發生咗咩事？
 
-According to this declassified CIA document (originally sourced from reports in Canada's *World News Weekly* and Ukraine's *Holos Ukrayiny* newspaper), between 1989 and 1990, a Soviet unit was conducting training exercises at a military base in Siberia.
+根據呢份CIA解密檔案記載（檔案最初源自加拿大《世界新聞週刊》同烏克蘭報紙《Holos Ukrayiny》嘅報道），1989年至1990年間，一支蘇聯部隊正喺西伯利亞一處軍事基地進行訓練演習。
 
-Suddenly, a **disc-shaped UFO** flew low over the exercise area. For some reason—whether panic or misjudgment—soldiers fired a **surface-to-air missile** at the unidentified craft, and it hit.
+突然間，一個**碟形UFO**低空飛過演習區域。唔知咩原因——可能係驚慌，可能係誤判——士兵向呢架不明飛行器發射咗一枚**地對空導彈**，而且命中咗。
 
-## The terrifying chain reaction
+## 恐怖嘅連鎖反應
 
-After the UFO crashed, five **small humanoid beings** emerged from the wreckage. Their characteristics: **large heads, big black eyes**, about 1 meter tall—almost identical to the "Grey aliens" described in many UFO sighting reports.
+UFO墜毀之後，五個**矮小嘅類人生物**從殘骸走出嚟。佢哋嘅特徵係：**大頭、大黑眼**，身高大約得1米左右——同好多UFO目擊報告描述嘅「灰人」幾乎一模一樣。
 
-But the strangest thing happened at that moment:
+但係最離奇嘅事，就喺呢一刻發生：
 
-These five alien beings **merged together**, forming a **glowing sphere** that emitted a loud buzzing sound. Then, this sphere suddenly burst forth with an extremely dazzling bright light—not an ordinary explosion, but a bizarre release of energy.
+呢五個外星生物**融合咗埋一齊**，形成一個發出巨大嗡嗡聲嘅**發光球體**。然後，呢個球體突然爆發出極度耀眼嘅強光——唔係普通爆炸，而係一種詭異嘅能量釋放。
 
-After the intense light faded, all 23 Soviet soldiers at the scene had turned into **stone pillars**.
+強光過後，現場嘅23名蘇聯士兵全部變晒做**石柱**。
 
-| 📍 *Soviet Union (location undisclosed)* | 📅 *1980s* | 🔍 *Military UFO Encounter* |
+| 📍 *蘇聯（地點未公開）* | 📅 *1980年代* | 🔍 *軍事UFO遭遇* |
 
-## Why did some survive?
+## 點解有人生還？
 
-The report mentions that **two soldiers miraculously survived**. The reason? They were standing in **the shadows** and were not fully exposed to that intense light. This detail is crucial because it suggests the mechanism of "petrification" might be related to **some kind of radiation or energy wave** that is triggered only by direct exposure.
+報告提到，現場有**兩名士兵奇蹟生還**。原因係——佢哋當時企喺**陰影位**，冇完全暴露喺嗰陣強光之下。呢個細節好重要，因為佢暗示咗「石化」嘅機制可能同**某種輻射或能量波**有關，只要被直接照射到就會觸發。
 
-## The KGB investigation
+## KGB嘅調查
 
-After the incident, the KGB (Soviet secret police) immediately sealed off the scene and transported the 23 "petrified" soldiers' remains, along with the UFO wreckage, to a **secret research base** near Moscow. The report states that after scientific testing, the molecular structure of the soldiers' body tissues had **completely turned into limestone**.
+事發之後，KGB（蘇聯秘密警察）立即封鎖現場，將23具「石化」士兵嘅遺體連同UFO殘骸，全部運送到莫斯科附近一個**秘密科研基地**。報告指出，經科學檢測後，士兵嘅身體組織分子結構已經**完全變成石灰石（limestone）**。
 
-Scientists believe this "petrification phenomenon" was caused by an **energy source** unknown to humanity.
+科學家認為，呢種「石化現象」係由一種人類尚未認知嘅**能量源**所引起。
 
-## What does the CIA say?
+## CIA點講？
 
-This document was declassified by the CIA in May 2000 and uploaded to its official website. The file quotes an unnamed CIA official:
+呢份文件喺2000年5月被CIA解密並上載到官方網站。文件裏面引述一位唔具名嘅CIA官員講話：
 
-> **"If the KGB file is consistent with the facts, then this is an extremely dangerous case. The weapons and technology possessed by aliens far exceed our imagination. They have the ability to defend themselves when attacked."**
+> **「如果KGB檔案與事實相符，噉呢個就係一個極端危險嘅案例。外星人擁有嘅武器同技術遠遠超越我哋嘅想像。佢哋有能力喺受到攻擊時自衛。」**
 
-Most notably, the file contains a note marked by U.S. intelligence personnel:
+最值得留意嘅係，文件中提到檔案上有美國情報人員標註咗一句：
 
-> **"most extreme claims"**
+> **「most extreme claims」**（最極端嘅聲稱）
 
-## Is it real or fake?
+## 係真係假？
 
-Of course, this story is not without controversy.
+當然，呢個故事唔係冇爭議嘅。
 
-Former CIA agent **Mike Baker** has publicly expressed skepticism, saying: "I really don't believe that aliens landed decades ago, turned Soviet soldiers into limestone, and we're only hearing about it now."
+前CIA特工 **Mike Baker** 就公開表示懷疑，佢話：「我真係唔相信幾十年前外星人登陸咗，將蘇聯士兵變成石灰岩，而我哋到而家先聽講呢件事。」
 
-Fact-checking websites point out that this "declassified document" is actually a compilation of articles from *World News Weekly* (a Canadian supermarket tabloid known for sensationalism) and a Ukrainian newspaper, rather than an original intelligence file. But—if you look at the actual CIA file, it does exist, and it is undeniably declassified and released by the CIA.
+事實查核網站指出，呢份「解密文件」其實係《世界新聞週刊》（一間以誇張聞名嘅加拿大超市小報）同烏克蘭報紙嘅文章合輯，而唔係原創嘅情報檔案。但係——如果你睇返CIA嘅正式檔案，佢的確存在，而且無可否認係由CIA官方解密同發佈嘅。
 
-Why would the CIA archive the content of a supermarket tabloid as an official file? This question might be even more intriguing than the incident itself.
+點解CIA會將一份超市小報嘅內容當成正式檔案存檔？呢個問題，可能比事件本身更加耐人尋味。
 
-## Revelation
+## 啟示
 
-This story perfectly showcases the fascinating aspect of UFO research: **Is it the tip of a massive iceberg of secrets, or an elaborately crafted urban legend?**
+呢個故事完美展示咗UFO研究嘅迷人地方：**到底係驚天大秘密嘅冰山一角，定係一場精心設計嘅都市傳說？**
 
-Whether you believe it or not, one fact is undeniable: **This incident is almost unknown in Asia.** If you bring it up with friends, you'll definitely be the most knowledgeable person in the room.
+無論你信唔信，有一個事實係無可否認嘅：**呢件事喺亞洲幾乎冇人知**。如果你同身邊嘅朋友講起，你絕對會係全場最識嘢嗰個。
 
-Now, you know.
+而家，你知道咗。
 
 ---
 
-### References
+### 參考來源
 
 - CIA Reading Room: [DOC_0005517761](https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf)
 - Fox News: [CIA file about aliens attacking soldiers takes off with UFO intrigue](https://www.foxla.com/news/cia-file-aliens-attack-soldiers)

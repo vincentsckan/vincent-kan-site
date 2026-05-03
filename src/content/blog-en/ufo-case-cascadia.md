@@ -1,21 +1,20 @@
 ---
 title: '🛸 卡斯卡迪亞UAP事件 — 美國海岸警衛隊目擊 (2015)'
 description: '2015年美國海岸警衛隊喺阿拉斯加附近用熱成像拍到多個高速透明UAP，同時雷達同目視確認。'
+titleEn: '🌲 The Cascadia Subduction Zone — Could UFOs Predict Earthquakes?'
+descriptionEn: 'Before major earthquakes, witness reports of strange lights and UFOs surge. Explore the phenomenon linking UAP activity with seismic events in the Cascadia region.'
 pubDate: '2022-06-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
-
-titleEn: '🛸 Cascadia UAP Event — US Coast Guard Thermal Imaging Encounter (2015)'
-descriptionEn: 'During a patrol mission off the coast of Alaska, the crew of a U.S. Coast Guard HC-130 aircraft suddenly detected multiple unidentified objects flying at high speed through the thermal imaging system.'
----
-> 📍 **Alaska, Cascadia Coast**
-> 📅 **2015**
-> 🔍 **Military thermal imaging, radar confirmation**
-
-During a patrol mission off the coast of Alaska, the crew of a U.S. Coast Guard HC-130 aircraft suddenly detected multiple unidentified objects flying at high speed through the thermal imaging system.
-
-Interestingly, these objects appeared semi-transparent in thermal imaging but were clearly locked onto by radar. The objects executed sharp turns at extremely high speeds, demonstrating performance beyond known aircraft. The incident was later reported by *The Washington Post*, becoming another UAP case supported by military evidence.
-
-'
 ---
 
-*📚 References: Coast Guard report, The Washington Post*
+> 📍 **阿拉斯加，卡斯卡迪亞海岸**
+> 📅 **2015年**
+> 🔍 **軍方熱成像、雷達確認**
+
+美國海岸警衛隊嘅 HC-130 巡邏機喺阿拉斯加對出海域巡邏期間，機組人員突然喺熱成像系統中見到多個不明物體高速飛過。
+
+有趣嘅係，呢啲物體喺熱成像中顯示為半透明，但雷達卻清晰鎖定。物體以極高速度做出急轉彎動作，表現出超越已知飛行器嘅性能。事件後來經由《華盛頓郵報》報導，成為另一個有軍方證據嘅UAP案例。
+
+---
+
+*📚 參考：海岸警衛隊報告、《華盛頓郵報》*

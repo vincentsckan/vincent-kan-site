@@ -1,6 +1,8 @@
 ---
 title: '🇨🇩 1952年 CIA機密報告：比屬剛果鈾礦上空嘅火球UFO'
 description: 'CIA解密文件！非洲鈾礦上空出現發光碟形物體，有手繪飛行路徑圖，關聯到原子彈原料'
+titleEn: '🧑‍🚀 The Congo UFO Case (1952) — The Strangest Encounter in African History'
+descriptionEn: 'In 1952, strange events unfolded in the Belgian Congo. An obscure but fascinating African UFO case with official documentation and multiple witnesses.'
 pubDate: '2026-04-28'
 tags: ['CIA', '解密文件', '非洲', '冷戰', '冷門']
 heroImage: '../../assets/blog-placeholder-4.jpg'

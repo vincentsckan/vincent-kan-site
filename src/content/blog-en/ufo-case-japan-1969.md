@@ -1,28 +1,27 @@
 ---
 title: '🛸 1969年日本UFO事件 — 九州上空神秘光球'
 description: '1969年日本福岡上空出現巨大發光球體，日本航空自衛隊戰機升空攔截，係日本最著名嘅UFO案例之一。'
+titleEn: '🗿 The Japan UFO Incident (1969) — A Detailed Case Analysis'
+descriptionEn: 'Japan''s 1969 UFO incident involving multiple witnesses and official documentation. A deep dive into the evidence and historical context of this East Asian case.'
 pubDate: '2023-04-15'
 heroImage: '../../assets/blog-placeholder-3.jpg'
-
-titleEn: '🛸 The 1969 Japan UFO Incident — Mysterious Orb Over Fukuoka'
-descriptionEn: 'In 1969, a huge mysterious glowing sphere appeared over Fukuoka, Japan, hovering in the night sky and illuminating the entire city. The Japan Air Self-Defense Force scrambled fighter jets to investiga'
 ---
-> 📍 **Fukuoka Prefecture, Japan**
-> 📅 **1969**
-> 🔍 **Self-Defense Force Interception, Asian Classic**
 
-In 1969, a huge mysterious glowing sphere appeared over Fukuoka, Japan, hovering in the night sky and illuminating the entire city. The Japan Air Self-Defense Force scrambled fighter jets to investigate, but as they approached, the object immediately sped away at high velocity, and the jets could not track it.
+> 📍 **日本福岡縣**
+> 📅 **1969年**
+> 🔍 **自衛隊攔截、亞洲經典**
 
-The Japan Defense Agency (now the Ministry of Defense) acknowledged in an internal report that it was "unidentifiable." This incident is one of the most famous UFO cases in modern Japanese history and one of the few UAP events in Asia with official military records.
+1969年，日本福岡上空出現巨大嘅神秘發光球體，懸浮喺夜空中，照亮咗整個城市。日本航空自衛隊派出戰機升空調查，但接近時物體立即高速飛離，戰機無法追蹤。
 
-![Japan UFO Incident](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
-*Kyushu, Japan — 1969 UFO Sighting Location*
+日本防衛廳（即現時嘅防衛省）喺內部報告中承認「無法識別」。呢次事件係日本近代最著名嘅UFO案例之一，亦係亞洲少數有軍方記錄嘅UAP事件。
+
+![日本UFO事件](../../assets/blog-placeholder-3.jpg)
+*日本九州——1969年UFO目擊地點*
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/0wnW4hLG8fA" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
-'
 ---
 
-*📚 References: Japan Defense Agency Archives, UFO Research Literature*
+*📚 參考：日本防衛廳檔案、UFO研究文獻*

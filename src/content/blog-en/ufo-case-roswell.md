@@ -1,40 +1,40 @@
 ---
 title: '🛸 羅斯威爾事件 — UFO 史上最著名墜毀案 (1947)'
 description: '羅斯威爾事件係 UFO 史上最具爭議性嘅案件，從 1947 年嘅碎片發現到軍方嘅矛盾解釋，至今仍然係研究焦點。'
+titleEn: '🛸 The Roswell Incident — The Crash That Started Modern UFO Culture (1947)'
+descriptionEn: 'In July 1947, something crashed on a ranch near Roswell, New Mexico. The US Army initially announced a "flying disc" then retracted. The most famous UFO case in history.'
 pubDate: '2022-01-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
-
-titleEn: '🛸 The Roswell Incident — The Case That Changed Everything (1947)'
-descriptionEn: '![Roswell Incident Illustration](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)'
 ---
-> 📍 **Case Focus**: Roswell, New Mexico, USA
-> 📅 **Date**: July 1947
-> 🔍 **Category**: Crash Incident / Government Cover-Up Allegations
 
-## Event Overview
+> 📍 **案件焦點**：美國新墨西哥州羅斯威爾
+> 📅 **發生日期**：1947 年 7 月
+> 🔍 **分類**：墜毀事件 / 政府隱瞞指控
 
-![Roswell Incident Illustration](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
-*Near Roswell Army Air Field, location of the 1947 incident*
+## 事件概述
 
-In July 1947, a rancher named Mac Brazel discovered some strange debris on his land near Roswell, New Mexico. The material of these fragments was highly unusual, drawing the attention of local military authorities.
+![羅斯威爾事件示意](../../assets/blog-placeholder-1.jpg)
+*羅斯威爾空軍基地附近，1947年事件發生地點*
 
-## Military Response
+1947 年 7 月，新墨西哥州羅斯威爾附近一名農場主人 Mac Brazel 喺佢嘅土地上面發現咗一些奇怪嘅碎片。呢啲碎片嘅材質極不尋常，引起咗當地軍方嘅關注。
 
-The Roswell Army Air Field initially issued a press release stating that they had recovered a "flying disc." However, within hours, the military retracted this statement, claiming it was actually the wreckage of a weather balloon.
+## 軍方反應
 
-In 1994, the U.S. Air Force released a report attributing the incident to the then-classified **Project Mogul** (a balloon program designed to monitor Soviet nuclear tests from high altitude).
+羅斯威爾陸軍航空基地最初發布新聞稿，話佢哋回收咗一隻「飛碟」。但短短幾小時之後，軍方撤回咗呢個說法，改口話其實係一個天氣氣球殘骸。
 
-## Points of Controversy
+1994 年，美國空軍發表報告，將事件歸因於當時機密嘅 **Project Mogul**（高空監測蘇聯核試驗嘅氣球計劃）。
 
-- Multiple witnesses claimed to have seen not only debris but also extraterrestrial bodies
-- The military's contradictory statements raised suspicions of a cover-up
-- Declassified documents confirm the existence of high-altitude surveillance missions at the time, but cannot explain all witness details
+## 爭議點
 
-## Cultural Impact
+- 多個目擊者聲稱見到唔止碎片，仲有外星生物屍體
+- 軍方口供前後矛盾，引發隱瞞質疑
+- 解密文件顯示當時確有高空監測任務，但無法解釋所有目擊細節
 
-Roswell has become a symbol of UFO culture, attracting large numbers of tourists each year and spawning countless documentaries, books, and films. Even seventy years later, this case remains an important reference point in discussions about UAP disclosure.
+## 文化影響
+
+羅斯威爾已成為 UFO 文化嘅象徵，每年吸引大量遊客，並催生咗無數紀錄片、書籍同電影。即使七十年過去，呢單案件依然係 UAP 披露討論中嘅重要參考案例。
 
 ---
 
-*📚 Sources: Historical archives, government declassified documents, and multi-party research reports*
-*🕐 Article creation date: 2022-01-01*
+*📚 資料來源：歷史檔案、政府解密文件及多方研究報告*
+*🕐 文章建立日期：2022-01-01*

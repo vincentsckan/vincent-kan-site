@@ -1,26 +1,26 @@
 ---
 title: '🛸 盧比克光點 — 1951年德州天空嘅神秘V形編隊'
 description: '1951年德州盧比克上空出現V形排列嘅神秘光點，三名科學家觀測到，並用相機拍到照片。Project Blue Book無法解釋。'
+titleEn: '💡 The Lubbock Lights — A Mass Sighting That Shocked America (1951, Texas)'
+descriptionEn: 'In 1951, dozens of residents in Lubbock, Texas saw V-shaped formations of lights streaking across the sky. Photos were taken by university professors.'
 pubDate: '2023-05-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
-
-titleEn: '🛸 The Lubbock Lights — Mysterious V-Formation Over Texas (1951)'
-descriptionEn: 'In August 1951, three electrical engineering professors in Lubbock, Texas (while chatting in a backyard) observed mysterious lights arranged in a V-formation moving across the sky. The lights flew in '
 ---
-> 📍 **United States – Lubbock, Texas**
-> 📅 **August 25, 1951**
-> 🔍 **Scientist sighting, photographic evidence, unexplained by Blue Book**
 
-In August 1951, three electrical engineering professors in Lubbock, Texas (while chatting in a backyard) observed mysterious lights arranged in a V-formation moving across the sky. The lights flew in a precise formation at extremely high speed, completely silent.
+> 📍 **美國德克薩斯州盧比克**
+> 📅 **1951年8月25日**
+> 🔍 **科學家目擊、照片證據、Blue Book無法解釋**
 
-The professors successfully captured multiple photographs with a camera—these later became the famous **"Lubbock Lights" photos**.
+1951年8月，德州盧比克市（Lubbock）嘅三名電機工程教授（坐喺後院傾偈時）見到天空出現V形排列嘅神秘光點。光點隊形整齊，速度極快，無聲無息。
 
-## Project Blue Book Investigation
+教授們用相機成功拍到咗多張照片——即係後來著名嘅 **「Lubbock Lights」照片**。
 
-These photos were sent to the Air Force's Project Blue Book for analysis. Although some analyses suggested they were birds reflecting city lights or aircraft, the three professors firmly denied these explanations. Blue Book ultimately classified the case as "unexplained."
+## Project Blue Book調查
 
-![Lubbock Lights](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
-*The famous Lubbock Lights photo taken in 1951*
+呢啲照片被送到空軍Project Blue Book進行分析。雖然部分分析認為係候鳥反射城市燈光或飛機，但嗰三名教授堅決否認呢啲解釋。Blue Book最終將案件列為「無法解釋」。
+
+![Lubbock Lights](../../assets/blog-placeholder-1.jpg)
+*1951年拍攝嘅著名Lubbock Lights照片*
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/3nLxx8ggoY0" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -28,4 +28,4 @@ These photos were sent to the Air Force's Project Blue Book for analysis. Althou
 
 ---
 
-*📚 References: Project Blue Book files, Lubbock University records*
+*📚 參考：Project Blue Book檔案、Lubbock大學記錄*

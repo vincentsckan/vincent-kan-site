@@ -1,66 +1,66 @@
 ---
 title: '🛸 尼米茲航母戰鬥群UFO事件 — 五角大樓承認嘅真實案例 (2004)'
 description: '2004 年 11 月，美國海軍尼米茲號航母戰鬥群喺太平洋遭遇技術力遠超人類嘅 Tic-Tac 形不明飛行器，成為五角大樓正式承認嘅 UAP 事件。'
+titleEn: '🛸 The USS Nimitz UFO Incident — Pentagon Confirmed (2004)'
+descriptionEn: 'In November 2004, the USS Nimitz Carrier Strike Group encountered a Tic-Tac shaped craft with technology far beyond human capabilities — officially confirmed by the Pentagon.'
 pubDate: '2022-03-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
-
-titleEn: '🛸 USS Nimitz UFO Encounter — Pentagon-Confirmed UAP Case (2004)'
-descriptionEn: 'On November 14, 2004, during routine training exercises off the coast of California in the Pacific Ocean, the U.S. Navy nuclear-powered aircraft carrier USS Nimitz and its strike group encountered an '
 ---
-> 📍 **Case Focus**: Pacific Ocean, USS Nimitz Carrier Strike Group, U.S. Navy
-> 📅 **Date of Incident**: November 14, 2004
-> 🔍 **Classification**: Military Encounter / Radar + Visual + Infrared Triple Confirmation
 
-## Incident Overview
+> 📍 **案件焦點**：太平洋，美國海軍尼米茲號航母戰鬥群
+> 📅 **發生日期**：2004 年 11 月 14 日
+> 🔍 **分類**：軍事遭遇 / 雷達 + 目視 + 紅外線三重確認
+
+## 事件概述
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/tf1uLwUTDA0" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
-On November 14, 2004, during routine training exercises off the coast of California in the Pacific Ocean, the U.S. Navy nuclear-powered aircraft carrier USS Nimitz and its strike group encountered an inexplicable unidentified flying object.
+2004 年 11 月 14 日，美國海軍核動力航母「尼米茲號」（USS Nimitz）戰鬥群喺加州對出太平洋海域進行例行訓練期間，遭遇咗一個無法解釋嘅不明飛行物體。
 
-This incident later caused a global sensation when the Pentagon released three UAP videos (FLIR1, GIMBAL, GOFAST) in 2017. It is one of the few UAP events to receive official military confirmation.
+呢次事件後來因為五角大樓喺 2017 年公開三段 UAP 影片（FLIR1、GIMBAL、GOFAST）而轟動全球，係少數獲得軍方正式確認嘅 UAP 事件。
 
-🇺🇸 **Official UAP Video Source:** [DVIDS Pentagon Official](https://www.dvidshub.net/video/956955/gimbal-uap) and [AARO Official Website](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)
+🇺🇸 **官方 UAP 影片來源：** [DVIDS 五角大樓官方](https://www.dvidshub.net/video/956955/gimbal-uap) 及 [AARO 官方網站](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)
 
-## Key Witness Testimonies
+## 關鍵人物證詞
 
 ### Commander David Fravor
-Then commander of the F/A-18F Super Hornet squadron, leading the flight mission at the time:
-- Sighted a white Tic-Tac-shaped object approximately 40 feet long
-- The object had no wings, no engine, and no exhaust
-- When he attempted to approach, the object immediately mimicked his movements
-- The object ultimately vanished instantly at an incredible speed
+時任 F/A-18F 超級大黃蜂戰機中隊長，當時正帶領飛行任務：
+- 目擊一個約 40 英尺長嘅白色 Tic-Tac 形物體
+- 物體無機翼、無引擎、無排氣口
+- 佢嘗試靠近時，物體立即模仿佢嘅動作
+- 最後物體以難以置信嘅速度瞬間消失
 
 ### Commander Chad Underwood
-Another pilot successfully recorded the object's image using the aircraft's FLIR (Forward-Looking Infrared) system:
-- The recorded footage became the publicly released "FLIR1" (also known as the "Tic Tac" video)
-- The object showed no heat signature emissions, unlike any known propulsion system
+另一位飛行員成功用戰機嘅 FLIR（前視紅外線）系統錄低咗物體嘅影像：
+- 錄到嘅影片就係後來公開嘅「FLIR1」（又名「Tic Tac」影片）
+- 物體顯示沒有熱點排放，唔似任何已知推進系統
 
-### Radar Operators
-The carrier's SPY-1 Aegis radar system continuously tracked the object, confirming it could instantly descend from an altitude of 80,000 feet to sea level, then rapidly climb back to high altitude.
+### 雷達操作員
+航母嘅 SPY-1 宙斯盾雷達系統持續追蹤該物體，證實佢可以喺 80,000 英尺高空瞬間下降到海平面，再急速爬升返高空。
 
-## Object Capabilities
+## 物體能力
 
-- **Instantaneous Acceleration**: From stationary to supersonic speed with no transition time
-- **Transmedium Flight**: Could freely maneuver between air and water
-- **Extreme Maneuverability**: Executed movements beyond the physical limits of human aircraft
-- **No Thermal Signature**: Infrared detection could not pick up engine heat
-- **Electromagnetic Interference**: Affected radar and communication systems when approached
+- **瞬間加速**：由靜止到超音速無需時間
+- **跨介質飛行**：可以喺空中同水中自由穿梭
+- **極高機動性**：做出超越人類飛行器物理極限嘅動作
+- **無熱信號**：紅外線偵測不到引擎熱量
+- **電磁干擾**：接近時影響到雷達同通訊系統
 
-## Official Acknowledgment
+## 官方承認
 
-In 2017, *The New York Times* first reported that the U.S. Department of Defense had a classified UAP investigation program called the Advanced Aerospace Threat Identification Program (AATIP), and released three videos. In 2020, the Pentagon formally established the **UAP Task Force (UAPTF)**, which was reorganized in 2022 into **AARO** (All-domain Anomaly Resolution Office).
+2017 年，《紐約時報》率先報導美國國防部有個名為「先進航空威脅識別計劃」（AATIP）嘅機密 UAP 調查項目，並公開三段影片。2020 年，五角大樓正式成立 **UAP 特別工作組（UAPTF）**，2022 年改組為 **AARO**（全域異常解決辦公室）。
 
-## Significance of the Case
+## 案件意義
 
-The Nimitz incident is a watershed moment in UFO research:
-1. Proved the real existence of the UAP phenomenon
-2. Shifted the military from denial to open investigation
-3. Sparked global scientific interest in UAP
-4. Led to the establishment of an official U.S. government UAP investigation agency
+尼米茲事件係 UFO 研究嘅分水嶺：
+1. 證明 UAP 現象真實存在
+2. 軍方從否認轉向公開調查
+3. 引發全球對 UAP 嘅科學關注
+4. 促成美國政府成立正式 UAP 調查機構
 
 ---
 
-*📚 Sources: Pentagon UAP reports, pilot testimonies, radar data*
-*🕐 Article creation date: 2022-03-01*
+*📚 資料來源：五角大樓 UAP 報告、飛行員證詞、雷達數據*
+*🕐 文章建立日期：2022-03-01*

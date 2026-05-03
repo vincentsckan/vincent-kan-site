@@ -1,6 +1,8 @@
 ---
 title: '🧠 遠距觀測 — CIA用超能力搵UFO嘅秘密計劃'
 description: '冷戰期間CIA同軍方秘密研究「遠距觀測」，訓練人員用意識探測外星基地位置，項目名為Stargate。'
+titleEn: '🧠 Remote Viewing — The CIA''s Psychic Spy Program That Targeted UFOs'
+descriptionEn: 'Remote viewing, a claimed psychic ability, was researched by the CIA for decades. Some sessions reportedly focused on extraterrestrial intelligence and Mars observations.'
 pubDate: '2022-12-25'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
@@ -15,7 +17,7 @@ heroImage: '../../assets/blog-placeholder-4.jpg'
 
 1972年至1995年，CIA同美國陸軍情報部門資助咗一個名為 **Project Stargate（星際之門）** 嘅機密項目，專門研究遠距觀測嘅軍事應用。
 
-![遠距觀測](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![遠距觀測](../../assets/blog-placeholder-4.jpg)
 *CIA Stargate計劃嘅遠距觀測訓練資料*
 
 ## 同UFO嘅關聯

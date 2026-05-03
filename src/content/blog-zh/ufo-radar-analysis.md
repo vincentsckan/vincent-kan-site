@@ -1,6 +1,8 @@
 ---
 title: '🧠 UAP嘅雷達特徵 — 軍方雷達點樣發現UFO？'
 description: '雷達係人類偵測UAP嘅最重要工具。軍方雷達捕捉到嘅UAP信號有啲咩特徵？點解有時雷達見到但肉眼睇唔到？'
+titleEn: '📡 UFO Radar Analysis — How Experts Track Objects That Shouldn''t Exist'
+descriptionEn: 'Technical exploration of how military and civilian radar systems detect UAP. From Doppler radar to phased array systems — how advanced tracking works.'
 pubDate: '2023-05-01'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
@@ -38,7 +40,7 @@ UAP經常被雷達、光學、紅外線同時鎖定。
 - **比利時浪潮**：F-16火控雷達鎖定三角形UFO
 - **俄羅斯雷達**：蘇聯時期有多次大規模UAP雷達事件
 
-![UAP雷達示意](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![UAP雷達示意](../../assets/blog-placeholder-5.jpg)
 *AEGIS神盾雷達系統曾經追蹤Tic Tac UAP*
 
 <div class="video-embed">

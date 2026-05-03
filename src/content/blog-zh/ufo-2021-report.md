@@ -1,6 +1,8 @@
 ---
 title: '🛸 2021年UAP報告 — 美國史上第一份官方UFO報告'
 description: '2021年6月25日，美國國家情報總監辦公室發布咗史上第一份官方UAP評估報告，承認144宗事件無法解釋。'
+titleEn: '🛸 The 2021 UAP Report — America''s First Official UFO Report'
+descriptionEn: 'On June 25, 2021, the US Office of the Director of National Intelligence released the first official UAP assessment report, acknowledging 143 out of 144 cases remained unexplained.'
 pubDate: '2023-01-15'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
@@ -13,7 +15,7 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 
 ## 核心發現
 
-![ODNI UAP報告](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![ODNI UAP報告](../../assets/blog-placeholder-2.jpg)
 *ODNI 2021年UAP評估報告封面*
 
 | 項目 | 數字 |

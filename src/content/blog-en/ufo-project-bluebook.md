@@ -1,59 +1,59 @@
 ---
 title: '🛸 藍皮書計劃 — 美國空軍嘅 UFO 調查檔案 (1952-1969)'
 description: 'Project Blue Book 係美國空軍最著名嘅 UFO 調查計劃，調查咗超過 12,600 宗案件，至今仍然係 UAP 研究中最重要嘅官方資料庫。'
+titleEn: '📋 Project Blue Book — The US Air Force''s Official UFO Investigation (1947-1969)'
+descriptionEn: 'Project Blue Book was the US Air Force''s 22-year UFO investigation program. From 1947-1969, they investigated 12,618 cases. Thorough analysis and lessons learned.'
 pubDate: '2022-05-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
-
-titleEn: '🛸 Project Blue Book — The US Air Force''s Official UFO Investigation (1947-1969)'
-descriptionEn: 'Project Blue Book was a UFO investigation program led by the United States Air Force, operating from 1952 to 1969. It was the third and final official UFO investigation program by the U.S. Air Force, '
 ---
-> 📍 **Agency**: United States Air Force  
-> 📅 **Operational Period**: 1952 — 1969  
-> 🔍 **Classification**: Official Investigation Program / Historical Archive  
 
-## Program Background  
+> 📍 **機構**：美國空軍
+> 📅 **運作期間**：1952 — 1969 年
+> 🔍 **分類**：官方調查計劃 / 歷史檔案
 
-Project Blue Book was a UFO investigation program led by the United States Air Force, operating from 1952 to 1969. It was the third and final official UFO investigation program by the U.S. Air Force, following Project Sign (1947) and Project Grudge (1949).  
+## 計劃背景
 
-## Leadership  
+Project Blue Book（藍皮書計劃）係美國空軍主導嘅 UFO 調查計劃，由 1952 年運作至 1969 年。佢係繼 Project Sign（1947）同 Project Grudge（1949）之後，美國空軍第三個亦係最後一個官方 UFO 調查計劃。
 
-The program was founded and led by Air Force Captain Edward J. Ruppelt, who also coined the term "UFO" (replacing the then-popular term "flying saucer").  
+## 執行人
 
-## Investigation Results  
+計劃由空軍上尉 Edward J. Ruppelt 創立並領導，佢亦係創造「UFO」呢個詞彙嘅人（取代當時流行嘅「飛碟」）。
 
-- **Total Cases**: 12,618  
-- **Unexplained**: 701 (approximately 5.6%)  
-- **Explained**: 11,917 (including aircraft, balloons, satellites, birds, etc.)  
+## 調查成果
 
-## Notable Unsolved Cases  
+- **案件總數**：12,618 宗
+- **無法解釋**：701 宗（約 5.6%）
+- **已解釋**：11,917 宗（包括飛機、氣球、衛星、鳥類等）
 
-### Lubbock Lights (1951)  
-Mysterious V-shaped lights appeared over Lubbock, Texas, which the Air Force could not explain.  
+## 著名未解案件
 
-### Levelland Case (1957)  
-Multiple drivers in Levelland, Texas, reported a giant luminous object causing car engines and headlights to fail.  
+### Lubbock Lights（1951）
+德州盧博克市出現 V 形排列嘅神秘亮光，空軍無法解釋。
 
-### 1965 Exeter Incident  
-A large red flashing object appeared in Exeter, New Hampshire, witnessed by multiple police officers.  
+### Levelland 案件（1957）
+德州 Levelland 多名司機報告巨型發光物體令汽車引擎同車燈熄滅。
 
-## University of Colorado Report  
+### 1965 年 Exeter 事件
+新罕布什爾州 Exeter 出現巨大紅色閃爍物體，多名警察目擊。
 
-In 1966, the Air Force commissioned the University of Colorado to conduct an independent evaluation, led by Dr. Edward Condon. The *Condon Report*, released in 1968, concluded: "In the past 21 years of UFO research, there is no evidence that the UFO phenomenon poses a threat to national security."  
+## 科羅拉多大學報告
 
-This report became the primary basis for the Air Force's termination of Project Blue Book in 1969.  
+1966 年，空軍委託科羅拉多大學進行獨立評估，由 Dr. Edward Condon 領導。1968 年發布嘅《Condon Report》結論係：「過去 21 年嘅 UFO 研究中，冇任何證據顯示 UFO 現象對國家安全構成威脅。」
 
-## Controversy  
+呢份報告成為空軍喺 1969 年終止 Project Blue Book 嘅主要依據。
 
-Although most cases in Blue Book had conventional explanations, critics pointed out:  
-- The Air Force deliberately downplayed unexplained cases  
-- Some "explained" cases had far-fetched explanations  
-- Truly sensitive cases may never have been submitted to Blue Book from the start  
+## 爭議
 
-## Archive Status  
+雖然 Blue Book 大部分案件都有常規解釋，但批評者指出：
+- 空軍刻意淡化無法解釋嘅案件
+- 部分「已解釋」嘅案件解釋牽強
+- 真正敏感案例可能從一開始就冇交畀 Blue Book
 
-All files from Project Blue Book have been declassified and are stored at the U.S. National Archives, where researchers can freely access them.  
+## 檔案現狀
 
----  
+Project Blue Book 嘅檔案已經全部解密，並存放喺美國國家檔案館（National Archives），研究人員可以自由查閱。
 
-*📚 Sources: U.S. Air Force Archives, National Archives, Historical Research*  
-*🕐 Article Creation Date: 2022-05-01*
+---
+
+*📚 資料來源：美國空軍檔案、國家檔案館、歷史研究*
+*🕐 文章建立日期：2022-05-01*

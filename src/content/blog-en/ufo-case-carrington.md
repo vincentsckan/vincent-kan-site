@@ -1,20 +1,20 @@
 ---
 title: '🛸 彼得·卡林頓UFO案 — 科學家目擊 (1917)'
 description: '1917年葡萄牙著名科學家彼得·卡林頓喺野外目擊巨型雪茄形UFO，佢嘅科學背景令案件極具分量。'
+titleEn: '📅 The Carrington Event — When a Solar Storm Changed UFO History (1859)'
+descriptionEn: 'The 1859 Carrington Event was the largest solar storm in recorded history, sparking global auroras and mysterious lights — a cosmic phenomenon that intersects with UFO history.'
 pubDate: '2022-07-20'
 heroImage: '../../assets/blog-placeholder-1.jpg'
-
-titleEn: '🛸 The Carrington UFO Case — A Scientist''s Credible Sighting (1917)'
-descriptionEn: 'Renowned British/Portuguese biologist **Peter Carrington** was conducting fieldwork in Portugal when he observed a massive, cigar-shaped black object silently gliding overhead. Known for his rigorous '
 ---
-> 📍 **Portugal**  
-> 📅 **1917**  
-> 🔍 **Scientist Sighting, Early Classic Case**
 
-Renowned British/Portuguese biologist **Peter Carrington** was conducting fieldwork in Portugal when he observed a massive, cigar-shaped black object silently gliding overhead. Known for his rigorous scientific approach, Carrington's detailed records and calm analysis have made this sighting highly regarded by the research community.
+> 📍 **葡萄牙**
+> 📅 **1917年**
+> 🔍 **科學家目擊、早期經典**
 
-What makes this case particularly notable is that the witness was a researcher trained in strict scientific methodology, and the event occurred in 1917, before aircraft were widespread, ruling out most conventional explanations.
+著名英國/葡萄牙生物學家 **Peter Carrington** 喺葡萄牙野外考察時，目擊一個巨大嘅雪茄形黑色物體從頭頂無聲劃過。Carrington 以其嚴謹嘅科學態度聞名，佢嘅詳細記錄同冷靜分析令呢次目擊報告被研究界高度重視。
+
+呢單案件嘅特別之處在於目擊者係一位受過嚴格科學訓練嘅研究者，而且事件發生喺飛機未普及嘅1917年，排除了大多數常規解釋。
 
 ---
 
-*📚 Reference: Carrington's diary, UFO research literature*
+*📚 參考：Carrington 日記、UFO研究文獻*

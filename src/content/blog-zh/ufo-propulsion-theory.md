@@ -1,6 +1,8 @@
 ---
 title: '🧠 UAP推進系統 — Tic Tac嘅反重力技術點樣可能運作？'
 description: '尼米茲號Tic Tac UAP展現出反重力、無熱訊號、跨介質嘅能力。科學界推測可能嘅推進原理有邊啲？'
+titleEn: '🔬 How Do UFOs Fly? Theoretical Propulsion and Anti-Gravity'
+descriptionEn: 'Theoretical analysis of UFO propulsion technology: anti-gravity, space-time manipulation, zero-point energy, and what the Pentagon''s research programs reveal about UAP capabilities.'
 pubDate: '2023-02-01'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
@@ -37,7 +39,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 AARO前主任 **Sean Kirkpatrick** 曾暗示，部分UAP嘅技術水平超越美國至少 **50-100年**。
 
-![UAP推進示意](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UAP推進示意](../../assets/blog-placeholder-3.jpg)
 *UAP可能推進系統概念圖*
 
 <div class="video-embed">

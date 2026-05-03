@@ -1,138 +1,138 @@
 ---
 title: '🧠 CIA遙視計劃Stargate & UFO — 心靈能力與外星智慧嘅邊界'
 description: 'CIA用20年研究遙視能力，其中一個viewer準確描述咗人類未知嘅木星環。而家有人爆料軍方用「心靈能力」召回UFO'
+titleEn: '🧠 Project Stargate — The CIA''s Psychic Remote Viewing Program'
+descriptionEn: 'The CIA''s Project Stargate investigated psychic remote viewing for intelligence gathering. Some believe remote viewers successfully observed extraterrestrial intelligence.'
 pubDate: '2026-04-28'
 tags: ['CIA', 'Stargate', '遙視', '心靈能力', '冷門']
 heroImage: '../../assets/blog-placeholder-3.jpg'
-
-titleEn: '🧠 Project Stargate — The CIA''s Psychic Espionage Program'
-descriptionEn: 'If someone told you that the U.S. Central Intelligence Agency (CIA) spent **over 20 years** and millions of dollars studying a group of people who claimed they could use **"telepathy"** to see things '
 ---
-If someone told you that the U.S. Central Intelligence Agency (CIA) spent **over 20 years** and millions of dollars studying a group of people who claimed they could use **"telepathy"** to see things thousands of kilometers away, would you think they were crazy?
 
-But this is not a science fiction plot; it's something that really happened — **Project Stargate**.
+如果話俾你聽，美國中央情報局（CIA）用咗**超過20年**、花咗過百萬美金，去研究一班聲稱可以用「心靈感應」嚟睇到幾千公里以外事物嘅人，你會唔會覺得佢哋傻咗？
 
-From the early 1970s to 1995, the CIA, U.S. Army Intelligence, and the Defense Intelligence Agency (DIA) jointly operated an extremely sensitive program dedicated to studying **Remote Viewing** — using extrasensory perception to "see" distant or even hidden targets. The most shocking part is that one viewer accurately described rings around Jupiter when all of humanity was completely unaware of them. And in 2025, someone even revealed that the U.S. military is still using **"psychic abilities"** to recall UFOs.
+但呢個唔係科幻小說情節，而係真實發生過嘅事——**Project Stargate（星際之門）**。
 
-Is the line between this psychic ability and extraterrestrial intelligence really that blurry?
+由1970年代初期到1995年，CIA、美國陸軍情報部門同國防情報局（DIA）聯手運作咗一個極度敏感嘅計劃，專門研究**遙視（Remote Viewing）**——即係用超感官知覺去「睇」到遠處、甚至係隱藏嘅目標。最令人震驚嘅係，其中一個viewer竟然喺人類完全未知嘅情況下，準確描述咗木星周圍有環。而喺2025年，更加有人爆料話美國軍方到而家仲用緊「心靈能力」去召回UFO。
+
+呢個心靈能力同外星智慧之間嘅界線，到底係咪真係咁模糊？
 
 ---
 
-## The Cold War's "Psychic Arms Race"
+## 冷戰時期嘅「超能力軍備競賽」
 
-To talk about Project Stargate, we first need to look at the Cold War background.
+要講Stargate計劃，首先要講返冷戰背景。
 
-In the 1970s, the U.S. intelligence community received reports that the Soviet Union was conducting large-scale research into **"Psychotronics"**, with an annual budget of up to 300 million rubles. The Soviets claimed they had successfully used psychic abilities for intelligence gathering and even influencing enemy thoughts. This news made the U.S. uneasy — if the Soviets truly mastered psychic weapons, America's intelligence advantage would vanish.
+1970年代，美國情報界收到風，話蘇聯正在大規模研究**「心理電子學」（Psychotronics）**，每年預算高達3億盧布。蘇聯聲稱已經成功用超能力嚟進行情報收集、甚至影響敵人嘅思維。呢個消息令美國坐唔住——萬一蘇聯真係掌握咗心靈武器，美國嘅情報優勢就會蕩然無存。
 
-So the CIA decided to act. In 1970, they began funding an experiment called **SCANATE**, led by two scientists from Stanford Research Institute (SRI), **Russell Targ** and **Harold Puthoff**, to study whether humans could actually use consciousness to perceive distant targets. The results surprised CIA高层 — some test subjects were able to describe details of targets that even the researchers didn't know.
+於是CIA決定出手。1970年，佢哋開始資助一個叫**SCANATE**嘅實驗，由兩位史丹福研究院（SRI）嘅科學家**Russell Targ**同**Harold Puthoff**負責，研究人類係咪真係可以用意識去感知遙遠嘅目標。實驗結果令CIA高層相當驚訝——部分受試者竟然能夠描繪出連研究人員都唔知道嘅目標細節。
 
-In 1972, this program was officially upgraded, becoming the world-famous **Project Stargate**.
+1972年，呢個計劃正式升級，成為後來舉世聞名嘅**Project Stargate**。
 
 ---
 
-## The Structure of Project Stargate
+## Stargate計劃嘅架構
 
-Project Stargate was not a simple laboratory project; it was an intelligence operation with a complete organizational structure. Over time, the program underwent several name changes and transfers:
+Stargate計劃唔係一個簡單嘅實驗室項目，而係一個有完整組織架構嘅情報行動。隨住時間推移，計劃經歷咗多次改名同換手：
 
-| Codename | Period | Responsible Agency |
-|----------|--------|-------------------|
+| 代號 | 時期 | 負責機構 |
+|------|------|----------|
 | SCANATE | 1970–1972 | CIA / SRI |
-| Grill Flame | 1979–1983 | U.S. Army |
-| CENTER LANE | 1983–1985 | INSCOM (Army Intelligence) |
-| SUN STREAK | 1985–1995 | DIA (Defense Intelligence Agency) |
-| Stargate | Final Name | CIA Coordination |
+| Grill Flame | 1979–1983 | 美國陸軍 |
+| CENTER LANE | 1983–1985 | INSCOM（陸軍情報） |
+| SUN STREAK | 1985–1995 | DIA（國防情報局） |
+| Stargate | 最終命名 | CIA統籌 |
 
-At its peak, the program had **15 to 20 full-time personnel**, including **3 full-time remote viewers**, with an annual budget of approximately **$500,000**. They developed various remote viewing techniques, including:
+計劃高峰期有多達**15至20名全職人員**，包括**3名全職遙視者**（remote viewers），每年預算大約**50萬美元**。佢哋開發咗多種遙視技術，包括：
 
-- **Coordinate Remote Viewing (CRV)**: Locking onto a target using only map coordinates
-- **Extended Remote Viewing (ERV)**: Using a meditative state for deeper perception
-- **Written Remote Viewing (WRV)**: Acquiring information through writing
+- **坐標遙視（CRV）**：只靠地圖坐標嚟鎖定目標
+- **延伸遙視（ERV）**：用近似冥想嘅狀態進行更深層感知
+- **書面遙視（WRV）**：透過書寫嚟獲取訊息
 
-These viewers were assigned numerous intelligence tasks, including locating terrorist hideouts, detecting enemy military facilities, and even **locating alien bases**.
-
----
-
-## 👽 The Most Shocking Case: Ingo Swann's Jupiter Rings
-
-When it comes to the most chilling case in Project Stargate, it has to be **Ingo Swann's** prediction about Jupiter.
-
-Ingo Swann was a New York artist with no formal astronomical training. But he showed astonishing talent in remote viewing and was invited by Targ and Puthoff to join the SRI research.
-
-**On April 27, 1973**, Swann conducted a remote viewing experiment at SRI, targeting — **Jupiter**.
-
-In the lab, Swann closed his eyes and described what he "saw":
-
-> "There are crystals high in the atmosphere, they are sparkling... maybe the textures are crystal bands, like the rings around Saturn, but not as far out, very close to the atmosphere. I dare say, they will reflect radio waves."
-
-At the time, the astronomical community **had no idea Jupiter had rings**. Textbooks, diagrams, all sources said Jupiter had no rings. Swann not only said there were rings, but he also drew a sketch — rings close to Jupiter's surface, a thin layer.
-
-**6 years later**, in 1979, NASA's **Pioneer-10** flew past Jupiter, and the data it sent back shocked the world — Jupiter indeed had rings! And it was a very thin ring, close to the atmosphere, **strikingly matching** Swann's description.
-
-This case remains one of the most frequently cited "success stories" in remote viewing research. If Swann was just guessing, what are the odds of hitting an astronomical fact unknown to all of humanity? Mathematically, it's close to zero.
-
-> 📍 *United States* | 📅 *April 27, 1973* | 🔭 *Ingo Swann Remote Views Jupiter's Rings*
+呢啲viewer被派去執行大量情報任務，包括尋找恐怖分子藏身點、偵測敵方軍事設施、甚至包括**定位外星人基地**。
 
 ---
 
-## The Potential Link Between Project Stargate and UAP
+## 👽 最驚人嘅案例：Ingo Swann嘅木星環
 
-Within the secret task list of Project Stargate, there was an extremely sensitive category — **UAP (Unidentified Aerial Phenomena) investigation**.
+講到Stargate計劃最令人毛骨悚然嘅案例，一定係**Ingo Swann**嘅木星預測。
 
-Declassified documents show that multiple remote viewers were asked to perceive the following targets:
-- Ancient structures on Mars
-- Bases on the far side of the Moon
-- Hidden locations of "non-human intelligence"
-- Crash sites of suspected alien technology
+Ingo Swann係一個紐約藝術家，冇受過任何正式天文學訓練。但佢喺遙視領域表現出驚人天賦，被Targ同Puthoff邀請加入SRI嘅研究。
 
-The most intriguing part is the unusually serious attitude the CIA and military took towards these tasks. If top officials completely disbelieved in the existence of UAPs, why would they use national-level intelligence resources to remote view alien bases?
+**1973年4月27日**，Swann喺SRI做咗一次遙視實驗，目標係——**木星**。
 
-Some researchers speculate that part of Project Stargate's purpose was to establish a **communication channel between human consciousness and non-human intelligence**. If alien technology truly transcends purely physical laws, then we might need methods beyond the physical to understand them — psychic abilities could be the key.
+喺實驗室入面，Swann閉上眼，描述佢「睇到」嘅嘢：
 
----
+> 「大氣層好高嘅地方有晶體，佢哋閃閃發光……可能啲紋理係晶體帶，好似土星嗰啲環，但冇咁遠，貼住大氣層好近。我夠膽講，佢哋會反射無線電波。」
 
-## Why is the Military So Interested in "Psi Abilities"?
+當時嘅天文學界**完全不知道木星有環**。教材寫嘅、教科書畫嘅、所有資料都話木星冇環。Swann唔單止話有，仲畫咗草圖——嗰啲環貼近木星表面，薄薄一層。
 
-At this point, you might ask: **The military is one of the most rational institutions in the world, why would they spend so much money researching psychic powers?**
+**6年後**，1979年，NASA嘅**先鋒十號（Pioneer-10）** 飛越木星，傳返嚟嘅數據震驚世界——木星確實有環！而且係一個非常薄、貼近大氣層嘅環，同Swann嘅描述**驚人吻合**。
 
-There are several layers to the answer:
+呢個案例至今仍然係遙視研究中最常被引用嘅「成功案例」之一。如果Swann只係靠估，中一個全人類都未知嘅天文事實嘅概率有幾大？數學上嚟講，接近零。
 
-### 1. The Soviet Threat
-During the Cold War, the U.S. couldn't afford to ignore any technology that might change the balance of power. If the Soviets had truly developed "psi weapons," the U.S. had no reason not to pursue them.
-
-### 2. Intelligence Value
-If remote viewing actually worked, it could do things satellites couldn't — see through underground facilities, predict enemy intentions, and even influence their decisions. This value far exceeded the $500,000 annual cost.
-
-### 3. The Practicality of UAP Research
-This is the most interesting point — if the operating principle of UAPs involves consciousness or psychic dimensions, then studying psi abilities is the first step in deciphering alien technology. In recent years, more and more UAP researchers believe that consciousness may be the key to understanding non-human intelligence.
-
-The CIA's 1995 evaluation report was conducted by the American Institutes for Research (AIR). Psychologist Jessica Utts found that remote viewing results were **5-15% above random probability**, but another evaluator, Ray Hyman, believed there was insufficient evidence to prove any practical value. The final conclusion was — "not validated as an effective intelligence tool," and the program was officially terminated in 1995.
-
-But termination doesn't mean the secret research stopped.
+> 📍 *美國* | 📅 *1973年4月27日* | 🔭 *Ingo Swann遙視木星環*
 
 ---
 
-## 🔥 2025 Jacob Barber Leak: Military Uses "Psionic" to Recall UFOs
+## Stargate計劃同UAP嘅潛在連結
 
-In 2025, a shocking leak brought the concepts of Project Stargate back into the public eye.
+Stargate計劃嘅秘密任務清單入面，有一個極度敏感嘅類別——**UAP（不明空中現象）調查**。
 
-**Jacob Barber (also known as Jake Barber)**, a retired U.S. Air Force helicopter pilot, claimed to have participated in an extremely classified **UAP recovery program**. His revelations stunned the entire UFO research community.
+解密文件顯示，多個遙視者被要求感知以下目標：
+- 火星上嘅古代結構
+- 月球背面嘅基地
+- 隱藏嘅「非人類智慧」地點
+- 疑似外星科技嘅墜落點
 
-Barber said the military has a specialized team called **"Psionics"** — individuals with innate "psychic gifts" or "time-transcending perception abilities." Their tasks are:
+最令人玩味嘅係，CIA同軍方對呢啲任務嘅態度異常認真。如果高層完全唔相信UAP嘅存在，點解要用國家級情報資源去遙視外星基地？
 
-1. **Summon UFOs to land**
-2. **Communicate with non-human intelligence**
-3. **Use meditative states to guide UAP landings**
-4. **Participate in recovery operations of crashed UAPs**
+有研究人員推測，Stargate計劃嘅一部分目的就係要建立**人類意識同非人類智慧之間嘅通訊渠道**。如果外星科技真係超越咗純粹嘅物理定律，咁我哋可能需要超越物理嘅方法去理解佢哋——心靈能力可能就係條鎖匙。
 
-He described a specific recovery operation: one night, the team received a deployment order targeting an **egg-shaped UAP**. When he touched that object, he experienced extremely intense emotional reactions, even feeling a **telepathic connection** with the **non-human intelligence** inside the object. He firmly believes this egg-shaped UAP was deliberately summoned by the psionic team using consciousness, not an accidental crash.
+---
 
-His colleague, **Don Paul Bales**, a special forces member, also corroborated this account, saying he had personally witnessed the psionic team demonstrating inexplicable psychic abilities.
+## 點解軍方對「psi能力」咁有興趣？
 
-Barber said that after the incident, a high-level UAP investigation team confirmed the recovered object was **non-human made**, and because of this success, it changed the entire communication and recovery procedures.
+講到呢度，你可能會問：**軍方係全世界最理性嘅機構之一，點解會花咁多錢去研究超能力？**
 
-In an interview with NewsNation reporter **Ross Coulthart**, he stated he was willing to **"100% testify under oath"** about the secrets he had kept for over 10 years.
+答案有幾個層面：
 
-This leak perfectly echoes the essence of Project Stargate — if the CIA in the 1970s already knew psychic abilities could detect extraterrestrial information, then it's not surprising that the military in 2025 uses the same technology to "recall" UFOs.
+### 1. 蘇聯威脅論
+冷戰時期，任何可能改變權力平衡嘅技術，美國都唔敢忽視。如果蘇聯真係發展咗「psi武器」，美國冇理由唔追。
+
+### 2. 情報價值
+如果遙視真係work，佢可以做到衛星做唔到嘅事——睇穿地底設施、預測敵人意圖、甚至影響對方決策。呢啲價值遠遠超過50萬美元一年嘅成本。
+
+### 3. UAP研究嘅實用性
+呢點最有趣——如果UAP嘅運作原理涉及意識或心靈層面，咁研究psi能力就係破譯外星科技嘅第一步。近年越來越多UAP研究者認為，意識可能係理解非人類智慧嘅關鍵。
+
+CIA 1995年嘅評估報告由American Institutes for Research（AIR）負責，心理學家Jessica Utts發現遙視線上結果有**5-15%超出隨機概率**，但另一位評估者Ray Hyman就認為冇足夠證據證明有任何實用價值。最終結論係——「未能證實為有效情報工具」，計劃喺1995年正式終止。
+
+但終止咗，唔代表秘密研究冇繼續。
+
+---
+
+## 🔥 2025年Jacob Barber爆料：軍方用「psionic」召回UFO
+
+2025年，一個令人震驚嘅爆料將Stargate計劃嘅概念重新帶返公眾視野。
+
+**Jacob Barber（又名Jake Barber）**，一位退役美國空軍直升機機師，聲稱自己參與過一個極度機密嘅**UAP回收計劃**。佢嘅爆料震驚咗整個UFO研究圈。
+
+Barber話，軍方有一個專門嘅團隊，叫做**「Psionics」（靈能者）**——呢班人有天生嘅「心靈天賦」或「超越時間嘅感知能力」，佢哋嘅任務係：
+
+1. **召喚（Summon）UFO降落**
+2. **同非人類智慧通訊**
+3. **用冥想等意識狀態引導UAP著陸**
+4. **參與墜落UAP嘅回收行動**
+
+佢描述咗一次具體嘅回收行動：一個夜晚，團隊接收部署，目標係一個**蛋形UAP**。當佢接觸到嗰個物體嘅時候，佢經歷咗極強烈嘅情緒反應，甚至感覺到同物體內部嘅**非人類智慧**產生咗「心靈感應連結」。佢堅信，呢隻蛋形UAP係由psionic團隊用意識刻意召喚落嚟嘅，唔係意外墜落。
+
+佢嘅同事**Don Paul Bales**，一位特種部隊成員，都證實咗呢個講法，話佢親眼見過psionic團隊展示出難以解釋嘅心靈能力。
+
+Barber話，事件之後，高層UAP調查小組確認回收嘅物體係**非人類製造**，並且因為呢次成功，改變咗整個通訊同回收程序。
+
+佢喺接受NewsNation記者**Ross Coulthart**訪問時表示，願意**「100%宣誓作證」**，講出佢保守咗超過10年嘅秘密。
+
+呢個爆料同Stargate計劃嘅內涵完美呼應——如果1970年代嘅CIA已經知道心靈能力可以探測外星資訊，咁2025年嘅軍方用同一種技術去「召回」UFO，又有咩出奇？
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -140,30 +140,30 @@ This leak perfectly echoes the essence of Project Stargate — if the CIA in the
 
 ---
 
-## Reflection: The Boundaries of the Mind
+## 反思：心靈嘅邊際
 
-From Ingo Swann using consciousness to depict Jupiter's rings unknown to humanity in 1973, to the CIA officially terminating Project Stargate in 1995, to Jacob Barber's 2025 leak about the military using "psionics" to recall UFOs — this timeline spans half a century, but the core question has never changed:
+由1973年Ingo Swann用意識描繪人類未知嘅木星環，到1995年CIA正式終止Stargate計劃，再到2025年Jacob Barber爆料軍方用「psionic」召回UFO——呢條時間線跨越咗半個世紀，但核心問題從來冇變：
 
-**How far can human consciousness actually go?**
+**人類嘅意識，到底可以去到幾遠？**
 
-If the operation of UAPs is truly related to consciousness, then our understanding of reality may still be at a very primitive stage. The CIA spent 20 years studying this issue, ultimately closing the door on the surface. But according to the 2025 leak, that door may never have truly closed — it just moved to a more hidden room.
+如果UAP嘅運作真係同意識有關，咁我哋對現實嘅理解可能仲停留喺好初級嘅階段。CIA用咗20年去研究呢個問題，最終表面上閂咗道門。但根據2025年嘅爆料，道門可能從來冇真正關上——只係轉咗去更加隱蔽嘅房間。
 
-Do you believe psychic abilities can connect with extraterrestrial intelligence? Or do you think all of this is just coincidence and misunderstanding?
+你信唔信心靈能力可以連結外星智慧？或者，你覺得呢啲全部都係巧合同誤解？
 
-No matter which side you're on, one thing is certain: **This universe is far stranger than what the textbooks say.**
+無論你企喺邊一邊，有一件事可以肯定：**呢個宇宙，遠比教科書寫嘅更奇怪。**
 
-| 📍 *United States* | 📅 *1970–1995* | 🔍 *CIA / UAP Cross-Research* |
+| 📍 *美國* | 📅 *1970–1995年* | 🔍 *CIA / UAP交叉研究* |
 
 ---
 
-### 📚 References
+### 📚 參考來源
 
-1. CIA Reading Room — Stargate Project Declassified Documents (CIA-RDP96 series)
+1. CIA Reading Room — Stargate Project 解密文件 (CIA-RDP96系列)
 2. Wikipedia — Stargate Project (U.S. Army unit)
 3. Wikipedia — Remote Viewing
 4. Wikipedia — Ingo Swann
-5. AIR Report — Jessica Utts & Ray Hyman Evaluation (1995)
+5. AIR報告 — Jessica Utts & Ray Hyman 評估 (1995)
 6. The Debrief — 「Covert Controversy: The Jacob Barber UAP Allegations」 (2025)
-7. NewsNation — Ross Coulthart Interview with Jacob Barber (2025)
-8. FBI Files — 60 Minutes Related Investigation (2025)
-9. Meditation Treks — Ingo Swann Jupiter Remote Viewing Analysis
+7. NewsNation — Ross Coulthart 專訪 Jacob Barber (2025)
+8. FBI檔案 — 60 Minutes 相關調查 (2025)
+9. Meditation Treks — Ingo Swann Jupiter Remote Viewing 分析

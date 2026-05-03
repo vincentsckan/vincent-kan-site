@@ -1,36 +1,35 @@
 ---
 title: '🛸 阿里爾學校UFO事件 — 津巴布韋學童集體遭遇 (1994)'
 description: '1994年津巴布韋阿里爾學校62名學童集體見到外星生物降落，所有兒童獨立描述一致，係最令人信服嘅第三類接觸案例之一。'
+titleEn: '👽 The Ariel School Encounter — 62 Children Witness a UFO (1994, Zimbabwe)'
+descriptionEn: 'In 1994, 62 students at Ariel School in Zimbabwe witnessed a UFO landing and beings communicating telepathically. One of the most credible mass witness cases in history.'
 pubDate: '2022-07-25'
 heroImage: '../../assets/blog-placeholder-3.jpg'
-
-titleEn: '🛸 The Ariel School Encounter — Zimbabwe Students'' Collective UFO Sighting (1994)'
-descriptionEn: 'On September 16, 1994, the **Ariel School** near Harare, the capital of Zimbabwe, experienced an event that shocked the world. 62 schoolchildren saw multiple silver glowing objects land in the bush be'
 ---
-> 📍 **Zimbabwe, Ariel School**
-> 📅 **September 16, 1994**
-> 🔍 **Close Encounter of the Third Kind, Child Witnesses, Academic Investigation**
 
-On September 16, 1994, the **Ariel School** near Harare, the capital of Zimbabwe, experienced an event that shocked the world. 62 schoolchildren saw multiple silver glowing objects land in the bush behind the school during their break, and "aliens" came out.
+> 📍 **津巴布韋，阿里爾學校**
+> 📅 **1994年9月16日**
+> 🔍 **第三類接觸、兒童目擊、學術調查**
 
-![Ariel School](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
-*Ariel School in Zimbabwe — 62 schoolchildren collectively witnessed extraterrestrial beings*
+1994年9月16日，津巴布韋首都哈拉雷附近嘅**阿里爾學校（Ariel School）**發生咗震驚全球嘅事件。62名學童喺課間休息時見到多個銀色發光物體降落喺學校後面嘅叢林，仲有「外星人」走出來。
 
-The descriptions of the alien beings by the witnesses were highly consistent:
-- About 1 meter tall
-- Large black eyes
-- Wearing black tight-fitting suits
-- Communicated telepathically ("The Earth is being destroyed")
+![阿里爾學校](../../assets/blog-placeholder-3.jpg)
+*津巴布韋阿里爾學校——62名學童集體目擊外星生物*
+
+目擊者描述嘅外星生物特徵非常一致：
+- 身高約1米
+- 黑色大眼睛
+- 穿著黑色緊身衣
+- 發出心靈感應訊息（「地球正在毀滅」）
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/0utHUrRQW3M" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
-Harvard professor **John Mack** flew to Zimbabwe personally to investigate and interviewed most of the schoolchildren. His conclusion was: "The experiences described by these children are extremely consistent, and I cannot explain them with conventional reasoning."
+哈佛大學教授 **John Mack** 親自飛到津巴布韋進行調查，訪問咗大部分學童。佢嘅結論係：「呢啲兒童描述嘅經歷極度一致，我無法用常規解釋說明。」
 
-In 2019, the Netflix documentary *Ariel Phenomenon* revisited the witnesses from that time — they had grown up, but still insisted that their experience that day was real.
+2019年，Netflix紀錄片《Ariel Phenomenon》再次訪問當年嘅目擊者——佢哋已經長大成人，但仍然堅持當日嘅經歷係真實。
 
-'
 ---
 
-*📚 References: John Mack's investigation records, Ariel Phenomenon documentary, student testimonies*
+*📚 參考：John Mack 調查記錄、Ariel Phenomenon 紀錄片、學童證詞*

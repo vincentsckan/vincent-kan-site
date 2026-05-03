@@ -1,6 +1,8 @@
 ---
 title: '🛸 戴維·格魯什國會聽證會 — 2023年改變一切嘅證詞'
 description: '2023年7月26日，吹哨人David Grusch喺美國國會作證，聲稱政府擁有非人類智能飛行器同生物遺骸，震撼全球。'
+titleEn: '🏛️ The Grusch Hearings — Whistleblower Testimony That Shook Washington (2023)'
+descriptionEn: 'In July 2023, former intelligence official David Grusch testified before the US Congress about secret UAP recovery programs. One of the most significant hearings in UFO history.'
 pubDate: '2022-12-15'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
@@ -23,7 +25,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 4. **「有人因揭密受傷甚至死亡」** — 吹哨人遭受報復
 5. **「我在40多位情報人員確認後先公開」**
 
-![David Grusch 國會聽證](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![David Grusch 國會聽證](../../assets/blog-placeholder-3.jpg)
 *David Grusch 喺2023年7月國會聽證會上宣誓作證*
 
 ## 全球反應

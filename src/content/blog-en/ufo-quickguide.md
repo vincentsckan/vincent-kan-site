@@ -1,44 +1,44 @@
 ---
 title: '⚡ 快速認識UFO/UAP — 必知基礎知識'
 description: 'UFO同UAP有咩分別？邊啲機構負責調查？呢篇懶人包一次過話你知。'
+titleEn: '🚀 UFO Quick Guide — A Beginner''s Introduction to the Phenomenon'
+descriptionEn: 'A fast-paced guide for UFO beginners. What are the most credible cases? What does the government know? A friendly starting point for your UFO journey.'
 pubDate: '2022-06-20'
 heroImage: '../../assets/blog-placeholder-1.jpg'
-
-titleEn: '📖 UFO/UAP Quick Guide — Your Complete Introduction to the Phenomenon'
-descriptionEn: 'UAP has a broader scope than UFO, covering unidentified phenomena in the air, water, and space.'
 ---
-> 📚 **UAP Beginner's Guide**
-> Master the basics in three minutes
 
-## Difference Between UFO and UAP
+> 📚 **UAP 新手必讀**
+> 三分鐘掌握基本概念
 
-| Term | Meaning |
-|------|---------|
-| **UFO** | Unidentified Flying Object — Traditional term |
-| **UAP** | Unidentified Anomalous Phenomena — Current official term used by governments and the military |
+## UFO 與 UAP 的分別
 
-UAP has a broader scope than UFO, covering unidentified phenomena in the air, water, and space.
+| 用語 | 意思 | 
+|------|------|
+| **UFO** | Unidentified Flying Object（不明飛行物體）— 傳統稱呼 |
+| **UAP** | Unidentified Anomalous Phenomena（不明異常現象）— 政府同軍方現行正式用語 |
 
-## Timeline of Official U.S. UAP Agencies
+UAP 嘅範圍比 UFO 更廣，涵蓋空中、水中同太空嘅不明現象。
 
-| Year | Agency Name |
-|------|-------------|
-| 2007 | AATIP (Advanced Aerospace Threat Identification Program) — Classified |
-| 2020 | UAPTF (UAP Task Force) — First public agency |
-| 2022 | AARO (All-domain Anomaly Resolution Office) — Current agency |
+## 美國官方 UAP 機構時間線
 
-## Common Terminology
+| 年份 | 機構名稱 | 
+|------|----------|
+| 2007 | AATIP（先進航空威脅識別計劃）— 機密 |
+| 2020 | UAPTF（UAP 特別工作組）— 首個公開機構 |
+| 2022 | AARO（全域異常解決辦公室）— 現行機構 |
 
-- **NUFONC**: Largest UFO sighting report database in the U.S.
-- **The Pentagon**: U.S. Department of Defense
-- **Whistleblower**: Insider who exposes information (e.g., David Grusch)
+## 常用分類
 
-## Quick Overview of Most Famous Cases
+- **NUFONC**：美國最大 UFO 目擊報告資料庫
+- **五角大樓**：美國國防部
+- **吹哨人**：政府內部爆料人（如 David Grusch）
 
-- **1947 Roswell**: Debris recovery + conflicting military statements
-- **2004 Nimitz**: Tic Tac-shaped craft, with video evidence
-- **2023 Grusch Hearing**: Whistleblower claims the U.S. possesses "non-human intelligence" craft
+## 最著名案例速覽
+
+- **1947 羅斯威爾**：碎片回收 + 軍方矛盾口供
+- **2004 尼米茲號**：Tic Tac 形飛行器，有影片
+- **2023 Grusch 聽證會**：吹哨人話美國有「非人類智能」飛行器
 
 ---
 
-*📚 References: AARO official website, Congressional hearing records*
+*📚 參考：AARO官方網站、國會聽證記錄*
