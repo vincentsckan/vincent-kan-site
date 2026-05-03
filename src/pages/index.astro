@@ -10,6 +10,14 @@ import { useTranslations, getLangFromUrl } from '../i18n';
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 
+// Load live stream config (updated by cron script)
+let liveStream = { active: false, videoId: '', title: '', startedAt: '', type: '' };
+try {
+  const fs = await import('node:fs');
+  const liveData = fs.readFileSync('./src/data/live-stream.json', 'utf8');
+  liveStream = JSON.parse(liveData);
+} catch {}
+
 const posts = (await getCollection('blog-en')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
@@ -452,16 +460,18 @@ const welcomeEN = {
           )}
         </section>
 
-        <!-- LIVE STREAM EMBED -->
-        <div class="home-live-section">
-          <div class="live-embed-container">
-            <iframe src="https://www.youtube.com/embed/NN-lfF5Bxiw?autoplay=1&rel=0" frameborder="0" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe>
-            <div class="live-embed-overlay">
-              <span class="live-badge-inline"><span class="live-dot-inline"></span> 🔴 LIVE</span>
-              <span class="live-embed-title">UFO/UAP Congressional Hearing</span>
+        <!-- LIVE STREAM EMBED (auto-updated by cron) -->
+        {liveStream.active && liveStream.videoId && (
+          <div class="home-live-section">
+            <div class="live-embed-container">
+              <iframe src={`https://www.youtube.com/embed/${liveStream.videoId}?autoplay=1&rel=0`} frameborder="0" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe>
+              <div class="live-embed-overlay">
+                <span class="live-badge-inline"><span class="live-dot-inline"></span> 🔴 LIVE</span>
+                <span class="live-embed-title">{liveStream.title || (lang === 'en' ? 'UFO/UAP Hearing Live' : 'UFO/UAP聽證會直播')}</span>
+              </div>
             </div>
           </div>
-        </div>
+        )}
 
         <!-- BREAKING -->
         {latestUAP && (
