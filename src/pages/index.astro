@@ -312,13 +312,13 @@ const welcomeEN = {
       .discloser-hero-wrap {
         width: 100%; background: #050505;
         display: flex; flex-direction: column; align-items: center; justify-content: center;
-        padding: 30px 20px 20px;
+        padding: 20px 20px 10px;
         font-family: 'Cormorant Garamond', 'Georgia', serif;
-        min-height: 33vh; min-height: 33dvh;
+        min-height: 22vh; min-height: 22dvh;
         overflow: hidden;
       }
       .discloser-hero-wrap .hero-circle {
-        position: relative; width: 240px; height: 240px; max-width: 50vw; max-height: 50vw;
+        position: relative; width: 150px; height: 150px; max-width: 40vw; max-height: 40vw;
       }
       .discloser-hero-wrap .film-circle {
         position: relative; width: 100%; height: 100%; border-radius: 50%; overflow: hidden;
@@ -361,17 +361,17 @@ const welcomeEN = {
       .discloser-hero-wrap .grain-overlay { position:absolute; inset:0; border-radius:50%; opacity:0.04; pointer-events:none; background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E"); background-size:100px 100px; }
       .discloser-hero-wrap .vignette { position:absolute; inset:-5%; border-radius:50%; pointer-events:none; background:radial-gradient(ellipse at center, transparent 45%, rgba(0,0,0,0.5) 100%); }
       
-      .discloser-hero-wrap .text-area { text-align:center; margin-top:10px; width:100%; }
+      .discloser-hero-wrap .text-area { text-align:center; margin-top:6px; width:100%; }
       .discloser-hero-wrap .chinese-line { display:flex; align-items:center; justify-content:center; }
-      .discloser-hero-wrap .char-left, .discloser-hero-wrap .char-right { font-size:38px; font-weight:900; color:#ffffff; display:inline-block; letter-spacing:14px; opacity:0; animation:dInit 0.8s cubic-bezier(0.16,1,0.3,1) forwards; }
+      .discloser-hero-wrap .char-left, .discloser-hero-wrap .char-right { font-size:28px; font-weight:900; color:#ffffff; display:inline-block; letter-spacing:10px; opacity:0; animation:dInit 0.8s cubic-bezier(0.16,1,0.3,1) forwards; }
       .discloser-hero-wrap .char-left { animation-name:dFlyL; animation-delay:0.4s; }
       .discloser-hero-wrap .char-right { animation-name:dFlyR; animation-delay:0.4s; }
-      .discloser-hero-wrap .separator { display:block; height:1.5px; background:rgba(255,255,255,0.6); margin:4px auto 0; width:0; animation:dSep 0.6s ease-out forwards; animation-delay:1s; }
-      .discloser-hero-wrap .english { font-size:14px; font-weight:700; color:rgba(255,255,255,0.7); letter-spacing:10px; margin-top:6px; opacity:0; animation:dRise 0.6s ease-out forwards; animation-delay:1.2s; }
+      .discloser-hero-wrap .separator { display:block; height:1.5px; background:rgba(255,255,255,0.6); margin:2px auto 0; width:0; animation:dSep 0.6s ease-out forwards; animation-delay:1s; }
+      .discloser-hero-wrap .english { font-size:11px; font-weight:700; color:rgba(255,255,255,0.7); letter-spacing:8px; margin-top:4px; opacity:0; animation:dRise 0.6s ease-out forwards; animation-delay:1.2s; }
 
       @media(min-width:701px) {
-        .discloser-hero-wrap .hero-circle { width: 280px; height: 280px; }
-        .discloser-hero-wrap { min-height: 35vh; padding: 40px 20px; }
+        .discloser-hero-wrap .hero-circle { width: 200px; height: 200px; }
+        .discloser-hero-wrap { min-height: 25vh; padding: 20px 20px; }
       }
 
       /* Sticky top: discloser + header fixed, only content scrolls */
