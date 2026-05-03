@@ -24,7 +24,7 @@
   --shadow: 0 4px 16px rgba(0,229,255,0.06);
   --shadow-lg: 0 8px 32px rgba(0,229,255,0.1);
   --max-width: 960px;
-  --header-h: 68px;
+  --header-h: 52px;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
