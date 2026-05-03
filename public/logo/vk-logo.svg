@@ -1,23 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120" width="600" height="120">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
   <defs>
-    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00e5ff"/>
-      <stop offset="50%" stop-color="#7c3aed"/>
-      <stop offset="100%" stop-color="#00e5ff"/>
-    </linearGradient>
-    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#00e5ff"/>
       <stop offset="100%" stop-color="#7c3aed"/>
     </linearGradient>
   </defs>
-  <text x="140" y="72" font-family="'SF Mono','JetBrains Mono',monospace" font-size="60" font-weight="800" fill="#00e5ff" opacity="0.15" text-anchor="start">Vincent Kan</text>
-  <text x="60" y="72" font-family="'SF Mono','JetBrains Mono',monospace" font-size="60" font-weight="800" fill="#1a1a1b" text-anchor="start">Vincent Kan</text>
-  <rect x="18" y="50" width="6" height="44" rx="3" fill="url(#accentGrad)"/>
-  <text x="40" y="90" font-family="'SF Mono','JetBrains Mono',monospace" font-size="22" font-weight="500" fill="#6a6d6f" letter-spacing="1" text-anchor="start">UFO/UAP RESEARCH &amp; NEWS</text>
-  <style>
-    @media (prefers-color-scheme: dark) {
-      text:nth-child(2) { fill: #d7dadc; }
-      text:nth-child(3) { fill: #818384; }
-    }
-  </style>
+  <rect x="4" y="10" width="6" height="40" rx="3" fill="url(#neon)" opacity="0.85"/>
+  <text x="16" y="44" font-family="'SF Mono','JetBrains Mono',monospace" font-size="32" font-weight="800" fill="#d7dadc" text-anchor="start">VK</text>
 </svg>
