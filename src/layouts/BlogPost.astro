@@ -16,6 +16,24 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 	<head>
 		<BaseHead title={title} description={description} />
 		<style>
+			.back-link {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.4rem;
+				padding: 0.4rem 0.8rem;
+				border-radius: 6px;
+				border: 1px solid var(--border);
+				color: var(--text-muted);
+				text-decoration: none;
+				font-size: 0.82rem;
+				font-family: 'SF Mono', monospace;
+				transition: all 0.2s;
+				margin-bottom: 1rem;
+			}
+			.back-link:hover {
+				border-color: var(--neon-cyan);
+				color: var(--neon-cyan);
+			}
 			main {
 				width: calc(100% - 2em);
 				max-width: 100%;
@@ -121,6 +139,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 	<body>
 		<Header />
 		<main>
+			<a href={Astro.url.pathname.startsWith("/zh/") ? "/zh/blog" : "/blog"} class="back-link">← {Astro.url.pathname.startsWith("/zh/") ? "返回文章列表" : "Back to Articles"}</a>
 			<article>
 				<div class="hero-image" style="display:none">
 					{heroImage && <Image width={1020} height={510} src={heroImage} alt="" />}
