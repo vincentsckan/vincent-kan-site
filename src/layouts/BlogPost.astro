@@ -9,12 +9,17 @@ import Header from '../components/Header.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, titleEn, descriptionEn, pubDate, updatedDate, heroImage } = Astro.props;
+
+const isEn = Astro.url.pathname.startsWith('/blog/') && !Astro.url.pathname.startsWith('/zh/');
+const displayTitle = (isEn && titleEn) ? titleEn : title;
+const displayDescription = (isEn && descriptionEn) ? descriptionEn : description;
+const displayLang = isEn ? 'en' : 'zh-HK';
 ---
 
-<html lang="zh-HK">
+<html lang={displayLang}>
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead title={displayTitle} description={displayDescription} />
 		<style>
 			.back-link {
 				display: inline-flex;
@@ -159,7 +164,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 								)
 							}
 						</div>
-						<h1>{title}</h1>
+						<h1>{displayTitle}</h1>
 						<hr />
 					</div>
 					<slot />
@@ -167,10 +172,10 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 						<hr />
 						<p class="share-label">📤 分享呢篇文章</p>
 						<div class="share-buttons">
-							<a href="https://twitter.com/intent/tweet?text={encodeURIComponent(title)}&url={encodeURIComponent(Astro.url)}" target="_blank" rel="noopener" class="share-btn twitter">𝕏 Twitter</a>
+							<a href="https://twitter.com/intent/tweet?text={encodeURIComponent(displayTitle)}&url={encodeURIComponent(Astro.url)}" target="_blank" rel="noopener" class="share-btn twitter">𝕏 Twitter</a>
 							<a href="https://www.facebook.com/sharer/sharer.php?u={encodeURIComponent(Astro.url)}" target="_blank" rel="noopener" class="share-btn facebook">📘 Facebook</a>
-							<a href="https://wa.me/?text={encodeURIComponent(title + ' ' + Astro.url)}" target="_blank" rel="noopener" class="share-btn whatsapp">📱 WhatsApp</a>
-							<a href="https://t.me/share/url?url={encodeURIComponent(Astro.url)}&text={encodeURIComponent(title)}" target="_blank" rel="noopener" class="share-btn telegram">✈️ Telegram</a>
+							<a href="https://wa.me/?text={encodeURIComponent(displayTitle + ' ' + Astro.url)}" target="_blank" rel="noopener" class="share-btn whatsapp">📱 WhatsApp</a>
+							<a href="https://t.me/share/url?url={encodeURIComponent(Astro.url)}&text={encodeURIComponent(displayTitle)}" target="_blank" rel="noopener" class="share-btn telegram">✈️ Telegram</a>
 						</div>
 					</div>
 				</div>
