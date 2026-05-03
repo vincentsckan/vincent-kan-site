@@ -24,7 +24,11 @@ Zanfretta到達偏遠區域後，見到三架巨大嘅圓頂飛船降落喺地�
 
 呢個案例之所以咁重要，係因為佢有大量嘅文件記錄、警方報告、心理醫生評估同催眠錄音作為證據。唔同於好多單一事件嘅UFO目擊案，Zanfretta嘅經歷跨越多年，而且有第三方專業人士嘅見證。
 
+📺 相關影片
+<a href="https://www.youtube.com/watch?v=K6N9I8pJ8Qo" target="_blank">🎬 The Zanfretta Abductions - Italy's Most Documented Alien Contact Case (YouTube)</a>
+<a href="https://www.youtube.com/watch?v=h14mYSdmS1U" target="_blank">🎬 Alien Abduction: The Fortunato Zanfretta Story (YouTube)</a>
+
 📚 來源
-- UFO Magazine Italy archives on the Zanfretta case
-- CUN (Centro Ufologico Nazionale) case files
+- [CUN (Centro Ufologico Nazionale) - Zanfretta Case Files](https://www.ufo.it)
+- [UFO Magazine Italy archives on the Zanfretta case](https://www.ufomagazine.it)
 - Russo, E. "The Zanfretta Abductions: A Comprehensive Analysis"

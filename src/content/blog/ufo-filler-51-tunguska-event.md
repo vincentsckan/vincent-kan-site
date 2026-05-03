@@ -24,7 +24,11 @@ UFO研究界對通古斯事件一直有強烈嘅興趣。1950年代，蘇聯科�
 
 1990年代，意大利科學家提出通古斯可能係一個「飛碟」或者外星探測器墜毀嘅證據——佢哋指出附近嘅Cheko湖可能係撞擊坑，但呢個理論亦備受爭議。
 
+📺 相關影片
+<a href="https://www.youtube.com/watch?v=mlkxiq_1j4c" target="_blank">🎬 The Tunguska Event - 1908 Siberian Explosion Documentary (YouTube)</a>
+<a href="https://www.youtube.com/watch?v=qA9Bs_cQz9Y" target="_blank">🎬 Tunguska: Was It a UFO? (YouTube)</a>
+
 📚 來源
-- Krinov, E.L. "Giant Meteorites" (1966), Pergamon Press
-- Kazantsev, A. "Explosion in Siberia" (1946), Vokrug Sveta magazine
-- Gasperini, L. et al. "The Tunguska Mystery" (2007), Scientific American
+- [Krinov, E.L. "Giant Meteorites" (1966), Pergamon Press](https://www.google.com/books/edition/Giant_Meteorites)
+- [Kazantsev, A. "Explosion in Siberia" (1946), Vokrug Sveta magazine](https://en.wikipedia.org/wiki/Tunguska_event)
+- [Gasperini, L. et al. "The Tunguska Mystery" (2007), Scientific American](https://www.scientificamerican.com/article/the-tunguska-mystery/)
