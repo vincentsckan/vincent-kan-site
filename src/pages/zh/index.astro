@@ -1,23 +1,33 @@
 ---
-// /zh/index.astro - Chinese version of Home
-// Reuses the same logic as index.astro but forces Chinese language
 import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
 import { SITE_TITLE } from '../../consts';
 import { getCollection } from 'astro:content';
-import { ui, defaultLang } from '../../i18n';
-
 const lang = 'zh';
-const t = (key) => ui[lang][key] || ui.en[key] || key;
 
-const posts = (await getCollection('blog-zh')).sort(
+// lang forced to zh for this page
+
+const 篇 = (await getCollection('blog-zh')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
-const uapPosts = posts.filter(p => p.id.startsWith('ufo-')).slice(0, 6);
-const otherPosts = posts.filter(p => !p.id.startsWith('ufo-')).slice(0, 4);
+const uapPosts = 篇.filter(p => p.id.startsWith('ufo-')).slice(0, 6);
+const otherPosts = 篇.filter(p => !p.id.startsWith('ufo-')).slice(0, 4);
 const latestUAP = uapPosts[0];
+const featuredUAP = uapPosts.slice(1, 4);
+
+// English welcome section
+const welcomeEN = {
+  title: 'Welcome to the UFO/UAP Archive',
+  subtitle: 'A curated collection of UFO/UAP cases, daily news, and in-depth research',
+  cta: 'Browse Articles',
+  breaking: '最新消息',
+  more: '查看全部 →',
+  news_title: 'Latest UAP News',
+  all_articles: 'All Articles',
+  blog_note: '📝 網誌 content is primarily in Chinese (Traditional). English summaries coming soon.',
+};
 ---
 
 <!DOCTYPE html>
@@ -27,6 +37,7 @@ const latestUAP = uapPosts[0];
     <style is:inline>
 @keyframes fadeIn { 0%{opacity:0} 100%{opacity:1} }
 @keyframes slideUp { 0%{transform:translateY(15px);opacity:0} 100%{transform:translateY(0);opacity:1} }
+@keyframes pulseDot { 0%,100%{opacity:1} 50%{opacity:0.3} }
 @keyframes dTwinkle { 0%{opacity:0.1} 100%{opacity:var(--max-opacity)} }
 @keyframes dFloat { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-5px)} }
 @keyframes dFly { 0%,100%{transform:translate(0,0) rotate(42deg)} 50%{transform:translate(-6px,3px) rotate(42deg)} }
@@ -34,22 +45,28 @@ const latestUAP = uapPosts[0];
 @keyframes dTrail { 0%{height:5%;opacity:0.3} 100%{height:20%;opacity:0} }
 @keyframes dFlyL { 0%{opacity:0;transform:translateX(-60px)} 100%{opacity:1;transform:translateX(0)} }
 @keyframes dFlyR { 0%{opacity:0;transform:translateX(60px)} 100%{opacity:1;transform:translateX(0)} }
+@-webkit-keyframes dFlyL { 0%{opacity:0;-webkit-transform:translateX(-60px);transform:translateX(-60px)} 100%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)} }
+@-webkit-keyframes dFlyR { 0%{opacity:0;-webkit-transform:translateX(60px);transform:translateX(60px)} 100%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)} }
+@-webkit-keyframes dSep { 0%{width:0} 100%{width:120px} }
 @keyframes dSep { 0%{width:0} 100%{width:120px} }
+@-webkit-keyframes dRise { 0%{opacity:0;-webkit-transform:translateY(15px);transform:translateY(15px)} 100%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)} }
 @keyframes dRise { 0%{opacity:0;transform:translateY(15px)} 100%{opacity:1;transform:translateY(0)} }
-@keyframes pulseDot { 0%,100%{opacity:1} 50%{opacity:0.3} }
     </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@700;900&display=swap">
     <style>
       .home-wrap { max-width: 860px; margin: 0 auto; padding: 0 1.5rem; }
       
       .hero-section {
         text-align: center;
-        padding: 4rem 0 3rem;
+        padding: 2rem 0 1.5rem;
         animation: slideUp 0.5s ease both;
       }
       .hero-section h1 {
-        font-size: 2rem;
-        font-weight: 800;
-        margin-bottom: 0.5rem;
+        font-size: 1.4rem;
+        font-weight: 700;
+        margin-bottom: 0.4rem;
         letter-spacing: -0.02em;
       }
       .hero-section h1 .acc {
@@ -58,23 +75,23 @@ const latestUAP = uapPosts[0];
       }
       .hero-section p {
         color: var(--text-muted);
-        font-size: 0.92rem;
-        max-width: 560px;
-        margin: 0 auto 1.5rem;
-        line-height: 1.6;
+        font-size: 0.82rem;
+        max-width: 480px;
+        margin: 0 auto 1rem;
+        line-height: 1.5;
       }
       .hero-cta {
         display: inline-flex;
         align-items: center;
-        gap: 0.5rem;
-        padding: 0.7rem 1.5rem;
-        border-radius: 8px;
+        gap: 0.4rem;
+        padding: 0.5rem 1.2rem;
+        border-radius: 6px;
         background: rgba(0,229,255,0.1);
         border: 1px solid rgba(0,229,255,0.2);
         color: var(--neon-cyan);
         text-decoration: none;
         font-weight: 600;
-        font-size: 0.9rem;
+        font-size: 0.8rem;
         transition: all 0.2s;
         font-family: 'SF Mono', monospace;
       }
@@ -91,7 +108,9 @@ const latestUAP = uapPosts[0];
       .live-embed-container {
         position: relative;
         width: 100%;
-        padding-bottom: 42%;
+        max-width: 600px;
+        margin: 0 auto;
+        padding-bottom: 24%;
         border-radius: 12px;
         overflow: hidden;
         border: 1px solid rgba(0,229,255,0.2);
@@ -134,7 +153,7 @@ const latestUAP = uapPosts[0];
         text-shadow: 0 1px 4px rgba(0,0,0,0.5);
       }
       @media(max-width: 600px) {
-        .live-embed-container { padding-bottom: 56.25%; }
+        .live-embed-container { padding-bottom: 33%; }
       }
 
       .breaking {
@@ -182,52 +201,125 @@ const latestUAP = uapPosts[0];
         margin-bottom: 0.6rem;
       }
       .featured-main h2 { font-size: 1.15rem; font-weight: 700; margin-bottom: 0.4rem; line-height: 1.3; }
-      .featured-main p { font-size: 0.82rem; color: var(--text-secondary); margin: 0 0 0.8rem; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-      .featured-main-footer { padding: 0.7rem 1.5rem; border-top: 1px solid var(--border); display: flex; justify-content: space-between; font-size: 0.72rem; font-family:'SF Mono',monospace; color: var(--text-muted); }
+      .featured-main p {
+        font-size: 0.82rem; color: var(--text-secondary); margin: 0 0 0.8rem;
+        line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+      }
+      .featured-main-footer {
+        padding: 0.7rem 1.5rem; border-top: 1px solid var(--border);
+        display: flex; justify-content: space-between;
+        font-size: 0.72rem; font-family:'SF Mono',monospace; color: var(--text-muted);
+      }
       .featured-side { display: flex; flex-direction: column; gap: 0.75rem; }
-      .featured-side-item { display: flex; gap: 0.75rem; padding: 1rem; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius-sm); text-decoration: none; color: inherit; transition: all 0.2s; flex: 1; }
+      .featured-side-item {
+        display: flex; gap: 0.75rem; padding: 1rem;
+        background: var(--bg-card); border: 1px solid var(--border);
+        border-radius: var(--radius-sm); text-decoration: none; color: inherit;
+        transition: all 0.2s; flex: 1;
+      }
       .featured-side-item:hover { border-color: var(--neon-cyan); }
       .featured-side-icon { font-size: 1rem; margin-top: 0.1rem; }
       .featured-side-body { flex: 1; min-width: 0; }
       .featured-side-body h3 { font-size: 0.82rem; font-weight: 600; margin-bottom: 0.1rem; }
       .featured-side-body p { font-size: 0.72rem; color: var(--text-muted); margin: 0; }
-      .section-hd { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem; animation: slideUp 0.4s ease both; animation-delay: 0.2s; }
+      .section-hd {
+        display: flex; align-items: center; justify-content: space-between;
+        margin-bottom: 1rem; animation: slideUp 0.4s ease both; animation-delay: 0.2s;
+      }
       .section-hd-left { display: flex; align-items: center; gap: 0.6rem; }
-      .section-hd-acc { font-family:'SF Mono',monospace; font-size:0.65rem; color: var(--neon-cyan); letter-spacing:0.08em; padding: 0.15rem 0.4rem; border: 1px solid rgba(0,229,255,0.15); border-radius: 4px; }
+      .section-hd-acc {
+        font-family:'SF Mono',monospace; font-size:0.65rem;
+        color: var(--neon-cyan); letter-spacing:0.08em;
+        padding: 0.15rem 0.4rem; border: 1px solid rgba(0,229,255,0.15); border-radius: 4px;
+      }
       .section-hd h2 { font-size: 1.15rem; font-weight: 700; }
       .section-hd a { font-size: 0.78rem; color: var(--text-muted); font-family:'SF Mono',monospace; }
       .section-hd a:hover { color: var(--neon-cyan); }
+
       .uap-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.85rem; margin-bottom: 2.5rem; }
-      .uap-card { padding: 1rem 1.2rem; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius-sm); text-decoration: none; color: inherit; transition: all 0.25s; animation: slideUp 0.4s ease both; }
-      .uap-card:hover { border-color: var(--neon-cyan); transform: translateY(-1px); }
+      .uap-card {
+        padding: 1rem 1.2rem; background: var(--bg-card);
+        border: 1px solid var(--border); border-radius: var(--radius-sm);
+        text-decoration: none; color: inherit;
+        transition: all 0.25s; animation: slideUp 0.4s ease both;
+      }
+      .uap-card:nth-child(1) { animation-delay: 0.05s; }
+      .uap-card:nth-child(2) { animation-delay: 0.1s; }
+      .uap-card:nth-child(3) { animation-delay: 0.15s; }
+      .uap-card:nth-child(4) { animation-delay: 0.2s; }
+      .uap-card:hover { border-color: var(--neon-cyan); box-shadow: 0 0 15px rgba(0,229,255,0.03); transform: translateY(-1px); }
       .uap-card-meta { font-family:'SF Mono',monospace; font-size:0.62rem; color: var(--text-muted); margin-bottom: 0.25rem; display: flex; gap: 0.4rem; }
       .uap-card-meta .uap-tag { color: var(--neon-cyan); font-weight: 600; }
       .uap-card h3 { font-size: 0.88rem; font-weight: 600; margin-bottom: 0.2rem; }
       .uap-card p { font-size: 0.76rem; color: var(--text-secondary); margin: 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-      .domains { display: grid; grid-template-columns: repeat(5, 1fr); gap: 0.75rem; margin-bottom: 2rem; }
-      .domain-item { padding: 1rem 0.75rem; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius-sm); text-align: center; text-decoration: none; color: inherit; transition: all 0.2s; }
-      .domain-item:hover { border-color: var(--neon-cyan); }
+
+      .feed { margin-bottom: 2.5rem; }
+      .feed-item {
+        display: flex; gap: 0.85rem; padding: 0.8rem 0;
+        border-bottom: 1px solid var(--border);
+        text-decoration: none; color: inherit; transition: all 0.2s; animation: fadeIn 0.5s ease both;
+      }
+      .feed-item:last-child { border-bottom: none; }
+      .feed-item:hover h3 { color: var(--neon-cyan); }
+      .feed-icon {
+        flex-shrink: 0; width: 28px; height: 28px;
+        display: flex; align-items: center; justify-content: center;
+        background: rgba(0,229,255,0.04); border: 1px solid var(--border);
+        border-radius: 50%; font-size: 0.75rem;
+      }
+      .feed-body { flex: 1; min-width: 0; }
+      .feed-meta { font-family:'SF Mono',monospace; font-size:0.65rem; color:var(--text-muted); margin-bottom:0.05rem; }
+      .feed-body h3 { font-size:0.85rem; font-weight:600; margin:0; transition:color 0.2s; }
+      .feed-body p { font-size:0.76rem; color:var(--text-secondary); margin:0.1rem 0 0; }
+
+      .domains {
+        display: grid; grid-template-columns: repeat(5, 1fr); gap: 0.75rem;
+        margin-bottom: 2rem;
+      }
+      .domain-item {
+        padding: 1rem 0.75rem; background: var(--bg-card);
+        border: 1px solid var(--border); border-radius: var(--radius-sm);
+        text-align: center; text-decoration: none; color: inherit;
+        transition: all 0.2s; animation: slideUp 0.4s ease both;
+      }
+      .domain-item:hover { border-color: var(--neon-cyan); background: rgba(0,229,255,0.02); }
       .domain-icon { font-size: 1.2rem; margin-bottom: 0.25rem; }
       .domain-label { font-size: 0.72rem; font-weight: 500; }
       .domain-count { font-size: 0.62rem; font-family:'SF Mono',monospace; color: var(--neon-cyan); margin-top: 0.15rem; }
+
+      .blog-note {
+        padding: 0.7rem 1rem;
+        border: 1px solid rgba(0,229,255,0.1);
+        border-radius: var(--radius-sm);
+        background: rgba(0,229,255,0.03);
+        margin-bottom: 1.5rem;
+        font-size: 0.8rem;
+        color: var(--text-muted);
+        font-family: 'SF Mono', monospace;
+      }
+
       @media(max-width: 700px) {
-        .hero-section h1 { font-size: 1.5rem; }
+        .hero-section h1 { font-size: 1.2rem; }
         .featured { grid-template-columns: 1fr; }
         .uap-grid { grid-template-columns: 1fr; }
-        .domains { grid-template-columns: repeat(3, 1fr); }
+        .domains { grid-template-columns: repeat(3, 1fr); gap: 0.5rem; }
+      }
+      @media(max-width: 480px) {
+        .hero-section { padding: 1rem 0; }
+        .home-wrap { padding: 0 0.65rem; }
       }
 
       /* ===== DISCLOSER HERO ===== */
       .discloser-hero-wrap {
         width: 100%; background: #050505;
         display: flex; flex-direction: column; align-items: center; justify-content: center;
-        padding: 30px 20px 20px;
+        padding: 25px 20px 15px;
         font-family: 'Cormorant Garamond', 'Georgia', serif;
-        min-height: 33vh;
+        min-height: 28vh; min-height: 28dvh;
         overflow: hidden;
       }
       .discloser-hero-wrap .hero-circle {
-        position: relative; width: 240px; height: 240px; max-width: 50vw; max-height: 50vw;
+        position: relative; width: 200px; height: 200px; max-width: 45vw; max-height: 45vw;
       }
       .discloser-hero-wrap .film-circle {
         position: relative; width: 100%; height: 100%; border-radius: 50%; overflow: hidden;
@@ -238,20 +330,22 @@ const latestUAP = uapPosts[0];
       .discloser-hero-wrap .film-circle-inner { position: absolute; inset: 0; border-radius: 50%; background: #020202; overflow: hidden; }
       .discloser-hero-wrap .stars-container { position: absolute; inset: 0; }
       .discloser-hero-wrap .star { position: absolute; background: #ffffff; border-radius: 50%; animation: dTwinkle var(--speed) ease-in-out infinite alternate; animation-delay: var(--delay); }
+      
       .discloser-hero-wrap .planet-container { position: absolute; top:22%; left:18%; width:35%; height:35%; animation: dFloat 6s ease-in-out infinite; }
       .discloser-hero-wrap .planet { width:100%; height:100%; border-radius:50%; background:#ffffff; position:relative; }
       .discloser-hero-wrap .planet-band { position:absolute; left:5%; width:90%; height:10%; background:rgba(0,0,0,0.08); border-radius:50%; }
       .discloser-hero-wrap .planet-band-1 { top:38%; } .discloser-hero-wrap .planet-band-2 { top:56%; }
       .discloser-hero-wrap .ring-back, .discloser-hero-wrap .ring-front { position:absolute; top:42%; left:-15%; width:130%; height:16%; border:3px solid #ffffff; border-radius:50%; transform:rotate(-22deg); }
-      .discloser-hero-wrap .ring-back { clip-path:inset(0 0 50% 0); opacity:0.45; }
-      .discloser-hero-wrap .ring-front { clip-path:inset(50% 0 0 0); opacity:0.55; }
+      .discloser-hero-wrap .ring-back { clip-path:inset(0 0 50% 0); opacity:0.45; border-width:3px; }
+      .discloser-hero-wrap .ring-front { clip-path:inset(50% 0 0 0); opacity:0.55; border-width:3px; }
+      
       .discloser-hero-wrap .ship-container { position:absolute; top:42%; right:28%; width:30%; height:30%; animation: dFly 8s ease-in-out infinite; }
       .discloser-hero-wrap .ship { position:relative; width:100%; height:100%; }
       .discloser-hero-wrap .ship-flame { position:absolute; bottom:2%; left:50%; transform:translateX(-50%); width:20%; height:25%; background:#ffffff; border-radius:50%; opacity:0.4; animation:dFlame 0.4s ease-in-out infinite alternate; }
       .discloser-hero-wrap .ship-flame-inner { position:absolute; bottom:0%; left:50%; transform:translateX(-50%); width:12%; height:20%; background:#ffffff; border-radius:50%; opacity:0.7; animation:dFlame 0.3s ease-in-out infinite alternate-reverse; }
       .discloser-hero-wrap .ship-trail { position:absolute; bottom:-8%; left:50%; transform:translateX(-50%); width:3px; height:15%; background:linear-gradient(to bottom, rgba(255,255,255,0.3), transparent); animation:dTrail 1s linear infinite; }
       .discloser-hero-wrap .ship-body { position:absolute; top:10%; left:42%; width:16%; height:60%; background:#ffffff; border-radius:2px; }
-      .discloser-hero-wrap .ship-pod { position:absolute; top:0%; left:30%; width:40%; height:25%; background:#ffffff; clip-path:polygon(20% 0%,80% 0%,100% 100%,0% 100%); }
+      .discloser-hero-wrap .ship-pod { position:absolute; top:0%; left:30%; width:40%; height:25%; background:#ffffff; clip-path:polygon(20% 0%,80% 0%,100% 100%,0% 100%); border-radius:4px 4px 0 0; }
       .discloser-hero-wrap .ship-pod-window { position:absolute; top:8%; left:50%; transform:translateX(-50%); width:40%; height:40%; background:#000000; border-radius:50%; }
       .discloser-hero-wrap .ship-cargo { position:absolute; top:40%; left:30%; width:40%; height:25%; background:#ffffff; border:1px solid #000000; }
       .discloser-hero-wrap .ship-arm-l, .discloser-hero-wrap .ship-arm-r { position:absolute; top:18%; width:6%; height:50%; background:#ffffff; }
@@ -264,18 +358,23 @@ const latestUAP = uapPosts[0];
       .discloser-hero-wrap .ship-spoke-h { position:absolute; top:35%; left:10%; width:80%; height:2px; background:#ffffff; }
       .discloser-hero-wrap .ship-leg-l, .discloser-hero-wrap .ship-leg-r { position:absolute; bottom:2%; width:3px; height:12%; background:#ffffff; }
       .discloser-hero-wrap .ship-leg-l { left:35%; transform:rotate(15deg); } .discloser-hero-wrap .ship-leg-r { right:35%; transform:rotate(-15deg); }
-      .discloser-hero-wrap .grain-overlay { position:absolute; inset:0; border-radius:50%; opacity:0.04; pointer-events:none; }
+      
+      .discloser-hero-wrap .grain-overlay { position:absolute; inset:0; border-radius:50%; opacity:0.04; pointer-events:none; background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E"); background-size:100px 100px; }
       .discloser-hero-wrap .vignette { position:absolute; inset:-5%; border-radius:50%; pointer-events:none; background:radial-gradient(ellipse at center, transparent 45%, rgba(0,0,0,0.5) 100%); }
-      .discloser-hero-wrap .text-area { text-align:center; margin-top:10px; width:100%; }
+      
+      .discloser-hero-wrap .text-area { text-align:center; margin-top:8px; width:100%; }
       .discloser-hero-wrap .chinese-line { display:flex; align-items:center; justify-content:center; }
-      .discloser-hero-wrap .char-left, .discloser-hero-wrap .char-right { font-size:38px; font-weight:900; color:#ffffff; display:inline-block; letter-spacing:14px; opacity:0; animation:dFlyL 0.8s cubic-bezier(0.16,1,0.3,1) forwards; animation-delay:0.4s; }
-      .discloser-hero-wrap .char-right { animation-name:dFlyR; }
-      .discloser-hero-wrap .separator { display:block; height:1.5px; background:rgba(255,255,255,0.6); margin:4px auto 0; width:0; animation:dSep 0.6s ease-out forwards; animation-delay:1s; }
-      .discloser-hero-wrap .english { font-size:14px; font-weight:700; color:rgba(255,255,255,0.7); letter-spacing:10px; margin-top:6px; opacity:0; animation:dRise 0.6s ease-out forwards; animation-delay:1.2s; }
+      .discloser-hero-wrap .char-left, .discloser-hero-wrap .char-right { font-size:34px; font-weight:900; color:#ffffff; display:inline-block; letter-spacing:12px; opacity:0; animation:dInit 0.8s cubic-bezier(0.16,1,0.3,1) forwards; }
+      .discloser-hero-wrap .char-left { animation-name:dFlyL; animation-delay:0.4s; }
+      .discloser-hero-wrap .char-right { animation-name:dFlyR; animation-delay:0.4s; }
+      .discloser-hero-wrap .separator { display:block; height:1.5px; background:rgba(255,255,255,0.6); margin:3px auto 0; width:0; animation:dSep 0.6s ease-out forwards; animation-delay:1s; }
+      .discloser-hero-wrap .english { font-size:13px; font-weight:700; color:rgba(255,255,255,0.7); letter-spacing:9px; margin-top:5px; opacity:0; animation:dRise 0.6s ease-out forwards; animation-delay:1.2s; }
+
       @media(min-width:701px) {
-        .discloser-hero-wrap .hero-circle { width: 280px; height: 280px; }
-        .discloser-hero-wrap { min-height: 35vh; padding: 40px 20px; }
+        .discloser-hero-wrap .hero-circle { width: 240px; height: 240px; }
+        .discloser-hero-wrap { min-height: 30vh; padding: 30px 20px; }
       }
+
       /* Sticky top: discloser + header fixed, only content scrolls */
       .page-layout {
         display: flex; flex-direction: column;
@@ -286,7 +385,7 @@ const latestUAP = uapPosts[0];
       }
       .page-content {
         flex: 1; overflow-y: auto;
-        padding-bottom: 2rem;
+        padding-bottom: 1rem;
       }
     </style>
   </head>
@@ -336,42 +435,51 @@ const latestUAP = uapPosts[0];
     <div class="page-content">
     <main>
       <div class="home-wrap">
+        <!-- HERO -->
         <section class="hero-section">
-          <h1><span class="acc">UFO</span>/UAP 研究與新聞庫</h1>
-          <p>UFO/UAP 案例庫、每日新聞更新、深度研究分析 — 免費開放</p>
-          <a href="/zh/blog" class="hero-cta">瀏覽文章 →</a>
+          <h1><span class="acc">UFO</span>/UAP 研究與新聞</h1>
+          {lang === 'en' ? (
+            <>
+              <p>UFO/UAP 個案、每日新聞及深入研究 — 完全免費，無廣告。</p>
+              <a href="/blog" class="hero-cta">瀏覽文章 →</a>
+            </>
+          ) : (
+            <>
+              <p>UFO/UAP 案例庫、每日新聞更新、深度研究分析 — 免費開放</p>
+              <a href="/zh/blog" class="hero-cta">瀏覽文章 →</a>
+            </>
+          )}
         </section>
 
+        <!-- LIVE STREAM EMBED -->
+        <div class="home-live-section">
+          <div class="live-embed-container">
+            <iframe src="https://www.youtube.com/embed/NN-lfF5Bxiw?autoplay=1&rel=0" frameborder="0" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe>
+            <div class="live-embed-overlay">
+              <span class="live-badge-inline"><span class="live-dot-inline"></span> 🔴 LIVE</span>
+              <span class="live-embed-title">UFO/UAP 國會聽證會</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- 最新消息 -->
         {latestUAP && (
           <a href={`/blog/${latestUAP.id}/`} class="breaking">
             <span class="breaking-dot"></span>
-            <span class="breaking-label">突發</span>
+            <span class="breaking-label">{lang === 'en' ? '最新消息' : '突發'}</span>
             <span class="breaking-title">{latestUAP.data.title}</span>
             <span class="breaking-arrow">→</span>
           </a>
         )}
 
-        <!-- LIVE STREAM EMBED -->
-        <div class="home-live-section">
-          <div class="live-embed-container">
-            <iframe 
-              src="https://www.youtube.com/embed/NN-lfF5Bxiw?autoplay=1&rel=0" 
-              frameborder="0" 
-              allow="autoplay; encrypted-media; fullscreen" 
-              allowfullscreen>
-            </iframe>
-            <div class="live-embed-overlay">
-              <span class="live-badge-inline">
-                <span class="live-dot-inline"></span>
-                🔴 直播中
-              </span>
-              <span class="live-embed-title">
-                UFO/UAP 國會聽證會即時直播
-              </span>
-            </div>
+        <!-- Language note for English visitors -->
+        {lang === 'en' && (
+          <div class="blog-note">
+            📝 Article body content is mostly in Chinese (Traditional).
           </div>
-        </div>
+        )}
 
+        <!-- FEATURED -->
         <div class="featured">
           {latestUAP ? (
             <a href={`/blog/${latestUAP.id}/`} class="featured-main">
@@ -382,21 +490,22 @@ const latestUAP = uapPosts[0];
               </div>
               <div class="featured-main-footer">
                 <span><FormattedDate date={latestUAP.data.pubDate} /></span>
-                <span>閱讀全文 →</span>
+                <span>{lang === 'en' ? '閱讀全文 →' : '閱讀全文 →'}</span>
               </div>
             </a>
           ) : (
             <div class="featured-main">
               <div class="featured-main-top">
                 <span class="featured-tag">🛸 UFO/UAP</span>
-                <h2>全球UFO/UAP新聞摘要</h2>
-                <p>AI自動搜集每日全球UFO重點新聞，涵蓋政府披露、懸案分析。</p>
+                <h2>{lang === 'en' ? '全球UFO/UAP新聞摘要' : '全球UFO/UAP新聞摘要'}</h2>
+                <p>{lang === 'en' ? 'AI自動搜集每日全球UFO重點新聞，涵蓋政府披露、懸案分析。' : 'AI自動搜集每日全球UFO重點新聞，涵蓋政府披露、懸案分析。'}</p>
               </div>
             </div>
           )}
+
           <div class="featured-side">
             {uapPosts.slice(1, 3).map(p => (
-              <a href={`/blog/${p.id}/`} class="featured-side-item">
+              <a href={`/zh/blog/${p.id}/`} class="featured-side-item">
                 <div class="featured-side-icon">🛸</div>
                 <div class="featured-side-body">
                   <h3>{p.data.title}</h3>
@@ -405,7 +514,7 @@ const latestUAP = uapPosts[0];
               </a>
             ))}
             {otherPosts.slice(0, 1).map(p => (
-              <a href={`/blog/${p.id}/`} class="featured-side-item">
+              <a href={`/zh/blog/${p.id}/`} class="featured-side-item">
                 <div class="featured-side-icon">📝</div>
                 <div class="featured-side-body">
                   <h3>{p.data.title}</h3>
@@ -416,34 +525,41 @@ const latestUAP = uapPosts[0];
           </div>
         </div>
 
+        <!-- QUICK LINKS -->
         <div class="domains">
           <a href="/zh/blog" class="domain-item">
             <div class="domain-icon">🛸</div>
-            <div class="domain-label">UFO 新聞</div>
-            <div class="domain-count">{uapPosts.length} 篇</div>
+            <div class="domain-label">{lang === 'en' ? 'UFO 新聞' : 'UFO 新聞'}</div>
+            <div class="domain-count">{uapPosts.length} {lang === 'en' ? '篇' : '篇'}</div>
           </a>
           <a href="/zh/projects" class="domain-item">
             <div class="domain-icon">⚡</div>
             <div class="domain-label">專案</div>
-            <div class="domain-count">3 個</div>
+            <div class="domain-count">3</div>
           </a>
           <a href="/zh/about" class="domain-item">
             <div class="domain-icon">👤</div>
-            <div class="domain-label">關於我</div>
-            <div class="domain-count">簡介</div>
+            <div class="domain-label">{lang === 'en' ? '關於我' : '關於我'}</div>
+            <div class="domain-count">{lang === 'en' ? '簡介' : '簡介'}</div>
           </a>
           <a href="/forum" class="domain-item">
             <div class="domain-icon">💬</div>
-            <div class="domain-label">討論區</div>
-            <div class="domain-count">交流學習</div>
+            <div class="domain-label">{lang === 'en' ? '討論區' : '討論區'}</div>
+            <div class="domain-count">{lang === 'en' ? '交流學習' : '交流學習'}</div>
+          </a>
+          <a href="/zh/ufo-map" class="domain-item">
+            <div class="domain-icon">🗺️</div>
+            <div class="domain-label">{lang === 'en' ? 'UFO地圖' : 'UFO地圖'}</div>
+            <div class="domain-count">全球</div>
           </a>
           <a href="/zh/blog" class="domain-item">
             <div class="domain-icon">📰</div>
-            <div class="domain-label">全部文章</div>
-            <div class="domain-count">{posts.length} 篇</div>
+            <div class="domain-label">{lang === 'en' ? '全部文章' : '全部文章'}</div>
+            <div class="domain-count">{篇.length} {lang === 'en' ? '篇' : '篇'}</div>
           </a>
         </div>
 
+        <!-- MORE UFO NEWS -->
         {uapPosts.length > 1 && (
           <>
             <div class="section-hd">
@@ -451,17 +567,42 @@ const latestUAP = uapPosts[0];
                 <span class="section-hd-acc">/UAP</span>
                 <h2>UFO 新聞總覽</h2>
               </div>
-              <a href="/zh/blog">查看全部 →</a>
+              <a href="/zh/blog">{lang === 'en' ? '查看全部 →' : '查看全部 →'}</a>
             </div>
             <div class="uap-grid">
               {uapPosts.slice(1, 5).map(p => (
-                <a href={`/blog/${p.id}/`} class="uap-card">
+                <a href={`/zh/blog/${p.id}/`} class="uap-card">
                   <div class="uap-card-meta">
                     <span class="uap-tag">🛸 UFO/UAP</span>
                     <span><FormattedDate date={p.data.pubDate} /></span>
                   </div>
                   <h3>{p.data.title}</h3>
                   <p>{p.data.description}</p>
+                </a>
+              ))}
+            </div>
+          </>
+        )}
+
+        <!-- OTHER POSTS -->
+        {otherPosts.length > 0 && (
+          <>
+            <div class="section-hd">
+              <div class="section-hd-left">
+                <span class="section-hd-acc">/BLOG</span>
+                <h2>最新文章</h2>
+              </div>
+              <a href="/zh/blog">{lang === 'en' ? '查看全部 →' : '全部 →'}</a>
+            </div>
+            <div class="feed">
+              {otherPosts.slice(0, 4).map(p => (
+                <a href={`/zh/blog/${p.id}/`} class="feed-item">
+                  <div class="feed-icon">📝</div>
+                  <div class="feed-body">
+                    <div class="feed-meta"><FormattedDate date={p.data.pubDate} /></div>
+                    <h3>{p.data.title}</h3>
+                    <p>{p.data.description}</p>
+                  </div>
                 </a>
               ))}
             </div>
