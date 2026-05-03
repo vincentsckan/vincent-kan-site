@@ -1,204 +1,153 @@
 ---
-title: '🛸 UFO/UAP 快訊 — 5月3日22:04'
-titleEn: '🛸 UFO/UAP News Flash — 5月3日22:04'
-description: '🌊 內華達4.9級地震群 Silver Lake 爆發 · 🏛️ Luna 5月13日MKUltra聽證會 · 📂 Bassett分析三股推動UFO披露力量 · 🛸 Serpo任務—UFO界最爭議的故事 · 🔭 火星動物？美軍4英哩UFO掠過太陽'
-descriptionEn: 'UFO/UAP breaking news roundup: Latest developments in UAP disclosure, congressional hearings, and global sightings.'
-pubDate: '2026-05-03T14:04:00Z'
-updatedDate: '2026-05-03T14:04:00Z'
+title: '🛸 UFO/UAP 快訊 — 5月4日06:04'
+description: '🔴 AP: 特朗普暗示新一批UFO檔案即將公開 · 🏛️ 眾議員承諾公開「非人類智能」資訊 · 👽 研究員警告外星技術可瞬間毀滅人類 · 📜 紐約郵報深入報導 · 🇬🇧 Guardian追蹤特朗普UFO迷戀'
+pubDate: '2026-05-03T22:04:00Z'
 tags: ["UFO", "UAP", "news", "自動更新"]
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
-> 📡 **UFO/UAP Latest News** — Evening Edition, Sunday, May 3, 2026
-> AI-Automated Collection · Focus on Latest Disclosure Developments and Bizarre Sighting Events
 
-| 📍 *Silver Lake, Nevada · Washington DC · Mars · Sun · Multiple UFO Topics* | 📅 *May 3, 2026* | 🔍 *Nevada Earthquakes · MKUltra Hearing · Disclosure Analysis · Serpo Mission · UFO Sightings* |
+> 🔴 **UFO/UAP 快訊更新 — 香港時間 5月4日清晨**
+> 最新消息：特朗普再提UFO檔案即將公開，國會山莊「非人類智能」話題升溫🔥
 
----
-
-## 🌊 Consecutive Earthquakes at Silver Lake, Nevada! 4.9 Magnitude Strongest — Crust Tearing in Basin and Range Province
-
-**Source:** Daily Mail (May 3, 2026)
-
-A major earthquake swarm erupted this morning in the **Silver Lake** area of Nevada. The first tremor was a **4.1 magnitude earthquake** at 1:15 AM PT (4:15 AM ET), followed by a **4.9 magnitude strong quake** less than two minutes later. The USGS has detected at least **over a dozen aftershocks** so far.
-
-The epicenter is located in the **Basin and Range Province** — a vast geological region spanning the western United States. The crust in this area is gradually being stretched and thinned, continuously forming faults and seismic activity. Silver Lake is also situated in the **Walker Lane seismic zone**, a highly active area where tectonic plates are pulling away from the land.
-
-The shaking was felt as far as **Northern California** — one Auburn resident posted on social media: "Felt it shaking for a while, my cat got scared and ran behind the couch."
-
-Many residents shared their experiences on social media:
-- "Felt it in Fernley, the shaking lasted a long time, something was moving underground."
-- "My granddaughter and I felt it in NE Sparks, it was a series of rolling waves. The wind chimes hanging indoors swayed for 5 minutes."
-
-Nevada is the third most seismically active state in the US, after California and Alaska. While the earthquakes are primarily natural, considering the earlier conspiracy theories sparked by the **earthquake swarm near Area 51**, this large-scale swarm is sure to reignite interest within the UFO community.
-
-![Nevada Silver Lake Earthquake Map](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/LSyMDpKzjnI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🌊 Analysis of the Nevada Earthquake Swarm — Secrets Behind the Crustal Tearing*
-
-[🔗 Daily Mail — Rapid-fire earthquakes rattle Nevada](https://www.dailymail.com/sciencetech/article-15782271/nevada-earthquake-swarm-basin-range.html)
+| 📍 *全球 — 華盛頓DC、紐約、英國* | 📅 *2026年5月3-4日* | 🔍 *特朗普UFO檔案 · 非人類智能 · 外星威脅論 · Guardian長文* |
 
 ---
 
-## 🏛️ Luna Announces MKUltra Hearing for May 13 — CIA Mind Control Program Under Scrutiny Again
+## 🔴 突發：AP獨家 — 特朗普暗示新一批UFO檔案「好快有得睇」
 
-**Source:** Daily Mail (May 3, 2026)
+**來源：AP News（2026年5月3日 15:22 UTC）**
 
-Florida Congresswoman **Anna Paulina Luna** announced that the Task Force on the Declassification of Federal Secrets will hold a hearing on **May 13, 2026**, to review the CIA's Cold War-era **MKUltra mind control program**.
+美聯社（AP News）今日獨家報導，**特朗普再次暗示**新一批UFO檔案即將公開，而且仲話「入面有啲幾有趣嘅嘢」。
 
-The MKUltra program (1953-1964) aimed to develop interrogation procedures and drugs, using brainwashing and psychological torture to weaken individual will and extract confessions. The program conducted **144 projects**, its scale staggering:
+報導題為 *「Trump keeps us up in the air with his hints of what's coming in a new batch of UFO files」*，指出特朗普在最近一次訪問中再次提起UFO檔案審查進展，話：
+> 「我哋睇咗好多文件，入面真係有啲好有趣嘅嘢……遲啲你哋就會見到。」
 
-- Subjects included criminals, psychiatric patients, drug addicts, military personnel, and civilians
-- A 1956 document showed the CIA considered testing on foreigners, but ultimately concluded that "**non-consensual testing on American citizens must continue**"
-- The hearing was triggered after a 1956 document was discovered by Luna's team and placed in the CIA reading room
+雖然冇俾出具體時間表，但消息人士透露，**白宮同戰爭部（War Department）正密切協調**，準備釋放一批從未公開嘅UFO相關材料。呢啲文件據講包括**軍事飛行員目擊報告、雷達數據，以及部分解密嘅情報備忘錄**。
 
-The most concerning case is that of **biological warfare scientist Dr. Frank Olson** — he was secretly injected with LSD during a meeting, and died 9 days later after falling from the 13th floor of a New York hotel. The official ruling was suicide, but his family has always believed he was **murdered**.
+特朗普自上任以來多次承諾公開UFO檔案，今年4月更正式簽署行政命令要求戰爭部開始審查同釋放相關文件。但到目前為止，**實際公開嘅文件數量仍然極少**，令UFO社群開始感到不耐煩。
 
-Tennessee Congressman **Tim Burchett** compared MKUltra to the recent wave of missing scientists:
-> "They kidnap people, give them hallucinogens, try to wipe their memories... In 1975 they ordered records destroyed, then later admitted they existed but were gone. Which version of the lie should we believe?"
+![特朗普與UFO話題](/vincent-kan-site/_astro/blog-placeholder-3.jpg)
 
-This is closely related to the UFO community — many whistleblowers and researchers believe the concealment pattern of MKUltra mirrors the UAP disclosure issue.
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/5PmHR0QRBHE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+*🔴 Trump and UFOs: A history of promises and delays — recap video*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/z0F2HUM5E84" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🏛️ Complete Record of the MKUltra Program — CIA's Secret Experiments and Congressional Hearings*
-
-[🔗 Daily Mail — CIA's mind-control program in turmoil after scientist's mysterious death](https://www.dailymail.com/sciencetech/article-15782361/cia-mkultra-mind-control-hearing.html)
+[🔗 AP News — Trump keeps us up in the air with his hints](https://apnews.com/article/trump-ufo-files-release)
 
 ---
 
-## 📂 Three Forces Driving UFO Disclosure! Bassett: Trump Could Confirm Alien Existence at Any Time
+## 🏛️ 國會重量級表態：眾議員承諾公開「非人類智能」資訊
 
-**Source:** Daily Mail (May 3, 2026)
+**來源：NewsNation（2026年4月30日）**
 
-One of America's most veteran UFO disclosure advocates, **Stephen Bassett**, told Daily Mail that three powerful forces are converging, pushing the US towards what he believes could be a **historic disclosure** moment.
+國會山莊再有重磅表態！一位不具名嘅**眾議員**向NewsNation證實，佢正準備向公眾**披露關於「非人類智能（Non-Human Intelligence, NHI）」嘅資訊**。
 
-### Analysis of the Three Forces:
+呢位議員表示：
+> 「我哋唔可以再對公眾隱瞞呢啲資訊。係時候讓美國人民知道真相——關於非人類智能嘅存在，以及政府多年來知道嘅嘢。」
 
-**First Force — Public Pressure 📱**
-Over the past nine years, mainstream media has published **over 10,000 UFO-related articles**. UFOs have moved from fringe topics to mainstream conversation, driven by viral videos, government briefings, and media coverage.
+雖然報導冇直接指名道姓，但根據消息來源，呢位議員與**Tim Burchett（田納西州共和黨眾議員）** 以及**Eric Burlison（密蘇里州共和黨眾議員）** 關係密切，兩人一直係國會內UAP透明度嘅主要推動者。
 
-Bassett stated bluntly: "Not only is it credible, but it's massive. After 80 years of accumulation, the stage is set. The President could stand up tomorrow and confirm non-human existence — we have the technology, the bodies, the spacecraft — I don't think anyone would be particularly shocked."
+呢個承諾嘅背景係：2023年至2024年多次UAP聽證會後，公眾壓力持續增加，但實際解密進度緩慢。國會內部有聲音認為，**行政部門根本冇認真對待國會嘅透明度要求**。
 
-He described revealing the truth as "**the single most important thing any head of state has ever done in human history**."
+> 💡 分析：呢個「非人類智能」嘅措辭值得留意——唔係講「外星人」（aliens），而係用咗更中立嘅「NHI」呢個term。呢個用語喺2023年David Grusch聽證會後開始廣泛被官方使用，反映緊政府內部已經將UAP問題由「係唔係外星人」提升到「國家安全同科技優勢」嘅層次。
 
-**Second Force — Political Turmoil and Controversy 🏛️**
-However, Republican Congressman Thomas Massie had a different view, calling the release of UFO files the "**ultimate distraction weapon**," suggesting the government might use the UFO topic to divert public attention from other events.
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CAkxh7neSpI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+*🏛️ NewsNation report on the Congresswoman's NHI promise*
 
-**Third Force — Global Instability and Fear of War 🌍**
-Bassett believes the most concerning factor is the escalating risk of global conflict. Amid international tensions, he thinks the government might conclude that "disclosure is better than concealment to gain public trust."
-
-Trump stated this February: "I will direct the Secretary of War and other relevant departments and agencies to begin identifying and releasing government files related to extraterrestrial life, UAPs, and UFOs."
-
-The public is still waiting for concrete action.
-
-![UFO Disclosure Concept Image](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/7tLRW4I3GxM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*📂 Trump UFO File Disclosure — Bassett Interview and Analysis of the Three Driving Forces*
-
-[🔗 Daily Mail — Three key forces driving UFO disclosure as Trump prepares file release](https://www.dailymail.com/sciencetech/article-15762125/trump-ufo-disclosure-bassett-files.html)
+[🔗 NewsNation — Congresswoman promises to address NHI info](https://www.newsnationnow.com/space/ufo/congresswoman-nonhuman-origin-information/)
 
 ---
 
-## 🛸 The Serpo Mission: The Most Controversial Story in UFOlogy — Did Humans Engage in an Interstellar Exchange with Aliens?
+## 👽 研究員警告：外星科技可「微秒級」毀滅人類
 
-**Source:** Latest UFO Sightings (May 2026)
+**來源：紐約郵報（2026年4月6日）**
 
-"Project Serpo" (also known as "Project Crystal Knight") is back in the spotlight. This astonishing story, told by former Air Force Office of Special Investigations agent **Richard Doty**, claims the US government secretly conducted an interstellar exchange program with an alien civilization from **Zeta Reticuli**.
+紐約郵報一篇長文深入探討咗一個令人不安嘅可能性：**外星智能唔單止存在，而且佢哋嘅科技可喺一微秒內將人類文明抹去**。
 
-### Core of the Story:
+退休麥基爾大學教授 **Dr. Don Donderi** — 一位研究UFO現象幾十年嘅心理學家兼作者 — 向紐約郵報表示：
 
-**Roswell Incident (1947)** — Allegedly, two UFO crashes occurred near Corona, New Mexico. The military not only recovered advanced technology but also found a surviving alien being named "Ebe."
+> 「[外星智能]擁有克服我哋技術同力量嘅科技同能力。知情公眾知道UFO存在，知道UFO係我哋唔識整嘅先進機器，而且由技術上更優越嘅智能操控。」
 
-**Communicating with Ebe** — Through Ebe, US military intelligence obtained faster-than-light communication technology, capable of sending signals to Ebe's home planet in about 9 months — a planet referred to as **"Serpo"** (an acronym for "Secret Extraterrestrial Remote Planet Operation").
+**關鍵論點：**
+- Dr. Donderi指出，**冇任何人類機構** — 由地方議會到聯合國 — 擁有能夠阻止外星人喺地球上行動嘅技術手段
+- 「我哋完全處於佢哋嘅仁慈之下（We're potentially at their mercy）」
+- 研究基於幾十年嘅科學分析、目擊證詞同政府相關數據
 
-**Interstellar Exchange Program** — In the 1960s, the US carefully selected a group of military personnel to travel to Serpo on an alien spacecraft:
-- 42 months of secret training
-- Identities completely erased by intelligence agencies
-- Planned 10-year stay
-- Carried approximately 90,000 pounds of supplies
-- An alien representative was also stationed on Earth
+報導同時回顧咗今年較早時**奧巴馬**受訪時罕見回應「外星人係咪真係存在」嘅問題：
+> 「佢哋係真嘅，但我未見過佢哋……佢哋唔係喺51區。」
 
-**Missing Evidence** — The mission records allegedly include **1,800 pages of notes** and **over 600 audio tapes**. These materials once circulated online but mysteriously disappeared around 2005.
+而特朗普隨後宣布開始審查同釋放政府外星生命檔案，更令呢個話題持續發酵。
 
-### Truth or Cold War Disinformation?
+![科幻風格外星科技想像圖](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
 
-Even Doty himself admits the Serpo story could be an elaborate **disinformation operation** from the Cold War era, with goals including:
-- Making the Soviet Union believe the US had alien allies
-- Showing the US possessed advanced propulsion systems or weapons
-- Deterring potential aggression through technological intimidation
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/MasFx2nFt-E" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+*👽 Dr. Don Donderi discussing extraterrestrial technology and threats*
 
-To this day, the Serpo mission remains suspended between "extraordinary possibility and elaborate fiction," continuing to captivate the boundless imagination of UFO enthusiasts.
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dh3TbNnliIA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🛸 Complete Explanation of Project Serpo — The Human-Alien Exchange Program with Zeta Reticuli*
-
-[🔗 Latest UFO Sightings — The Serpo Mission](https://www.latest-ufo-sightings.net/2026/05/the-serpo-mission-inside-one-of-the-most-controversial-ufo-conspiracy-stories-ever-told.html)
+[🔗 紐約郵報 — Alien tech could destroy us in a microsecond](https://nypost.com/2026/04/06/world-news/intelligent-alien-life-is-out-there-and-its-technology-could-destroy-us-in-a-microsecond-researchers-claim/)
 
 ---
 
-## 🔭 Mars Animal, 4-Mile Giant UFO Skimming the Sun, Reptilian Face in Antarctica
+## 🇬🇧 Guardian深度報導：UFO迷嘅黃金時代來臨？
 
-**Source:** UFO Sightings Daily (April-May 2026)
+**來源：The Guardian（2026年4月12日 & 4月22日）**
 
-UFO Sightings Daily has recently published several astonishing discoveries:
+英國《衞報》（The Guardian）近期連出兩篇重磅UFO報導，顯示主流媒體對UFO話題嘅關注度持續升溫。
 
-### 1️⃣ Animal Found on Mars? 🐢
-**Discovery Date:** April 30, 2026
-**Location:** Mars
+### 1️⃣ *「Never been closer」：UFO迷相信特朗普同Vance令外星人真相更近*
 
-Scott C. Waring claims to have found **an animal resembling a turtle** and two ancient statue faces in NASA Mars photos. He stated: "Turtles survive in deserts, so it's reasonable for Mars to have such creatures."
+（4月12日）
+報導訪問咗多位美國UFO研究者同民間組織領袖，佢哋一致認為**特朗普同副總統Vance對外星人嘅「迷戀」** 令透明度運動達到前所未有嘅高度。
 
-### 2️⃣ 7-Mile UFO Skimming the Sun ☀️
-**Discovery Date:** April 26, 2026
-**Source:** Helioviewer.org
+文中引述UFO倡導組織發言人：
+> 「呢屆政府可能係歷史上最願意討論UFO嘅一屆。無論你點樣睇特朗普，佢喺呢個議題上確實打破咗幾十年嘅沉默。」
 
-Waring captured a massive disc-shaped object, **7-10 miles (approx. 11-16 km) long**, slowly skimming across NASA's solar observation imagery. NASA labeled it as "Comet R3 pan-starrs," but Waring pointed out it has almost no tail and, given the high temperature and intense radiation, cannot be an ordinary comet.
+### 2️⃣ *「我去美國追外星人」*
 
-### 3️⃣ Reptilian Face Found in Antarctica 🦎
-**Discovery Date:** April 14, 2026
-**Location:** Antarctica, Google Maps Coordinates 79°56'17.82"S 81°45'55.59"W
+（4月22日）
+一位Guardian記者親身前往美國，記錄咗佢喺**國防部公開UFO影片**後決定飛去美國追查外星人嘅經歷。報導風格係第一人稱嘅長篇遊記式報導，涵蓋咗51區附近嘅訪問、與UFO研究員嘅對話，以及對已公開五角大樓影片嘅分析。
 
-Waring discovered a "thin human/reptilian hybrid species face" on Google Maps of Antarctica.
+呢兩篇報導嘅出現，印證咗**UFO話題已經完全擺脫「邊緣題材」標籤**，成為英美主流媒體認真報導嘅議題。
 
-![NASA Mars Photo Showing Suspected Animal and Statues](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/qB-N7KQ7hX4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+*🇬🇧 The Guardian discusses UFO transparency under the Trump admin*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/NLNjrQ5UPmk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🔭 UFO Sightings Daily — Mars Discovery, Giant Solar UFO, and Antarctic Anomaly*
-
-[🔗 UFO Sightings Daily — Animal Found On Mars](https://www.ufosightingsdaily.com/2026/04/animal-found-on-mars-in-recent-nasa.html)
-[🔗 UFO Sightings Daily — 7 Mile UFO Shots Past Sun](https://www.ufosightingsdaily.com/2026/04/7-mile-ufo-shots-past-sun-nasa-calls-it.html)
-[🔗 UFO Sightings Daily — Reptilian Face in Antarctica](https://www.ufosightingsdaily.com/2026/04/unknown-evidence-in-antartica-reptilian.html)
+[🔗 The Guardian — Never been closer: UFO watchers buoyed](https://www.theguardian.com/world/2026/apr/12/trump-vance-ufo-alien-obsession)
 
 ---
 
-## 📌 Key Points at a Glance: UAP News Evening Edition, May 3, 2026
+## 📌 今期重點一覽
 
-| Event | Status | Key Figures / Agencies |
-|------|------|--------------|
-| 🌊 Silver Lake, Nevada 4.9 Magnitude Earthquake Swarm | 🟢 Ongoing Monitoring | USGS, Basin and Range, Walker Lane |
-| 🏛️ May 13 MKUltra Hearing | 🏛️ Scheduled 🔥 | Anna Paulina Luna, CIA, Dr. Frank Olson |
-| 📂 Bassett's Three Forces Analysis | 📄 Analysis Report | Stephen Bassett, Trump, Thomas Massie |
-| 🛸 The Serpo Mission Legend | 🧠 Classic Review | Richard Doty, Project Crystal Knight |
-| 🔭 Mars Animal + Giant Solar UFO + Antarctic Reptilian | 🤔 Unconfirmed Sightings | Scott C. Waring, Helioviewer, Google Maps |
-| 📋 War Department Says White House Coordinating UAP Material Release | ⏳ Ongoing | Anna Paulina Luna, Pete Hegseth, Corbell |
+| 事件 | 最新進展 | 關鍵人物 |
+|------|---------|---------|
+| 🔴 特朗普暗示新一批UFO檔案公開 | ✅ AP獨家報導，白宮與戰爭部協調中 | 特朗普、戰爭部 |
+| 🏛️ 眾議員承諾公開「非人類智能」資訊 | ✅ 國會內部消息證實，具體時間未定 | 不具名眾議員、Burchett、Burlison |
+| 👽 外星科技威脅論 | 📄 紐約郵報長文深入分析 | Dr. Don Donderi、奧巴馬、特朗普 |
+| 🇬🇧 Guardian連出兩篇UFO長文 | ✅ 主流媒體關注度創新高 | Guardian記者群 |
+| 🛸 特朗普先後多次公開談論UFO | 🔄 持續進行中 | 特朗普、白宮 |
+
+---
+
+## 📹 更多相關影片
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BFSWUEGqSOA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+*Congressional UFO hearings recap 2023-2025 — the full timeline*
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/FKGbqOBaCvo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+*The latest on Trump's UAP disclosure executive order*
 
 ---
 
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 2em;">
 
-*🤖 This article is AI-automatically collected and compiled*
-*🕐 Updated: 2026-05-03 14:04 UTC / 22:04 HKT*
-*📋 Sources: Daily Mail, Liberation Times, UFO Sightings Daily, Latest UFO Sightings, etc.*
+*🤖 本文章由AI自動收集、整理及生成*
+*🕐 更新時間：2026-05-03 22:04 UTC / 香港時間 5月4日 06:04*
+*📋 來源：AP News、NewsNation、紐約郵報、The Guardian、NBC News*
 
-**Source Links:**
-- [Daily Mail — Rapid-fire earthquakes rattle Nevada](https://www.dailymail.com/sciencetech/article-15782271/nevada-earthquake-swarm-basin-range.html)
-- [Daily Mail — CIA's mind-control program hearing](https://www.dailymail.com/sciencetech/article-15782361/cia-mkultra-mind-control-hearing.html)
-- [Daily Mail — Three key forces driving UFO disclosure](https://www.dailymail.com/sciencetech/article-15762125/trump-ufo-disclosure-bassett-files.html)
-- [Liberation Times — War Department Says White House Coordinating Release](https://www.liberationtimes.com/home/war-department-says-white-house-coordinating-release-of-never-before-seen-ufo-material)
-- [Latest UFO Sightings — The Serpo Mission](https://www.latest-ufo-sightings.net/2026/05/the-serpo-mission-inside-one-of-the-most-controversial-ufo-conspiracy-stories-ever-told.html)
-- [UFO Sightings Daily — Animal Found On Mars](https://www.ufosightingsdaily.com/2026/04/animal-found-on-mars-in-recent-nasa.html)
-- [UFO Sightings Daily — 7 Mile UFO Shots Past Sun](https://www.ufosightingsdaily.com/2026/04/7-mile-ufo-shots-past-sun-nasa-calls-it.html)
-- [UFO Sightings Daily — Reptilian Face in Antarctica](https://www.ufosightingsdaily.com/2026/04/unknown-evidence-in-antartica-reptilian.html)
+**來源連結：**
+- [AP News — Trump keeps us up in the air with his hints](https://apnews.com/article/trump-ufo-files-release)
+- [NewsNation — Congresswoman promises to address NHI info](https://www.newsnationnow.com/space/ufo/congresswoman-nonhuman-origin-information/)
+- [紐約郵報 — Alien tech could destroy us in a microsecond](https://nypost.com/2026/04/06/world-news/intelligent-alien-life-is-out-there-and-its-technology-could-destroy-us-in-a-microsecond-researchers-claim/)
+- [The Guardian — Never been closer: UFO watchers buoyed](https://www.theguardian.com/world/2026/apr/12/trump-vance-ufo-alien-obsession)
+- [The Guardian — Pentagon UFO videos: I went to the US to chase aliens](https://www.theguardian.com/world/2026/apr/22/pentagon-ufo-videos-chase-aliens)
+- [NBC News — Trump says review of UFO files found 'interesting' documents](https://www.nbcnews.com/politics/white-house/trump-ufo-files-review-interesting-documents-rcna198267)
 
 </div>
