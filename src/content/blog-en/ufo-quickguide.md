@@ -6,39 +6,20 @@ descriptionEn: 'A fast-paced guide for UFO beginners. What are the most credible
 pubDate: '2022-06-20'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📚 **UAP Beginner's Guide**
+> Master the basics in 3 minutes
 
-> 📚 **UAP 新手必讀**
-> 三分鐘掌握基本概念
+## UFO vs UAP: What's the Difference?
 
-## UFO 與 UAP 的分別
+| Term | Meaning | 
+|------|---------|
+| **UFO** | Unidentified Flying Object — Traditional term |
+| **UAP** | Unidentified Anomalous Phenomena — Current official term |
 
-| 用語 | 意思 | 
-|------|------|
-| **UFO** | Unidentified Flying Object（不明飛行物體）— 傳統稱呼 |
-| **UAP** | Unidentified Anomalous Phenomena（不明異常現象）— 政府同軍方現行正式用語 |
+UAP has a broader scope, covering aerial, underwater, and space phenomena.
 
-UAP 嘅範圍比 UFO 更廣，涵蓋空中、水中同太空嘅不明現象。
+## Timeline of US Official UAP Agencies
 
-## 美國官方 UAP 機構時間線
-
-| 年份 | 機構名稱 | 
-|------|----------|
-| 2007 | AATIP（先進航空威脅識別計劃）— 機密 |
-| 2020 | UAPTF（UAP 特別工作組）— 首個公開機構 |
-| 2022 | AARO（全域異常解決辦公室）— 現行機構 |
-
-## 常用分類
-
-- **NUFONC**：美國最大 UFO 目擊報告資料庫
-- **五角大樓**：美國國防部
-- **吹哨人**：政府內部爆料人（如 David Grusch）
-
-## 最著名案例速覽
-
-- **1947 羅斯威爾**：碎片回收 + 軍方矛盾口供
-- **2004 尼米茲號**：Tic Tac 形飛行器，有影片
-- **2023 Grusch 聽證會**：吹哨人話美國有「非人類智能」飛行器
-
----
-
-*📚 參考：AARO官方網站、國會聽證記錄*
+| Year | Agency Name | 
+|------|-------------|
+| 2007 | A
