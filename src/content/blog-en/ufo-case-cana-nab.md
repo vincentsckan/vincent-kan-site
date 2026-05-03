@@ -6,15 +6,14 @@ descriptionEn: 'Three US military UAP incidents analyzed by AARO, involving rada
 pubDate: '2022-06-05'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📍 **Manitoba, Canada, The Pas**
+> 📅 **May 20, 1967**
+> 🔍 **Close Encounter of the Third Kind, Government Investigation**
 
-> 📍 **加拿大馬尼托巴省，希爾夫**
-> 📅 **1967年5月20日**
-> 🔍 **第三類接觸、政府調查**
+Royal Canadian Mounted Police (RCMP) officer **James Michaud** was on a routine patrol in the wilderness when he witnessed a massive cigar-shaped flying object hovering above the road. He attempted to report it via radio but the device failed, after which a powerful beam of light shone toward him. Michaud lost consciousness and upon waking, found strange burn marks on his uniform and boots.
 
-加拿大皇家騎警（RCMP）警員 **James Michaud** 喺野外巡邏時，目擊一個巨大嘅雪茄形飛行物體懸浮喺公路上方。佢試圖用無線電報告但失效，之後一道強光照向佢。Michaud 失去知覺，醒來後發現自己嘅制服同靴子有奇怪嘅燒蝕痕跡。
-
-RCMP 同加拿大國防部展開調查，但至今未有官方解釋。
+The RCMP and the Canadian Department of National Defence launched an investigation, but no official explanation has been provided to this day.
 
 ---
 
-*📚 參考：RCMP檔案、國防部記錄*
+*📚 References: RCMP Archives, Department of National Defence Records*

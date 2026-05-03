@@ -6,31 +6,30 @@ descriptionEn: 'An overview of the most important UFO/UAP events of 2024, includ
 pubDate: '2023-04-01'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
+> 📅 **2024 Year in Review** | 🔍 **Annual Summary**
 
-> 📅 **2024年回顧** | 🔍 **全年摘要**
+## 2024 UAP Major Events
 
-## 2024年 UAP 大事記
+### First Half of the Year
+- Multiple UAP hearings held by the U.S. Congress
+- AARO report shows continued increase in UAP report numbers
+- Japan Air Self-Defense Force establishes UAP reporting hotline
 
-### 上半年
-- 美國國會舉行多場UAP聽證會
-- AARO報告顯示UAP報告數量持續增加
-- 日本航空自衛隊設立UAP報告熱線
+### Second Half of the Year
+- More military UAP footage leaked, including metallic spheres captured by MQ-9 Reaper drones
+- Bipartisan UAP disclosure bill advances through legislative process
+- NASA UAP research team releases full report
+- Multiple countries worldwide begin establishing UAP reporting mechanisms
 
-### 下半年
-- 更多軍方UAP影片片曝光，包括MQ-9死神無人機拍攝嘅金屬球體
-- 跨黨派UAP披露法案推進立法程序
-- NASA UAP研究組發布完整報告
-- 全球多國開始建立UAP報告機制
+## UAP Report Volume Trends
 
-## UAP報告數量趨勢
+In 2024, with improved reporting mechanisms, the number of UAP reports significantly increased:
+- **AARO**: Receives 50-100 new reports per month
+- **NUFORC**: Annual reports exceed 5,000 cases
+- **China**: Civilian UFO organization report volume also rises
 
-2024年，隨着報告機制改善，UAP報告數量顯著增加：
-- **AARO**：每月接收50-100宗新報告
-- **NUFORC**：年度報告突破5,000宗
-- **中國**：民間UFO組織報告量亦增加
-
-![2024年UAP](../../assets/blog-placeholder-2.jpg)
-*2024年UAP披露進展*
+![2024 UAP](../../assets/blog-placeholder-2.jpg)
+*2024 UAP Disclosure Progress*
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/HtUjH1rnheU" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -38,4 +37,4 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 
 ---
 
-*📚 參考：AARO報告、國會記錄、NASA報告*
+*📚 References: AARO Reports, Congressional Records, NASA Reports*

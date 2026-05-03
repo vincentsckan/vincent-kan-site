@@ -7,24 +7,23 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "abduction"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-1961年9月19日晚上，Barney Hill同Betty Hill兩夫婦揸車由加拿大Montreal返返美國新罕布什爾州Portsmouth嘅屋企。當佢哋駛經Lancaster附近嘅White Mountains時，突然見到天空有一個奇怪嘅發光物體跟蹤住佢哋嘅車。
+On the evening of September 19, 1961, Barney Hill and Betty Hill drove from Montreal, Canada, back to their home in Portsmouth, New Hampshire, USA. As they passed through the White Mountains near Lancaster, they suddenly spotted a strange glowing object in the sky following their car.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | White Mountains, New Hampshire, USA | 1961-09-19 | Alien Abduction |
 
-Betty係最先注意到嘅人，佢話見到一粒「好大粒嘅星」喺移動，而且越嚟越近。Barney停低架車用雙筒望遠鏡觀察，佢見到一個扁平嘅飛船，側邊有一排窗，仲見到入面有幾個著住制服嘅人形生物望住佢。佢嚇到大叫：「佢哋要捉我哋呀！」然後即刻上返車掉頭就走。
+Betty was the first to notice it. She said she saw a "very large star" moving and getting closer. Barney stopped the car and used binoculars to observe. He saw a flat spacecraft with a row of windows on the side, and inside, several humanoid figures in uniforms staring at him. He screamed in fright, "They're going to capture us!" then immediately got back in the car and sped away.
 
-兩夫婦返到屋企之後發現好大件事——佢哋嘅旅程比正常時間多咗兩個鐘，而且兩人都不約而同咁覺得「冇咗一段時間」。Betty嘅裙有奇怪嘅撕爛痕跡，Barney嘅皮鞋上面有不明來歷嘅粉紅色粉末，Barney嘅假睪丸位置仲多咗一圈好似俾雷射燒過嘅痕跡。
+When the couple returned home, they realized something was seriously wrong—their trip had taken two hours longer than normal, and both felt they had "lost time" without explanation. Betty's dress had strange torn marks, Barney's shoes had an unknown pink powder on them, and there was a ring-like mark on Barney's groin area, as if burned by a laser.
 
-返到美國空軍嘅Project Blue Book調查時，Dr. J. Allen Hynek認為呢個只係一個普通目擊事件。但問題係——癥狀持續出現。Betty係一個活躍嘅社會工作者，佢開始發惡夢，夢到自己俾外星人帶上飛船檢查。Barney亦變得緊張同失眠。
+When the U.S. Air Force's Project Blue Book investigated, Dr. J. Allen Hynek concluded it was just an ordinary sighting. But the problem was—the symptoms persisted. Betty, an active social worker, began having nightmares about being taken aboard a spaceship by aliens for examination. Barney also became anxious and suffered from insomnia.
 
-1963年，佢哋向波士頓著名精神科醫生Dr. Benjamin Simon求助。Dr. Simon用催眠療法幫佢哋「解鎖」忘記咗嘅記憶。結果令人震驚——兩夫婦分別接受獨立催眠後，回憶出同一套細節：佢哋被帶上一架飛船，俾灰色皮膚、有大黑眼嘅外星人進行醫學檢查。
+In 1963, they sought help from renowned Boston psychiatrist Dr. Benjamin Simon. Dr. Simon used hypnotherapy to "unlock" their forgotten memories. The results were shocking—after undergoing separate hypnosis sessions, both recalled the same details: they were taken aboard a spacecraft and subjected to medical examinations by gray-skinned beings with large black eyes.
 
-最令人印象深刻嘅係Betty回憶嘅「星圖」——佢話外星人展示咗一幅星象圖畀佢睇。1968年，教師Marjorie Fish根據Betty嘅描述製作咗一幅星圖，發現對應嘅係Zeta Reticuli星系嘅位置。雖然呢個發現有爭議，但Betty Hill星圖至今仍然係UFO研究界津津樂道嘅話題。
+The most striking part was Betty's recollection of a "star map"—she said the aliens showed her a star chart. In 1968, teacher Marjorie Fish created a star map based on Betty's description, which corresponded to the location of the Zeta Reticuli star system. Although this finding is controversial, the Betty Hill star map remains a popular topic in UFO research circles.
 
-📚 來源
+📚 Sources
 - Hill, B. "The Interrupted Journey: Two Lost Hours" (1966), Dial Press
 - Simon, B. "Hypnosis in the Hill Abduction Case" (1967)
 - Fuller, J.G. "The Interrupted Journey" (1966)

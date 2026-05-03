@@ -7,17 +7,16 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "nuclear-connection"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-1975年11月，全球最令人震驚嘅一連串核武器基地UFO入侵事件達到咗高潮。懷俄明州嘅Warren空軍基地——美國空軍最大嘅核彈發射井群之一——報告多個導彈發射井同時被不明物體飛越。
+In November 1975, the world's most shocking series of UFO incursions over nuclear weapons bases reached its peak. Warren Air Force Base in Wyoming—one of the U.S. Air Force's largest clusters of nuclear missile silos—reported multiple missile silos being simultaneously overflown by unidentified objects.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Warren AFB, Cheyenne, Wyoming, USA | 1975-11 | Nuclear Missile Silos / UFO Overflight |
 
-Warren AFB管理著超過200枚民兵導彈，分佈喺懷俄明、科羅拉多同內布拉斯加嘅廣闊土地上。多個分散嘅導彈發射井嘅安保人員同時報告天空出現奇怪嘅發光物體。最令人毛骨悚然嘅係，呢啲物體不單飛越發射井，仲令部分導彈嘅電子系統出現異常。
+Warren AFB managed over 200 Minuteman missiles, spread across vast areas of Wyoming, Colorado, and Nebraska. Security personnel at multiple dispersed missile silos simultaneously reported strange luminous objects in the sky. Most chillingly, these objects not only overflew the silos but also caused anomalies in the electronic systems of some missiles.
 
-退役空軍軍官Robert "Bob" Jamison——時任Warren AFB嘅導彈警戒官——公開咗佢嘅經歷。佢話當晚嘅雷達圖顯示多個目標以「不可能嘅速度」同「不規則嘅軌跡」移動。
+Retired Air Force officer Robert "Bob" Jamison—then a missile alert officer at Warren AFB—publicly shared his experience. He stated that the radar display that night showed multiple targets moving at "impossible speeds" and along "irregular trajectories."
 
-📚 來源
+📚 Sources
 - Hastings, R. "UFOs and Nukes" (2017), Second Edition
 - U.S. Air Force, "Warren AFB Missile Security Reports" (1975), FOIA partial release

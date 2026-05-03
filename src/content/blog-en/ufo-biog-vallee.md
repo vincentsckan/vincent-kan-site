@@ -6,41 +6,40 @@ descriptionEn: 'French astronomer and computer scientist Dr. Jacques Vallée pro
 pubDate: '2022-10-20'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
+> 📍 **France/USA** | 📅 **1939-present** | 🔍 **Biography, Alternative Theories**
 
-> 📍 **法國/美國** | 📅 **1939-至今** | 🔍 **人物傳記、另類理論**
+**Jacques Vallee** is a French-American astronomer, computer scientist, and UFO research pioneer. His status in the UFO field is second only to Hynek, but his views are more challenging to mainstream understanding.
 
-**Jacques Vallee**（雅克·瓦萊）係一位法裔美國天文學家、電腦科學家同UFO研究先驅。佢喺UFO界嘅地位僅次於Hynek，但佢嘅觀點更加挑戰主流認知。
+## From Astronomer to UFO Researcher
 
-## 從天文學家到UFO研究者
+In the 1960s, Vallee was originally a highly respected astronomer. After collaborating with Hynek to study UFO data, he began proposing a revolutionary perspective:
 
-Vallee喺1960年代本來係一位備受尊重嘅天文學家。佢同Hynek合作研究UFO數據後，開始提出一個革命性嘅觀點：
-
-> **UFO可能唔係外星飛船，而係一種跨維度嘅控制系統**
+> **UFOs may not be alien spacecraft, but rather a cross-dimensional control system**
 
 ![Jacques Vallee](../../assets/blog-placeholder-5.jpg)
-*Jacques Vallee——提出UFO跨維度理論嘅先驅*
+*Jacques Vallee—pioneer of the cross-dimensional UFO theory*
 
-## 瓦萊分類法
+## Vallee Classification System
 
-除了Hynek分類，Vallee提出咗另一套更複雜嘅分類系統：
+Beyond Hynek's classification, Vallee proposed a more complex system:
 
-| 類型 | 描述 |
-|------|------|
-| **MA-1** | 飛越空中嘅光點 |
-| **MA-2** | 有物理影響（雷達鎖定） |
-| **MA-3** | 有物理遺留物 |
-| **MA-4** | 目擊者受影響（失憶、時間缺失） |
-| **MA-5** | 嚴重身心影響 |
+| Type | Description |
+|------|-------------|
+| **MA-1** | Lights flying through the air |
+| **MA-2** | Physical effects (radar lock-on) |
+| **MA-3** | Physical remnants left behind |
+| **MA-4** | Witness affected (amnesia, missing time) |
+| **MA-5** | Severe physical and psychological effects |
 
-## 主要著作
+## Major Works
 
-- 《Passport to Magonia》（1969）— UFO同民間傳說嘅聯繫
-- 《The Invisible College》（1975）— 科學家網絡研究UFO
-- 《Dimensions》（1988）— 跨維度理論
+- 《Passport to Magonia》（1969）— Connection between UFOs and folklore
+- 《The Invisible College》（1975）— Scientist network studying UFOs
+- 《Dimensions》（1988）— Cross-dimensional theory
 
-## 硅谷關鍵人物
+## Key Figure in Silicon Valley
 
-除咗UFO研究，Vallee仲係早期互聯網嘅重要人物——佢係ARPANET（互聯網前身）嘅早期開發者之一。
+Beyond UFO research, Vallee was also a key figure in the early internet—he was one of the early developers of ARPANET (the precursor to the internet).
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/UziQ3Z4qyRo" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -48,4 +47,4 @@ Vallee喺1960年代本來係一位備受尊重嘅天文學家。佢同Hynek合�
 
 ---
 
-*📚 參考：Vallee著作集、學術訪談*
+*📚 References: Vallee's collected works, academic interviews*

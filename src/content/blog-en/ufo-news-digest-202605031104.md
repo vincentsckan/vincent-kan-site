@@ -8,59 +8,58 @@ updatedDate: '2026-05-03T11:04:00Z'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---
+> 📡 **UFO/UAP Flash Update** — May 3, 2026 (Sunday) 7:00 PM Update
+> AI-automated collection, focus: Trump UFO file release progress, Luna promises to show non-human evidence, whistleblower shocking testimony
 
-> 📡 **UFO/UAP 快訊** — 2026年5月3日（星期日）晚上7點更新
-> 由AI自動搜集，焦點：特朗普UFO檔案釋出新進展、Luna承諾展示非人類證據、吹哨人驚人證詞
-
-| 📍 *全球焦點：美國華盛頓DC、佛羅里達、英國Rendlesham Forest* | 📅 *2026年5月3日* | 🔍 *UFO披露加速·國會壓力·吹哨人證詞·Deadline錯過* |
+| 📍 *Global Focus: Washington DC, USA; Florida, USA; Rendlesham Forest, UK* | 📅 *May 3, 2026* | 🔍 *UFO Disclosure Accelerating · Congressional Pressure · Whistleblower Testimony · Deadline Missed* |
 
 ---
 
-## 🇺🇸 Avi Loeb 預測：特朗普UFO釋出將「分批進行」
+## 🇺🇸 Avi Loeb Predicts: Trump UFO Release Will Be "Phased"
 
-**來源：** Newsmax（2026年5月2日）
+**Source:** Newsmax (May 2, 2026)
 
-著名天體物理學家 **Avi Loeb（阿維·勒布）** 近日接受 Newsmax 訪問時，就特朗普總統承諾釋出UFO政府檔案一事發表分析。Loeb認為，相關資訊不會一次性全部公開，而是**以波浪式分批釋出**。
+Renowned astrophysicist **Avi Loeb** recently analyzed President Trump's promise to release government UFO files in an interview with Newsmax. Loeb believes the information will not be released all at once, but rather **in waves**.
 
-Loeb表示，首批公開的內容很可能以**更多影片證據**為主，隨後逐步推進到更敏感的科學與技術層面。他同時提出，真正的重大科學和技術突破，可能要等到釋出過程中後期階段才會出現。
+Loeb stated that the initial batch of released content will likely consist of **more video evidence**, gradually progressing to more sensitive scientific and technological aspects. He also suggested that truly major scientific and technological breakthroughs may not appear until the later stages of the release process.
 
-> 「呢件事嘅發展係一個過程，唔係一個瞬間。由影片開始，到文件，再到科學數據——每一步都需要時間。」 — Avi Loeb
+> "The development of this matter is a process, not an instant. From videos, to documents, to scientific data—each step takes time." — Avi Loeb
 
-這番評論與特朗普白宮方面的說法吻合。特朗普4月29日在白宮與Artemis II太空人會面時，明確表示政府對UFO文件已展開審查，**「入面有好多嘢」（a lot of things）**將會釋出，部分內容「對大眾會非常有趣」。
+This commentary aligns with statements from the Trump White House. On April 29, during a meeting with Artemis II astronauts at the White House, Trump explicitly stated that the government has begun reviewing UFO files, and **"a lot of things"** will be released, some of which "will be very interesting to the public."
 
-特朗普甚至提到他親自採訪過一些人，對方告訴他「見過你唔會相信嘅嘢」。
+Trump even mentioned personally interviewing some people who told him they had "seen things you wouldn't believe."
 
-![特朗普與NASA宇航員](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![Trump with NASA Astronauts](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/WWs1tMjh1Y" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🇺🇸 國會議員首次公開確認非人類起源存在 — 完整新聞報導*
+*🇺🇸 Congressman publicly confirms non-human origin existence for the first time — Full news report*
 
 [🔗 Newsmax — Loeb: UFO Releases May Come in Waves](https://www.newsmax.com/newsmax-tv/ufo-physicist-trump/2026/05/02/id/1255001/)
 [🔗 USA Today — Trump says 'a lot of things' coming in UFO files](https://www.usatoday.com/story/news/politics/2026/04/29/trump-ufo-releases/89862281007/)
 
 ---
 
-## 🏛️ 眾議員Luna承諾公開「非人類起源」證據 — 五角大樓仍未交片
+## 🏛️ Congresswoman Luna Promises to Publicly Show "Non-Human Origin" Evidence — Pentagon Still Hasn't Delivered Videos
 
-**來源：** NewsNation / Newsweek（2026年4月29-30日）
+**Source:** NewsNation / Newsweek (April 29-30, 2026)
 
-事態持續升溫！佛羅里達州共和黨眾議員 **Anna Paulina Luna（安娜·寶琳娜·盧納）** 公開承諾，將舉行記者會展示她所描述的**「非人類起源」（nonhuman origin）**證據。
+The situation is escalating! Florida Republican Congresswoman **Anna Paulina Luna** has publicly promised to hold a press conference to present what she describes as evidence of **"nonhuman origin."**
 
-這項承諾的背景是：Luna擔任主席的**眾議院監督聯邦秘密解密工作小組**，早在3月31日已致函國防部長 **Pete Hegseth**，正式要求移交**46段UAP影片檔案**。然而，**4月14日的期限已被五角大樓錯過**。
+This promise comes against the backdrop of the **House Oversight Task Force on Declassification of Federal Secrets**, which she chairs, having sent a letter to Secretary of Defense **Pete Hegseth** on March 31, formally requesting the transfer of **46 UAP video files**. However, **the April 14 deadline was missed by the Pentagon.**
 
-Luna直斥這是「不可接受」的拖延，並不排除傳召相關官員及發出**傳票（subpoena）**。她在接受 NewsNation 採訪時明確表示：
+Luna called this an "unacceptable" delay and did not rule out summoning relevant officials or issuing **subpoenas**. In an interview with NewsNation, she stated clearly:
 
-> 「資訊不對稱必須終結。美國人民有權知道真相。」
+> "The information asymmetry must end. The American people have the right to know the truth."
 
-### ⚡ 戰線更加激烈
-- Luna此前已在社交媒體上公開建議DOGE（政府效率部）**全面解散和削減AARO預算**
-- 她批評AARO辦事不透明，反而阻礙了真正的披露進程
-- 部分觀察人士認為，這是國會採取**更強硬手段**的信號
+### ⚡ The Battle Lines Intensify
+- Luna previously publicly suggested on social media that DOGE (Department of Government Efficiency) should **completely dissolve and cut AARO's budget**
+- She criticized AARO for being opaque, thereby hindering the true disclosure process
+- Some observers believe this signals Congress adopting **a tougher stance**
 
-![美國國會大廈（空照圖）](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
+![US Capitol Building (Aerial View)](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Z0ROLUJs7eY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🏛️ Congresswoman Luna 談UAP影片死線及非人類證據*
+*🏛️ Congresswoman Luna discusses UAP video deadline and non-human evidence*
 
 [🔗 NewsNation — Congresswoman promises to address 'nonhuman origin' info](https://www.newsnationnow.com/space/ufo/luna-address-info-nonhuman-origin/)
 [🔗 Newsweek — UFO Update: Congresswoman Promises to Show Things of 'Nonhuman Origin'](https://www.newsweek.com/ufo-update-congresswoman-promises-show-things-nonhuman-origin-11893270)
@@ -68,96 +67,96 @@ Luna直斥這是「不可接受」的拖延，並不排除傳召相關官員及�
 
 ---
 
-## 🛡️ 「Source Kilo」宣誓作證：親手處理非人類材料
+## 🛡️ "Source Kilo" Testifies Under Oath: Handled Non-Human Materials
 
-**來源：** Infinity Explorers（2026年4月12日）
+**Source:** Infinity Explorers (April 12, 2026)
 
-這是2026年目前為止**最具爆炸性**的UFO相關消息之一。
+This is arguably the **most explosive** UFO-related news of 2026 so far.
 
-一位在美國政府最高機密UAP項目內工作長達22年的前高級情報官員，近日在**參議院小組委員會閉門會議中宣誓作證**——內容涉及Non-Human Intelligence（非人類智能）。
+A former senior intelligence official who worked for 22 years within the US government's highest classification UAP program recently **testified under oath in a closed-door Senate subcommittee meeting** — regarding Non-Human Intelligence.
 
-該官員的代號為 **「Source Kilo」**，根據部分解密的簡報資料，他描述自己直接參與了一個名為 **「AZURE MERIDIAN」** 的機密項目，該項目在美國西南部的一間承包商設施內**擁有物理實體的非人類飛行器碎片**。
+The official, codenamed **"Source Kilo,"** described, based on partially declassified briefing materials, his direct involvement in a classified project called **"AZURE MERIDIAN,"** which possessed **physical fragments of a non-human craft** at a contractor facility in the southwestern United States.
 
-### 🔬 最驚人的證詞細節
+### 🔬 Most Shocking Testimony Details
 
-1. **材料來源異常**：Source Kilo聲稱親手處理過文件中描述為「同位素比值與太陽系形成過程不一致」的材料樣本——**即這些材料不可能源自太陽系**
-2. **生物材料**：描述了記錄著在**1960年代至1980年代**多次回收「非人類生物材料」（non-human biologics）的簡報文件
-3. **承包商轉移**：1980至1990年代，回收材料從政府手中轉移至私人國防承包商，**有效避開了《資訊自由法》（FOIA）的管轄範圍**
+1.  **Anomalous Material Origin:** Source Kilo claimed to have personally handled material samples described in documents as having "isotopic ratios inconsistent with the formation process of the solar system" — **meaning these materials could not have originated from the solar system**
+2.  **Biological Materials:** Described briefing documents recording the recovery of "non-human biologics" on multiple occasions **between the 1960s and 1980s**
+3.  **Contractor Transfer:** Between the 1980s and 1990s, recovered materials were transferred from government hands to private defense contractors, **effectively bypassing the jurisdiction of the Freedom of Information Act (FOIA)**
 
-### 📋 參議院反應
+### 📋 Senate Reaction
 
-出席閉門會議的參議員們的公開反應極具暗示性——沒有一個人**否認**證詞的可信度：
+The public reactions of senators who attended the closed-door meeting were highly suggestive — not a single person **denied** the credibility of the testimony:
 
-> 「我相信這位證人相信他自己所說的。」 — 參議員 **Patricia Chen**（參議院武裝部隊委員會）
+> "I believe this witness believes what he is saying." — Senator **Patricia Chen** (Senate Armed Services Committee)
 
-參議院小組委員會據報正準備就AZURE MERIDIAN項目發出**傳票索取文件**，且至少有**三名前任政府官員**已表示願意在類似條件下作證。國防部獲給予**60天**時間正式回應。
+The Senate subcommittee is reportedly preparing to issue **subpoenas for documents** related to the AZURE MERIDIAN project, and at least **three former government officials** have indicated willingness to testify under similar conditions. The Department of Defense has been given **60 days** to formally respond.
 
-> 問題不再是「有沒有非人類物品被回收」，而是「那些到底是什麼」以及「為什麼等了七十年才有人讓世界知道」。— Infinity Explorers
+> The question is no longer "were non-human objects recovered," but "what exactly are they" and "why did it take seventy years for anyone to let the world know." — Infinity Explorers
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Gru2EDJvj9Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🛡️ 非人類材料回收及國會UFO聽證會全集*
+*🛡️ Non-Human Material Recovery & Congressional UFO Hearing Full Set*
 
 [🔗 Infinity Explorers — Pentagon Whistleblower Testifies: Non-Human Materials](https://www.infinityexplorers.com/pentagon-whistleblower-non-human-materials-senate-2026/)
 
 ---
 
-## 🌲 《衛報》Renmesham Forest UFO專題：「完美風暴式UFO案件」
+## 🌲 The Guardian's Rendlesham Forest UFO Feature: "Perfect Storm UFO Case"
 
-**來源：** The Guardian（2026年4月30日）
+**Source:** The Guardian (April 30, 2026)
 
-英國《衛報》近日刊登長篇專題文章，深入探討英國最著名的UFO事件——**1980年Rendlesham Forest（倫德勒沙姆森林）事件**，形容這是「完美風暴式的UFO案件」。
+The British newspaper *The Guardian* recently published a lengthy feature article delving into the UK's most famous UFO incident — the **1980 Rendlesham Forest incident**, describing it as a "perfect storm UFO case."
 
-該事件發生在1980年12月，美軍駐英國Woodbridge空軍基地的數名軍人報告在附近的Rendlesham Forest目擊了**不明三角形發光物體**降落在森林中。事件中出現的實體被描述為「散發著脈動光芒的三角形飛行器」，軍人到達現場時更測量到異常的輻射水平。
+The incident occurred in December 1980 when several servicemen from the US Air Force base at Woodbridge, UK, reported seeing **an unidentified triangular luminous object** land in the nearby Rendlesham Forest. The entity observed was described as a "triangular craft emitting pulsating light," and military personnel who arrived at the scene measured anomalous radiation levels.
 
-《衛報》文章特別指出，雖然事件已過去近46年，但至今仍未有任何令人滿意的官方解釋。前英國國防部官員 **Nick Pope** 在文中表示：
+The *Guardian* article specifically notes that although nearly 46 years have passed, no satisfactory official explanation has ever been provided. Former UK Ministry of Defence official **Nick Pope** stated in the article:
 
-> 「Rendlesham Forest案件具備一切經典UFO案件的元素：多名軍方證人、輻射證據、樹木受損的物理痕跡，以及官方的否認與掩飾。」
+> "The Rendlesham Forest case has all the elements of a classic UFO case: multiple military witnesses, radiation evidence, physical traces of damaged trees, and official denial and cover-up."
 
-文章恰巧在Luna炮轟五角大樓及特朗普承諾釋出UFO檔案的背景下刊出，時機耐人尋味。
+The article's publication coinciding with Luna's criticism of the Pentagon and Trump's promise to release UFO files makes its timing intriguing.
 
-![Rendlesham Forest的神秘三角形飛行器](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+![Mysterious Triangular Craft in Rendlesham Forest](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/hSGF6yjJJjc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🌲 Rendlesham Forest 30年後 — 目擊者親述及不可解釋的細節*
+*🌲 Rendlesham Forest 30 Years Later — Witnesses Speak and Unexplainable Details*
 
 [🔗 The Guardian — Rendlesham Forest mystery: 'perfect storm of a UFO case'](https://www.theguardian.com/commentisfree/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case)
 
 ---
 
-## 📋 其他值得關注
+## 📋 Other Items of Note
 
-### 特朗普下令調查UFO檔案（NBC News — 4月18日）
-**背景回顧：** 特朗普在亞利桑那州Turning Point USA政治集會上表示，他下令進行的UFO檔案審查已 **「找到很多非常有趣的文件」** ，並重申「首批檔案很快就會釋出」。
+### Trump Orders Investigation into UFO Files (NBC News — April 18)
+**Background:** At a Turning Point USA political rally in Arizona, Trump stated that his ordered review of UFO files had **"found a lot of very interesting documents"** and reiterated that "the first batch of files will be released soon."
 
-### 前國防官員：UFO資訊釋出「絕對不是空包彈」（NewsNation — 4月30日）
-一位不具名的前國防部官員接受NewsNation訪問時駁斥外界對披露內容的質疑，明確表示UFO資訊釋出「絕對不是Nothingburger（冇料到）」。
+### Former Defense Official: UFO Information Release "Absolutely Not a Nothingburger" (NewsNation — April 30)
+An unnamed former Department of Defense official, in an interview with NewsNation, dismissed external doubts about the content of the disclosure, clearly stating that the UFO information release is "absolutely not a Nothingburger."
 
-### 國會已通過的「非人類智能」法律框架（Congress.gov — 2025年7月）
-參議員 **Schumer** 及 **Rounds** 提出的修正案已納入《國防授權法》，要求任何擁有「未知來源材料」或「非人類智能生物證據」的實體必須在限期內向國會提交詳細報告。
+### Congressional Legal Framework for "Non-Human Intelligence" Passed (Congress.gov — July 2025)
+An amendment proposed by Senators **Schumer** and **Rounds** has been incorporated into the *National Defense Authorization Act*, requiring any entity possessing "materials of unknown origin" or "biological evidence of non-human intelligence" to submit a detailed report to Congress within a specified timeframe.
 
 ---
 
-## 📌 重點一覽
+## 📌 Key Points at a Glance
 
-| 事件 | 狀態 | 關鍵人物／機構 |
+| Event | Status | Key Figures / Institutions |
 |------|------|--------------|
-| 🇺🇸 特朗普UFO檔案分批釋出 | ⏳ 進行中 🔥 | Donald Trump, Avi Loeb, 白宮 |
-| 🏛️ Luna公開承諾展示非人類證據 | 🏛️ 準備記者會中 🔥 | Anna Paulina Luna, Pete Hegseth |
-| 🛡️ Source Kilo宣誓作證非人類材料 | 🏛️ 參議院跟進中 | Source Kilo, Sen. Patricia Chen |
-| 📹 五角大樓錯過46條UAP影片死線 | ❌ 逾期未交 | Luna, AARO, 國防部 |
-| 🌲 衛報Rendlesham Forest專題報導 | 📰 已刊登 | Nick Pope, 英軍證人 |
-| 🔍 特朗普稱已找到有趣文件 | ⏳ 釋出中 | Trump, AARO, Pentagon |
-| 🏛️ 非人類智能法律框架已通過 | ✅ 已立法 | Schumer, Rounds, Congress |
+| 🇺🇸 Trump UFO Files Released in Waves | ⏳ Ongoing 🔥 | Donald Trump, Avi Loeb, White House |
+| 🏛️ Luna Promises to Show Non-Human Evidence | 🏛️ Preparing Press Conference 🔥 | Anna Paulina Luna, Pete Hegseth |
+| 🛡️ Source Kilo Testifies Under Oath on Non-Human Materials | 🏛️ Senate Following Up | Source Kilo, Sen. Patricia Chen |
+| 📹 Pentagon Misses Deadline for 46 UAP Videos | ❌ Overdue, Not Delivered | Luna, AARO, DoD |
+| 🌲 The Guardian Rendlesham Forest Feature | 📰 Published | Nick Pope, UK Military Witnesses |
+| 🔍 Trump Says Found Interesting Documents | ⏳ Releasing | Trump, AARO, Pentagon |
+| 🏛️ Non-Human Intelligence Legal Framework Passed | ✅ Enacted | Schumer, Rounds, Congress |
 
 ---
 
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 2em;">
 
-*🤖 本文章由 AI 自動搜集及整理*
-*🕐 更新時間：2026-05-03 19:04 HKT*
-*📋 資料來源：Newsmax、USA Today、NewsNation、Newsweek、Infinity Explorers、The Guardian、NBC News、MSN、Congress.gov等*
+*🤖 This article was automatically collected and compiled by AI*
+*🕐 Update Time: 2026-05-03 19:04 HKT*
+*📋 Sources: Newsmax, USA Today, NewsNation, Newsweek, Infinity Explorers, The Guardian, NBC News, MSN, Congress.gov, etc.*
 
-**來源連結：**
+**Source Links:**
 - [Newsmax — Loeb: UFO Releases May Come in Waves](https://www.newsmax.com/newsmax-tv/ufo-physicist-trump/2026/05/02/id/1255001/)
 - [USA Today — Trump says 'a lot of things' coming in UFO files](https://www.usatoday.com/story/news/politics/2026/04/29/trump-ufo-releases/89862281007/)
 - [NewsNation — Congresswoman promises to address 'nonhuman origin' info](https://www.newsnationnow.com/space/ufo/luna-address-info-nonhuman-origin/)

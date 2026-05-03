@@ -7,26 +7,25 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "hotspot"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-位於紐約州Orange County嘅Pine Bush，係一個人口得返大約2,000人嘅偏遠鄉鎮。但喺UFO研究界，呢個小鎮嘅知名度極高——因為由1970年代開始，佢就成為咗美國東岸最出名嘅UFO熱點之一。
+Located in Pine Bush, Orange County, New York, this remote township has a population of only about 2,000. However, in the UFO research community, this small town is highly renowned—since the 1970s, it has become one of the most famous UFO hotspots on the East Coast of the United States.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Pine Bush, Orange County, New York, USA | 1970s-1980s | UFO Hotspot |
 
-Pine Bush之所以成為UFO熱點，同佢嘅地理位置有好大關係。佢位於紐約市西北大約150公里，周圍係大片嘅森林同農田，人口稀疏、夜空晴朗，係觀察天文現象嘅理想地點。
+The reason Pine Bush became a UFO hotspot is closely related to its geographical location. It is about 150 kilometers northwest of New York City, surrounded by vast forests and farmland, with a sparse population and clear night skies, making it an ideal location for observing astronomical phenomena.
 
-當地居民同遊客報告嘅UFO類型包羅萬有：從三角形飛行器、雪茄形狀嘅巨大物體，到發出紅綠光芒嘅圓盤狀飛船。多位警長同消防員都曾親眼目擊。
+The types of UFOs reported by local residents and visitors are diverse: from triangular aircraft and cigar-shaped massive objects to disc-shaped spacecraft emitting red and green lights. Multiple sheriffs and firefighters have witnessed them firsthand.
 
-最出名嘅事件之一發生喺1984年夏天。一位叫Linda嘅女士聲稱，佢屋企後院降落咗一架UFO，仲有三個大約1米高嘅灰色外星人行出嚟。呢件事引起咗當地警方嘅調查，雖然最終冇官方結論，但Linda同佢嘅家人堅持呢個故事直到今日。
+One of the most famous incidents occurred in the summer of 1984. A woman named Linda claimed that a UFO landed in her backyard, and three gray aliens, about one meter tall, emerged. This event prompted an investigation by local police, and although no official conclusion was reached, Linda and her family have stuck to this story to this day.
 
-著名UFO研究者Dr. J. Allen Hynek同Jacques Vallee都曾經親自去過Pine Bush調查。Hynek話：「呢個地區嘅UFO報告數量同質量都相當高，而且目擊者嘅可信度一流。」
+Renowned UFO researchers Dr. J. Allen Hynek and Jacques Vallee have both personally visited Pine Bush to investigate. Hynek said, "The number and quality of UFO reports in this area are quite high, and the credibility of the witnesses is top-notch."
 
-有理論認為Pine Bush之所以咁活躍，可能係同附近山區嘅天然磁場異常有關，或者UFO使用本地嘅地質結構作為「導航標記」。但呢啲都只係猜測。
+Some theories suggest that the high activity in Pine Bush may be related to natural magnetic anomalies in the nearby mountains, or that UFOs use the local geological structures as "navigation markers." However, these are just speculations.
 
-時至今日，Pine Bush仍然係UFO愛好者嘅朝聖地。每年夏天都有數以百計嘅UFO研究者同愛好者嚟到呢度露營觀星，希望有幸見到呢啲神秘嘅光團。
+To this day, Pine Bush remains a pilgrimage site for UFO enthusiasts. Every summer, hundreds of UFO researchers and enthusiasts come here to camp and stargaze, hoping to catch a glimpse of these mysterious light clusters.
 
-📚 來源
+📚 Sources
 - Gruber, E. "Pine Bush: UFO Capital of the East" (1987), UFO Journal
 - Hynek, J.A. & Vallee, J. Field Investigation Notes, Pine Bush (1984)
 - MUFON Field Investigator Reports, Orange County, NY (1979-1990)

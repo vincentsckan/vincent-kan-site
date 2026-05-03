@@ -6,21 +6,20 @@ descriptionEn: 'In 1951, dozens of residents in Lubbock, Texas saw V-shaped form
 pubDate: '2023-05-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📍 **Lubbock, Texas, USA**
+> 📅 **August 25, 1951**
+> 🔍 **Scientist Sighting, Photographic Evidence, Unexplained by Blue Book**
 
-> 📍 **美國德克薩斯州盧比克**
-> 📅 **1951年8月25日**
-> 🔍 **科學家目擊、照片證據、Blue Book無法解釋**
+In August 1951, three electrical engineering professors in Lubbock, Texas (while sitting in a backyard chatting) observed mysterious lights in the sky arranged in a V-shaped formation. The lights moved in a precise formation at extremely high speed, silently.
 
-1951年8月，德州盧比克市（Lubbock）嘅三名電機工程教授（坐喺後院傾偈時）見到天空出現V形排列嘅神秘光點。光點隊形整齊，速度極快，無聲無息。
+The professors successfully captured multiple photos with a camera—these became the famous **"Lubbock Lights" photographs**.
 
-教授們用相機成功拍到咗多張照片——即係後來著名嘅 **「Lubbock Lights」照片**。
+## Project Blue Book Investigation
 
-## Project Blue Book調查
-
-呢啲照片被送到空軍Project Blue Book進行分析。雖然部分分析認為係候鳥反射城市燈光或飛機，但嗰三名教授堅決否認呢啲解釋。Blue Book最終將案件列為「無法解釋」。
+These photos were sent to the Air Force's Project Blue Book for analysis. Although some analyses suggested they were birds reflecting city lights or aircraft, the three professors firmly denied these explanations. Blue Book ultimately classified the case as "unexplained."
 
 ![Lubbock Lights](../../assets/blog-placeholder-1.jpg)
-*1951年拍攝嘅著名Lubbock Lights照片*
+*The famous Lubbock Lights photograph taken in 1951*
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/3nLxx8ggoY0" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -28,4 +27,4 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 ---
 
-*📚 參考：Project Blue Book檔案、Lubbock大學記錄*
+*📚 References: Project Blue Book files, Lubbock University records*

@@ -7,14 +7,13 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "military"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+At dawn on September 19, 1976, an event occurred over the skies of Tehran, Iran, which was recorded by the U.S. Defense Intelligence Agency (DIA) as "the most compelling UFO military encounter in history." Two Iranian Air Force F-4 Phantom fighter jets were ordered to intercept an unidentified object locked on by radar.
 
-1976年9月19日凌晨，伊朗首都德克蘭上空發生咗一件被美國國防情報局（DIA）記錄為「歷史上最令人信服嘅UFO軍事接觸」嘅事件。伊朗空軍兩架F-4鬼怪式戰鬥機奉命升空攔截一個被雷達鎖定嘅不明物體。
+When the first F-4 approached to about 40 kilometers, all communication and navigation instruments on board suddenly failed. After the pilot turned back, the systems returned to normal, but upon approaching again, they failed once more. When the second F-4 took off, it also experienced instrument failure, and its radar locked onto the target, but the target's size and maneuverability were completely beyond reasonable limits.
 
-第一架F-4接近到約40公里時，機上所有通訊同導航儀器突然失靈。飛行員掉頭後系統恢復正常，但再接近時又再次失靈。第二架F-4升空後同樣遭遇儀器失靈，而且佢嘅雷達鎖定咗目標，但目標嘅尺寸同機動能力完全超出合理範圍。
+Both the Iranian Air Force radar stations and civilian airport radars simultaneously confirmed the target's existence. A detailed report of this incident was later released by the U.S. Defense Intelligence Agency, making it one of the very few UFO cases acknowledged by U.S. military intelligence agencies.
 
-伊朗空軍嘅雷達站同民航機場嘅雷達都同步確認咗目標嘅存在。呢個事件嘅詳細報告後嚟被美國國防情報局公開，係極少數被美國軍方情報機構承認嘅UFO案例。
-
-📚 來源
+📚 Sources
 - U.S. Defense Intelligence Agency, "Iranian F-4 Incident Report" (1976)
 - Iranian Air Force, "Operations Log" (September 19, 1976)
 - Fink, D. "The Tehran UFO Encounter" (1977), Aviation Week

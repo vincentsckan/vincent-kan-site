@@ -6,113 +6,112 @@ descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-02T20:05:00Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---
-
-> 繼續追蹤全球 UFO/UAP 最新動態！今晚嘅快訊帶嚟多位吹哨人爆料、國會問責同目擊影片，資訊量爆炸，準備好了嗎？🚀
+> Continuing to track the latest global UFO/UAP developments! Tonight's briefing brings multiple whistleblower revelations, congressional accountability, and sighting videos—a massive information dump. Ready? 🚀
 
 ---
 
-## 📰 本輪快訊重點
+## 📰 This Round's Briefing Highlights
 
-| 📍 地點 | 📅 日期 | 🔍 分類 |
+| 📍 Location | 📅 Date | 🔍 Category |
 |---|---|---|
-| 🇺🇸 美國國會 | 2026年2-4月 | 政治/聽證 |
-| 🇺🇸 Sonoma, California | 2025年12月 | 目擊/影片 |
-| 🇶🇦 Doha, 卡塔爾 | 2026年3月 | 目擊/分析 |
-| 🇺🇸 情報機關 | 2026年1月 | 吹哨人 |
-| 🇺🇸 White House | 1977年 (新爆料2026) | 歷史解密 |
-| 🇰🇷 首爾郊外 (自稱) | 2026年2月 | 巨型結構 |
+| 🇺🇸 U.S. Congress | Feb-Apr 2026 | Politics/Hearings |
+| 🇺🇸 Sonoma, California | Dec 2025 | Sighting/Video |
+| 🇶🇦 Doha, Qatar | Mar 2026 | Sighting/Analysis |
+| 🇺🇸 Intelligence Agencies | Jan 2026 | Whistleblower |
+| 🇺🇸 White House | 1977 (New Leak 2026) | Historical Declassification |
+| 🇰🇷 Outskirts of Seoul (Claimed) | Feb 2026 | Giant Structure |
 
 ---
 
-## ⭐ 重點故事
+## ⭐ Key Stories
 
-### 1️⃣ 眾議員 Eric Burlison：海外巨型UAP結構存在？
+### 1️⃣ Congressman Eric Burlison: Overseas Giant UAP Structure Exists?
 
-Missouri 眾議員 **Eric Burlison** 最近喺電視專訪中爆料，佢從政府內外消息來源得知，**海外某國存在一個巨型不明物體，大得無法運輸，當局只能在原地建造結構將佢包裹住**。😮
+Missouri Congressman **Eric Burlison** recently revealed in a TV interview that, based on sources inside and outside the government, **a foreign country hosts a giant unidentified object so large it cannot be transported, forcing authorities to build a structure on-site to encase it**. 😮
 
-Burlison 強調佢本人未有親眼睇過「硬證據」，但正透過國會監督渠道爭取查閱權限。佢形容國會內部存在嚴重嘅官僚阻力——管轄權糾紛、跨部門保密、甚至委員會之間嘅「地盤戰」都阻碍緊調查。
+Burlison emphasized he hasn't personally seen "hard evidence" but is pushing for access through congressional oversight channels. He described severe bureaucratic resistance within Congress—jurisdictional disputes, inter-agency secrecy, and even "turf wars" between committees hindering the investigation.
 
-同時，**Dr. Steven Greer**（披露計劃創辦人）更進一步聲稱，其中一個物體位於**韓國首爾郊外嘅山區**，體積極大——可能橫跨數百甚至數千英尺，而且材料特殊到一般切割工具都無法處理。
+Meanwhile, **Dr. Steven Greer** (founder of The Disclosure Project) further claimed that one of these objects is located in **a mountainous area on the outskirts of Seoul, South Korea**, with an enormous size—potentially spanning hundreds or even thousands of feet—and made of materials so unique that standard cutting tools cannot process it.
 
-> ⚠️ 以上全部未經獨立驗證，但反映咗國會同民間對UAP透明度嘅持續施壓。
+> ⚠️ None of this has been independently verified, but it reflects ongoing pressure from Congress and the public for UAP transparency.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/U10ZgS2lCYo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 2️⃣ Jimmy Carter 1977年UFO簡報新細節
+### 2️⃣ New Details on Jimmy Carter's 1977 UFO Briefing
 
-物理學家 **Dr. Eric Davis** 近期喺播客爆料，指 **Jimmy Carter 總統在1977年6月收到過一份機密UFO簡報**，內容涉及美國政府同非人類實體之間嘅接觸。😳
+Physicist **Dr. Eric Davis** recently revealed on a podcast that **President Jimmy Carter received a classified UFO briefing in June 1977**, detailing contact between the U.S. government and non-human entities. 😳
 
-重點：
-- 簡報最初喺國家安全委員會會議室進行，但提到UFO後就**轉移到橢圓形辦公室**
-- Carter 總統圖書館嘅參與者名單上，有**兩個人的姓名同所屬機構至今仍被塗黑**（50年了！）
-- Carter 嘅白宮高級幕僚 Alonzo McDonald 據稱親自調查後確認咗呢次簡報真有其事
-- 事件同傳說中嘅「**Project Aquarius**」文件有關
+Key points:
+- The briefing initially took place in the National Security Council meeting room but was **moved to the Oval Office** when UFOs were mentioned
+- On the participant list from the Carter Presidential Library, **two individuals' names and affiliations remain blacked out** (50 years later!)
+- Carter's senior White House aide, Alonzo McDonald, reportedly investigated and confirmed the briefing's authenticity
+- The event is linked to the legendary "**Project Aquarius**" documents
 
-有趣嘅背景：Carter 自己喺1969年就見過UFO，1976年競選時仲承諾公開UFO資料。但上任後冇幾耐似乎就「收咗聲」。新爆料可能解釋咗點解——佢可能知道咗太多嘢之後唔敢再講。
+Interesting background: Carter himself saw a UFO in 1969 and promised to release UFO data during his 1976 campaign. But shortly after taking office, he seemed to "go silent." This new leak may explain why—he might have learned too much to speak out.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/OA5IsOGOoVg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 3️⃣ 三角形UFO夜視鏡直擊 — 加州 Sonoma
+### 3️⃣ Triangle UFO Captured on Night Vision — Sonoma, California
 
-2025年12月28日，一位天文愛好者喺 **Sonoma, California** 用 **PVS-14夜視單筒鏡** 拍攝到一個清晰嘅三角形物體。😎
+On December 28, 2025, an astronomy enthusiast in **Sonoma, California** captured a clear triangular object using a **PVS-14 night vision monocular**. 😎
 
-特徵：
-- **實心三角形**外形
-- 每個角有一粒微弱燈光
-- 快速而平穩嘅移動
-- **完全冇聲**
-- 高空飛行
+Characteristics:
+- **Solid triangle** shape
+- A faint light at each corner
+- Fast and smooth movement
+- **Completely silent**
+- High-altitude flight
 
-呢位目擊者話佢**已經係第二次見到同一物體**——第一次冇帶相機，第二次終於拍到。重複出現大大增加咗可信度。
+The witness stated this was **the second time they had seen the same object**—the first time without a camera, the second time they finally captured it. The repeated appearance significantly boosts credibility.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/_oOlSsDUTpY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 4️⃣ 卡塔爾多哈 — 雷暴中嘅三角形UFO編隊
+### 4️⃣ Doha, Qatar — Triangle UFO Formation During Thunderstorm
 
-2026年3月25日晚上7點左右，**卡塔爾多哈**上空喺雷暴期間出現三個發光球體：
-- 保持鬆散編隊
-- 發出穩定光線（不是閃電）
-- 移動受控，唔似隨機
+Around 7 PM on March 25, 2026, three glowing orbs appeared over **Doha, Qatar** during a thunderstorm:
+- Maintained a loose formation
+- Emitted steady light (not lightning)
+- Controlled movement, not random
 
-可能解釋包括：球狀閃電、等離子效應、無人機、相機偽影。但三個同步出現、長時間可見、受控移動——呢啲因素令自然解釋難以完全成立。
+Possible explanations include: ball lightning, plasma effects, drones, camera artifacts. However, three appearing simultaneously, remaining visible for an extended period, and moving in a controlled manner—these factors make natural explanations difficult to fully accept.
 
 ---
 
-### 5️⃣ 匿名吹哨人：情報機關內「洋蔥式」保密結構
+### 5️⃣ Anonymous Whistleblower: "Onion-Layer" Secrecy Structure in Intelligence Agencies
 
-一位化名「Rhea」嘅前情報人員爆料，描述咗情報界內部處理異常現象嘅深層結構：
+A former intelligence officer using the pseudonym "Rhea" revealed details about the deep structure within the intelligence community for handling anomalous phenomena:
 
-- 佢原本做常規情報工作（反恐、飛彈監測、太空域感知）
-- 後來被調派到一個跨部門小組，專門處理「**異常航空航天及水下系統**」
-- 呢啲唔係單一感應器誤差，而係**跨平台、跨國家、跨年代**嘅重複檢測
-- 資訊採用極端「**分艙化**」——甚至最高機密網絡都被排除在外
-- 資訊只在安全設施內口頭傳遞，確保冇人睇到全貌
+- Originally worked in conventional intelligence (counterterrorism, missile monitoring, space domain awareness)
+- Later reassigned to a cross-agency team specifically handling "**anomalous aerospace and underwater systems**"
+- These are not single-sensor errors but **cross-platform, cross-country, cross-era** repeated detections
+- Information is subject to extreme "**compartmentalization**"—even top-secret networks are excluded
+- Information is only transmitted verbally within secure facilities, ensuring no one sees the full picture
 
-佢仲提出一個有趣推測：部分現象可能唔係「來訪者」，而係**古代非人類或人工智能系統**，用嚟監視或影響地球發展。
+They also proposed an intriguing theory: some phenomena may not be "visitors" but rather **ancient non-human or AI systems** used to monitor or influence Earth's development.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/2mygPnWNS_E" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 6️⃣ 美國海軍追蹤水下USO：海洋深處有嘢喺度郁
+### 6️⃣ U.S. Navy Tracking Underwater USOs: Something Moving in the Deep Ocean
 
-另一篇分析文章指出，多年來**軍事潛艇一直在追蹤海底快速移動嘅智能物體**（USO — Unidentified Submerged Objects）。呢啲現象挑戰現有科學理解，而且大部分仍然未被公開承認。
+Another analysis article points out that for years, **military submarines have been tracking fast-moving intelligent objects underwater** (USOs — Unidentified Submerged Objects). These phenomena challenge current scientific understanding, and most remain unacknowledged publicly.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/JiNYhRZ8EZ0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-![UFO夜空概念圖](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO Night Sky Concept](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
 
 ---
 
-## 🔗 來源連結
+## 🔗 Source Links
 
 - [Congressman Eric Burlison Questions Alleged Massive Overseas UAP Structure](https://www.latest-ufo-sightings.net/2026/02/congressman-eric-burlison-questions-alleged-massive-overseas-uap-structure.html)
 - [New Details About Jimmy Carter's Alleged 1977 UFO Briefing](https://www.latest-ufo-sightings.net/2026/03/new-details-emerge-about-jimmy-carters-alleged-1977-ufo-briefing.html)

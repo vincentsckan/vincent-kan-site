@@ -7,26 +7,25 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "government-investigation"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-1981年1月8日，法國南部小鎮Trans-en-Provence發生咗一件令法國政府都不得不正視嘅UFO事件。農民Renato Nicolaï喺自己嘅農場親眼見到一個飛行物體降落，法國政府嘅UFO調查機構GEPAN（後來改名SEPRA）正式立案，進行咗長達多年嘅科學分析。
+On January 8, 1981, a UFO incident occurred in the small town of Trans-en-Provence in southern France, an event that even the French government had to take seriously. Farmer Renato Nicolaï witnessed a flying object landing on his farm, and the French government's UFO investigation agency GEPAN (later renamed SEPRA) officially opened a case, conducting scientific analysis over many years.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Trans-en-Provence, Var, France | 1981-01-08 | Close Encounter / Physical Trace |
 
-Renato Nicolaï當時正在農場工作，突然聽到一陣尖銳嘅「嘶嘶聲」。佢抬起頭，見到一個大約2.5米直徑嘅銀色圓盤狀物體，以水平姿態緩慢下降到距離佢大約50米嘅葡萄園。佢形容呢個物體冇任何窗、門或者推力系統——只係一個完美光滑嘅金屬圓盤。
+Renato Nicolaï was working on his farm when he suddenly heard a sharp "hissing sound." He looked up and saw a silver disc-shaped object, about 2.5 meters in diameter, slowly descending horizontally to a vineyard about 50 meters away. He described the object as having no windows, doors, or propulsion system—just a perfectly smooth metal disc.
 
-物體停留咗大約30至40秒，然後垂直升起，以極高速度朝東北方飛走，全程冇發出引擎聲。Nicolaï行近物體停留嘅位置，發現地面嘅混凝土板同泥土有明顯嘅灼燒痕跡，仲有一個直徑約2.4米嘅環形痕跡。
+The object remained for about 30 to 40 seconds, then rose vertically and flew off at extremely high speed toward the northeast, making no engine noise throughout. Nicolaï approached the spot where the object had been and found clear burn marks on the concrete slab and soil, along with a ring-shaped mark about 2.4 meters in diameter.
 
-佢即時通知咗當地憲兵隊（Gendarmerie）。憲兵隊認真記錄咗口供，然後將案件上報畀法國國立航空與太空研究局（ONERA）嘅UFO調查機構GEPAN。
+He immediately notified the local Gendarmerie. The Gendarmerie carefully recorded his statement and then reported the case to GEPAN, the UFO investigation agency of the French National Office for Aerospace Studies and Research (ONERA).
 
-GEPAN進行咗極為詳細嘅現場調查。佢哋收集咗泥土、水樣同植物樣本，包括從痕跡周邊嘅苜蓿葉片。ONERA嘅植物生理學家Michel Bounias博士對樣本進行咗分析。結果相當驚人——痕跡區域內嘅苜蓿葉片出現咗明顯嘅異常生長變化：葉綠素含量大幅下降，而且植物嘅老化過程似乎被加速咗。
+GEPAN conducted an extremely detailed on-site investigation. They collected soil, water, and plant samples, including alfalfa leaves from around the trace area. Dr. Michel Bounias, a plant physiologist at ONERA, analyzed the samples. The results were quite astonishing—the alfalfa leaves within the trace area showed significant abnormal growth changes: chlorophyll content dropped substantially, and the plants' aging process appeared to have been accelerated.
 
-農田嘅泥土分析亦顯示，痕跡區域嘅土壤被一種「溫度超過600℃」嘅高溫加熱過。但奇怪嘅係，短短30秒嘅接觸，理論上唔可能令地面達到呢種溫度，除非物體帶有強大嘅能量場。
+Soil analysis of the farmland also revealed that the soil in the trace area had been heated to a high temperature "exceeding 600°C." However, strangely enough, a contact lasting only 30 seconds theoretically could not have heated the ground to such a temperature, unless the object carried a powerful energy field.
 
-GEPAN嘅最終結論係：「沒有任何大氣現象或人造設備可以解釋所觀察到嘅效應。」呢個結論來自法國官方機構，畀呢個案例賦予咗極高嘅權威性。
+GEPAN's final conclusion was: "No atmospheric phenomenon or man-made device can explain the observed effects." This conclusion came from an official French agency, lending this case a high degree of authority.
 
-📚 來源
-- GEPAN (Groupe d''Étude des Phénomènes Aérospatiaux Non-identifiés), Technical Report No. 16 (1981), CNES
+📚 Sources
+- GEPAN (Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés), Technical Report No. 16 (1981), CNES
 - Bounias, M. "Biological Effects of UFO Landing Traces" (1983), Journal of Scientific Exploration
-- Vallee, J. "Confrontations: A Scientist''s Search for Alien Contact" (1990), Ballantine Books
+- Vallee, J. "Confrontations: A Scientist's Search for Alien Contact" (1990), Ballantine Books

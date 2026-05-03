@@ -6,54 +6,53 @@ descriptionEn: 'Project Blue Book was the US Air Force''s 22-year UFO investigat
 pubDate: '2022-05-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📍 **Institution**: United States Air Force  
+> 📅 **Operational Period**: 1952 — 1969  
+> 🔍 **Classification**: Official Investigation Program / Historical Archive  
 
-> 📍 **機構**：美國空軍
-> 📅 **運作期間**：1952 — 1969 年
-> 🔍 **分類**：官方調查計劃 / 歷史檔案
+## Program Background  
 
-## 計劃背景
+Project Blue Book was a UFO investigation program led by the U.S. Air Force, operating from 1952 to 1969. It was the third and final official UFO investigation program by the Air Force, following Project Sign (1947) and Project Grudge (1949).  
 
-Project Blue Book（藍皮書計劃）係美國空軍主導嘅 UFO 調查計劃，由 1952 年運作至 1969 年。佢係繼 Project Sign（1947）同 Project Grudge（1949）之後，美國空軍第三個亦係最後一個官方 UFO 調查計劃。
+## Director  
 
-## 執行人
+The program was founded and led by Air Force Captain Edward J. Ruppelt, who also coined the term "UFO" (replacing the then-popular "flying saucer").  
 
-計劃由空軍上尉 Edward J. Ruppelt 創立並領導，佢亦係創造「UFO」呢個詞彙嘅人（取代當時流行嘅「飛碟」）。
+## Investigation Results  
 
-## 調查成果
+- **Total Cases**: 12,618  
+- **Unexplained**: 701 (approximately 5.6%)  
+- **Explained**: 11,917 (including aircraft, balloons, satellites, birds, etc.)  
 
-- **案件總數**：12,618 宗
-- **無法解釋**：701 宗（約 5.6%）
-- **已解釋**：11,917 宗（包括飛機、氣球、衛星、鳥類等）
+## Notable Unsolved Cases  
 
-## 著名未解案件
+### Lubbock Lights (1951)  
+Mysterious V-shaped lights appeared over Lubbock, Texas, which the Air Force could not explain.  
 
-### Lubbock Lights（1951）
-德州盧博克市出現 V 形排列嘅神秘亮光，空軍無法解釋。
+### Levelland Case (1957)  
+Multiple drivers in Levelland, Texas, reported a giant luminous object causing car engines and headlights to fail.  
 
-### Levelland 案件（1957）
-德州 Levelland 多名司機報告巨型發光物體令汽車引擎同車燈熄滅。
+### 1965 Exeter Incident  
+A large red flashing object appeared in Exeter, New Hampshire, witnessed by multiple police officers.  
 
-### 1965 年 Exeter 事件
-新罕布什爾州 Exeter 出現巨大紅色閃爍物體，多名警察目擊。
+## University of Colorado Report  
 
-## 科羅拉多大學報告
+In 1966, the Air Force commissioned the University of Colorado to conduct an independent evaluation, led by Dr. Edward Condon. The *Condon Report*, released in 1968, concluded: "In the 21 years of UFO research, there is no evidence that the UFO phenomenon poses a threat to national security."  
 
-1966 年，空軍委託科羅拉多大學進行獨立評估，由 Dr. Edward Condon 領導。1968 年發布嘅《Condon Report》結論係：「過去 21 年嘅 UFO 研究中，冇任何證據顯示 UFO 現象對國家安全構成威脅。」
+This report became the primary basis for the Air Force's termination of Project Blue Book in 1969.  
 
-呢份報告成為空軍喺 1969 年終止 Project Blue Book 嘅主要依據。
+## Controversy  
 
-## 爭議
+Although most cases in Blue Book had conventional explanations, critics pointed out:  
+- The Air Force deliberately downplayed unexplained cases  
+- Some "explained" cases had far-fetched explanations  
+- Truly sensitive cases may never have been submitted to Blue Book from the start  
 
-雖然 Blue Book 大部分案件都有常規解釋，但批評者指出：
-- 空軍刻意淡化無法解釋嘅案件
-- 部分「已解釋」嘅案件解釋牽強
-- 真正敏感案例可能從一開始就冇交畀 Blue Book
+## Current Archive Status  
 
-## 檔案現狀
+All files from Project Blue Book have been declassified and are stored at the U.S. National Archives, accessible to researchers for review.  
 
-Project Blue Book 嘅檔案已經全部解密，並存放喺美國國家檔案館（National Archives），研究人員可以自由查閱。
+---  
 
----
-
-*📚 資料來源：美國空軍檔案、國家檔案館、歷史研究*
-*🕐 文章建立日期：2022-05-01*
+*📚 Sources: U.S. Air Force Archives, National Archives, Historical Research*  
+*🕐 Article Creation Date: 2022-05-01*

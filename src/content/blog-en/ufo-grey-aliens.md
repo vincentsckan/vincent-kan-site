@@ -6,49 +6,48 @@ descriptionEn: 'Grey aliens are the most common extraterrestrial image in UFO cu
 pubDate: '2023-02-15'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
+> 📚 **UAP Glossary** | 🔍 **Grey Comprehensive Analysis**
 
-> 📚 **UAP 詞彙庫** | 🔍 **Grey 全面分析**
+## Typical Characteristics of the Grey
 
-## Grey 嘅典型特徵
+The Grey alien is a core symbol of modern UFO culture:
 
-灰色外星人（Grey）係現代UFO文化嘅核心標誌：
+- **Height**: Approximately 1-1.3 meters
+- **Skin color**: Grayish-white
+- **Head**: Disproportionately large
+- **Eyes**: Large, black, almond-shaped eyes
+- **Nose/Ears/Mouth**: Very small or nearly absent
+- **Limbs**: Slender, with 4-5 fingers
+- **Clothing**: Usually wears tight black/silver uniforms
 
-- **身高**：約1-1.3米
-- **膚色**：灰白色
-- **頭部**：不成比例地大
-- **眼睛**：巨大嘅黑色杏仁形眼睛
-- **鼻/耳/嘴**：非常細小或幾乎無
-- **四肢**：修長，手指4-5隻
-- **服裝**：通常穿緊身黑色/銀色制服
+## Source Cases
 
-## 來源案例
+The image of the Grey primarily comes from the following classic cases:
 
-Grey嘅形象主要來自以下幾個經典案例：
+| Case | Description | Year |
+|------|-------------|------|
+| Roswell | Allegedly recovered gray bodies | 1947 |
+| Betty and Barney Hill | Encountered gray, large-eyed beings | 1961 |
+| Travis Walton | Encountered gray, small beings | 1975 |
+| Ariel School | 62 schoolchildren saw gray beings | 1994 |
 
-| 案例 | 描述 | 年份 |
-|------|------|------|
-| 羅斯威爾 | 據稱回收咗灰色屍體 | 1947 |
-| Betty and Barney Hill | 見到灰色大眼生物 | 1961 |
-| Travis Walton | 見到灰色細小生物 | 1975 |
-| Ariel School | 62名學童見到灰色生物 | 1994 |
+## Media Shaping
 
-## 媒體嘅塑造
+The image of the Grey has been largely shaped by media:
+- 1977 *Close Encounters of the Third Kind*
+- 1982 *E.T.*
+- 1993 *Fire in the Sky*
+- 1990s *The X-Files*
 
-Grey嘅形象很大程度上係由媒體塑造嘅：
-- 1977年《Close Encounters of the Third Kind》
-- 1982年《E.T.》
-- 1993年《Fire in the Sky》
-- 1990年代《X檔案》
+## Other Types
 
-## 其他類型
+Beyond the Grey, UFO culture includes other alien types:
+- **Nordic**: Tall, blonde, human-like appearance
+- **Reptilian**: Scaly reptilian beings
+- **Insectoid**: Beings with insect features
 
-除咗Grey，UFO文化中仲有其他外星人類型：
-- **Nordic（北歐型）**：高大、金髮、人類外貌
-- **Reptilian（爬蟲型）**：有鱗片嘅爬蟲類生物
-- **Insectoid（昆蟲型）**：昆蟲特徵嘅生物
-
-![灰色外星人](../../assets/blog-placeholder-4.jpg)
-*流行文化中Grey嘅經典形象*
+![Grey alien](../../assets/blog-placeholder-4.jpg)
+*Classic image of the Grey in popular culture*
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/LLTF7tbpQlw" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -56,4 +55,4 @@ Grey嘅形象很大程度上係由媒體塑造嘅：
 
 ---
 
-*📚 參考：UFO文化研究、案例記錄*
+*📚 References: UFO Culture Studies, Case Records*

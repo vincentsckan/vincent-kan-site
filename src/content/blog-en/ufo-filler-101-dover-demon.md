@@ -7,14 +7,13 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "humanoid-encounter"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+On April 21-22, 1977, a series of bizarre encounters occurred in Dover, Massachusetts — multiple local teenagers saw a small mysterious creature at different times and locations. This being, later known as the "Dover Demon," became one of the most famous alien encounter cases in the northeastern United States.
 
-1977年4月21日至22日，麻省Dover鎮發生咗一系列離奇嘅遭遇——多位當地少年喺唔同時間、唔同地點見到一個細小嘅神秘生物。呢個後來被稱為「Dover惡魔」嘅生物，成為美國東北部最著名嘅外星生物遭遇案例。
+17-year-old Bill Bartlett was the first to see the creature: about 1.2 meters tall, with a gray body as slender as a sausage, a large head and big eyes, thin limbs, and fingers that seemed to have suction cups. The strangest part was that the creature stood on a stone wall, staring at Bartlett with its large eyes.
 
-17歲嘅Bill Bartlett首先見到呢個生物：大約1.2米高，灰色嘅身體好似香腸咁幼長，有大頭同大眼，手腳幼細，手指好似有吸盤。最奇怪嘅係個生物企喺石牆上面，用佢嘅大眼睛望住Bartlett。
+The next night, another teenager, John Baxter, saw the same creature standing by the roadside. His description matched Bartlett's completely. A third 15-year-old, Andrew Brodie, also saw a similar creature. Expert interviews revealed that their independent descriptions were highly consistent, and there was no motive for a hoax.
 
-第二晚，另一位少年John Baxter見到同一個生物喺路邊企。佢嘅描述同Bartlett完全吻合。第三位15歲少年Andrew Brodie都見到類似的生物。專家訪問發現佢哋嘅獨立描述極為一致，且冇任何騙局動機。
-
-📚 來源
+📚 Sources
 - Clark, J. "The UFO Encyclopedia: Dover Demon" (1998)
 - Barker, G. "The Dover Demon: A Close Encounter" (1977), Fate Magazine
 - Dover Police Incident Reports (April 1977)

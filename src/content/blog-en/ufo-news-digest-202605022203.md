@@ -6,87 +6,86 @@ descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-02T22:03:00Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---
-
-> UFO界經歷咗一個充滿爭議同衝擊嘅星期。由著名研究員David Wilcock離世、到白宮正式註冊Aliens.gov域名、再到FBI調查多名科學家死亡失蹤事件，UFO披露運動似乎正處於一個關鍵時刻。
+> The UFO community experienced a week full of controversy and upheaval. From the death of prominent researcher David Wilcock, to the White House officially registering the Aliens.gov domain, to the FBI investigating the deaths and disappearances of multiple scientists, the UFO disclosure movement appears to be at a critical juncture.
 
 ---
 
-## 📰 本日重點新聞
+## 📰 Today's Top News
 
-### 1️⃣ 知名UFO研究員David Wilcock離世，終年53歲
+### 1️⃣ Renowned UFO Researcher David Wilcock Dies at 53
 
-| 📍 *美國科羅拉多州* | 📅 *2026年4月20日* | 🔍 *人物逝世* |
+| 📍 *Boulder County, Colorado, USA* | 📅 *April 20, 2026* | 🔍 *Death of a Public Figure* |
 
-著名UFO研究員、Ancient Aliens節目常客 **David Wilcock** 被發現在科羅拉多州Boulder縣死亡。驗屍官辦公室證實，Wilcock係開槍自殺身亡。佢喺逝世前兩日仲喺X（前Twitter）發文話自己「經歷緊啲好 intense 嘅嘢」。
+Prominent UFO researcher and frequent *Ancient Aliens* guest **David Wilcock** was found dead in Boulder County, Colorado. The coroner's office confirmed that Wilcock died from a self-inflicted gunshot wound. Just two days before his death, he posted on X (formerly Twitter) that he was "going through some really intense stuff."
 
-Wilcock係UFO披露運動嘅重要人物，其YouTube頻道「Divine Cosmos with David Wilcock」累積超過4,600萬觀看次數及51.8萬訂閱者。眾議員Anna Paulina Luna形容佢嘅離世係「悲劇」，並引用聖經經文「John 8:32」表示悼念。
+Wilcock was a key figure in the UFO disclosure movement. His YouTube channel, "Divine Cosmos with David Wilcock," amassed over 46 million views and 518,000 subscribers. Congresswoman Anna Paulina Luna described his death as a "tragedy" and quoted the Bible verse "John 8:32" in tribute.
 
-> 呢件事發生喺國會同FBI正調查多名科學家死亡失蹤事件嘅敏感時期，令到陰謀論進一步發酵。
+> This incident occurs during a sensitive period when Congress and the FBI are investigating the deaths and disappearances of multiple scientists, further fueling conspiracy theories.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/U_9D9LQnPbY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 2️⃣ 白宮註冊 Aliens.gov 域名，披露行動再進一步
+### 2️⃣ White House Registers Aliens.gov Domain, Disclosure Moves Forward
 
-| 📍 *美國華盛頓* | 📅 *2026年4月* | 🔍 *政府動態* |
+| 📍 *Washington D.C., USA* | 📅 *April 2026* | 🔍 *Government Action* |
 
-喺特朗普下令解密所有聯邦政府UFO相關文件之後約一個月，白宮正式註冊咗 **Aliens.gov** 域名。呢個舉動被視為政府準備向公眾發放更多外星相關資訊嘅信號。
+About a month after Trump ordered the declassification of all federal government UFO-related documents, the White House officially registered the **Aliens.gov** domain. This move is seen as a signal that the government is preparing to release more extraterrestrial-related information to the public.
 
-消息指出，域名註冊係跟進特朗普早前嘅行政命令，要求各政府機構解密所有關於UFO及「不明空中現象」（UAP）嘅檔案。奧巴馬之前都曾經喺podcast訪問中提及宇宙咁大，好大機會存在外星生命。
+Sources indicate the domain registration follows up on Trump's earlier executive order requiring government agencies to declassify all files regarding UFOs and "Unidentified Aerial Phenomena" (UAP). Obama had previously mentioned in a podcast interview that the universe is so vast, there is a high probability of extraterrestrial life.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/8MqjL2j8k1Y" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 3️⃣ FBI及國會調查10名科學家死亡失蹤事件
+### 3️⃣ FBI and Congress Investigate Deaths and Disappearances of 10 Scientists
 
-| 📍 *美國多個州份* | 📅 *2026年持續* | 🔍 *調查進行中* |
+| 📍 *Multiple U.S. States* | 📅 *Ongoing in 2026* | 🔍 *Investigation in Progress* |
 
-**美國眾議院監督委員會** 宣布調查 **10名科學家嘅死亡或失蹤**，呢班科學家全部同美國核能或太空研究計劃有關。FBI亦加入調查，主任Kash Patel表示會「搵出所有關聯」，如果有證據顯示涉及不法行為，「會做出適當嘅拘捕」。
+**The U.S. House Oversight Committee** announced an investigation into the **deaths or disappearances of 10 scientists**, all of whom were associated with U.S. nuclear energy or space research programs. The FBI has also joined the investigation, with Director Kash Patel stating they will "find all connections" and, if evidence suggests illegal activity, "make appropriate arrests."
 
-涉及嘅案件包括：
+Cases involved include:
 
-- **退休空軍將軍William Neil McCasland** — 喺新墨西哥州失蹤，佢太太強調老公冇「特殊UFO知識」
-- **前NASA科學家Monica Reza** — 喺Angeles National Forest遠足時失蹤
-- **MIT物理學教授Nuno F.G. Loureiro** — 喺波士頓家中被槍殺
-- **反重力研究員Amy Catherine Eskridge** — 34歲時死亡，裁定為自殺
+- **Retired Air Force General William Neil McCasland** — Missing in New Mexico; his wife emphasized he had no "special UFO knowledge"
+- **Former NASA Scientist Monica Reza** — Missing while hiking in the Angeles National Forest
+- **MIT Physics Professor Nuno F.G. Loureiro** — Shot and killed at his home in Boston
+- **Anti-Gravity Researcher Amy Catherine Eskridge** — Died at age 34; ruled a suicide
 
-特朗普回應記者提問時形容呢啲係「好 serious 嘅事」，雖然希望只係巧合，但政府會跟進調查。
+Responding to reporters' questions, Trump described these as "very serious matters." While hoping it's just a coincidence, he said the government will follow up with the investigation.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/TW_-RfH7Gls" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 4️⃣ 美國UFO簡史：近一個世紀嘅迷思
+### 4️⃣ A Brief History of U.S. UFOs: Nearly a Century of Mystery
 
-| 📍 *美國全國* | 📅 *1947年至今* | 🔍 *歷史回顧* |
+| 📍 *Nationwide, USA* | 📅 *1947 to Present* | 🔍 *Historical Review* |
 
-《The Independent》刊登咗一篇詳盡嘅UFO歷史回顧，由1947年Kenneth Arnold首次廣為人知嘅UFO目擊事件、Roswell事件、到2017年Pentagon公開「Gimbal」及「GoFast」海軍飛行員影片，再到2022年國會50年來首次UFO聽證會。
+*The Independent* published a detailed retrospective of UFO history, from Kenneth Arnold's first widely publicized UFO sighting in 1947, the Roswell incident, to the Pentagon's release of the "Gimbal" and "GoFast" Navy pilot videos in 2017, and the first Congressional UFO hearing in 50 years in 2022.
 
-重點時間線：
+Key Timeline:
 
-| 年份 | 事件 |
-|------|------|
-| 1947 | Kenneth Arnold目擊事件 + Roswell |
-| 1948 | 空軍Project Sign / 後來嘅Project Blue Book |
-| 1969 | 空軍終止Project Blue Book，聲稱冇外星證據 |
-| 2017 | Pentagon證實「Gimbal」等UAP影片真確性 |
-| 2020 | Pentagon成立UAP Task Force |
-| 2022 | 國會50年來首場UFO聽證會 |
-| 2026 | 特朗普下令解密全部UFO檔案 |
+| Year | Event |
+|------|-------|
+| 1947 | Kenneth Arnold Sighting + Roswell |
+| 1948 | Air Force Project Sign / Later Project Blue Book |
+| 1969 | Air Force terminates Project Blue Book, claims no alien evidence |
+| 2017 | Pentagon confirms authenticity of "Gimbal" and other UAP videos |
+| 2020 | Pentagon establishes UAP Task Force |
+| 2022 | First Congressional UFO hearing in 50 years |
+| 2026 | Trump orders declassification of all UFO files |
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/7h_DF8ZShZ8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 5️⃣ 荷里活與UFO文化：娛樂如何塑造公眾認知
+### 5️⃣ Hollywood and UFO Culture: How Entertainment Shapes Public Perception
 
-| 📍 *荷里活* | 📅 *1950年至今* | 🔍 *媒體文化* |
+| 📍 *Hollywood* | 📅 *1950 to Present* | 🔍 *Media Culture* |
 
-隨住政府逐步披露UFO資訊，媒體點樣塑造我哋對外星人嘅想像都同樣值得關注。由1950年首部UFO電影《The Flying Saucer》、到Steven Spielberg嘅《Close Encounters of the Third Kind》同《E.T.》、再到2025年紀錄片《The Age of Disclosure》，以及Spielberg即將上映嘅新作《Disclosure Day》。
+As the government gradually discloses UFO information, how media shapes our imagination of aliens is equally noteworthy. From the first UFO film *The Flying Saucer* in 1950, to Steven Spielberg's *Close Encounters of the Third Kind* and *E.T.*, to the 2025 documentary *The Age of Disclosure*, and Spielberg's upcoming new film *Disclosure Day*.
 
-退休海軍少將Timothy Gallaudet話：「荷里活幾十年嚟一直幫公眾做緊心理準備。我認為人們可以接受（外星生命存在嘅事實），當然，取決於政府釋放咩資訊。」
+Retired Rear Admiral Timothy Gallaudet said: "Hollywood has been psychologically preparing the public for decades. I believe people can accept (the fact of extraterrestrial life), of course, depending on what information the government releases."
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/3pMQ7m2t0B8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
@@ -94,11 +93,11 @@ Wilcock係UFO披露運動嘅重要人物，其YouTube頻道「Divine Cosmos with
 
 ![UFO](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
 
-> **小編有感：** 呢個星期嘅UFO新聞真係一鑊泡 — 由David Wilcock突然離世、到白宮正式註冊Aliens.gov、再到FBI調查科學家死亡事件，樣樣都令人深思。你覺得呢啲事件之間有冇關聯？定係一切都只係巧合？留言話畀我哋知！👇
+> **Editor's Note:** This week's UFO news has been a real whirlwind — from David Wilcock's sudden death, to the White House officially registering Aliens.gov, to the FBI investigating the deaths of scientists, everything is thought-provoking. Do you think these events are connected? Or is it all just coincidence? Let us know in the comments! 👇
 
 ---
 
-## 🔗 來源連結
+## 🔗 Source Links
 
 - [The Independent: David Wilcock death](https://www.independent.co.uk/news/world/americas/david-wilcock-ufo-researcher-dead-b2963362.html)
 - [The Independent: Aliens.gov domain](https://www.independent.co.uk/bulletin/news/trump-ufo-aliens-obama-domain-b2941876.html)

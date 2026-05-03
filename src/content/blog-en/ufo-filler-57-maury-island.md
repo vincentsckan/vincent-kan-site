@@ -7,26 +7,25 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "crash"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-大部分人講起1947年UFO墜毀事件，第一時間都會諗起Roswell。但喺Roswell事件發生前幾日，美國西岸華盛頓州嘅Maury Island已經有另一個神秘嘅UFO墜毀事件發生——而且真相更加撲朔迷離。
+Most people, when talking about the 1947 UFO crash incident, immediately think of Roswell. But just a few days before the Roswell event, another mysterious UFO crash had already occurred on Maury Island in Washington State on the US West Coast—and the truth is even more perplexing.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Maury Island, Puget Sound, Washington, USA | 1947-06-21 | UFO Crash / Hoax Debated |
 
-1947年6月21日，32歲嘅海岸防衛隊軍人Harold Dahl喺Maury Island附近水域進行巡邏任務時，突然見到天空中有六架「甜甜圈形狀」嘅大型飛行物體。佢話佢哋發出金屬光澤，盤旋喺大約600米高空。跟住其中一架突然跌落碎片——大量極輕嘅金屬碎屑同類似石頭嘅物質墜落到沙灘上。
+On June 21, 1947, 32-year-old Coast Guardsman Harold Dahl was on patrol in the waters near Maury Island when he suddenly spotted six large "doughnut-shaped" flying objects in the sky. He said they had a metallic sheen and hovered at about 600 meters altitude. Then one of them suddenly dropped debris—a large amount of extremely light metal shavings and rock-like substances fell onto the beach.
 
-Dahl拍咗幾張照片，但佢話之後俾一個「著黑色西裝嘅男人」警告——黑衣人警告佢唔好講出去，否則佢同屋企人會「遇到意外」。更加奇怪嘅係，Dahl話當時隨行嘅兒子同狗都失蹤咗一日，但Dahl之後先至記得見過佢哋。
+Dahl took several photos, but he said he was later warned by a "man in a black suit"—the man in black told him not to talk about it, or he and his family would "meet with an accident." Even stranger, Dahl said his son and dog, who were with him at the time, went missing for a day, but Dahl only remembered seeing them afterward.
 
-Dahl同佢嘅生意拍檔Fred Crisman去咗見著名嘅UFO研究者Kenneth Arnold——就係同一個月較早前喺雷尼爾山附近目擊UFO而聞名嗰位Arnold。Arnold對呢件事好有興趣，更加親自去咗現場調查，收集咗部分碎片去化驗。
+Dahl and his business partner Fred Crisman went to meet the famous UFO researcher Kenneth Arnold—the same Arnold who had become known earlier that month for sighting a UFO near Mount Rainier. Arnold was very interested in this incident and even went to the scene to investigate, collecting some debris for analysis.
 
-化驗結果呢？有啲報告話碎片係普通嘅爐渣同礦物——即係人做垃圾。Arnold同佢嘅飛行員朋友Dave Johnson後來更加因為呢件事俾人威脅。
+What were the analysis results? Some reports said the debris was ordinary slag and minerals—i.e., man-made garbage. Arnold and his pilot friend Dave Johnson were later threatened because of this incident.
 
-1947年7月中，美國空軍正式介入調查。空軍情報官員終於得出結論：呢件事可能係一個騙局。但係——嗰啲「甜甜圈形狀飛船」嘅描述同後來世界各地嘅UFO目擊報告又出奇地相似。成件事最詭異嘅地方係：Dahl嘅原始照片同影片全部「唔見咗」，至今未曾公開過。
+In mid-July 1947, the US Air Force officially launched an investigation. Air Force intelligence officers eventually concluded that this incident might be a hoax. But—the description of those "doughnut-shaped spacecraft" was strikingly similar to later UFO sighting reports from around the world. The most eerie part of the whole affair is that Dahl's original photos and footage have all "gone missing" and have never been made public.
 
-雖然好多UFO研究者認為Maury Island係一個騙局，但亦有人認為真相被刻意掩蓋——尤其係考慮到事件發生喺Roswell之前，政府可能想低調處理，避免媒體過度關注。
+Although many UFO researchers consider Maury Island a hoax, some believe the truth was deliberately covered up—especially considering the event occurred before Roswell, and the government may have wanted to handle it quietly to avoid excessive media attention.
 
-📚 來源
+📚 Sources
 - Arnold, K. "The Maury Island Investigation" (1947), Personal notes
 - Air Force Intelligence Report, "Maury Island Incident" (1947)
 - Clark, J. "The UFO Encyclopedia" (1998), Omnigraphics

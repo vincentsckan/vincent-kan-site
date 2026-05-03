@@ -9,104 +9,103 @@ heroImage: ../../assets/blog-placeholder-2.jpg
 tags: ["UFO", "UAP", "news", "自動更新"]
 category: "UFO快訊"
 ---
+> Trump speaks out again, claiming the Pentagon is about to release "very interesting" UFO files, with news spreading across multiple major media outlets. At the same time, the former AARO director and a retired Navy rear admiral publicly clash, escalating the civil war within the UFO community. On the congressional front, the prelude to the May 13 hearing has already begun. Today (May 3) is packed with UFO news—check out all the highlights now!
 
-> 特朗普再放話稱五角大樓即將公開「非常有趣」嘅UFO檔案，消息傳遍多家主要媒體。同一時間，前AARO局長同退役海軍少將公開互轟，UFO社群內戰升溫。國會方面，5月13日聽證會前哨戰已經打響。今日（5月3日）嘅UFO新聞量多到爆，即刻睇晒所有重點！
+## 📰 Today's Headlines
 
-## 📰 本日頭條
+| 📍 *Washington, D.C.* | 📅 *May 3, 2026* | 🔍 *Government Disclosure* |
 
-| 📍 *華盛頓特區* | 📅 *2026年5月3日* | 🔍 *政府披露* |
+### Trump: Pentagon Preparing to Release "Very Interesting" UFO Files
 
-### 特朗普：五角大樓準備公開「非常有趣」UFO檔案
+The Associated Press (AP) reports that President Trump stated today that the Pentagon is preparing to release a batch of "very interesting" UFO files discovered by his administration.
 
-《美聯社》（AP）報導，總統特朗普今日表示，五角大樓正在準備公開一批由其政府發現嘅「非常有趣」UFO檔案。
+Trump began pushing this issue in February, directing federal agencies to disclose records related to extraterrestrial life and UFOs. Since then, he has been teasing updates, hinting at the release of unprecedented government documents.
 
-特朗普今年2月已經開始推動相關議題，指示聯邦機構公開與外星生命及UFO相關嘅記錄。自那時起，佢不斷放出誘人嘅更新消息，暗示將會公開前所未見嘅政府文件。
+> "We're going to release a lot of things that haven't been released before. I think some of it will be very interesting to people." — President Trump
 
-> 「我哋將會公開好多以前未公開過嘅嘢。我諗其中有啲會令大家好有興趣。」——特朗普總統
-
-多家主要媒體今日同時報導呢單新聞：
-- **《芝加哥論壇報》**：「特朗普喺新一批UFO檔案上吊大家胃口」
-- **《波士頓環球報》**：「特朗普暗示新一批UFO檔案即將到來」
-- **《Fortune》**：「特朗普話『非常有趣』嘅UFO檔案即將公開，五角大樓承諾『前所未見』嘅資訊」
-- **US News & World Report**：「特朗普喺新一批UFO檔案上吊大家胃口」
-- **6abc / WPVI-TV**：詳細報導特朗普對UFO檔案嘅最新評論
+Multiple major media outlets covered this story simultaneously today:
+- **Chicago Tribune**: "Trump keeps us up in the air with his hints of what's coming in a new batch of UFO files"
+- **Boston Globe**: "Trump hints at what's coming in a new batch of UFO files"
+- **Fortune**: "Trump says 'very interesting' UFO files to be revealed, Pentagon promises 'unprecedented' information"
+- **US News & World Report**: "Trump keeps us up in the air with his hints of what's coming in a new batch of UFO files"
+- **6abc / WPVI-TV**: Detailed coverage of Trump's latest comments on UFO files
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/VCKLZ2Va5yU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*特朗普宣布公開UFO檔案最新消息*
+*Trump announces latest news on UFO file release*
 
-### ⚠️ 專家潑冷水：前AARO局長話冇外星人證據
+### ⚠️ Experts Pour Cold Water: Former AARO Director Says No Evidence of Aliens
 
-雖然特朗普大吹大擂，但前AARO（全領域異常解決辦公室）局長 **Sean Kirkpatrick**（柯克派屈克）直接潑冷水。
+Despite Trump's hype, former AARO (All-domain Anomaly Resolution Office) director **Sean Kirkpatrick** directly poured cold water on it.
 
-呢位物理學家兼前情報官員表示，佢睇過晒政府嘅記錄，認為並冇乜爆炸性嘅新發現。佢仲話特朗普嘅承諾只係「shiny object」（花巧嘢），用嚟 distract 美國人對伊朗戰爭嘅關注。
+The physicist and former intelligence official stated that he has reviewed all government records and believes there are no explosive new findings. He also said Trump's promise is just a "shiny object" used to distract Americans from the war in Iran.
 
-> 「讀者唔好對呢啲文件抱太大期望，諗住會有相片、訪問外星人降落之類嘅內容。因為呢啲嘢根本唔存在。」——Sean Kirkpatrick
+> "Readers shouldn't get their hopes up too high about these files, expecting photos, alien landings, or anything like that. Because those things simply don't exist." — Sean Kirkpatrick
 
-Kirkpatrick 仲話網上流傳嘅外星科技影片多數有平凡嘅解釋，現代軍用紅外線相機經常捕捉到引擎嘅熱信號殘留，呢啲就係「藥丸形」UFO影片嘅真相。
+Kirkpatrick also said that many alien technology videos circulating online have mundane explanations, noting that modern military infrared cameras often capture residual heat signals from engines, which is the truth behind "pill-shaped" UFO videos.
 
-### 🔥 UFO 內戰：Gallaudet vs Kirkpatrick 全面開火
+### 🔥 UFO Civil War: Gallaudet vs Kirkpatrick Full Blaze
 
-一場激烈嘅公開爭論喺UFO社群爆發！退役海軍少將 **Tim Gallaudet** 公開指控 Kirkpatrick 散播 **「虛假資訊」（disinformation）**，引發一場名副其實嘅「UFO大戰」。
+A fierce public debate has erupted within the UFO community! Retired Navy Rear Admiral **Tim Gallaudet** publicly accused Kirkpatrick of spreading **"disinformation,"** sparking a veritable "UFO war."
 
-Gallaudet 係多位高層吹哨人之一，佢不斷公開呼籲政府對UAP問題更加透明。今次直接挑機 Kirkpatrick，質疑對方嘅可信度同誠信。呢場爭論凸顯咗UFO研究圈內部喺可信度同透明度問題上嘅嚴重分歧。
+Gallaudet is one of several high-level whistleblowers who have repeatedly called for greater government transparency on UAP issues. This time, he directly challenged Kirkpatrick, questioning his credibility and integrity. This debate highlights the deep divisions within the UFO research community over issues of credibility and transparency.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Vm-mjuqOdds" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*特朗普下令公開UFO檔案——政府仲隱藏緊啲乜？深入分析*
+*Trump orders release of UFO files—What else is the government hiding? In-depth analysis*
 
-### 🏛️ 國會動態：5月13日UAP聽證會即將召開
+### 🏛️ Congressional Developments: May 13 UAP Hearing Approaching
 
-國會方面同樣有重大進展！
+Significant progress is also happening on the congressional front!
 
-**眾議院監督委員會** 將於 **5月13日** 舉行UAP聽證會，呢次聽證會可能會要求政府交出更多UFO相關記錄。消息指，國會方面已經準備好對五角大樓施加更大壓力。
+The **House Oversight Committee** will hold a UAP hearing on **May 13**, which may demand the government hand over more UFO-related records. Sources indicate that Congress is prepared to increase pressure on the Pentagon.
 
-佛羅里達州眾議員 **Anna Paulina Luna**（空軍退伍軍人，聯邦機密解密工作組聯席主席）一直批評五角大樓嘅透明度「不足夠」。今年3月，佢去信國防部長 Pete Hegseth 要求交出數十段由吹哨人標記嘅UAP影片，包括名為「雲中球形UAP」等片段。最後期限已過，但五角大樓至今未交出任何影片。
+Florida Representative **Anna Paulina Luna** (Air Force veteran, co-chair of the Federal Declassification Working Group) has consistently criticized the Pentagon's transparency as "insufficient." In March, she sent a letter to Secretary of Defense Pete Hegseth demanding the release of dozens of UAP videos flagged by whistleblowers, including clips like "spherical UAP in clouds." The deadline has passed, but the Pentagon has yet to hand over any videos.
 
-Luna 上年喺 Joe Rogan 嘅 podcast 中表示，佢見過「跨維度生命體」嘅證據。特朗普加入UFO議題後，Luna 喺社交媒體上表示：「五角大樓再冇得喺我哋嘅文件請求面前隱藏啦！」
+Luna stated on Joe Rogan's podcast last year that she had seen evidence of "interdimensional beings." After Trump joined the UFO issue, Luna posted on social media: "The Pentagon can no longer hide from our document requests!"
 
-副總統 **JD Vance** 亦自稱「沉迷」於UFO檔案。今年3月，佢話自上任以來一直想抽時間調查 Area 51：「我仲有三年副總統任期，我一定會查清楚UFO檔案嘅真相。」
+Vice President **JD Vance** has also described himself as "obsessed" with UFO files. In March, he said he has been wanting to investigate Area 51 since taking office: "I still have three years as Vice President, and I will definitely get to the bottom of the UFO files."
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/JlEHbQlsOuM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*特朗普UFO聽證會最新消息——國會聽證會現場直播精華*
+*Latest on Trump UFO hearing—Congressional hearing live highlights*
 
-### 📹 國防部錯過提交UAP影片最後期限
+### 📹 Defense Department Misses Deadline to Submit UAP Videos
 
-《NewsNation》報導，國防部錯過咗提交UAP相關影片嘅最後期限。
+NewsNation reports that the Defense Department missed the deadline to submit UAP-related videos.
 
-聯邦機密解密工作組一直要求獲取由軍方吹哨人報告嘅UAP影片。呢啲影片據報包含多個分類，包括「球形UAP」、「螺旋形UAP」、「金字塔形UAP」等。雖然特朗普嘅指令為情報解密增加咗行政層面嘅推動力，但國防部嘅拖字訣似乎仍然持續。
+The Federal Declassification Working Group has been demanding access to UAP videos reported by military whistleblowers. These videos reportedly include multiple categories, such as "spherical UAP," "spiral UAP," and "pyramid-shaped UAP." Although Trump's directive adds administrative momentum to intelligence declassification, the Pentagon's stalling tactics appear to persist.
 
-![UFO 觀察示意圖](../../assets/blog-placeholder-3.jpg)
+![UFO observation illustration](../../assets/blog-placeholder-3.jpg)
 
-### 🎬 荷里活外星熱潮
+### 🎬 Hollywood Alien Craze
 
-外星話題喺荷里活同樣火熱！**Steven Spielberg** 即將推出新片《**Disclosure Day**》（披露日），呢部關於UFO披露嘅電影勢必再次引爆公眾興趣。
+The alien topic is also heating up in Hollywood! **Steven Spielberg** is about to release a new film titled **"Disclosure Day,"** a movie about UFO disclosure that is sure to reignite public interest.
 
-前總統 **Obama** 今年2月亦喺 podcast 上話「外星人係存在嘅」，雖然佢後來澄清話自己冇見過證據，但「宇宙咁大，有生命存在嘅機率好高」。
+Former President **Obama** also said on a podcast in February that "aliens exist," though he later clarified he hasn't seen evidence, but "the universe is so vast, the probability of life existing is very high."
 
-## 🎥 更多影片推薦
+## 🎥 More Video Recommendations
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/5FUOuNig3ts" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*特朗普談UFO檔案：「我哋會公開好多嘢」*
+*Trump on UFO files: "We're going to release a lot of things"*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/pVj4Iu4fZNY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*特朗普承諾UFO檔案即將到來*
+*Trump promises UFO files coming soon*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Dichs3HoJuA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*特朗普：UFO檔案「喺唔遠嘅將來」公開*
+*Trump: UFO files to be released "in the not-too-distant future"*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/HpizTPNZolE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*特朗普投下UFO文件震撼彈——5月13日聽證會全前瞻*
+*Trump drops UFO file bombshell—Full preview of May 13 hearing*
 
-## 📊 本日總結
+## 📊 Today's Summary
 
-| 分類 | 重點 |
-|------|------|
-| 👨‍💼 行政部門 | 特朗普再承諾公開「非常有趣」UFO檔案，五角大樓稱將公開「前所未見」資訊 |
-| 🏛️ 國會 | 5月13日監督委員會UAP聽證會；Luna持續施壓要求交出UAP影片 |
-| 🗣️ 專家界 | Gallaudet vs Kirkpatrick公開對質，UFO社群內戰白熱化 |
-| ⏰ 時效 | 國防部錯過UAP影片提交最後期限 |
-| 🎬 文化 | Spielberg新片《Disclosure Day》將上映 |
+| Category | Key Points |
+|----------|------------|
+| 👨‍💼 Executive Branch | Trump again promises to release "very interesting" UFO files; Pentagon says it will release "unprecedented" information |
+| 🏛️ Congress | May 13 Oversight Committee UAP hearing; Luna continues pressuring for UAP video release |
+| 🗣️ Expert Community | Gallaudet vs Kirkpatrick public confrontation; UFO community civil war intensifies |
+| ⏰ Timeline | Defense Department misses UAP video submission deadline |
+| 🎬 Culture | Spielberg's new film "Disclosure Day" set for release |
 
-## 🔗 來源連結
+## 🔗 Source Links
 
 - [AP News — Trump keeps us up in the air with his hints of what's coming in a new batch of UFO files](https://apnews.com/article/trump-ufo-files-pentagon-aliens-5d60c31d1c3453e227acf555e8fb61d5)
 - [Chicago Tribune — Trump keeps us up in the air with his hints (via AP)](https://www.chicagotribune.com/2026/05/03/trump-ufo-files/)

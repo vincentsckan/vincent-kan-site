@@ -6,95 +6,94 @@ descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: 2026-05-02T09:03:00.000Z
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---
-
-> 最新UFO/UAP資訊匯總！今期内容包括美國國會議員Eric Burlison繼續追問海外巨型UAP結構嘅最新進展、多哈雷暴期間出現嘅三角形UFO編隊、加州Sonoma夜視鏡拍到嘅三角形UFO，以及匿名吹哨人爆料情報機構內部更深層嘅UFO機密架構。
-
----
-
-## 📰 本週UFO/UAP重點新聞
+> Latest UFO/UAP News Roundup! This edition includes Congressman Eric Burlison continuing to press for updates on the massive overseas UAP structure, a triangular UFO formation spotted during a thunderstorm in Doha, a triangular UFO captured on night vision in Sonoma, California, and an anonymous whistleblower revealing deeper UFO secrecy structures within intelligence agencies.
 
 ---
 
-### 1️⃣ 眾議員Eric Burlison追問海外巨型UAP結構 🏛️
+## 📰 This Week's Top UFO/UAP News
 
-| 📍 *美國/海外* | 📅 *2026年2月* | 🔍 *國會監督* |
+---
 
-美國密蘇里州眾議員Eric Burlison近日在接受電視訪問時，再次提起有關海外巨型不明物體嘅報告。佢表示收到來自政府內外嘅情報，指某個海外地方存在一個巨大到無法運輸嘅不明物體，甚至要喺現場建造建築物將佢圍住。
+### 1️⃣ Congressman Eric Burlison Presses for Updates on Massive Overseas UAP Structure 🏛️
 
-Burlison坦言自己仲未掌握「硬證據」，但正透過國會監督渠道爭取查閱相關資料。佢形容想進入呢啲設施（無論美國定海外）都非常困難，涉及管轄權爭議、跨機構保密同國會委員會之間嘅地盤之爭。
+| 📍 *USA/Overseas* | 📅 *February 2026* | 🔍 *Congressional Oversight* |
 
-同場嘅Dr. Steven Greer更進一步爆料，話其中一個物體位於韓國首爾以外嘅山區，體積可能有幾百甚至幾千英尺闊，而且材料堅硬到傳統切割工具都搞唔掂。Greer堅稱呢啲係太空船，仲話類似物體可能美國境內都有。
+Missouri Congressman Eric Burlison recently brought up reports of a massive overseas unidentified object during a TV interview. He stated he has received intelligence from both inside and outside the government indicating the existence of an object in a foreign location so large it cannot be transported, requiring a building to be constructed around it on-site.
 
-> 🎥 **相關影片：**
+Burlison admitted he hasn't yet obtained "hard evidence" but is working through congressional oversight channels to access relevant materials. He described the extreme difficulty of entering these facilities (whether in the US or overseas), citing jurisdictional disputes, inter-agency secrecy, and turf wars between congressional committees.
+
+Dr. Steven Greer, also present, further alleged that one such object is located in a mountainous area outside Seoul, South Korea, potentially hundreds or even thousands of feet wide, with material so hard that conventional cutting tools are ineffective. Greer insists these are spacecraft and claims similar objects may exist within the US.
+
+> 🎥 **Related Videos:**
 > <div class="video-embed"><iframe src="https://www.youtube.com/embed/5CbLqy6HFOI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 > <div class="video-embed"><iframe src="https://www.youtube.com/embed/2TRAV14t3S0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 2️⃣ 多哈雷暴中出現神秘三角形UFO編隊 🌩️
+### 2️⃣ Mysterious Triangular UFO Formation Appears During Doha Thunderstorm 🌩️
 
-| 📍 *卡塔爾多哈* | 📅 *2026年3月25日* | 🔍 *目擊事件* |
+| 📍 *Doha, Qatar* | 📅 *March 25, 2026* | 🔍 *Sighting Event* |
 
-2026年3月25日晚上約7點，卡塔爾多哈上空喺雷暴期間出現咗三個發光球體。目擊者描述佢哋係明亮球形光點，喺風暴雲背景下懸浮或緩慢移動。
+Around 7 PM on March 25, 2026, three luminous orbs appeared over Doha, Qatar, during a thunderstorm. Witnesses described them as bright, spherical points of light hovering or moving slowly against the storm clouds.
 
-呢三個光球表現出以下特徵：
-- 保持鬆散編隊飛行
-- 發出穩定光線（非閃電般閃爍）
-- 以受控方式移動（非隨機飄移）
+These three orbs exhibited the following characteristics:
+- Maintained a loose formation flight
+- Emitted a steady light (not flashing like lightning)
+- Moved in a controlled manner (not random drifting)
 
-雖然可能解釋包括球狀閃電、放電效應、無人機或鏡頭偽影，但三球同步出現、持續可見同受控移動呢啲特徵，令自然解釋難以完全成立。
+While possible explanations include ball lightning, electrical discharge effects, drones, or lens artifacts, the synchronized appearance of three orbs, their sustained visibility, and controlled movement make natural explanations difficult to fully accept.
 
-> 🎥 **相關影片：**
+> 🎥 **Related Video:**
 > <div class="video-embed"><iframe src="https://www.youtube.com/embed/Mg_vNPVuYhg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 3️⃣ 加州Sonoma夜視鏡拍到三角形UFO 🎥
+### 3️⃣ Triangular UFO Captured on Night Vision in Sonoma, California 🎥
 
-| 📍 *美國加州Sonoma* | 📅 *2025年12月28日* | 🔍 *夜視錄像* |
+| 📍 *Sonoma, California, USA* | 📅 *December 28, 2025* | 🔍 *Night Vision Footage* |
 
-一名喺Sonoma嘅目擊者用PVS-14夜視單筒鏡拍低咗一個三角形物體喺夜空中無聲移動嘅片段。目擊者當時正進行例行觀星，喺錄影最後10秒先見到呢個物體進入畫面。
+A witness in Sonoma used a PVS-14 night vision monocular to capture footage of a triangular object moving silently across the night sky. The witness was conducting routine stargazing and only noticed the object entering the frame in the last 10 seconds of the recording.
 
-目擊者描述：
-- 清晰嘅三角形外形
-- 每個角有一盞暗淡燈光
-- 快速而平穩嘅移動
-- 完全冇引擎聲
-- 看似高海拔飛行
+Witness description:
+- Clear triangular shape
+- One dim light at each corner
+- Fast and smooth movement
+- Completely silent, no engine noise
+- Appeared to be at high altitude
 
-重點係呢個係**第二次目擊**同一款三角形物體！第一次冇帶相機，第二次成功拍低。重複出現令誤認可能性大減。
+The key point is that this was a **second sighting** of the same type of triangular object! The first time, the witness didn't have a camera; the second time, they successfully recorded it. The repeated occurrence significantly reduces the likelihood of misidentification.
 
-> 🎥 **相關影片：**
+> 🎥 **Related Video:**
 > <div class="video-embed"><iframe src="https://www.youtube.com/embed/Y9zDzN5SXPo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 4️⃣ 匿名吹哨人爆料情報機構深層UFO機密 🤫
+### 4️⃣ Anonymous Whistleblower Reveals Deep UFO Secrets Within Intelligence Agencies 🤫
 
-| 📍 *美國情報機構* | 📅 *2026年1月* | 🔍 *吹哨人爆料* |
+| 📍 *US Intelligence Agencies* | 📅 *January 2026* | 🔍 *Whistleblower Leak* |
 
-一名自稱前情報內部人士、化名「Rhea」嘅匿名吹哨人發表咗詳細爆料，描述軍事情報機構點樣處理「異常航空航天與水下系統」。
+An anonymous whistleblower, using the pseudonym "Rhea" and claiming to be a former intelligence insider, published a detailed account describing how military intelligence agencies handle "anomalous aerospace and underwater systems."
 
-Rhea話自己嘅專業背景涵蓋電光學、激光系統、先進感測器同遠程探測技術。佢最初做常規反恐同信號情報分析，後來被調派到一個跨機構小組，專門處理所謂嘅「異常系統」。
+Rhea claims their professional background covers electro-optics, laser systems, advanced sensors, and remote detection technologies. Initially working on routine counter-terrorism and signals intelligence analysis, they were later reassigned to an inter-agency team specifically tasked with so-called "anomalous systems."
 
-最令佢困擾嘅唔係單一事件，而係**持續出現嘅模式**——某啲地點反覆出現無法解釋嘅偵測信號；某啲移動方式違反常規航空物理。而唔同獨立系統竟然產生一模一樣嘅「假陽性」，呢個先最可疑。
+What troubled them most wasn't a single event, but the **persistent pattern** — certain locations repeatedly generating inexplicable detection signals; certain movement patterns defying conventional aeronautical physics. The fact that different independent systems produced identical "false positives" was the most suspicious element.
 
-爆料仲提到極端嘅「洋蔥式」保密制度——即使最高機密網絡都排除喺某啲討論之外，資訊只透過口頭方式喺安全設施內傳遞。
+The leak also mentioned an extreme "onion-like" secrecy system — even the highest classification networks are excluded from certain discussions, with information only transmitted verbally within secure facilities.
 
-> 🎥 **相關影片：**
+> 🎥 **Related Video:**
 > <div class="video-embed"><iframe src="https://www.youtube.com/embed/jnCby7dFZ4g" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 5️⃣ Jimmy Carter 1977年UFO簡報新細節曝光 📜
+### 5️⃣ New Details Emerge About Jimmy Carter's 1977 UFO Briefing 📜
 
-| 📍 *美國白宮* | 📅 *1977年（2026年3月新細節）* | 🔍 *解密文件* |
+| 📍 *White House, USA* | 📅 *1977 (New Details March 2026)* | 🔍 *Declassified Documents* |
 
-物理學家Eric Davis近日爆料，聲稱前總統Jimmy Carter喺1977年曾接收過一次關於可能外星接觸嘅秘密UFO簡報。呢個消息喺2026年3月再次引發關注。
+Physicist Eric Davis recently revealed that former President Jimmy Carter received a secret UFO briefing regarding possible extraterrestrial contact in 1977. This news gained renewed attention in March 2026.
 
-Carter本人幾十年前就曾經報告親眼目擊過UFO，佢喺擔任佐治亞州州長期間見過一個不明飛行物體。呢次新爆料嘅細節揭示，當年嘅簡報可能比外界想象嘅更加深入同具體。
+Carter himself reported a personal UFO sighting decades ago, witnessing an unidentified flying object while serving as Governor of Georgia. The new details from this leak suggest the briefing was far more in-depth and specific than previously imagined.
 
-> 🎥 **相關影片：**
+> 🎥 **Related Video:**
 > <div class="video-embed"><iframe src="https://www.youtube.com/embed/6jfFkNBl0Ns" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
@@ -103,20 +102,20 @@ Carter本人幾十年前就曾經報告親眼目擊過UFO，佢喺擔任佐治�
 
 ---
 
-## 💡 總結
+## 💡 Summary
 
-今期UFO/UAP新聞雖然冇大型政府聽證會或者重大解密事件，但以下幾個趨勢好值得留意：
+While this week's UFO/UAP news doesn't feature major government hearings or significant declassification events, several trends are worth noting:
 
-1. **國會層面嘅關注冇停過** — Burlison呢類議員持續施壓，要求查閱海外UAP設施，顯示國會監督力度正在加強
-2. **目擊報告繼續湧現** — 無論係多哈雷暴中嘅光球定加州夜視拍到嘅三角形，都證明全球範圍內UFO目擊持續發生
-3. **吹哨人文化成熟** — 越來越多自稱內部人士願意匿名爆料，令UFO保密制度嘅運作方式漸漸浮出水面
-4. **歷史檔案持續解封** — 連Carter年代嘅秘密簡報都有人爆料，說明歷史真相正緩慢但堅定咁浮現
+1. **Congressional attention hasn't waned** — Representatives like Burlison continue to pressure for access to overseas UAP facilities, showing increasing congressional oversight
+2. **Sighting reports continue to emerge** — Whether it's the luminous orbs over Doha or the triangular object captured on night vision in California, UFO sightings continue globally
+3. **Whistleblower culture is maturing** — More self-proclaimed insiders are willing to anonymously leak information, gradually revealing how the UFO secrecy system operates
+4. **Historical archives are slowly opening** — Even secret briefings from the Carter era are being leaked, showing that historical truths are slowly but steadily emerging
 
-📢 想睇更多？即刻訂閱本網站，每個鐘自動更新最新UFO/UAP消息！
+📢 Want to see more? Subscribe to this site now for automatic updates on the latest UFO/UAP news every hour!
 
 ---
 
-**來源連結：**
+**Source Links:**
 - [Triangle UFO Formation Over Doha - March 2026](https://www.latest-ufo-sightings.net/2026/03/triangle-ufo-formation-spooted-during-thunderstorm-over-doha-march-25-2026.html)
 - [Congressman Eric Burlison Questions Alleged Massive Overseas UAP Structure](https://www.latest-ufo-sightings.net/2026/02/congressman-eric-burlison-questions-alleged-massive-overseas-uap-structure.html)
 - [VIDEO: UFO Triangle Captured on Night Vision in Northern California](https://www.latest-ufo-sightings.net/2026/02/video-eyewitness-report-ufo-triangle-captured-on-night-vision-in-northern-california.html)

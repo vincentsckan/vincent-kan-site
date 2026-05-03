@@ -7,28 +7,27 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "mystery"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-1908年6月30日清晨，西伯利亞通古斯河（Tunguska River）上空發生咗一次驚天動地嘅爆炸。爆炸威力估計相當於1,000至1,500萬噸TNT炸藥——比廣島原子彈強大約1,000倍。爆炸沖擊波席捲咗超過2,000平方公里嘅針葉林，大約8,000萬棵樹被夷為平地。
+On the morning of June 30, 1908, a cataclysmic explosion occurred above the Tunguska River in Siberia. The blast's power was estimated to be equivalent to 10 to 15 million tons of TNT—about 1,000 times more powerful than the Hiroshima atomic bomb. The shockwave swept across over 2,000 square kilometers of taiga, flattening approximately 80 million trees.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Tunguska, Siberia, Russia | 1908-06-30 | Atmospheric Explosion / UFO Theory |
 
-當時現場冇隕石坑，呢一點令科學家百思不得其解。如果係隕石撞擊，理論上應該會留低一個大坑，但通古斯現場只有樹木以輻射狀向四方八面倒下，中心點嘅樹反而直立但枝葉全失。呢種破壞模式顯示爆炸係發生喺半空中，大約離地面5至10公里。
+At the time, no crater was found at the site, a fact that baffled scientists. If it were a meteorite impact, a large crater should theoretically have been left behind, but at Tunguska, only trees were felled radially outward in all directions, while those at the epicenter remained standing but stripped of all branches. This pattern of destruction indicates the explosion occurred mid-air, about 5 to 10 kilometers above the ground.
 
-雖然事發當時俄羅斯正處於政治動盪時期，冇即時派科學家去調查，但到咗1927年，蘇聯礦物學家Leonid Kulik帶領第一次探險隊深入現場。佢發現現場沒有任何隕石碎片，只有一個細小嘅沼澤——呢樣嘢直到今日仲係謎團。
+Although Russia was in a period of political turmoil at the time and no scientists were immediately dispatched to investigate, by 1927, Soviet mineralogist Leonid Kulik led the first expedition deep into the site. He found no meteorite fragments, only a small swamp—a mystery that persists to this day.
 
-UFO研究界對通古斯事件一直有強烈嘅興趣。1950年代，蘇聯科幻作家Alexander Kazantsev提出一個大膽嘅假設：通古斯大爆炸可能係一艘外星飛船喺大氣層失控，觸發核融合反應導致爆炸。佢指出爆炸嘅特徵同1945年嘅原子彈爆炸有相似之處，尤其係輻射狀嘅破壞模式同缺乏撞擊坑。
+The UFO research community has long held a strong interest in the Tunguska event. In the 1950s, Soviet science fiction writer Alexander Kazantsev proposed a bold hypothesis: the Tunguska explosion might have been caused by an alien spacecraft losing control in the atmosphere, triggering a nuclear fusion reaction. He pointed out similarities between the explosion's characteristics and the 1945 atomic bomb blast, especially the radial destruction pattern and the absence of an impact crater.
 
-1960年代，科學家喺現場嘅泥炭層發現咗高濃度嘅銥元素同微型鑽石，呢啲物質通常喺外太空物體撞擊時先會形成。但奇怪嘅係，佢哋冇發現任何典型嘅隕石物質。
+In the 1960s, scientists discovered high concentrations of iridium and microscopic diamonds in the peat layers at the site—substances typically formed only during impacts of extraterrestrial objects. Strangely, however, no typical meteoritic material was found.
 
-1990年代，意大利科學家提出通古斯可能係一個「飛碟」或者外星探測器墜毀嘅證據——佢哋指出附近嘅Cheko湖可能係撞擊坑，但呢個理論亦備受爭議。
+In the 1990s, Italian scientists suggested evidence that Tunguska might have been the crash site of a "flying saucer" or alien probe—they pointed to nearby Lake Cheko as a possible impact crater, though this theory remains highly controversial.
 
-📺 相關影片
+📺 Related Videos
 <a href="https://www.youtube.com/watch?v=mlkxiq_1j4c" target="_blank">🎬 The Tunguska Event - 1908 Siberian Explosion Documentary (YouTube)</a>
 <a href="https://www.youtube.com/watch?v=qA9Bs_cQz9Y" target="_blank">🎬 Tunguska: Was It a UFO? (YouTube)</a>
 
-📚 來源
+📚 Sources
 - [Krinov, E.L. "Giant Meteorites" (1966), Pergamon Press](https://www.google.com/books/edition/Giant_Meteorites)
 - [Kazantsev, A. "Explosion in Siberia" (1946), Vokrug Sveta magazine](https://en.wikipedia.org/wiki/Tunguska_event)
 - [Gasperini, L. et al. "The Tunguska Mystery" (2007), Scientific American](https://www.scientificamerican.com/article/the-tunguska-mystery/)

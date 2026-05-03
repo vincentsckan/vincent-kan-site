@@ -6,148 +6,147 @@ descriptionEn: 'UFO/UAP breaking news roundup: Latest developments in UAP disclo
 pubDate: '2026-05-02T10:03:00Z'
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---
+> 🎥 **UFO Video Roundup!** Today we focus on the hottest trending videos in the YouTube UFO community, from the latest uploads and leaks to classic rewatches, compiling the must-see content for you.
 
-> 🎥 **UFO影片大集合！** 今日聚焦 YouTube UFO界最新熱門影片，從最新上傳的爆料到經典重溫，為你整合最值得睇嘅內容
-
-| 📍 *全球熱門UFO影片精選* | 📅 *2026年5月2日* | 🔍 *影片精華·冷知識* |
+| 📍 *Global Trending UFO Video Selection* | 📅 *May 2, 2026* | 🔍 *Video Highlights & Trivia* |
 
 ---
 
-## ⭐ 今日必睇 UFO 影片精選
+## ⭐ Today's Must-Watch UFO Video Picks
 
-呢兩日 YouTube UFO界好熱鬧！多條新片上架，題材由經典目擊到最新爆料都有。以下係嚴選推介👇
+The YouTube UFO scene has been buzzing these past two days! Several new videos have dropped, covering topics from classic sightings to the latest leaks. Here are our top picks 👇
 
-### 🎬 1. 48萬次觀看！曝光率最高嘅蘑菇形UAP深度解析
-**📹 YouTube 頻道：** 多個頭條主講人分析中 — 1週前上傳已達 480K 觀看
+### 🎬 1. 480K Views! Deep Dive into the Most Exposed Mushroom-Shaped UAP
+**📹 YouTube Channel:** Multiple headline analysts covering it — uploaded 1 week ago, already at 480K views
 
-Jeremy Corbell 同 George Knapp 喺 WEAPONIZED 播客公布嘅蘑菇形UAP影片繼續發酵。呢段 MQ-9 收割者無人機喺敘利亞-約旦邊境拍攝嘅片段，展示咗一個**無機翼、無推進系統**嘅物體做出瞬間加速。而家大量 YouTuber 同分析頻道都跟進緊呢條片，逐格分析。
+The mushroom-shaped UAP footage released by Jeremy Corbell and George Knapp on the WEAPONIZED podcast continues to gain traction. This clip, captured by an MQ-9 Reaper drone on the Syria-Jordan border, shows an object with **no wings and no propulsion system** performing instantaneous acceleration. Numerous YouTubers and analysis channels are now following up on this video, analyzing it frame by frame.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/YcHt-OBkabU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🔥 480K觀看 — 蘑菇形UAP片段深度分析（上傳約1週）*
+*🔥 480K Views — In-depth Analysis of Mushroom-Shaped UAP Footage (Uploaded ~1 week ago)*
 
 ---
 
-### 🎬 2. 最新上傳僅17小時 — 新UAP證據曝光？
-**📹 觀看：** 9.3K（仍在上升）
+### 🎬 2. Latest Upload Only 17 Hours Ago — New UAP Evidence Revealed?
+**📹 Views:** 9.3K (still rising)
 
-一條17小時前先上傳嘅新影片，標題暗示有**前所未見嘅UAP證據**要公開。呢類「爆料式」影片近排特別多，可能同最近AARO工作坊同戰爭部46段UAP影片嘅消息有關。
+A new video uploaded just 17 hours ago, with a title hinting at **unprecedented UAP evidence** being released. These "leak-style" videos have been particularly frequent lately, likely related to recent news about the AARO workshop and the 46 UAP videos from the Department of War.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/sU7pXIvQelw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🆕 17小時前上傳 — 疑似新UAP證據公開*
+*🆕 Uploaded 17 hours ago — Suspected New UAP Evidence Released*
 
 ---
 
-### 🎬 3. 155K觀看！19小時前上傳 — 頭條主講人重磅分析
-**📹 觀看：** 155K（爆發中）
+### 🎬 3. 155K Views! Uploaded 19 Hours Ago — Heavyweight Analysis from a Headline Analyst
+**📹 Views:** 155K (exploding)
 
-呢條片19小時前上傳已經衝破15.5萬觀看，好可能係邊個重量級人物推出咗新分析。考慮到最近 Disclosure 話題持續發燒，入面可能包含對戰爭部影片解密進度嘅更新。
+This video, uploaded 19 hours ago, has already surpassed 155K views. It's likely a major figure has released a new analysis. Given the ongoing heat of the Disclosure topic, it may contain updates on the progress of declassifying the Department of War videos.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/6OM3rqfBZ_E" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🔥 19小時 155K觀看 — UFO界頭條主講人新片*
+*🔥 19 Hours, 155K Views — New Video from a UFO Community Headline Analyst*
 
 ---
 
-### 🎬 4. 77K觀看 — UAP熱話持續發酵
-**📹 上傳：** 1日前 — 77K觀看
+### 🎬 4. 77K Views — UAP Hot Topic Continues to Gain Traction
+**📹 Uploaded:** 1 day ago — 77K views
 
-UAP話題繼續喺YouTube發燒，一日內77K觀看嘅成績唔錯。呢類影片通常係整合近期新聞、披露最新爆料，或者係UAP研究人員嘅專訪。
+The UAP topic continues to trend on YouTube. Achieving 77K views in one day is a solid performance. These types of videos usually compile recent news, reveal the latest leaks, or feature interviews with UAP researchers.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ysmJ8Utruh4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*📈 1日內77K觀看 — UAP話題繼續熱爆*
+*📈 77K Views in 1 Day — UAP Topic Continues to Heat Up*
 
 ---
 
-### 🎬 5. 37K觀看 — 同一議題，另一角度
-**📹 上傳：** 1日前 — 74K觀看
+### 🎬 5. 37K Views — Same Topic, Different Angle
+**📹 Uploaded:** 1 day ago — 74K views
 
-另一條1日前上傳嘅爆款影片，74K觀看。確認呢波UFO影片熱潮唔係一時嘅，而係持續緊嘅現象。
+Another trending video uploaded 1 day ago, with 74K views. This confirms that the current wave of UFO video interest is not a fleeting trend but an ongoing phenomenon.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/4_LwDSc2d7g" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*📈 1日內74K觀看 — 同類UFO分析持續增長*
+*📈 74K Views in 1 Day — Similar UFO Analysis Continues to Grow*
 
 ---
 
-### 🎬 Bonus: 日文UFO特輯都有料到
-**📹 上傳：** 16小時前 — 4.6K觀看
+### 🎬 Bonus: Japanese UFO Special Also Has Substance
+**📹 Uploaded:** 16 hours ago — 4.6K views
 
-連日本嘅UFO頻道都出咗新片，證明UFO話題確實係全球現象。
+Even a Japanese UFO channel has released a new video, proving that the UFO topic is indeed a global phenomenon.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/1O18I4l4iZA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🌏 日本UFO頻道都有新片上架*
+*🌏 New Video Uploaded on a Japanese UFO Channel*
 
 ---
 
-## 🧠 今日UAP冷知識：羅斯威爾事件與華人關聯
+## 🧠 Today's UAP Trivia: The Roswell Incident and Its Chinese Connection
 
-睇完片，同大家分享一個好有趣嘅冷知識：
+After watching the videos, here's a fascinating piece of trivia to share:
 
-> 1947年 **羅斯威爾事件** 嘅關鍵人物 — 空軍少校 **Jesse Marcel** — 佢嘅軍旅生涯唔止UFO咁簡單。Marcel 喺二戰期間其實係一位 **B-29轟炸機導航員**，曾經參與過**廣島同長崎嘅原子彈轟炸任務**！
+> A key figure in the **1947 Roswell Incident** — Air Force Major **Jesse Marcel** — had a military career that went beyond just UFOs. During World War II, Marcel was actually a **B-29 bomber navigator** who participated in the **atomic bombing missions over Hiroshima and Nagasaki**!
 
-而1947年羅斯威爾出事嗰陣，美國空軍嘅 **第509轟炸大隊** 就駐守喺羅斯威爾空軍基地，呢支就係當年投擲原子彈嘅同一支隊伍。
+And when the Roswell incident occurred in 1947, the U.S. Air Force's **509th Bombardment Group** was stationed at Roswell Army Air Field — the very same unit that had dropped the atomic bombs.
 
-**更有趣嘅係：** 日本嘅UFO研究社群對呢件事一直好有興趣，多次派人去羅斯威爾實地考察。日本電視台（包括 NHK 同 TBS）曾經製作過多部關於羅斯威爾事件嘅紀錄片，訪問咗當年嘅關鍵目擊者。可以話，羅斯威爾事件係一個 **「美日共同關注」嘅UFO經典案例**。
+**Even more interesting:** The Japanese UFO research community has always been very interested in this event, sending multiple teams to Roswell for on-site investigations. Japanese television networks (including NHK and TBS) have produced several documentaries about the Roswell Incident, interviewing key witnesses from that time. It can be said that the Roswell Incident is a **"classic UFO case of mutual interest between the US and Japan"**.
 
-![羅斯威爾事件歷史照片](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![Historical photo of the Roswell Incident](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
 
-**仲有一個華人關聯：** 羅斯威爾事件入面有傳聞話，當年空軍收集到嘅外星物料包含一種 **「記憶金屬」**——即係可以「記住」原本形狀嘅特殊合金。有趣嘅係，呢種科技喺1990年代被**華裔科學家**進一步開發，應用喺**太空探索**同**醫療支架**領域。雖然冇直接證據證明呢啲技術來自逆向工程，但呢個巧合令好多人津津樂道。
+**And there's a Chinese connection:** Rumors surrounding the Roswell Incident suggest that the extraterrestrial materials collected by the Air Force included a type of **"memory metal"** — a special alloy that can "remember" its original shape. Interestingly, this type of technology was further developed by **Chinese-American scientists** in the 1990s, with applications in **space exploration** and **medical stents**. Although there is no direct evidence proving these technologies came from reverse engineering, this coincidence fascinates many people.
 
-### 其他今日UFO趣聞
+### Other UFO Fun Facts for Today
 
-**🛸 點解UFO咁多夜晚影到？**
-根據NUFORC（美國國家UFO報告中心）嘅統計，超過 **70%** 嘅UFO報告發生喺 **晚上6點至凌晨12點**之間。原因好簡單：
-- 夜晚天空背景暗，發光物體更容易被注意到
-- 日頭大家忙返工，冇咁多時間抬頭望天
-- 夜晚嘅大氣折射效應會令光點睇起嚟更奇怪
+**🛸 Why are so many UFOs spotted at night?**
+According to statistics from NUFORC (National UFO Reporting Center), over **70%** of UFO reports occur between **6 PM and 12 AM**. The reasons are simple:
+- The night sky provides a dark background, making luminous objects easier to notice
+- People are busy working during the day and have less time to look up at the sky
+- Atmospheric refraction effects at night can make light sources appear more unusual
 
-**🌌 第二常見報告嘅UFO形狀？**
-根據統計，最常見係「圓形/球形」— 約佔40%。而 **第二位**竟然係 **「雪茄形/雪茄狀」**（Cigar-shaped），佔大約12%。呢種形狀近年因為 **「Oumuamua」**（2017年發現嘅星際物體）同 Gimbal 影片而更加為人熟悉。
+**🌌 The second most commonly reported UFO shape?**
+According to statistics, the most common is "circle/sphere" — accounting for about 40%. The **second place** is actually **"cigar-shaped"**, accounting for about 12%. This shape has become more familiar in recent years due to **'Oumuamua** (the interstellar object discovered in 2017) and the Gimbal video.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/HTwrCYIg1Jw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*📺 4日前 — 58K觀看 UAP分析新片*
+*📺 4 days ago — 58K Views New UAP Analysis Video*
 
 ---
 
-## 📊 今期YouTube UFO影片關注度排行榜
+## 📊 Current YouTube UFO Video Popularity Ranking
 
-| 排名 | 觀看數 | 上傳時間 | 狀態 |
-|:----:|:------:|:---------|:----:|
-| 🥇 | 480K | 1週前 | 持續發酵中 |
-| 🥈 | 155K | 19小時前 | 🔥 爆發中 |
-| 🥉 | 131K | 2週前 | 經典重溫 |
-| 4 | 79K | 1日前 | 穩定增長 |
-| 5 | 77K | 1日前 | 穩定增長 |
-| 6 | 74K | 1日前 | 新上榜 |
-| 7 | 72K | 1週前 | 穩步上升 |
-| 8 | 58K | 4日前 | 持續 |
-| 9 | 43K | 15小時前 | 新片追蹤 |
-| 10 | 31K | 8小時前 | ⭐ 最新！ |
+| Rank | Views | Upload Time | Status |
+|:----:|:-----:|:------------|:------:|
+| 🥇 | 480K | 1 week ago | Still gaining traction |
+| 🥈 | 155K | 19 hours ago | 🔥 Exploding |
+| 🥉 | 131K | 2 weeks ago | Classic rewatch |
+| 4 | 79K | 1 day ago | Steady growth |
+| 5 | 77K | 1 day ago | Steady growth |
+| 6 | 74K | 1 day ago | New entry |
+| 7 | 72K | 1 week ago | Steady rise |
+| 8 | 58K | 4 days ago | Ongoing |
+| 9 | 43K | 15 hours ago | New video tracking |
+| 10 | 31K | 8 hours ago | ⭐ Latest! |
 
 ---
 
-## 🔮 未來關注焦點
+## 🔮 Future Focus Points
 
-根據近期趨勢，以下事件值得繼續留意：
+Based on recent trends, the following events are worth keeping an eye on:
 
-1. **戰爭部46段UAP影片** — Luna議員要求嘅解密點樣？
-2. **McCasland將軍失蹤案** — 搜索有冇最新進展？
-3. **AARO標準化工作坊報告** — 會唔會影響未來UAP報告方式？
-4. **YouTube影片熱度** — 呢批新片會唔會引發新一輪 disclosure 討論？
+1. **Department of War's 46 UAP Videos** — What's the status of the declassification requested by Representative Luna?
+2. **General McCasland Disappearance Case** — Any latest developments in the search?
+3. **AARO Standardization Workshop Report** — Will it affect future UAP reporting methods?
+4. **YouTube Video Heat** — Will this batch of new videos trigger a new round of disclosure discussions?
 
 ---
 
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 2em;">
 
-*🤖 本文章由 AI 自動搜集及整理，以影片為重點*
-*🕐 更新時間：2026-05-02 18:03 HKT*
-*📋 資料來源：YouTube (Invidious)、NUFORC統計、維基百科*
+*🤖 This article is automatically collected and compiled by AI, with a focus on videos*
+*🕐 Updated: 2026-05-02 18:03 HKT*
+*📋 Sources: YouTube (Invidious), NUFORC Statistics, Wikipedia*
 
-**YouTube影片來源（ID）：**
-- [YcHt-OBkabU](https://www.youtube.com/watch?v=YcHt-OBkabU) — 蘑菇形UAP分析 (480K)
-- [sU7pXIvQelw](https://www.youtube.com/watch?v=sU7pXIvQelw) — 新UAP證據 (9.3K)
-- [6OM3rqfBZ_E](https://www.youtube.com/watch?v=6OM3rqfBZ_E) — 頭條主講人分析 (155K)
-- [ysmJ8Utruh4](https://www.youtube.com/watch?v=ysmJ8Utruh4) — UAP熱話 (77K)
-- [4_LwDSc2d7g](https://www.youtube.com/watch?v=4_LwDSc2d7g) — UFO分析 (74K)
-- [1O18I4l4iZA](https://www.youtube.com/watch?v=1O18I4l4iZA) — 日本UFO特輯 (4.6K)
-- [HTwrCYIg1Jw](https://www.youtube.com/watch?v=HTwrCYIg1Jw) — UAP分析 (58K)
+**YouTube Video Sources (IDs):**
+- [YcHt-OBkabU](https://www.youtube.com/watch?v=YcHt-OBkabU) — Mushroom-shaped UAP Analysis (480K)
+- [sU7pXIvQelw](https://www.youtube.com/watch?v=sU7pXIvQelw) — New UAP Evidence (9.3K)
+- [6OM3rqfBZ_E](https://www.youtube.com/watch?v=6OM3rqfBZ_E) — Headline Analyst Analysis (155K)
+- [ysmJ8Utruh4](https://www.youtube.com/watch?v=ysmJ8Utruh4) — UAP Hot Topic (77K)
+- [4_LwDSc2d7g](https://www.youtube.com/watch?v=4_LwDSc2d7g) — UFO Analysis (74K)
+- [1O18I4l4iZA](https://www.youtube.com/watch?v=1O18I4l4iZA) — Japanese UFO Special (4.6K)
+- [HTwrCYIg1Jw](https://www.youtube.com/watch?v=HTwrCYIg1Jw) — UAP Analysis (58K)
 
 </div>

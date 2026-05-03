@@ -7,139 +7,138 @@ pubDate: '2026-04-28'
 tags: ['UFO歷史', '古代UFO', '日本', '冷門']
 heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
+You think the first official human investigation of UFOs was the 1947 Roswell incident? Wrong.
 
-你以為人類第一次正式調查UFO係1947年嘅Roswell？錯晒。
+In **1235 AD**, during the late Southern Song Dynasty and the mid-Kamakura period in Japan, the Shogun regent **Fujiwara no Yoritsune (Kujō Yoritsune)** had already ordered an official "unidentified flying object investigation." This event predates Roswell by a full **712 years** and is the **first documented national-level UFO investigation in human history**.
 
-喺**公元1235年**，即係南宋末年、日本鎌倉時代中期，日本嘅執權將軍**藤原頼經（九條頼經）**就已經下令進行一次正式嘅「不明飛行物體調查」。呢件事比Roswell事件早咗足足**712年**，係人類史上**第一次有文獻記載嘅國家級UFO調查**。
+And the best part? After the investigation results came out, the scientists' conclusion was—
 
-而最精彩嘅位？調查結果出咗之後，科學家嘅結論係——
+**"The stars were just swayed by the wind."** 😅
 
-**「啲星星俾風吹到左搖右擺咋。」** 😅
-
-冇錯，你冇睇錯。七百幾年前嘅日本朝廷，為咗解釋天上有光點跳嚟跳去，竟然諗出咗一個「風吹星星論」。今日睇返，呢個解釋仲離奇過UFO本身。
-
----
-
-## 🌙 1235年嗰晚，將軍見到啲乜？
-
-根據日本史書《**百鍊抄**》（Hyakurenshō）嘅記載，喺**貞永元年**（即係公元1235年），鎌倉幕府嘅執權將軍**藤原頼經**，夜晚喺鎌倉附近紮營嘅時候，同佢嘅軍隊一齊見到夜空出現咗極不尋常嘅景象：
-
-> 好多個**神秘光點**喺天空以西向東飛過，不斷迴旋轉彎、變換方向，仲做出各種「特技飛行」——完全唔似普通流星或者雀仔。
-
-將軍同士兵們目睹呢個情景之後大為震驚。以當時嘅認知，天上嘅星星應該係固定嘅、有規律嘅，點解會有啲光點好似有意識咁四圍飛嚟飛去？
-
-將軍認為呢件事非同小可，於是**下令官方進行正式調查**。
+That's right, you read that correctly. Over 700 years ago, the Japanese imperial court, in order to explain lights dancing in the sky, actually came up with a "wind-blown stars theory." Looking back today, this explanation is even stranger than the UFO itself.
 
 ---
 
-## 🧐 將軍下令調查
+## 🌙 What Did the Shogun See That Night in 1235?
 
-頼經將軍嘅命令落咗去當時嘅天文學者同朝廷官員手中。呢可以話係人類史上第一次由國家最高權力機構下令，針對「天上有奇怪嘢喺度飛」呢件事進行正式嘅官方調查程序。
+According to the Japanese historical text **"Hyakurenshō" (百鍊抄)**, in the first year of the **Jōei era** (1235 AD), the Kamakura Shogunate regent **Fujiwara no Yoritsune**, while camping near Kamakura at night, witnessed an extremely unusual sight in the night sky along with his army:
 
-將軍嘅問題好直接：
+> Many **mysterious lights** flew across the sky from west to east, constantly circling, turning, and changing direction, performing various "aerobatic maneuvers"—completely unlike ordinary meteors or birds.
 
-> 「天上啲星星點解會咁樣亂飛？有冇解釋？」
+The Shogun and his soldiers were greatly shocked after witnessing this. Based on the understanding of the time, stars in the sky were supposed to be fixed and regular. Why were there lights flying around as if they had a will of their own?
 
-呢個命令就係一個正式嘅官方調查指令——同現代政府成立「UFO專責小組」冇本質上嘅分別。
-
----
-
-## 📜 調查報告：星星俾風吹到搖？
-
-經過一輪「研究」之後，朝廷學者提交咗佢哋嘅官方結論：
-
-> 呢啲光點之所以會左搖右擺、飛嚟飛去，係因為**高空強風吹到星星郁**。
-
-亦即係：「星星俾風吹到郁。」
-
-以現代人嘅角度，呢個解釋當然荒謬到冇朋友——我哋知道星星係巨大嘅恆星，遠到喊，唔會俾風吹郁。但喺13世紀，人哋對天體嘅理解仲係好有限，呢個「風吹星星說」已經係當時學者能夠諗到最合理嘅解釋。
-
-**重要嘅係：** 即使結論錯晒，成個過程係「官方發現異常 → 上級下令調查 → 學者研究 → 提交報告」嘅完整官僚流程。**呢個流程本身，就係人類史上第一次官方UFO調查。**
-
-| 📍 *日本鎌倉* | 📅 *1235年* | 🔍 *古代UFO調查* |
+The Shogun considered this matter extraordinary and **ordered an official investigation**.
 
 ---
 
-## 🌍 同期其他古代不明飛行物紀錄
+## 🧐 The Shogun Orders an Investigation
 
-1235年日本呢件事唔係孤立嘅。人類自古以來就不斷紀錄低「天空出現無法解釋嘅物體」。以下係幾個同期或更早嘅著名紀錄：
+Shogun Yoritsune's order was passed down to the court astronomers and officials of the time. This can be considered the first time in human history that a supreme national authority ordered a formal official investigation into "strange things flying in the sky."
 
-### 🇪🇬 埃及 · 約公元前1440年（圖特摩斯三世時期）
+The Shogun's question was straightforward:
 
-根據埃及嘅**圖利紙莎草紙（Tulli Papyrus）**記載，喺法老圖特摩斯三世統治時期，天空出現咗「一團火球」，比太陽仲要光嘅光團。呢啲光團冇固定形狀，仲散發出奇特氣味。官方紀錄形容當時嘅祭司同民眾都非常恐慌，最終呢啲「火盤」升上高空消失咗。
+> "Why are the stars in the sky flying around like this? Is there an explanation?"
 
-（注意：圖利紙莎草紙嘅真實性喺學術界有爭議，部分學者認為係現代偽造品，但仍然係UFO研究中經常被引用嘅文獻之一。）
-
-### 🇮🇹 古羅馬 · 公元前218年
-
-羅馬歷史學家**李維（Livy）**喺《羅馬史》中記載，公元前218年嘅冬天——正值第二次布匿戰爭期間——羅馬上空出現咗多個驚人嘅天象：
-- 阿爾巴（Alba）地區見到「一艘船喺天空閃耀」
-- 普萊內斯特（Praeneste）見到「一個火球從天而降」
-- 阿爾皮努姆（Arpinum）見到「天空好似裂開咗咁」
-- 仲有「天上見到多個碟狀物體」
-
-古羅馬人將呢啲現象解讀為神靈嘅徵兆或者戰爭嘅預言。
-
-### 🇫🇷 法蘭克帝國 · 公元776年
-
-法蘭克國王**查理曼大帝（Charlemagne）**嘅軍隊，喺同撒克遜人作戰期間，見到天空出現「兩個明亮嘅盾牌狀物體」，呈紅色，喺軍隊上空盤旋。佢哋認為呢個係神聖嘅徵兆，最終鼓勵佢哋打贏咗仗。
-
-### 🇩🇪 紐倫堡 · 公元1561年
-
-雖然時間上比1235年遲咗三百幾年，但1561年德國紐倫堡嘅「天空之戰」同樣值得提。當地居民見到大量球體、十字架形物體同圓柱體喺空中互相追逐、打鬥，最終一啲「跌咗落地面好似燒着咁」。呢件事有完整嘅木刻版畫流傳落嚟。
+This command was a formal official investigation directive—essentially no different from a modern government establishing a "UFO task force."
 
 ---
 
-## 🔭 現代角度分析：1235年日本見到嘅可能係咩？
+## 📜 The Investigation Report: Stars Swayed by the Wind?
 
-由科學角度去推測，1235年日本將軍見到嘅「特技飛行光點」，有以下幾個可能嘅解釋：
+After a round of "research," the court scholars submitted their official conclusion:
 
-### 1️⃣ 火流星 / 流星雨爆發
+> The reason these lights were swaying back and forth and flying around was because **strong high-altitude winds were blowing the stars**.
 
-夜空見到光點飛過，最直接嘅解釋就係**火流星（Fireball）**或者**大規模流星雨**。不過，流星通常係直線飛行、唔會「轉彎」，好難解釋「迴旋」、「變換方向」呢啲描述。
+In other words: "The stars were moved by the wind."
 
-### 2️⃣ 球狀閃電（Ball Lightning）
+From a modern perspective, this explanation is, of course, absurd—we know stars are massive, distant suns that cannot be moved by wind. But in the 13th century, people's understanding of celestial bodies was very limited. This "wind-blown stars theory" was the most reasonable explanation the scholars of the time could come up with.
 
-球狀閃電係一種罕見嘅大氣放電現象，會以發光球體嘅形式出現，有時會喺空中飄浮、移動甚至改變方向。13世紀嘅日本軍隊見到嘅「特技飛行光點」，有機會係球狀閃電嘅表現。
+**The important thing is:** Even though the conclusion was wrong, the entire process was a complete bureaucratic workflow: "official anomaly observed → superior orders investigation → scholars research → report submitted." **This process itself constitutes the first official UFO investigation in human history.**
 
-### 3️⃣ 高空大氣光學現象
-
-某啲大氣條件下，星光或者月光會被冰晶折射，產生**光柱、日暈、幻日**等現象。唔同士兵喺唔同角度觀察，可能會見到光點「移動」嘅錯覺。但呢個解釋唔太符合「大量光點從西向東飛過」嘅描述。
-
-### 4️⃣ 候鳥群反射月光
-
-一大群候鳥夜間飛行，羽毛反射月光或者營火嘅光，遠處睇就好似一啲光點喺空中移動。如果鳥群改變飛行方向，就會產生「特技飛行」嘅效果。呢個解釋係相對合理嘅，但鳥群通常唔會發出強烈光芒。
-
-### 5️⃣ 可能性永遠存在：真係不明物體
-
-正如所有古代UFO紀錄一樣，我哋唔可以排除一個可能性——佢哋真係見到咗**當時無法解釋嘅嘢**。13世紀嘅人類當然唔識無人機、唔識飛彈、唔識衛星，甚至唔理解大氣電磁現象。但也正因為咁，我哋冇辦法用「現代人睇返覺得係XX」嚟完全否定當時嘅紀錄。
-
-> 我哋可以嘲笑「風吹星星論」好搞笑，但唔可以假設古人全部都係眼花或者發緊夢。
+| 📍 *Kamakura, Japan* | 📅 *1235 AD* | 🔍 *Ancient UFO Investigation* |
 
 ---
 
-## 💭 點解呢件事咁重要？
+## 🌍 Other Contemporary Ancient Unidentified Aerial Phenomena Records
 
-1235年日本UFO調查嘅價值，唔在於佢解釋得啱唔啱，而在於：
+The 1235 Japan incident was not an isolated case. Humanity has continuously recorded "unexplainable objects in the sky" since ancient times. Here are a few famous records from the same period or earlier:
 
-1. **歷史先例**：呢係人類史上第一次有明確文獻記載嘅國家級UFO調查程序
-2. **官僚紀錄**：過程有晒「發現 → 上報 → 調查 → 結論」嘅完整政府流程
-3. **跨文化共鳴**：無論係日本、埃及、羅馬定歐洲，古代社會都有大量「天上有不明物體」嘅記載，唔係某個文明嘅專利
-4. **警惕過度自信**：1235年嘅「風吹星星論」教我哋一個道理——**當你以為自己已經解釋晒一切嘅時候，可能只係因為你仲未夠知識去問啱嘅問題**
+### 🇪🇬 Egypt · c. 1440 BC (Reign of Thutmose III)
 
-今日我哋嘲笑古人用「風吹星星」嚟解釋UFO，但700年後嘅人類，會唔會嘲笑我哋用「天氣現象」或者「軍用飛行器」嚟解釋所有UFO報告呢？
+According to the Egyptian **Tulli Papyrus**, during the reign of Pharaoh Thutmose III, a "ball of fire" appeared in the sky, a luminous mass brighter than the sun. These masses had no fixed shape and emitted a strange odor. Official records describe the priests and populace as being very frightened, and eventually these "fire disks" ascended high into the sky and disappeared.
+
+(Note: The authenticity of the Tulli Papyrus is debated in academic circles, with some scholars considering it a modern forgery, but it remains a frequently cited document in UFO research.)
+
+### 🇮🇹 Ancient Rome · 218 BC
+
+Roman historian **Livy** recorded in his *History of Rome* that in the winter of 218 BC—during the Second Punic War—several astonishing celestial phenomena appeared over Rome:
+- In the region of Alba, "a ship was seen gleaming in the sky"
+- At Praeneste, "a ball of fire fell from the sky"
+- At Arpinum, "the sky seemed to split open"
+- Also, "multiple disc-shaped objects were seen in the sky"
+
+The ancient Romans interpreted these phenomena as omens from the gods or prophecies of war.
+
+### 🇫🇷 Frankish Empire · 776 AD
+
+The army of Frankish King **Charlemagne**, while campaigning against the Saxons, saw "two bright shield-shaped objects" in the sky, red in color, hovering over the army. They considered this a divine omen, which ultimately encouraged them to win the battle.
+
+### 🇩🇪 Nuremberg · 1561 AD
+
+Although over 300 years later than 1235, the 1561 "celestial battle" over Nuremberg, Germany, is also worth mentioning. Local residents saw numerous spheres, cross-shaped objects, and cylinders chasing and fighting each other in the air, with some eventually "falling to the ground as if burning." This event has been preserved in complete woodcut prints.
 
 ---
 
-## 📚 資料來源
+## 🔭 Modern Analysis: What Might the 1235 Japan Sighting Have Been?
 
-- **《百鍊抄》（Hyakurenshō）** — 鎌倉時代嘅史書，記錄咗1235年將軍頼經嘅UFO目擊同調查經過
-- **ヴァレリー・J・ハンセン（Valerie J. Hansen）** — 《The Open Empire: A History of China Through 1800》，關於古代東亞嘅天象紀錄研究
-- **Jacques Vallee** — 《Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times》，系統性整理古代UFO目擊紀錄嘅權威著作
-- **Tulli Papyrus** — 古埃及圖利紙莎草紙，記載公元前1440年嘅天空異常現象
-- **Livy's Ab Urbe Condita** — 古羅馬歷史學家李維記載公元前218年嘅天空異象
-- **Charles Fort** — 《The Book of the Damned》，最早系統收集古代異常現象嘅經典作品
+From a scientific perspective, the "aerobatic lights" seen by the Japanese Shogun in 1235 have several possible explanations:
+
+### 1️⃣ Fireballs / Meteor Shower Outburst
+
+The most direct explanation for seeing lights flying across the night sky is a **fireball** or a **major meteor shower**. However, meteors usually travel in straight lines and don't "turn," making it difficult to explain descriptions of "circling" and "changing direction."
+
+### 2️⃣ Ball Lightning
+
+Ball lightning is a rare atmospheric electrical discharge phenomenon that appears as a luminous sphere, sometimes floating, moving, or even changing direction in the air. The "aerobatic lights" seen by the 13th-century Japanese army could potentially be manifestations of ball lightning.
+
+### 3️⃣ High-Altitude Atmospheric Optical Phenomena
+
+Under certain atmospheric conditions, starlight or moonlight can be refracted by ice crystals, producing phenomena like **light pillars, halos, or sundogs**. Soldiers observing from different angles might have experienced the illusion of lights "moving." However, this explanation doesn't quite fit the description of "a large number of lights flying from west to east."
+
+### 4️⃣ Migrating Bird Flocks Reflecting Moonlight
+
+A large flock of birds flying at night, with their feathers reflecting moonlight or campfire light, could appear from a distance as moving lights in the sky. If the flock changed direction, it could create the effect of "aerobatic maneuvers." This is a relatively reasonable explanation, but bird flocks usually don't emit strong light.
+
+### 5️⃣ The Possibility Always Exists: Truly Unidentified Objects
+
+As with all ancient UFO records, we cannot rule out the possibility that they genuinely saw **something unexplainable at the time**. 13th-century humans certainly didn't know about drones, missiles, satellites, or even understand atmospheric electromagnetic phenomena. But precisely because of this, we cannot completely dismiss their records by saying "from a modern perspective, it was probably XX."
+
+> We can laugh at the "wind-blown stars theory" as funny, but we cannot assume all ancient people were just seeing things or dreaming.
 
 ---
 
-**後記：** 如果你對古代UFO紀錄有興趣，我哋仲有好多冷門但精彩嘅故事可以慢慢講。由古埃及嘅「火球」到文藝復興時期歐洲嘅「天空之戰」——人類一直以嚟都冇停止過仰望天空，然後問：「嗰啲光點究竟係乜嘢？」呢個問題，到今日都仲未有人可以完全答到。🤔
+## 💭 Why Is This Event So Important?
+
+The value of the 1235 Japanese UFO investigation lies not in whether its explanation was correct, but in:
+
+1. **Historical Precedent**: It is the first clearly documented national-level UFO investigation procedure in human history
+2. **Bureaucratic Record**: The process had a complete government workflow of "discovery → reporting → investigation → conclusion"
+3. **Cross-Cultural Resonance**: Whether in Japan, Egypt, Rome, or Europe, ancient societies have numerous records of "unidentified objects in the sky," not exclusive to any single civilization
+4. **A Warning Against Overconfidence**: The 1235 "wind-blown stars theory" teaches us a lesson—**when you think you have explained everything, it might just be because you don't yet have enough knowledge to ask the right questions**
+
+Today we mock the ancients for explaining UFOs with "wind-blown stars," but will humans 700 years from now mock us for explaining all UFO reports with "weather phenomena" or "military aircraft"?
+
+---
+
+## 📚 Sources
+
+- **"Hyakurenshō" (百鍊抄)** — A Kamakura-era historical text recording Shogun Yoritsune's 1235 UFO sighting and investigation
+- **Valerie J. Hansen** — *The Open Empire: A History of China Through 1800*, research on ancient East Asian celestial records
+- **Jacques Vallee** — *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times*, an authoritative work systematically compiling ancient UFO sighting records
+- **Tulli Papyrus** — Ancient Egyptian papyrus documenting celestial anomalies around 1440 BC
+- **Livy's *Ab Urbe Condita*** — Roman historian Livy's account of celestial anomalies in 218 BC
+- **Charles Fort** — *The Book of the Damned*, a classic work that was among the first to systematically collect ancient anomalous phenomena
+
+---
+
+**Afterword:** If you're interested in ancient UFO records, we have many more obscure but fascinating stories to tell. From ancient Egypt's "fireballs" to Renaissance Europe's "celestial battles"—humans have never stopped looking up at the sky and asking, "What are those lights?" That question, to this day, remains unanswered. 🤔

@@ -6,45 +6,44 @@ descriptionEn: '2023 was the most significant year for UFO disclosure, with Cong
 pubDate: '2023-03-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📅 **2023 Year in Review** | 🔍 **Annual Summary**
 
-> 📅 **2023年回顧** | 🔍 **全年摘要**
+## 2023 UAP Milestones
 
-## 2023年 UAP 大事記
+### January
+- NASA officially launches the UAP research team
+- AARO releases monthly UAP reporting mechanism
 
-### 1月
-- NASA正式啟動UAP研究小組
-- AARO發布月度UAP報告機制
+### February
+- US shoots down Chinese spy balloon, sparking UAP identification discussions
+- Unidentified object shot down over Canada
 
-### 2月
-- 美國擊落中國間諜氣球，引發UAP辨識討論
-- 加拿大上空擊落不明物體
+### April
+- AARO Director Kirkpatrick delivers first public speech
+- Introduces UAP data collection system
 
-### 4月
-- AARO主任Kirkpatrick首次公開演講
-- 介紹UAP數據收集系統
+### June
+- David Grusch story first breaks through media coverage
+- *The Debrief* interview draws global attention
 
-### 6月
-- David Grusch 消息首次通過媒體曝光
-- 《The Debrief》專訪引發全球關注
+### July 26 🔥
+- **David Grusch Congressional Hearing** — Historic moment
+- Claims government possesses NHI vehicles and biological remains
 
-### 7月26日 🔥
-- **David Grusch 國會聽證會** — 歷史性時刻
-- 聲稱政府擁有NHI飛行器同生物遺骸
+### August
+- NASA independent UAP team releases preliminary report
+- Calls for more systematic data collection
 
-### 8月
-- NASA獨立UAP小組發布初步報告
-- 呼籲更系統化嘅數據收集
+### September
+- NASA appoints UAP research director
+- Lead agency formally enters scientific research track
 
-### 9月
-- NASA任命UAP研究主任
-- 主導機構正式進入科學研究軌道
+### December
+- Multiple new whistleblowers emerge
+- Congressional UAP legislation gains bipartisan support
 
-### 12月
-- 多名新吹哨人出現
-- 國會UAP立法獲兩黨支持
-
-![2023年UAP回顧](../../assets/blog-placeholder-1.jpg)
-*2023年係UAP披露嘅分水嶺*
+![2023 UAP Review](../../assets/blog-placeholder-1.jpg)
+*2023 was a watershed year for UAP disclosure*
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/RhAylPgl32M" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -52,4 +51,4 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 ---
 
-*📚 參考：國會記錄、NASA公告、主流媒體*
+*📚 References: Congressional records, NASA announcements, mainstream media*

@@ -6,17 +6,16 @@ descriptionEn: 'Japan''s 1969 UFO incident involving multiple witnesses and offi
 pubDate: '2023-04-15'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
+> 📍 **Fukuoka Prefecture, Japan**
+> 📅 **1969**
+> 🔍 **Intercepted by Self-Defense Forces, Asian Classic**
 
-> 📍 **日本福岡縣**
-> 📅 **1969年**
-> 🔍 **自衛隊攔截、亞洲經典**
+In 1969, a giant mysterious glowing orb appeared over Fukuoka, Japan, hovering in the night sky and illuminating the entire city. The Japan Air Self-Defense Force dispatched fighter jets to investigate, but as they approached, the object immediately sped away at high velocity, making it impossible for the jets to track.
 
-1969年，日本福岡上空出現巨大嘅神秘發光球體，懸浮喺夜空中，照亮咗整個城市。日本航空自衛隊派出戰機升空調查，但接近時物體立即高速飛離，戰機無法追蹤。
+The Japan Defense Agency (now the Ministry of Defense) acknowledged in an internal report that it was "unidentifiable." This incident is one of the most famous UFO cases in modern Japan and one of the few UAP events in Asia with official military records.
 
-日本防衛廳（即現時嘅防衛省）喺內部報告中承認「無法識別」。呢次事件係日本近代最著名嘅UFO案例之一，亦係亞洲少數有軍方記錄嘅UAP事件。
-
-![日本UFO事件](../../assets/blog-placeholder-3.jpg)
-*日本九州——1969年UFO目擊地點*
+![Japan UFO Incident](../../assets/blog-placeholder-3.jpg)
+*Kyushu, Japan — Location of the 1969 UFO Sighting*
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/0wnW4hLG8fA" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -24,4 +23,4 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 ---
 
-*📚 參考：日本防衛廳檔案、UFO研究文獻*
+*📚 Reference: Japan Defense Agency Archives, UFO Research Literature*

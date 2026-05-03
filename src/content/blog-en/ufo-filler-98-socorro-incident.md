@@ -7,14 +7,13 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "close-encounter"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+On April 24, 1964, police sergeant Lonnie Zamora of Socorro, New Mexico, was chasing a speeding vehicle when he suddenly saw flames and a loud noise in the sky. He changed direction to investigate and discovered an egg-shaped silver object resting on the desert ground, with two small white humanoid figures standing nearby.
 
-1964年4月24日，新墨西哥州Socorro市嘅警察警長Lonnie Zamora喺追截一架超速車輛時，突然見到天空出現火焰同巨大聲響。佢改變方向去調查，結果發現一個雞蛋形嘅銀色物體停喺沙漠地上，旁邊仲企著兩個白色嘅小型人形生物。
+Zamora was only about 30 meters from the object and could clearly see a strange red symbol on its surface—an arrow piercing a circle. As he tried to move closer, the object emitted a roaring sound and blue flames, then lifted off vertically and flew away. The scene left behind scorched bushes and four indented footprints.
 
-Zamora距離物體僅約30米，可以清楚見到物體表面有個奇怪嘅紅色標誌——一個箭嘴穿過一個圓形。佢想行近啲嘅時候，物體發出轟鳴聲同藍色火焰，垂直升空飛走。現場留低咗燒焦嘅灌木同四個腳印凹陷。
+The U.S. Air Force's Project Blue Book classified this incident as "unexplained." Dr. J. Allen Hynek personally investigated the scene and praised Zamora as an "exemplary witness."
 
-美國空軍嘅Project Blue Book將呢個事件列為「無法解釋」。Dr. J. Allen Hynek親自到場調查，讚揚Zamora係「模範證人」。
-
-📚 來源
+📚 Sources
 - Zamora, L. Official Statement to Socorro Police (April 24, 1964)
 - Project Blue Book, "Socorro Incident Case File" (1964)
 - Hynek, J.A. "The Hynek UFO Report" (1977)

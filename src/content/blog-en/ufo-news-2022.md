@@ -6,34 +6,33 @@ descriptionEn: 'A comprehensive review of 2022 UFO/UAP news, including the first
 pubDate: '2023-03-01'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
+> 📅 **2022 Year in Review** | 🔍 **Annual Summary**
 
-> 📅 **2022年回顧** | 🔍 **全年摘要**
+## 2022 UAP Milestones
 
-## 2022年 UAP 大事記
+### January
+- U.S. intelligence agencies mandated by law to release more UAP data
+- Japan Air Self-Defense Force releases UFO handling guidelines
 
-### 1月
-- 美國情報機構被立法要求發布更多UAP數據
-- 日本航空自衛隊公布UFO處理指引
+### May
+- U.S. House of Representatives holds UAP hearing
+- Deputy Secretary of Defense Ronald Moultrie testifies
+- Confirms authenticity of UAP footage captured by Navy personnel
 
-### 5月
-- 美國眾議院舉行 UAP 聽證會
-- 國防部副部長 Ronald Moultrie 出席作證
-- 證實海軍人員拍攝嘅UAP影片係真實
+### July
+- **AARO (All-domain Anomaly Resolution Office)** officially established
+- Dr. Sean Kirkpatrick appointed as director
 
-### 7月
-- **AARO（全域異常解決辦公室）** 正式成立
-- Dr. Sean Kirkpatrick 被任命為主任
+### September-October
+- NASA announces formation of independent UAP study group
+- UK Ministry of Defence releases final batch of UFO files
 
-### 9月-10月
-- NASA宣布成立獨立UAP研究小組
-- 英國國防部公開最後一批UFO檔案
+### December
+- UAP disclosure provisions included in the *2023 National Defense Authorization Act*
+- Whistleblower protection mechanisms begin to be established
 
-### 12月
-- 《2023國防授權法案》包含UAP披露條款
-- 吹哨人保護機制開始建立
-
-![2022年UAP回顧](../../assets/blog-placeholder-5.jpg)
-*2022年UAP披露時間線*
+![2022 UAP Review](../../assets/blog-placeholder-5.jpg)
+*2022 UAP Disclosure Timeline*
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/D1zUxh9njlM" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -41,4 +40,4 @@ heroImage: '../../assets/blog-placeholder-5.jpg'
 
 ---
 
-*📚 參考：國防部公告、國會記錄、NASA公告*
+*📚 References: Department of Defense announcements, Congressional records, NASA announcements*

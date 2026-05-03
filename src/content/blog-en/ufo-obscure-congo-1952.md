@@ -7,71 +7,70 @@ pubDate: '2026-04-28'
 tags: ['CIA', '解密文件', '非洲', '冷戰', '冷門']
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
+When talking about 1950s UFOs, most people only think of Roswell and the U.S. Air Force. But on the other side of the world, in the African continent, an even stranger UFO incident occurred, backed by CIA documents—one that most UFO enthusiasts have never heard of!
 
-講起1950年代UFO，大部分人只係諗到Roswell同美國空軍。但其實喺地球另一邊嘅非洲大陸，發生過一件更離奇、仲有CIA文件做證嘅UFO事件，而一般UFO迷根本冇人知呢單！
+In 1952, at the height of the Cold War, the U.S. and the Soviet Union were frantically building atomic bombs. A key raw material for these bombs—uranium—came largely from the **Belgian Congo** (present-day Democratic Republic of the Congo). It was precisely over these uranium mines that declassified CIA documents recorded glowing disc-shaped objects appearing, with a pilot even chasing them and drawing a hand-drawn flight path map!
 
-1952年，正值冷戰高峰期，美國同蘇聯瘋狂鬥造原子彈。而原子彈嘅關鍵原料——鈾，好大部份就係嚟自非洲嘅**比屬剛果**（即係今日嘅剛果民主共和國）。正正就係呢啲鈾礦上空，CIA解密文件記載有發光碟形物體出現，仲有飛行員追住佢睇，畫咗手繪飛行路徑圖出嚟！
+## Core Content of the CIA Report
 
-## CIA報告嘅核心內容
-
-呢份CIA解密文件（編號 **0000015463**，共4頁），標題直接叫"Flying Saucers Reported Over Belgian Congo Uranium Mines"，意思係「比屬剛果鈾礦上空嘅飛碟報告」。雖然1984年先經《資訊自由法》（FOIA）解密公開，但內容真係精彩到極。
+This declassified CIA document (file number **0000015463**, 4 pages) is titled "Flying Saucers Reported Over Belgian Congo Uranium Mines." Although it was only declassified and made public in 1984 under the Freedom of Information Act (FOIA), its content is absolutely fascinating.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### 目擊細節
+### Sighting Details
 
-報告記錄1952年3月29日，喺伊莉莎白維爾（Elisabethville，即今日嘅盧本巴希）附近嘅鈾礦上空，有人目擊**兩個灰色金屬碟形物體**，直徑大約 **12至15米**。呢啲物體嘅特徵相當驚人：
+The report records that on March 29, 1952, over the uranium mines near Elisabethville (present-day Lubumbashi), witnesses spotted **two gray metallic disc-shaped objects**, approximately **12 to 15 meters** in diameter. The characteristics of these objects were astonishing:
 
-- 🛸 **鋁色光澤**，中央有半球形凸起
-- 🔥 **外圍邊緣高速旋轉**，包住一層火焰
-- 🎯 **飛行路徑極之機動**——優雅曲線滑行、瞬間變位、懸停、Z字形加速
-- 💨 **估計時速高達1,500公里**
-- 🔊 伴隨**刺耳嘅嗡嗡聲**
+- 🛸 **Aluminum-colored sheen**, with a hemispherical bulge in the center
+- 🔥 **Outer edges spinning at high speed**, enveloped in a layer of flames
+- 🎯 **Extremely maneuverable flight path**—graceful curved glides, instantaneous position changes, hovering, zigzag acceleration
+- 💨 **Estimated speed up to 1,500 km/h**
+- 🔊 Accompanied by a **piercing buzzing sound**
 
-### 飛行員Pierre嘅親身經歷
+### Pilot Pierre's Personal Experience
 
-報告最有說服力嘅地方，係有位**Commander Pierre**——伊莉莎白維爾機場嘅可靠剛果裔軍機飛行員——親身出動戰鬥機追截！
+The most convincing part of the report involves **Commander Pierre**, a reliable Congolese military pilot at Elisabethville Airport, who personally scrambled a fighter jet to intercept!
 
-Pierre指揮官報告，佢接近到距離物體大約 **120米** 嘅範圍，清楚睇到：
-- 碟形物體外圍包住火焰，急速旋轉
-- 高度從 **800-1,000米** 瞬間降到得 **20米** 樹頂高度
-- 佢追咗 **15分鐘**，對方最後加速消失喺坦噶尼喀湖方向
+Commander Pierre reported that he approached within approximately **120 meters** of the objects and clearly saw:
+- The disc-shaped objects were enveloped in flames, spinning rapidly
+- Altitude dropped from **800-1,000 meters** to just **20 meters** above treetops
+- He chased them for **15 minutes**, and they finally accelerated away toward Lake Tanganyika
 
-佢話：「呢啲嘢如果有人喺入面，應該一早燒死咗。」——佢判斷好難係有人駕駛。
+He said: "If there were people inside these things, they would have been burned to death by now."—He concluded it was unlikely to be manned.
 
-## CIA文件入面嘅手繪圖
+## Hand-Drawn Diagrams in the CIA Document
 
-文件特別珍貴嘅地方，係佢包含咗**手繪嘅飛行路徑圖**同**物體結構草圖**。呢啲唔係網上流傳嘅模擬圖，而係當年CIA文件正本掃描入面嘅原始手繪畫，註明瞭物體嘅外觀結構同飛行軌跡。
+What makes the document particularly valuable is that it includes **hand-drawn flight path diagrams** and **structural sketches of the objects**. These aren't simulated images circulating online, but original hand-drawn illustrations from the scanned CIA document, detailing the objects' appearance, structure, and flight trajectories.
 
-呢啲圖清楚顯示咗：
-1. 碟形物體嘅結構推測（中央旋鈕唔轉，外圍旋轉）
-2. 物體由靜止到加速飛走嘅Z字形路徑
-3. 兩個物體互相配合嘅戰術動作
+These diagrams clearly show:
+1. The speculated structure of the disc-shaped objects (central knob not rotating, outer rim spinning)
+2. The zigzag path of the objects from stationary to accelerating away
+3. The tactical maneuvers of the two objects coordinating with each other
 
-| 📍 *比屬剛果（今剛果民主共和國）* | 📅 *1952年* | 🔍 *CIA解密文件* |
+| 📍 *Belgian Congo (present-day Democratic Republic of the Congo)* | 📅 *1952* | 🔍 *CIA Declassified Document* |
 
-## 點解CIA咁緊張？
+## Why Was the CIA So Concerned?
 
-答案好簡單：**鈾**。
+The answer is simple: **Uranium**.
 
-比屬剛果嘅Shinkolobwe礦場係當時全世界最重要嘅鈾礦，美國第一粒原子彈嘅鈾就係由呢度嚟。冷戰年代，任何唔明來歷嘅飛行物體喺戰略性核原料上空出現，都足以令CIA高層瞓唔著覺——萬一係蘇聯偵察機測試美國反應？定係有乜嘢人類科技以外嘅嘢？
+The Shinkolobwe mine in the Belgian Congo was the world's most important uranium source at the time; the uranium for America's first atomic bomb came from there. During the Cold War, any unidentified flying object appearing over strategic nuclear raw materials would keep CIA top brass awake at night—what if it was a Soviet reconnaissance plane testing U.S. response? Or something beyond human technology?
 
-CIA將呢份報告列為正式記錄，唔係因為佢哋相信UFO，而係因為**國家安全嘅角度，必須認真對待**。
+The CIA classified this report as an official record, not because they believed in UFOs, but because **from a national security perspective, it had to be taken seriously**.
 
-## 爲何咁冷門？
+## Why Is It So Obscure?
 
-比起Roswell、Phoenix Lights呢啲大熱案例，剛果嘅CIA鈾礦UFO事件幾乎冇人提。可能因為：
-- 發生喺非洲，歐美UFO研究者唔太關注
-- CIA文件數量龐大，好多仲未俾人仔細刨
-- 語言障礙——原文文件係法文同英文混合
+Compared to high-profile cases like Roswell or the Phoenix Lights, the CIA's Congo uranium mine UFO incident is almost never mentioned. Possible reasons include:
+- It occurred in Africa, drawing less attention from European and American UFO researchers
+- The CIA's document archive is vast, and many files haven't been thoroughly examined
+- Language barriers—the original documents are a mix of French and English
 
-但正正係呢種「冇人知嘅冷門神作」，先至令UFO研究咁有趣。
+But it's precisely this kind of "unknown hidden gem" that makes UFO research so fascinating.
 
-## 資料來源
+## Sources
 
-- 📄 **CIA閱讀室原文檔**：[Flying Saucers Reported Over Belgian Congo Uranium Mines](https://www.cia.gov/readingroom/document/0000015463)（編號 0000015463）
-- 📄 **CIA官方故事**：[Take a Peek Into Our "X-Files"](https://www.cia.gov/stories/story/take-a-peek-into-our-x-files/)
-- 🗂 **CIA FOIA收藏**：[UFOs: Fact or Fiction?](https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction)
-- 📰 Live Science報導：[Real-life X-Files: CIA UFO Documents Declassified](https://www.livescience.com/53496-real-life-x-files.html)
+- 📄 **CIA Reading Room Original Document**: [Flying Saucers Reported Over Belgian Congo Uranium Mines](https://www.cia.gov/readingroom/document/0000015463) (File Number 0000015463)
+- 📄 **CIA Official Story**: [Take a Peek Into Our "X-Files"](https://www.cia.gov/stories/story/take-a-peek-into-our-x-files/)
+- 🗂 **CIA FOIA Collection**: [UFOs: Fact or Fiction?](https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction)
+- 📰 Live Science Report: [Real-life X-Files: CIA UFO Documents Declassified](https://www.livescience.com/53496-real-life-x-files.html)
 
-> 下次有人同你講Roswell，你大可以話：「1952年非洲鈾礦上面仲有CIA親手記錄嘅飛碟，你知唔知？」呢啲先叫真·冷門UFO知識。
+> Next time someone brings up Roswell, you can say: "Did you know that in 1952, over African uranium mines, the CIA personally recorded flying saucers?" That's what real obscure UFO knowledge is all about.

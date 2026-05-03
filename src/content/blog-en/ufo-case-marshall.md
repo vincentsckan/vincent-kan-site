@@ -6,15 +6,14 @@ descriptionEn: 'On February 25, 1942, the US military fired over 1,400 anti-airc
 pubDate: '2022-08-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📍 **Marshall County, Minnesota, USA**
+> 📅 **August 27, 1975**
+> 🔍 **Police Encounter, Missing Time**
 
-> 📍 **美國明尼蘇達州馬歇爾縣**
-> 📅 **1975年8月27日**
-> 🔍 **警方遭遇、時間缺失**
+Police in Marshall County, Minnesota, received multiple reports from villagers about mysterious lights flying at low altitude. Patrol officer **Val Johnson** was dispatched to investigate.
 
-明尼蘇達州馬歇爾縣警方接獲多個村民報告話見到低空飛行嘅神秘光點。巡邏警員 **Val Johnson** 奉命前往調查。
-
-當佢接近懷疑位置時，佢嘅警車突然被一道極光照射。車燈熄滅，引擎死火，Johnson 失去知覺。佢醒來時發現警車嘅車燈破爛，引擎蓋有凹痕，天線扭曲，而時鐘顯示佢失去咗約45分鐘嘅時間。事件至今無法合理解釋。
+As he approached the suspected location, his patrol car was suddenly struck by an intense beam of light. The headlights went out, the engine died, and Johnson lost consciousness. When he woke up, he found the patrol car's headlights shattered, a dent on the hood, the antenna twisted, and the clock showing that he had lost approximately 45 minutes of time. The incident remains unexplained to this day.
 
 ---
 
-*📚 參考：馬歇爾縣警局檔案*
+*📚 Reference: Marshall County Sheriff's Office Archives*

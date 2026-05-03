@@ -6,71 +6,70 @@ descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-02T13:03:00Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---
+> This week the UFO community is really buzzing! From Trump to Capitol Hill, from a retired Navy admiral to a former defense official, various parties are all talking about UFO disclosure. Let's take a look at the big news that happened in the last 48 hours.
 
-> 呢個星期 UFO 圈真係好熱鬧！從特朗普到國會山莊，從退役海軍上將到前國防官員，各方人馬都喺度講UFO披露。等我哋睇睇呢48小時發生咗啲咩大新聞。
-
-![UFO 新聞](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO News](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
 
 ---
 
-## 📰 本日重點新聞
+## 📰 Today's Top News
 
-### 1️⃣ 特朗普公開講：「我哋會公開好多你唔會信嘅嘢」
+### 1️⃣ Trump Publicly Says: "We'll Release a Lot of Things You Wouldn't Believe"
 
-| 📍 *美國華盛頓* | 📅 *2026年4月29-30日* | 🔍 *政府披露* |
+| 📍 *Washington, USA* | 📅 *April 29-30, 2026* | 🔍 *Government Disclosure* |
 
-特朗普喺接受訪問時多次提到UFO檔案，話佢嘅政府會釋放「大量嘢」關於UFO，仲補充話呢啲係「你唔會相信嘅嘢」。據《Newsweek》報道，特朗普聲稱會公開UFO相關檔案，言論引起UFO社群極大關注。同時《USA Today》亦報道特朗普政府準備好釋放「好多嘢」關於UFO。
+Trump mentioned UFO files multiple times during an interview, saying his administration would release "a lot of things" about UFOs, adding that these are "things you wouldn't believe." According to *Newsweek*, Trump claimed he would release UFO-related files, sparking significant attention in the UFO community. Meanwhile, *USA Today* also reported that the Trump administration is ready to release "a lot of things" about UFOs.
 
-呢次唔係特朗普第一次講UFO嘢，但佢用咗「things you wouldn't believe」呢種咁強烈嘅措辭，令到好多UFO研究者相信真係有料到。
+This isn't the first time Trump has talked about UFOs, but his use of such strong wording as "things you wouldn't believe" has led many UFO researchers to believe there's real substance.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/aUkQMRYHR5s" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 2️⃣ 前國防官員：「今次唔係流料，唔好話係nothingburger」
+### 2️⃣ Former Defense Official: "This Time It's Not a Dud, Don't Call It a Nothingburger"
 
-| 📍 *美國* | 📅 *2026年4月30日* | 🔍 *專家評論* |
+| 📍 *USA* | 📅 *April 30, 2026* | 🔍 *Expert Commentary* |
 
-《NewsNation》引述一位前國防部官員嘅說話，佢強調特朗普政府承諾嘅UFO信息公開絕對唔係「nothingburger」（即係話唔係雷聲大雨點小嗰種）。呢位前官員嘅評論係回應外界對披露內容可能好有限嘅質疑，佢認為今次嘅披露規模同層次會超出大家預期。
+*NewsNation* quoted a former Defense Department official who emphasized that the UFO information disclosure promised by the Trump administration is definitely not a "nothingburger" (meaning it's not all bark and no bite). This former official's comment responds to external doubts that the disclosure might be very limited, and they believe the scale and level of this disclosure will exceed expectations.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/hhP1tRl8KN4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 3️⃣ 女國會議員承諾展示「非人類起源」嘅嘢
+### 3️⃣ Congresswoman Promises to Show Items of "Nonhuman Origin"
 
-| 📍 *美國國會* | 📅 *2026年4月29日* | 🔍 *國會聽證* |
+| 📍 *U.S. Congress* | 📅 *April 29, 2026* | 🔍 *Congressional Hearing* |
 
-《Newsweek》報道，一位美國女國會議員公開承諾，佢會展示一啲屬於「非人類起源」（nonhuman origin）嘅物品。呢個講法極具爆炸性，因為如果成事嘅話，將會係美國政府官員首次喺官方場合展示被認為係非人類製造嘅實物。雖然具體細節仲未公布，但呢個消息已經喺UFO社群引起巨大討論。
+*Newsweek* reported that a U.S. congresswoman publicly promised to show items of "nonhuman origin." This statement is extremely explosive because, if it comes to fruition, it would be the first time a U.S. government official has displayed physical objects believed to be non-human-made in an official setting. Although specific details have not yet been released, this news has already sparked huge discussion in the UFO community.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/AKC7g12jRGE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 4️⃣ 退役海軍上將：「亞特蘭蒂斯真係存在，外星人已經喺度」
+### 4️⃣ Retired Navy Admiral: "Atlantis Is Real, and the Aliens Are Already Here"
 
-| 📍 *美國* | 📅 *2026年4月28日* | 🔍 *爆料/訪談* |
+| 📍 *USA* | 📅 *April 28, 2026* | 🔍 *Leak/Interview* |
 
-《The Free Press》刊登咗一篇極度震撼嘅長文，訪問咗一位退役美國海軍上將。佢聲稱亞特蘭蒂斯（Atlantis）係真實存在嘅文明，而且「外星人已經喺地球」。呢位上將嘅講法引發咗好大爭議，有人認為佢係真係知道內幕先敢咁講，亦有人覺得佢可能係受咗某啲非主流影響。不論如何，一位退役高級軍官公開講呢啲嘢，本身就已經係大新聞。
+*The Free Press* published an extremely shocking long-form article, interviewing a retired U.S. Navy admiral. He claims that Atlantis is a real civilization and that "the aliens are already here on Earth." This admiral's statements have sparked significant controversy; some believe he truly knows insider information to dare say such things, while others think he may have been influenced by certain fringe ideas. Regardless, a retired high-ranking military officer publicly saying this is big news in itself.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/01T2FjzVfmI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## 📊 趨勢分析
+## 📊 Trend Analysis
 
-今個星期嘅UFO新聞出現咗一個好明顯嘅趨勢：**「披露」已經唔再係如果，而係幾時同幾多嘅問題**。
+This week's UFO news shows a clear trend: **"Disclosure" is no longer a matter of "if," but "when" and "how much."**
 
-- 🇺🇸 **特朗普** 同 **國會** 都同時釋放出披露信號
-- 📰 主流媒體（Newsweek、USA Today、NewsNation）嘅報道量明顯增加
-- 👥 前政府官員同軍方高層越嚟越多人願意公開討論
-- 🔬 「非人類起源」呢個term開始被主流媒體廣泛使用
+- 🇺🇸 **Trump** and **Congress** are both signaling disclosure simultaneously
+- 📰 Coverage from mainstream media (*Newsweek*, *USA Today*, *NewsNation*) has noticeably increased
+- 👥 More and more former government officials and senior military figures are willing to discuss it publicly
+- 🔬 The term "nonhuman origin" is being widely used by mainstream media
 
-呢啲跡象顯示，UFO/UAP議題已經進入一個全新階段。
+These signs indicate that the UFO/UAP issue has entered a completely new phase.
 
 ---
 
-## 🔗 來源連結
+## 🔗 Source Links
 
 - [Newsweek: UFO Update: Congresswoman Promises to Show Things of 'Nonhuman Origin'](https://www.newsweek.com/ufo-update-congresswoman-promises-show-things-nonhuman-origin-2073243)
 - [Newsweek: Trump Says He'll Release UFO Files: 'Things You Wouldn't Believe'](https://www.newsweek.com/trump-says-hell-release-ufo-files-things-you-wouldnt-believe-2074398)
@@ -80,4 +79,4 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 ---
 
-*本文章由自動系統定時生成，內容基於公開新聞來源，如有更新請留意下一篇快訊。*
+*This article is automatically generated on a schedule, based on public news sources. Please check the next update for any new developments.*

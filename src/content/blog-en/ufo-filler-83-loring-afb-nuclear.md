@@ -7,26 +7,25 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "nuclear-connection"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-1975年10月28日，位於美國緬因州嘅Loring空軍基地發生咗一件令美國空軍高層大為緊張嘅事件——一個不明飛行物體直接飛越咗基地嘅核武器儲存區域。呢個核彈儲存庫係美國空軍最敏感嘅設施之一。
+On October 28, 1975, an incident occurred at Loring Air Force Base in Maine, USA, that greatly alarmed the top brass of the U.S. Air Force—an unidentified flying object directly overflew the base's nuclear weapons storage area. This nuclear weapons storage facility was one of the most sensitive installations of the U.S. Air Force.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Loring AFB, Limestone, Maine, USA | 1975-10-28 | Nuclear Base / UFO Overflight |
 
-當晚大約10點左右，Loring AFB嘅警衛首先發現一個巨大嘅發光物體正由東向西移動，方向正好係核武器儲存區域嘅位置。基地即刻進入最高級別安全警戒狀態，所有警衛人員全部武裝待命。
+Around 10:00 PM that evening, guards at Loring AFB first spotted a large luminous object moving from east to west, heading directly toward the location of the nuclear weapons storage area. The base immediately entered the highest level of security alert, with all security personnel armed and on standby.
 
-空軍安保人員報告話，呢個物體係一個巨大嘅橢圓形，發出白橙色光芒。佢完全冇任何引擎聲——呢點喺萬籟俱寂嘅緬因州森林夜晚特別明顯。佢喺核彈儲存庫上方嘅高空盤旋咗大約20分鐘，然後以極高速度向北方飛走。
+Air Force security personnel reported that the object was a massive oval shape, emitting a white-orange glow. It made absolutely no engine noise—which was particularly noticeable in the silent forest night of Maine. It hovered at high altitude above the nuclear weapons storage facility for about 20 minutes, then departed at extremely high speed toward the north.
 
-事發之後，美國空軍戰略空軍司令部（SAC）嘅調查員即刻趕到現場。SAC嘅調查結論係：成件事係一架「商用飛機」誤入禁區。但呢個結論同現場嘅目擊報告矛盾——商用飛機冇可能飛到核武器儲存庫上空而冇被基地雷達提前發現。
+After the incident, investigators from the U.S. Air Force Strategic Air Command (SAC) arrived at the scene immediately. SAC's conclusion was that the entire event was a "commercial aircraft" that had strayed into a restricted area. However, this conclusion contradicted the eyewitness reports on site—a commercial aircraft could not have flown over the nuclear weapons storage facility without being detected by the base's radar in advance.
 
-值得一提嘅係，Loring AFB事件唔係單一事件。佢係1975年秋季美國多個戰略空軍基地UFO浪潮嘅一部分——同期仲有Wurtsmith AFB、Malmstrom AFB等其他基地嘅UFO目擊。
+It is worth noting that the Loring AFB incident was not an isolated event. It was part of a wave of UFO sightings at multiple Strategic Air Command bases in the fall of 1975—during the same period, there were UFO sightings at other bases such as Wurtsmith AFB and Malmstrom AFB.
 
-Robert Hastings——著名嘅「UFO與核武器」研究專家——喺佢嘅著作《UFOs and Nukes》中詳細記錄咗Loring事件。佢訪問咗多位當年嘅退役空軍人員，佢哋都確認嗰晚嘅事件「絕對唔係普通飛機」。
+Robert Hastings—a renowned researcher of "UFOs and Nuclear Weapons"—documented the Loring incident in detail in his book *UFOs and Nukes*. He interviewed several retired Air Force personnel from that time, who all confirmed that the event that night was "absolutely not an ordinary aircraft."
 
-2020年代，隨着美國國防部對UAP問題嘅態度轉變，部分Loring AFB事件嘅文件被解密。文件中嘅情節同目擊者講述嘅一致——但解密版本嘅文件中冇提供任何解釋。
+In the 2020s, as the U.S. Department of Defense's attitude toward UAP issues shifted, some documents from the Loring AFB incident were declassified. The details in the documents matched the accounts of the witnesses—but the declassified versions of the documents provided no explanation.
 
-📚 來源
+📚 Sources
 - U.S. Air Force Strategic Air Command, "Loring AFB Incident Report" (1975)
 - Hastings, R. "UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites" (2008, 2017)
 - Declassified SAC documents, Loring AFB (1975), FOIA release 2021

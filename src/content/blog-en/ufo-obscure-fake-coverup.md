@@ -7,92 +7,91 @@ pubDate: '2026-04-28'
 tags: ['AARO', 'Pentagon', '解密報告', '誤導', '冷門']
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
+> 📍 **Location**: Area 51, Rachel (Nevada), USA  
+> 📅 **Period**: 1980s — 2023  
+> 🔍 **Category**: Government Misinformation / Declassified Reports  
 
-> 📍 **地點**：美國 Area 51、Rachel（Nevada）
-> 📅 **時期**：1980 年代 — 2023 年
-> 🔍 **類別**：政府誤導 / 解密報告
+You thought the US government was always hiding the truth about UFOs? The latest Pentagon report tells you: the truth is—**they were actually conspiring to fake UFOs** 😅  
 
-你以為美國政府成日隱瞞UFO真相？最新Pentagon報告話你知：真相係——**佢哋反而係夾埋嚟造假UFO** 😅
+In 2024, the Pentagon's **All-domain Anomaly Resolution Office (AARO)** released a historical report, revealing a jaw-dropping fact: US military officials have been **deliberately spreading fake UFO information** for decades, including forging flying saucer photos, fabricating stories, and creating fake briefings—all with one goal—**hiding the secret tests of the F-117 Nighthawk stealth fighter**.  
 
-2024年，Pentagon轄下嘅**全域異常解決辦公室（AARO）** 出咗一份歷史報告，揭開一個令人跌眼鏡嘅事實：美國軍方官員幾十年嚟一直**刻意散佈假UFO資訊**，包括偽造飛碟相、作故仔、整假簡報，目的只有一個——**隱藏F-117 Nighthawk隱形戰機嘅秘密測試**。
-
-唔講唔知，原來你睇到嘅「飛碟傳說」，好可能係阿美嘅國防部精心設計嘅煙幕彈。
-
----
-
-## AARO報告：Pentagon自己踢爆自己
-
-AARO喺2024年3月發布嘅《Historical Record Report Volume 1》，全面審視咗由1945年至今嘅UFO記錄。報告訪問咗無數知情人士、查閱大量機密檔案，結論係：
-
-> **「無證據顯示美國政府曾經接觸過外星科技或進行逆向工程。」**
-
-但更爆嘅係，報告發現軍方唔係被動噉隱瞞，而係**主動製造假UFO資料嚟誤導公眾**。AARO審查發現，呢啲誤導手段橫跨幾十年，包括：
-
-- 偽造飛碟照片
-- 散佈假外星人故事
-- 製作虛構嘅機密簡報
-- 進行類似「戲弄新人」嘅hazing儀式
-
-Pentagon發言人Sue Gough喺2025年承認，呢啲行為涉及「惡作劇同埋不實材料」，但由於空軍方面嘅壓力，部分細節喺2024年報告入面被刪走，要等到2025年嘅第二卷先會完整公開。
+Believe it or not, the "flying saucer legends" you've seen were likely a carefully crafted smokescreen by the US Department of Defense.  
 
 ---
 
-## F-117掩飾計劃：飛碟傳說為咗隱藏隱形戰機
+## AARO Report: Pentagon Exposes Itself  
 
-最經典嘅例子，發生喺**Nevada嘅Area 51**附近。
+AARO's "Historical Record Report Volume 1," released in March 2024, comprehensively reviewed UFO records from 1945 to the present. The report interviewed countless insiders and reviewed numerous classified files, concluding:  
 
-1980年代，美國空軍正喺Area 51秘密測試**F-117 Nighthawk**——全球第一款實戰隱形戰機。呢款戰機外形極度古怪，三角形黑色機身，夜晚飛過沙漠嘅時候，成日俾當地居民同遊客見到。
+> **"No evidence that the US government has ever had contact with extraterrestrial technology or conducted reverse engineering."**  
 
-為咗唔俾蘇聯或者公眾知道美軍喺度試緊隱形戰機，軍方諗出一條絕橋：
+But even more explosive, the report found that the military wasn't passively hiding things—it was **actively creating fake UFO materials to mislead the public**. AARO's review found that these deceptive tactics spanned decades, including:  
 
-**不如就俾人以為嗰啲係UFO啦。**
+- Forging flying saucer photos  
+- Spreading fake alien stories  
+- Creating fictitious classified briefings  
+- Conducting hazing rituals similar to "initiating newcomers"  
 
-AARO報告披露，一名**空軍上校**喺2023年親口承認，佢喺1980年代奉上級命令，親手製造同散佈偽造飛碟照片。佢將呢啲假相交俾Rachel鎮一間酒吧嘅老闆——呢間舖就係著名嘅Little A'Le'Inn，UFO發燒友必到嘅聖地。
-
-結果，假UFO傳說越傳越烈，反而令F-117嘅秘密測試安然無恙。呢招叫**「camouflage by UFO」**——用飛碟做掩護，好夠薑。
-
-> 相關文章：[🛸 AARO時間線 — 由AATIP到AARO嘅披露之路](/blog/ufo-case-aaro-timeline)
-
----
-
-## Yankee Blue：一個呃到自己人嘅虛構外星人計劃
-
-AARO仲發現咗一個叫**「Yankee Blue」**嘅離奇計劃。
-
-呢個所謂嘅「最高機密外星飛船逆向工程計劃」，**完全係作出嚟嘅**。佢係空軍內部嘅一種hazing儀式——當有新成員加入某啲機密單位嘅時候，資深軍官會安排佢哋睇偽造飛碟相、聽虛構簡報，話佢哋知「我哋有外星科技喺度reverse engineering緊」。
-
-估唔到嘅係，呢班新人**簽埋保密協議**（有時仲要受威脅），然後**真係信咗成幾十年**。有啲人退役之後仲喺度周圍同人講Yankee Blue嘅「秘密」，連佢哋自己都唔知自己參與緊嘅係一場大龍鳳。
-
-AARO估計，**可能有數以百計嘅空軍軍官同指揮官**曾經中過呢個圈套。
-
-直到2023年，AARO正式向國防部報告呢個問題，時任國防部長先簽發備忘錄，**下令立即停止**呢啲行為。
-
-即係話，到2023年都仲有人喺度玩緊呢個「呃自己人」嘅遊戲。
+Pentagon spokesperson Sue Gough admitted in 2025 that these actions involved "hoaxes and false materials," but due to pressure from the Air Force, some details were removed from the 2024 report and won't be fully disclosed until Volume 2 in 2025.  
 
 ---
 
-## 仲有更多
+## F-117 Cover-Up: Flying Saucer Legends to Hide Stealth Fighters  
 
-除咗F-117同Yankee Blue，AARO仲發現其他誤導案例：
+The most classic example occurred near **Area 51 in Nevada**.  
 
-- **1967年「核導彈基地UFO事件」**：原來係軍方嘅EMP電磁脈衝測試，後來俾人包裝成外星人干擾核武嘅傳說。
-- **冷戰時期**：多個涉及隱形技術同核武計劃嘅傳說，都係軍方刻意放風出嚟混淆視聽。
+In the 1980s, the US Air Force was secretly testing the **F-117 Nighthawk**—the world's first operational stealth fighter—at Area 51. This aircraft had an extremely bizarre shape, a triangular black body, and when flying over the desert at night, it was often spotted by local residents and tourists.  
 
-AARO強調，目前仍喺度調查緊呢啲誤導行動係由中央統籌定係地方各自為政。**2025年出嘅第二卷報告**將會更全面披露呢啲資料。
+To prevent the Soviet Union or the public from knowing the US military was testing stealth fighters, the military came up with a brilliant idea:  
 
----
+**Why not just let people think those were UFOs?**  
 
-## 媒體報導
+The AARO report revealed that an **Air Force colonel** personally admitted in 2023 that, in the 1980s, under orders from superiors, he personally created and distributed forged flying saucer photos. He handed these fake photos to the owner of a bar in Rachel—the famous Little A'Le'Inn, a must-visit spot for UFO enthusiasts.  
 
-如果你想睇外媒點樣報呢單嘢，可以參考以下文章：
+As a result, the fake UFO legend grew stronger, keeping the F-117's secret tests safe. This tactic is called **"camouflage by UFO"**—using flying saucers as cover, quite daring.  
 
-- [Wall Street Journal — Pentagon Spread UFO Myths to Shield Secret Weapons Programs](https://www.wsj.com/politics/national-security/pentagon-ufo-myths-secret-weapons-programs-25d2d8b8)
-- [NewsNation — Pentagon spread UFO disinformation to protect classified projects: report](https://www.newsnationnow.com/space/ufo/pentagon-ufo-disinformation-classified-projects-report/)
-- [San.com — Pentagon spread UFO disinformation to protect classified projects](https://san.com/cc/pentagon-spread-ufo-disinformation-to-protect-classified-projects-report/)
+> Related article: [🛸 AARO Timeline — The Path of Disclosure from AATIP to AARO](/blog/ufo-case-aaro-timeline)  
 
 ---
 
-> 💡 **睇完有咩感想？** 原來UFO傳說唔一定係政府隱瞞外星人，有時反而係政府特登放流料。下次見到飛碟相，或者可以諗多一層：呢張相會唔會又係邊個秘密武器計畫嘅煙幕？
+## Yankee Blue: A Fictional Alien Program That Fooled Its Own People  
+
+AARO also discovered a bizarre program called **"Yankee Blue."**  
+
+This so-called "top-secret alien spacecraft reverse engineering program" was **completely fabricated**. It was a hazing ritual within the Air Force—when new members joined certain classified units, senior officers would show them fake flying saucer photos and give fictional briefings, telling them, "We're reverse engineering alien technology here."  
+
+Unexpectedly, these newcomers **signed non-disclosure agreements** (sometimes under threats) and then **actually believed it for decades**. Some, after retiring, continued to spread the "secrets" of Yankee Blue, not even realizing they had been part of a massive charade.  
+
+AARO estimates that **hundreds of Air Force officers and commanders** may have fallen for this trap.  
+
+It wasn't until 2023 that AARO formally reported this issue to the Department of Defense, and the then-Secretary of Defense issued a memo **ordering an immediate halt** to these actions.  
+
+That means, as late as 2023, people were still playing this "fooling your own people" game.  
+
+---
+
+## And More  
+
+Beyond the F-117 and Yankee Blue, AARO found other misinformation cases:  
+
+- **The 1967 "Nuclear Missile Base UFO Incident"**: Actually an EMP electromagnetic pulse test by the military, later packaged as a legend of aliens interfering with nuclear weapons.  
+- **Cold War Era**: Multiple legends involving stealth technology and nuclear programs were deliberately leaked by the military to confuse the public.  
+
+AARO emphasizes that it is still investigating whether these misinformation campaigns were centrally coordinated or locally driven. **Volume 2, due in 2025**, will more fully disclose this information.  
+
+---
+
+## Media Coverage  
+
+If you want to see how foreign media reported this, refer to the following articles:  
+
+- [Wall Street Journal — Pentagon Spread UFO Myths to Shield Secret Weapons Programs](https://www.wsj.com/politics/national-security/pentagon-ufo-myths-secret-weapons-programs-25d2d8b8)  
+- [NewsNation — Pentagon spread UFO disinformation to protect classified projects: report](https://www.newsnationnow.com/space/ufo/pentagon-ufo-disinformation-classified-projects-report/)  
+- [San.com — Pentagon spread UFO disinformation to protect classified projects](https://san.com/cc/pentagon-spread-ufo-disinformation-to-protect-classified-projects-report/)  
+
+---
+
+> 💡 **What do you think after reading this?** Turns out, UFO legends aren't always about the government hiding aliens—sometimes, it's the government deliberately spreading false information. Next time you see a flying saucer photo, maybe think twice: could this photo be a smokescreen for some secret weapons program?  
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen loading="lazy"></iframe>

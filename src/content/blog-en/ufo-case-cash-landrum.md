@@ -6,30 +6,29 @@ descriptionEn: 'In 1980, Betty Cash, Vickie Landrum, and Colby Landrum encounter
 pubDate: '2023-06-01'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
+> 📍 **Texas, United States**
+> 📅 **December 29, 1980**
+> 🔍 **Radiation Injuries, Legal Action**
 
-> 📍 **美國德克薩斯州**
-> 📅 **1980年12月29日**
-> 🔍 **輻射傷害、法律訴訟**
+On the evening of December 29, 1980, Betty Cash, Vickie Landrum, and her grandson Colby Landrum were driving through a forest in Texas when they saw a huge, diamond-shaped glowing object hovering above the road. The object emitted intense heat, causing them to feel burning pain inside the car.
 
-1980年12月29日晚上，Betty Cash、Vickie Landrum 同佢嘅孫仔 Colby Landrum 揸車經過德州一片森林時，見到一個巨大嘅菱形發光物體懸浮喺公路上方。物體發出極強烈嘅熱量，令車內嘅佢哋感到灼痛。
+## Aftermath
 
-## 後遺症
+- The three suffered severe nausea and vomiting
+- Skin showed burn marks (resembling sunburn but more severe)
+- Significant hair loss
+- Long-term health issues (chronic fatigue, weakened immune system)
 
-- 三人出現嚴重噁心、嘔吐
-- 皮膚出現燒傷痕跡（似太陽灼傷但更嚴重）
-- 頭髮大量脫落
-- 長期健康問題（慢性疲勞、免疫力下降）
+## Military Helicopters
 
-## 軍方直升機
+Witnesses also reported multiple CH-47 Chinook heavy-lift helicopters surrounding the UFO. They suspected the military was recovering or testing some kind of secret aircraft.
 
-目擊者仲報告當時有多架CH-47 Chinook重型直升機圍住嗰個UFO。佢哋懷疑係軍方正在回收或測試某種秘密飛行器。
+## Legal Action
 
-## 法律訴訟
+Betty Cash and the Landrum family later sued the U.S. government, seeking $217,000 in damages. However, the court ultimately dismissed the lawsuit, citing "national security."
 
-Betty Cash 同 Landrum 家族後來起訴美國政府，要求賠償21.7萬美元。但法院最終駁回訴訟，理由係「國家安全」。
-
-![Cash-Landrum示意](../../assets/blog-placeholder-2.jpg)
-*Cash-Landrum事件中嘅菱形UFO示意圖*
+![Cash-Landrum illustration](../../assets/blog-placeholder-2.jpg)
+*Illustration of the diamond-shaped UFO in the Cash-Landrum incident*
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/L5hFfPFgPEE" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -37,4 +36,4 @@ Betty Cash 同 Landrum 家族後來起訴美國政府，要求賠償21.7萬美�
 
 ---
 
-*📚 參考：法庭記錄、醫學報告、空軍檔案*
+*📚 References: Court records, medical reports, Air Force archives*

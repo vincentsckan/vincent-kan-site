@@ -6,19 +6,18 @@ descriptionEn: 'In 1967, multiple witnesses in Nova Scotia saw a UFO crash into 
 pubDate: '2022-09-05'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
+> 📍 **Shag Harbour, Nova Scotia, Canada**
+> 📅 **October 4, 1967**
+> 🔍 **Water crash, naval search, government files**
 
-> 📍 **加拿大新斯科舍省，沙港**
-> 📅 **1967年10月4日**
-> 🔍 **水上墜落、海軍搜索、政府檔案**
+On the evening of October 4, 1967, residents of Shag Harbour, Nova Scotia, Canada, saw a large glowing object emitting a humming sound crash into the Atlantic Ocean. Over **11 people** independently reported witnessing this event.
 
-1967年10月4日晚上，加拿大新斯科舍省沙港（Shag Harbour）嘅居民見到一個發出嗡嗡聲嘅大型發光物體墜入大西洋。超過 **11人** 獨立報告見到呢個事件。
+The Royal Canadian Mounted Police (RCMP) and the Canadian Coast Guard immediately launched a search. Navy divers went underwater to investigate and found strange marks and foam on the seabed.
 
-加拿大皇家騎警（RCMP）同加拿大海岸警衛隊立即展開搜索。海軍潛水員落水調查，喺海底發現咗奇怪嘅痕跡同泡沫。
+![Shag Harbour](../../assets/blog-placeholder-2.jpg)
+*Shag Harbour, Nova Scotia, Canada — UFO crash site*
 
-![沙港](../../assets/blog-placeholder-2.jpg)
-*加拿大新斯科舍省沙港——UFO墜落地點*
-
-加拿大國防部、皇家騎警同交通部嘅記錄都提到「UFO」墜落。加拿大政府後來解密咗相關檔案，令沙港事件成為少數有 **政府官方記錄** 承認嘅UFO案件。
+Records from the Canadian Department of National Defence, the RCMP, and the Department of Transport all mention a "UFO" crash. The Canadian government later declassified related files, making the Shag Harbour incident one of the few UFO cases with **official government records** acknowledging it.
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/gMqBBDiYC9A" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -26,4 +25,4 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 
 ---
 
-*📚 參考：加拿大國防部檔案、RCMP記錄*
+*📚 References: Canadian Department of National Defence files, RCMP records*

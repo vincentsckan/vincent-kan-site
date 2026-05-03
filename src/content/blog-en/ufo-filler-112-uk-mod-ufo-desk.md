@@ -7,14 +7,13 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "government-agency"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+Before 2009, the UK Ministry of Defence (MoD) had a dedicated office for handling UFO reports—known as the "UFO Desk." This office was managed by the DI55 branch of the Defence Intelligence Staff and received hundreds of sighting reports each year, including those from military personnel.
 
-喺2009年之前，英國國防部（MoD）設有一個專門處理UFO報告嘅辦公室——被稱為「UFO Desk」（UFO辦公桌）。呢個辦公室由國防情報局嘅DI55部門管理，每年接收數百宗目擊報告，包括軍方人員嘅報告。
+The government announced in 2008 that the UFO Desk would be closed in 2009, citing that "investigations over the past 50 years have found no national security threats." However, that same year, over 600 UFO reports poured in—some from Air Force pilots and radar operators. All files began to be released in batches through The National Archives starting in 2013, totaling over 52,000 pages.
 
-政府喺2008年宣佈UFO辦公桌會喺2009年關閉，因為「過去50年嘅調查冇發現任何國家安全威脅」。但同年，超過600宗UFO報告湧入——其中部分來自空軍飛行員同雷達操作員。所有檔案喺2013年開始透過國家檔案館分批公開，總共超過52,000頁。
+The UK's policy has made it one of the most transparent countries in the world regarding UFOs, providing researchers with a valuable database.
 
-英國嘅政策令佢成為全球對UFO最透明嘅國家之一，為研究人員提供咗寶貴嘅資料庫。
-
-📚 來源
+📚 Sources
 - UK National Archives, "UFO Files" Collection (2008-2013)
 - Pope, N. "Open Skies, Closed Minds" (1996)
 - UK Ministry of Defence, "UFO Desk Annual Reports" (1991-2008)

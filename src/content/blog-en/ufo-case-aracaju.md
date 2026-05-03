@@ -6,15 +6,14 @@ descriptionEn: 'In 1977, northern Brazil experienced a series of UFO attacks wit
 pubDate: '2022-06-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📍 **Pará State, Brazil, Aracaju**
+> 📅 **1977**
+> 🔍 **Military Investigation, Beam Attacks**
 
-> 📍 **巴西帕拉州，阿拉卡茹**
-> 📅 **1977年**
-> 🔍 **軍事調查、光束攻擊**
+In 1977, a series of strange events occurred in the area surrounding the northern Brazilian city of Aracaju. Local residents reported being struck by mysterious beams of light at night, after which burn marks appeared on their skin, and some even experienced nausea and headaches. The incidents caused widespread panic across the city.
 
-1977年，巴西北部城市阿拉卡茹（Aracaju）周邊地區發生咗一系列奇怪事件。當地居民報告夜晚被神秘嘅光芒照射，之後皮膚出現燒傷痕跡，部分人甚至出現噁心同頭痛。事件令全城恐慌。
-
-巴西空軍（FAB）派咗飛行員 **Uyrangê Hollanda** 上尉進行調查。佢嘅團隊用 Hasselblad 相機成功拍到咗多張不明物體嘅照片——一個發光體盤旋喺叢林上空。Hollanda 上尉曾被光束照射，後來公開咗大量調查檔案，成為巴西最具爭議性嘅UFO案件之一。
+The Brazilian Air Force (FAB) dispatched Captain **Uyrangê Hollanda**, a pilot, to investigate. His team successfully captured multiple photographs of unidentified objects using a Hasselblad camera—a luminous object hovering over the jungle. Captain Hollanda was once hit by a beam of light and later released a large number of investigation files, making this one of Brazil's most controversial UFO cases.
 
 ---
 
-*📚 參考：巴西空軍檔案、UFO研究文獻*
+*📚 References: Brazilian Air Force Archives, UFO Research Literature*

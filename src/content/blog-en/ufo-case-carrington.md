@@ -6,15 +6,14 @@ descriptionEn: 'The 1859 Carrington Event was the largest solar storm in recorde
 pubDate: '2022-07-20'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📍 **Portugal**
+> 📅 **1917**
+> 🔍 **Scientist Sighting, Early Classic**
 
-> 📍 **葡萄牙**
-> 📅 **1917年**
-> 🔍 **科學家目擊、早期經典**
+The renowned British/Portuguese biologist **Peter Carrington**, while conducting fieldwork in Portugal, witnessed a massive, cigar-shaped black object silently gliding overhead. Known for his rigorous scientific approach, Carrington's detailed records and calm analysis have made this sighting report highly regarded by the research community.
 
-著名英國/葡萄牙生物學家 **Peter Carrington** 喺葡萄牙野外考察時，目擊一個巨大嘅雪茄形黑色物體從頭頂無聲劃過。Carrington 以其嚴謹嘅科學態度聞名，佢嘅詳細記錄同冷靜分析令呢次目擊報告被研究界高度重視。
-
-呢單案件嘅特別之處在於目擊者係一位受過嚴格科學訓練嘅研究者，而且事件發生喺飛機未普及嘅1917年，排除了大多數常規解釋。
+What makes this case particularly notable is that the witness was a researcher trained in strict scientific methodology, and the event occurred in 1917, before aircraft became widespread, ruling out most conventional explanations.
 
 ---
 
-*📚 參考：Carrington 日記、UFO研究文獻*
+*📚 Reference: Carrington's diary, UFO research literature*

@@ -6,15 +6,14 @@ descriptionEn: 'China''s Gobi Desert has been the site of numerous UFO encounter
 pubDate: '2022-09-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📍 **Mongolian Gobi Desert**
+> 📅 **1980s**
+> 🔍 **Spy rumors, Soviet archives**
 
-> 📍 **蒙古戈壁沙漠**
-> 📅 **1980年代**
-> 🔍 **間諜傳聞、蘇聯檔案**
+During the Cold War, Western intelligence circles had a persistent claim: the Soviet Union established a secret UFO research base deep in the Mongolian Gobi Desert. It was alleged that the Soviets recovered technology from a crashed UFO and conducted reverse engineering at this isolated location.
 
-冷戰期間，西方情報界一直有個說法：蘇聯喺蒙古戈壁沙漠深處建立咗一個秘密UFO研究基地。據稱蘇聯從墜毀嘅UFO中回收咗技術，並喺呢個與世隔絕嘅地點進行逆向工程（reverse engineering）。
-
-美國間諜衛星據報拍攝到該區域有異常嘅大型設施，但官方從未確認。蘇聯解體後，部分俄羅斯軍官曾喺訪問中隱晦提及有類似項目，但始終缺乏直接證據。呢個傳聞至今仍然係UFO研究中最神秘嘅冷戰故事之一。
+American spy satellites reportedly captured images of unusually large facilities in the area, but the government never confirmed this. After the collapse of the Soviet Union, some Russian officers vaguely alluded to such a project in interviews, but direct evidence has always been lacking. This rumor remains one of the most mysterious Cold War stories in UFO research.
 
 ---
 
-*📚 參考：情報界傳聞、蘇聯檔案研究*
+*📚 References: Intelligence community rumors, Soviet archive research*

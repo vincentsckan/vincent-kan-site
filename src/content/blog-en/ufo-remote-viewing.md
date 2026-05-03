@@ -6,28 +6,27 @@ descriptionEn: 'Remote viewing, a claimed psychic ability, was researched by the
 pubDate: '2022-12-25'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
+> 📚 **UAP Glossary** | 🔍 **Remote Viewing**
 
-> 📚 **UAP 詞彙庫** | 🔍 **遠距觀測（Remote Viewing）**
+## What is Remote Viewing?
 
-## 咩係遠距觀測？
+**Remote Viewing** is a controversial ability that claims individuals can perceive distant or hidden targets through consciousness. This concept was first researched by American physicists **Russell Targ** and **Harold Puthoff** at the Stanford Research Institute in the 1970s.
 
-**遠距觀測（Remote Viewing）** 係一種有爭議嘅能力，聲稱人可以靠意識嚟感知遠處或隱藏嘅目標。呢個概念由美國物理學家 **Russell Targ** 同 **Harold Puthoff** 喺1970年代開始喺史丹福研究院研究。
+## CIA's Stargate Project
 
-## CIA的星際之門計劃
+From 1972 to 1995, the CIA and U.S. Army intelligence funded a classified project called **Project Stargate**, specifically researching the military applications of remote viewing.
 
-1972年至1995年，CIA同美國陸軍情報部門資助咗一個名為 **Project Stargate（星際之門）** 嘅機密項目，專門研究遠距觀測嘅軍事應用。
+![Remote Viewing](../../assets/blog-placeholder-4.jpg)
+*CIA Stargate project remote viewing training materials*
 
-![遠距觀測](../../assets/blog-placeholder-4.jpg)
-*CIA Stargate計劃嘅遠距觀測訓練資料*
+## Connection to UFOs
 
-## 同UFO嘅關聯
+Interestingly, multiple remote viewers claimed to have "detected" using this method:
+- Ancient structures on Mars
+- Base facilities on the far side of the Moon
+- Hidden extraterrestrial bases
 
-有趣嘅係，多個遠距觀測者聲稱用呢種方法「探測」到：
-- 火星上嘅古代建築
-- 月球背面嘅基地設施
-- 隱藏嘅外星人基地
-
-CIA喺1995年發布咗Stargate計劃嘅評估報告，結論係遠距觀測「未被證實有實用情報價值」，但部分觀測結果確實「無法用隨機概率解釋」。
+The CIA released an evaluation report of the Stargate project in 1995, concluding that remote viewing was "not proven to have practical intelligence value," but some viewing results were indeed "inexplicable by random probability."
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/NHT1Vj-mDdQ" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -35,4 +34,4 @@ CIA喺1995年發布咗Stargate計劃嘅評估報告，結論係遠距觀測「�
 
 ---
 
-*📚 參考：CIA解密文件、Stargate報告、媒體報導*
+*📚 References: CIA declassified documents, Stargate reports, media coverage*

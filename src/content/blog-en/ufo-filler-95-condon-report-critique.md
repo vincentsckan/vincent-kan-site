@@ -7,12 +7,11 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "scientific-controversy"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+The 1968 University of Colorado Condon Committee report served as the U.S. Air Force's rationale for closing Project Blue Book. The report, 1,465 pages long, analyzed 59 cases—although 30% were classified as "unexplained," it concluded that UFOs had "no scientific research value."
 
-1968年科羅拉多大學Condon委員會報告係美國空軍關閉Project Blue Book嘅理據。報告長1,465頁，分析59個案例——雖然30%被分類為「無法解釋」，但結論卻話UFO「冇科學研究價值」。
+It was later discovered that Condon himself held strong biases against the UFO topic. In an internal memo, committee chairman Robert Low wrote: "Our strategy is to make the study appear objective, but in reality, it is to end this matter as quickly as possible." American physicist Dr. James McDonald publicly criticized the Condon report as "a scientific scandal."
 
-後來發現Condon本人對UFO議題有強烈偏見。調查委員會主席Robert Low喺內部備忘錄中寫道：「我哋嘅策略係令研究睇落客觀，但實際上係要盡快結束呢件事。」美國物理學家James McDonald博士公開批評Condon報告「係科學上嘅醜聞」。
-
-📚 來源
+📚 Sources
 - Condon, E.U. et al. "Scientific Study of Unidentified Flying Objects" (1968)
 - McDonald, J.E. "Science in Default" (1969), AAAS Symposium
 - Hall, R. "The Condon Report: A Critical Analysis" (1969), APRO

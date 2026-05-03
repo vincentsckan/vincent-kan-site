@@ -7,24 +7,23 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "crash"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-1953年5月，美國亞利桑那州Kingman附近嘅莫哈韋沙漠（Mojave Desert）據報發生咗一次神秘嘅UFO墜毀事件。成件事之所以備受關注，係因為有一名聲稱曾參與回收行動嘅工程師——Dr. Arthur G. "Art" Stancil——提供咗極為詳細嘅證詞。
+In May 1953, a mysterious UFO crash was reportedly occurred in the Mojave Desert near Kingman, Arizona, USA. The incident gained significant attention due to the highly detailed testimony provided by an engineer who claimed to have participated in the recovery operation—Dr. Arthur G. "Art" Stancil.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Kingman, Arizona, USA | 1953-05 (approx.) | Alleged UFO Crash |
 
-根據UFO研究者Raymond Fowler同William Pitts喺1970年代嘅調查，一名化名「Fritz Werner」嘅政府工程師（後來被推斷為Stancil）接受訪問時話，佢喺1953年5月21日被緊急召喚到內華達州嘅一個空軍基地。佢話政府人員叫佢同另外幾位工程師上一架冇窗嘅軍用巴士，之後俾人蒙眼帶去一個偏遠地方。
+According to investigations by UFO researchers Raymond Fowler and William Pitts in the 1970s, a government engineer using the pseudonym "Fritz Werner" (later identified as Stancil) stated in an interview that he was urgently summoned to an Air Force base in Nevada on May 21, 1953. He said government personnel instructed him and several other engineers to board a windowless military bus, which then blindfolded them and transported them to a remote location.
 
-佢憶述巴士車程大約三個鐘，最後到達一個沙漠區域。落車後，佢見到一架「完美橢圓形、大約15米直徑」嘅銀色飛行器有一半陷入沙中。飛船表面冇任何焊接痕跡、螺絲或者接縫——成個外殼好似一體成型咁。
+He recalled the bus ride lasting about three hours, eventually arriving at a desert area. Upon disembarking, he saw a "perfectly elliptical, approximately 15 meters in diameter" silver craft half-buried in the sand. The craft's surface showed no signs of welding, screws, or seams—the entire shell appeared to be formed as a single piece.
 
-Werner話佢嘅任務係從飛船上刮取金屬樣本進行分析。佢形容呢種金屬係「鈦合金嘅變體，但輕度同硬度遠超鈦合金」，而且佢發現呢種材料喺特定頻率下有「記憶效應」——即係變形後可以自動恢復原狀。佢仲話用焊槍加熱都唔會令金屬變色。
+Werner stated that his task was to scrape metal samples from the craft for analysis. He described the metal as "a variant of titanium alloy, but far lighter and harder than titanium," and noted that the material exhibited a "memory effect" at specific frequencies—meaning it could automatically return to its original shape after deformation. He also mentioned that heating it with a welding torch did not cause the metal to discolor.
 
-現場仲發現咗兩具「人形生物」嘅遺體，但佢只係遠遠見到，冇行近去睇。佢話呢啲生物大約1.2米高，啡色皮膚，身穿銀色連身衣。之後佢哋喺現場被要求簽署一份嚴格保密協議。
+Two "humanoid" bodies were also discovered at the scene, but he only saw them from a distance and did not approach. He described these beings as approximately 1.2 meters tall, with brown skin, wearing silver one-piece suits. Afterwards, they were required to sign a strict confidentiality agreement at the site.
 
-呢個故事直到1980年代先被公開。批評者指出冇官方文件可以證實呢個事件。但支持者就話，Werner嘅專業背景同工程知識令佢能夠提供非常具體同技術性嘅描述——呢啲細節唔係一個普通人可以純粹靠想像編造出嚟嘅。
+This story was not made public until the 1980s. Critics point out that no official documents can confirm the event. However, supporters argue that Werner's professional background and engineering knowledge enabled him to provide highly specific and technical descriptions—details that an ordinary person could not fabricate purely through imagination.
 
-📚 來源
+📚 Sources
 - Fowler, R. "The Kingman UFO Crash" (1980), Fate Magazine
 - Pitts, W. "The Kingman Story" (1981), MUFON Journal
 - Dolan, R. "UFOs and the National Security State, Vol. 1" (2000), Keyhole Publishing

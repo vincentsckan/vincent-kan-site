@@ -6,24 +6,23 @@ descriptionEn: 'In 1965, an object crashed in the woods near Kecksburg, Pennsylv
 pubDate: '2022-07-05'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
+> 📍 **Kecksburg, Pennsylvania, USA**
+> 📅 **December 9, 1965**
+> 🔍 **Crash event, military recovery**
 
-> 📍 **美國賓夕凡尼亞州，卡克斯堡**
-> 📅 **1965年12月9日**
-> 🔍 **墜毀事件、軍方回收**
+On the afternoon of December 9, 1965, residents of Kecksburg, Pennsylvania, heard a loud bang and then saw a smoke trail streaking across the sky. A large, acorn-shaped metal object crashed in the woods near Kecksburg.
 
-1965年12月9日下午，賓夕凡尼亞州卡克斯堡（Kecksburg）嘅居民聽到一聲巨響，隨後見到一個煙霧尾巴劃過天空。一個巨大嘅橡果形金屬物體墜落喺卡克斯堡附近嘅森林。
+![Kecksburg UFO crash illustration](../../assets/blog-placeholder-2.jpg)
+*The acorn-shaped metal object residents claimed to have seen, similar to a NASA segment*
 
-![卡克斯堡UFO墜毀示意圖](../../assets/blog-placeholder-2.jpg)
-*居民聲稱見到嘅橡果形金屬物體同樣嘅NASA片段*
-
-軍方人員迅速趕到並封鎖咗現場。居民見到物體上刻有神秘嘅象形文字。一架平板卡車喺當晚將物體運走。軍方嘅解釋係「流星」或「蘇聯衛星殘骸」，但居民堅稱見到嘅係金屬造嘅人造物體。
+Military personnel quickly arrived and cordoned off the scene. Residents reported seeing mysterious hieroglyphic-like symbols engraved on the object. A flatbed truck transported the object away that night. The military's explanation was a "meteor" or "debris from a Soviet satellite," but residents insisted they had seen a man-made metal object.
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/UyZRZh_1DRM" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
-事件由於和電視劇《X檔案》其中一集情節相似而更加著名。卡克斯堡至今每年舉辦UFO節紀念呢次事件。
+The incident became more famous due to its similarity to a plot in an episode of the TV series *The X-Files*. Kecksburg still holds an annual UFO festival to commemorate the event.
 
 ---
 
-*📚 參考：NASA文件、目擊者證詞、媒體報導*
+*📚 References: NASA documents, witness testimonies, media reports*

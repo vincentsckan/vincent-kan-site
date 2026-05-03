@@ -7,24 +7,23 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "hoax-debate"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-2009年1月，新澤西州Morristown鎮居民嘅平靜生活被打斷咗。連續幾個晚上，天上出現咗難以解釋嘅紅色同綠色光點——佢哋喺天上緩慢移動，有時形成V字形編隊。呢啲「無人機」出現咗一個星期，引發咗大規模嘅媒體關注同FBI調查。
+In January 2009, the peaceful life of residents in Morristown, New Jersey was disrupted. For several consecutive nights, inexplicable red and green lights appeared in the sky—they moved slowly overhead, sometimes forming V-shaped formations. These "drones" appeared for a week, sparking massive media attention and an FBI investigation.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Morristown, New Jersey, USA | 2009-01 | Drone-Like UFO / Hoax Debate |
 
-最初嘅目擊喺1月5日傍晚發生。Morristown警局嘅調度中心接到多個居民嘅電話，報告見到屋頂上空有「五個發光物體組成一個方形圍住一個紅點」。警方派出直升機調查，但直升機到達時光點就消失咗。第二晚同一時間，光點再次出現。
+The initial sightings occurred on the evening of January 5th. The Morristown Police Department's dispatch center received multiple calls from residents reporting "five glowing objects forming a square surrounding a red dot" above the rooftops. Police dispatched a helicopter to investigate, but the lights disappeared when the helicopter arrived. The following night at the same time, the lights reappeared.
 
-呢件事即刻成為本地同全國性媒體嘅頭條。美國有線電視新聞網CNN同福斯新聞都進行咗報道。有人認為呢啲係地球上最古老嘅UFO活動之一，亦有人覺得係美國政府嘅秘密軍事測試。
+The incident immediately became headlines in local and national media. CNN and Fox News both covered it. Some believed this was one of the oldest UFO activities on Earth, while others thought it was a secret US military test.
 
-但故事喺2009年4月出現咗驚人嘅轉折。三個來自新澤西年青人——Joe Rudy、Chris Russo同John Diaz——自稱係呢件事嘅始作俑者。佢哋話用遙控直升機同航拍燈光嚟製造咗呢啲光點，純粹係為咗好玩同測試社會對UFO嘅反應。
+But the story took a dramatic turn in April 2009. Three young men from New Jersey—Joe Rudy, Chris Russo, and John Diaz—claimed to be the perpetrators of the incident. They said they used remote-controlled helicopters and aviation lights to create the lights, purely for fun and to test society's reaction to UFOs.
 
-不過，呢個「自首」並冇令爭議結束。好多當地居民同UFO研究者都唔信呢個解釋——佢哋指出，有部分目擊報告早喺自稱騙局者嘅「第一次行動」之前已經出現。而且部分目擊者描述嘅物體體積巨大（一架巴士咁大），唔似係細細粒嘅遙控直升機。
+However, this "confession" did not end the controversy. Many local residents and UFO researchers did not believe this explanation—they pointed out that some sighting reports appeared before the self-proclaimed hoaxers' "first operation." Moreover, some witnesses described objects as large as a bus, unlike small remote-controlled helicopters.
 
-FBI雖然調查咗呢件事，但最終冇公佈任何結論。直到今日，Morristown UFO仍然係一個充滿爭議嘅案例——支持者話係真正嘅UFO現象被錯誤標籤為騙局，懷疑論者就話明顯係三個細路嘅惡作劇加媒體炒作。
+Although the FBI investigated the matter, it ultimately released no conclusions. To this day, the Morristown UFO remains a controversial case—supporters say it was a genuine UFO phenomenon wrongly labeled as a hoax, while skeptics argue it was clearly a prank by three kids amplified by media hype.
 
-📚 來源
+📚 Sources
 - FBI Newark Division, "Morristown UFO Investigation" (2009)
 - The Daily Record (NJ), "Morristown UFOs: Hoax or Real?" (January 2009)
 - UFO Magazine, "The Morristown Drones: A Case Study" (2009-2010)

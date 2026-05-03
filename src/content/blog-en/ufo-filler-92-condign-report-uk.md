@@ -7,9 +7,8 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "government-report"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+In 2000, the UK Ministry of Defence completed a secret study codenamed Condign, analyzed by the DI55 department, covering over 10,000 cases from 1959 to 1997. The 460-page report acknowledged that "in some cases, the performance of the aircraft is beyond current human technology." The report proposed that "UFOs may be unknown atmospheric plasma phenomena," but this theory failed to explain features such as simultaneous radar-visual confirmation and physical traces.
 
-2000年英國國防部完成代號Condign嘅秘密研究，由DI55部門分析1959-1997年間超過10,000宗案例。460頁報告承認「一部分案例中嘅飛行器性能係目前人類技術無法達到嘅」。報告提出「UFO可能係未知嘅大氣等離子體現象」，但該理論未能解釋雷達視覺同步確認、物理痕跡等特徵。
-
-📚 來源
+📚 Sources
 - UK Ministry of Defence, "Project Condign" (2000)
 - Pope, N. "Open Skies, Closed Minds" (1996)
