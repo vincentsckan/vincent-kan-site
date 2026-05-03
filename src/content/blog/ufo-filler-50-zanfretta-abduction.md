@@ -7,28 +7,27 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "abduction"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-1978年12月6日深夜，意大利北部城市Marzano嘅夜更警衛Fortunato Zanfretta接到一通離奇嘅求助電話——但電話另一邊冇人講嘢，只有古怪嘅呼吸聲。佢決定揸車去巡邏，結果呢個決定改變咗佢嘅一生。
+On the night of December 6, 1978, in the northern Italian city of Marzano, night watchman Fortunato Zanfretta received a strange distress call—but no one spoke on the other end, only eerie breathing sounds. He decided to drive out for a patrol, and that decision changed his life forever.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Marzano, Italy | 1978-1982 | Alien Abduction |
 
-Zanfretta到達偏遠區域後，見到三架巨大嘅圓頂飛船降落喺地上。佢憶述當時成個區域都被強光籠罩，然後佢感覺到有嘢拉佢入去一架飛船裡面。過咗幾個鐘之後，警方喺幾公里外揾到佢——佢處於恐慌狀態，不斷大叫「佢哋嚟捉我啦！」
+After arriving at a remote area, Zanfretta saw three massive dome-shaped spacecraft landed on the ground. He recalled that the entire area was bathed in intense light, and then he felt something pulling him into one of the ships. Hours later, police found him several kilometers away—in a state of panic, repeatedly shouting, "They're coming to get me!"
 
-呢件事引起咗意大利UFO研究者嘅高度關注。著名嘅UFO研究者Edoardo Russo接手調查，並安排Zanfretta接受專業催眠治療。催眠過程中，Zanfretta憶述自己俾大約兩米高、灰色皮膚、頭上冇頭髮但有一對巨大黑眼嘅生物包圍。佢形容佢哋有蹼狀手指，仲可以漂浮移動。
+This incident drew significant attention from Italian UFO researchers. Renowned UFO investigator Edoardo Russo took over the case and arranged for Zanfretta to undergo professional hypnotherapy. During hypnosis, Zanfretta recalled being surrounded by beings about two meters tall, with gray skin, no hair on their heads, and large black eyes. He described them as having webbed fingers and being able to float and move.
 
-催眠治療師唔單止錄低咗成個過程，仲發現Zanfretta嘅回憶表現出一致性同連貫性——佢描述嘅細節從來冇改變過。最令人驚訝嘅係，喺催眠狀態下，Zanfretta甚至能夠描述飛船內部嘅複雜機械同符號，呢啲細節遠遠超出佢平時嘅知識範圍。
+The hypnotherapist not only recorded the entire process but also found that Zanfretta's memories showed consistency and coherence—the details he described never changed. Most astonishingly, under hypnosis, Zanfretta could even describe the complex machinery and symbols inside the spacecraft, details far beyond his usual knowledge.
 
-整個綁架系列持續咗四年，記錄咗超過60次接觸事件。意大利空軍同警方都曾經介入調查，但最終未能畀出解釋。Zanfretta嘅心理狀態因為呢啲經歷受到嚴重影響，佢需要長期接受心理治療。
+The entire abduction series lasted four years, with over 60 recorded contact events. The Italian Air Force and police both investigated but ultimately could not provide an explanation. Zanfretta's mental state was severely affected by these experiences, requiring long-term psychological treatment.
 
-呢個案例之所以咁重要，係因為佢有大量嘅文件記錄、警方報告、心理醫生評估同催眠錄音作為證據。唔同於好多單一事件嘅UFO目擊案，Zanfretta嘅經歷跨越多年，而且有第三方專業人士嘅見證。
+This case is so significant because it has extensive documentation, police reports, psychological evaluations, and hypnosis recordings as evidence. Unlike many single-event UFO sightings, Zanfretta's experiences spanned years and were witnessed by third-party professionals.
 
-📺 相關影片
+📺 Related Videos
 <a href="https://www.youtube.com/watch?v=K6N9I8pJ8Qo" target="_blank">🎬 The Zanfretta Abductions - Italy's Most Documented Alien Contact Case (YouTube)</a>
 <a href="https://www.youtube.com/watch?v=h14mYSdmS1U" target="_blank">🎬 Alien Abduction: The Fortunato Zanfretta Story (YouTube)</a>
 
-📚 來源
+📚 Sources
 - [CUN (Centro Ufologico Nazionale) - Zanfretta Case Files](https://www.ufo.it)
 - [UFO Magazine Italy archives on the Zanfretta case](https://www.ufomagazine.it)
 - Russo, E. "The Zanfretta Abductions: A Comprehensive Analysis"

@@ -7,26 +7,25 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "asia"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-1975年10月，韓國發生咗一件至今仍然係該國軍方UFO歷史中最著名嘅事件——韓國空軍嘅雷達系統偵測到一個不明物體飛越首都首爾上空，空軍即刻派出F-5E戰鬥機升空攔截。
+In October 1975, an event occurred in South Korea that remains the most famous incident in the country's military UFO history—the South Korean Air Force's radar system detected an unidentified object flying over the capital, Seoul, and the Air Force immediately dispatched F-5E fighter jets to intercept it.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Seoul, South Korea | 1975-10 | Military / Fighter Intercept |
 
-事發喺一個平靜嘅夜晚。韓國空軍位於首爾北部嘅防空雷達站突然發現一個以「異常高速」從北面飛入嘅目標。呢個目標嘅飛行速度遠遠超過當時韓國空軍任何戰機嘅極限速度。
+It happened on a calm night. An air defense radar station of the South Korean Air Force, located north of Seoul, suddenly detected a target flying in from the north at an "abnormally high speed." The flight speed of this target far exceeded the maximum speed of any fighter jet in the South Korean Air Force at the time.
 
-雷達操作員即刻通報中央防空指揮所。指揮官下令部隊進入二級戰備狀態，並命令兩架F-5E自由鬥士戰鬥機緊急起飛。F-5E係當時韓國空軍嘅主力戰機，最高時速可達1.6馬赫（約1,900公里每小時）。
+The radar operator immediately reported to the central air defense command post. The commander ordered the troops to enter second-level combat readiness and commanded two F-5E Freedom Fighter jets to take off urgently. The F-5E was the main fighter jet of the South Korean Air Force at the time, with a maximum speed of Mach 1.6 (approximately 1,900 kilometers per hour).
 
-但當戰鬥機接近目標位置時，飛行員報告話見到一個「發出強烈白光」嘅物體——佢哋話呢個光「比月亮亮好多，令人無法直視」。當佢哋試圖進一步接近時，呢個物體以「難以置信嘅加速度」改變方向並迅速消失在視野中。
+But when the fighter jets approached the target's location, the pilots reported seeing an object emitting "intense white light"—they said this light was "much brighter than the moon, making it impossible to look directly at." When they tried to get closer, the object changed direction with "incredible acceleration" and quickly disappeared from sight.
 
-雷達記錄顯示，目標嘅速度從每小時約800公里瞬間加速到超過每小時4,000公里——呢種加速力超過人體承受極限嘅10倍。韓國空軍嘅技術人員事後承認，呢啲數據「喺物理學上係講唔通嘅」。
+Radar records showed that the target's speed instantly accelerated from about 800 kilometers per hour to over 4,000 kilometers per hour—an acceleration force exceeding the human body's tolerance limit by 10 times. South Korean Air Force technicians later admitted that these data were "physically inexplicable."
 
-呢個事件喺韓國UFO研究界有「1975年空軍機密事件」之稱。韓國嘅UFO研究者Kim博士（化名）喺2000年代初期成功透過國防部資料公開法，獲得咗部分相關文件。文件顯示韓國空軍當日成立咗一個調查委員會，但調查結果被分類為「國防機密」。
+This event is known in South Korea's UFO research community as the "1975 Air Force Confidential Incident." South Korean UFO researcher Dr. Kim (pseudonym) successfully obtained some related documents in the early 2000s through the Defense Ministry's information disclosure law. The documents showed that the South Korean Air Force established an investigation committee that day, but the investigation results were classified as "national defense secrets."
 
-雖然韓國政府至今未完全公開呢件事，但當年嘅飛行員同雷達操作員中，有幾位退役後接受咗媒體訪問。佢哋嘅描述非常一致——佢哋見到嘅絕對唔係普通飛機或者自然現象。
+Although the South Korean government has not fully disclosed this matter to this day, several of the pilots and radar operators from that time gave media interviews after retiring. Their descriptions were very consistent—what they saw was definitely not an ordinary aircraft or natural phenomenon.
 
-📚 來源
-- 韓國空軍作戰司令部, "1975年10月防空雷達案件記錄"(部分解密)
-- Kim, Dr. (化名), "韓國軍方UFO機密" (2002), 韓國UFO研究會
-- 韓國空軍退役飛行員訪問記錄 (2005), UFO Korea Journal
+📚 Sources
+- South Korean Air Force Operations Command, "Record of Air Defense Radar Case, October 1975" (partially declassified)
+- Kim, Dr. (pseudonym), "South Korean Military UFO Secrets" (2002), Korea UFO Research Association
+- Interview records of retired South Korean Air Force pilots (2005), UFO Korea Journal

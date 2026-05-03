@@ -7,16 +7,15 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "medical-evidence"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+On December 29, 1980, Betty Cash, Vickie Landrum, and her 7-year-old grandson Colby were driving home at night when they encountered a life-altering experience—a massive triangular UFO emitting intense light and extreme heat blocked the road ahead.
 
-1980年12月29日，德州嘅Betty Cash、Vickie Landrum同佢嘅7歲孫仔Colby喺夜間揸車返屋企途中，遇到一個令佢哋終生受創嘅經歷——一架發出強光同巨大熱力嘅巨大三角形UFO擋喺路中央。
+The three witnesses described the UFO as a huge diamond shape (estimated to be over 30 meters in diameter), with bright white light and blue flames emanating from its base. When they got out of the car to observe, they felt an intense burning sensation—as if standing in front of an oven. Later, they also saw multiple CH-47 helicopters following the UFO.
 
-三位受害者形容該UFO係一個巨大嘅鑽石形狀（有估計直徑超過30米），底部發出強烈嘅白光同藍色火焰。佢哋落車觀察時，感到極度灼熱——好似企咗喺焗爐前面咁。之後佢哋仲見到多架CH-47直升機跟蹤住UFO。
+The three subsequently suffered extensive burns, headaches, nausea, hair loss, and other symptoms of radiation poisoning. They were hospitalized, and doctors diagnosed them with symptoms consistent with "radiation exposure." They later attempted to sue the U.S. government for compensation, but the case was ultimately dismissed due to insufficient evidence.
 
-三人之後出現大面積灼傷、頭痛、噁心、脫髮同其他輻射中毒症狀。佢哋被送入醫院，醫生確診為「輻射暴露」症狀。佢哋後來嘗試控告美國政府要求賠償，但案件最終因為冇足夠證據而被駁回。
+This case includes complete medical records and diagnostic reports, making it one of the few UFO studies supported by clinical medical evidence.
 
-呢個案例有完整嘅醫療記錄同診斷書，係UFO研究中極少數有臨床醫學證據支持嘅案例之一。
-
-📚 來源
+📚 Sources
 - Cash, B. & Landrum, V. Medical Records (1981), Park Plaza Hospital, Houston
 - Schuessler, J. "The Cash-Landrum UFO Case" (1981), MUFON
 - Hastings, R. "UFOs and Nukes" (2017)

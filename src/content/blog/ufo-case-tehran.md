@@ -6,28 +6,27 @@ descriptionEn: 'In 1976, two Iranian F-4 Phantom jets engaged a UFO over Tehran.
 pubDate: '2022-08-20'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📍 **Tehran, Iran**
+> 📅 **September 19, 1976**
+> 🔍 **Military engagement, system failure, U.S. Department of Defense records**
 
-> 📍 **伊朗德黑蘭**
-> 📅 **1976年9月19日**
-> 🔍 **軍方交戰、系統失靈、美國國防部記錄**
+In the early hours of September 19, 1976, an extremely bright unidentified object appeared over Tehran, Iran. The Iranian Air Force ordered two **F-4 Phantom II** fighter jets to intercept.
 
-1976年9月19日凌晨，伊朗德黑蘭上空出現一個極亮嘅不明物體。伊朗空軍下令兩架 **F-4 Phantom II** 戰機升空攔截。
+**First F-4:**
+- Upon approaching to within 30 nautical miles, all communication and navigation systems failed
+- The pilot turned back, and the systems immediately returned to normal
 
-**第一架F-4：**
-- 接近到30海里時，所有通訊同導航系統失靈
-- 飛行員掉頭離開，系統立即恢復正常
+**Second F-4:**
+- Approached again, and the missile system locked onto the UFO
+- Just as it was about to fire an AIM-9 Sidewinder missile, all weapon systems suddenly lost power
+- At the same time, the UFO released a smaller luminous object that flew at high speed directly toward the fighter jet
+- The pilot took evasive action, and the small object circled back to the main UFO
+- The main UFO instantly departed at an untrackable speed
 
-**第二架F-4：**
-- 再次接近，導彈系統鎖定UFO
-- 正當準備發射 AIM-9 Sidewinder 導彈時，所有武器系統突然斷電
-- 同時UFO釋放出一個較細小嘅發光物體，以高速向戰機迎面飛去
-- 飛行員緊急規避，小型物體繞返主UFO旁邊
-- 主UFO以無法追蹤嘅速度瞬間飛離
+![Iranian F-4 fighter jet](../../assets/blog-placeholder-1.jpg)
+*Iranian Air Force F-4 Phantom II fighter jet—once locked onto a UFO but experienced system failure*
 
-![伊朗 F-4 戰機](../../assets/blog-placeholder-1.jpg)
-*伊朗空軍F-4 Phantom II戰機——曾經鎖定UFO但系統失靈*
-
-美國國防情報局（DIA）後來解密咗呢份報告，稱「無法解釋」，結論係「物體表現出超越已知科技嘅能力」。
+The U.S. Defense Intelligence Agency (DIA) later declassified this report, describing it as "unexplainable," concluding that "the object demonstrated capabilities beyond known technology."
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/edAlAh0XD7s" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -35,4 +34,4 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 ---
 
-*📚 參考：美國國防情報局解密文件、DIA報告*
+*📚 Reference: Declassified documents from the U.S. Defense Intelligence Agency, DIA report*

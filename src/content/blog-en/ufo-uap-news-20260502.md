@@ -7,252 +7,251 @@ pubDate: '2026-05-02'
 updatedDate: '2026-05-02T16:00:00Z'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
+> 📡 **Daily UAP News Digest** — May 2, 2026 (Saturday)
+> AI-automated collection, organization, and formatting, focusing on authoritative sources and key developments
 
-> 📡 **每日UAP新聞精選** — 2026年5月2日（星期六）
-> 由AI自動搜集、整理及排版，聚焦權威來源及重要發展
-
-| 📍 *美國：維珍尼亞、華盛頓DC、內華達、敘利亞邊境* | 📅 *2026年2月-5月* | 🔍 *UAP披露·科學家失蹤·AARO工作坊·51區地震群·新影片* |
+| 📍 *USA: Virginia, Washington DC, Nevada, Syria Border* | 📅 *Feb-May 2026* | 🔍 *UAP Disclosure · Missing Scientists · AARO Workshop · Area 51 Earthquake Swarm · New Footage* |
 
 ---
 
-## 🏛️ 政府披露與國會動態
+## 🏛️ Government Disclosure & Congressional Dynamics
 
-### ✈️ 已故空軍情報官被揭涉UFO遺留計劃——Burlison質疑死因可疑
-**來源：** Liberation Times（2026年4月24日）
+### ✈️ Deceased Air Force Intelligence Officer Linked to Alleged UFO Legacy Program — Burlison Questions Suspicious Death
+**Source:** Liberation Times (April 24, 2026)
 
-已故美國空軍情報官 **Matthew Sullivan** 原來牽涉入一項據稱的UFO遺留計劃。Sullivan在2024年逝世，原定將在一宗聯邦UFO吹哨人案件中作證。
+Deceased U.S. Air Force intelligence officer **Matthew Sullivan** was allegedly involved in a purported UFO legacy program. Sullivan died in 2024 and was scheduled to testify in a federal UFO whistleblower case.
 
-Liberation Times從消息來源獲悉，Sullivan涉嫌直接參與該遺留計劃的技術層面工作，涉及一部被認為**可能屬於非人類來源**的奇異飛行器。Sullivan據報是透過一間與美國情報機構合作的私人企業進行此項工作的，但其涉入的開端可追溯至他在空軍擔任軍官期間。
+Liberation Times learned from sources that Sullivan was directly involved in the technical aspects of this legacy program, concerning a strange craft believed to be **possibly of non-human origin**. Sullivan reportedly conducted this work through a private company collaborating with U.S. intelligence agencies, but his involvement began during his time as an Air Force officer.
 
-**眾議員 Eric Burlison** 曾公開表示：「Sullivan原本安排了面談。兩星期內，他就可疑地自殺了。」Burlison在另一場合強調他有「嚴重憂慮」，認為Sullivan的死亡看起來「很可疑」，暗示這名資深情報官可能在披露所知之前被滅口。
+**Representative Eric Burlison** has publicly stated: "Sullivan had an interview scheduled. Within two weeks, he suspiciously committed suicide." On another occasion, Burlison emphasized he had "serious concerns," finding Sullivan's death "very suspicious," suggesting the senior intelligence officer may have been silenced before he could disclose what he knew.
 
-Sullivan在去世前已被UAP吹哨人、退役空軍少校 **David Grusch** 接觸過。Grusch聽到Sullivan的死訊後極度悲痛。Burlison透露：「Grusch正在協助他作為吹哨人站出來。」
+Before his death, Sullivan had been contacted by UAP whistleblower and retired Air Force Major **David Grusch**. Grusch was deeply distressed upon hearing of Sullivan's death. Burlison revealed: "Grusch was helping him come forward as a whistleblower."
 
-![美國空軍標誌](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![US Air Force Logo](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
 
-Sullivan服役期間曾在多個高層機構任職，包括**國家空中及太空情報中心（NASIC）**、**國家安全局（NSA）**及**空軍情報局**。他曾被派往美國中央司令部及印太司令部，其訃聞顯示他曾因在持久自由行動中的英勇表現獲頒**銅星勛章**。
+During his service, Sullivan held positions in multiple high-level agencies, including the **National Air and Space Intelligence Center (NASIC)**, the **National Security Agency (NSA)**, and the **Air Force Intelligence Directorate**. He was deployed to U.S. Central Command and Indo-Pacific Command, and his obituary indicates he was awarded the **Bronze Star Medal** for valor during Operation Enduring Freedom.
 
-**關鍵細節：Sullivan的葬禮由 David Abba 少將出席。** Abba在2021至2024年間擔任國防部特別訪問計劃（SAP）中央辦公室主任——即掌管全美最高級別機密訪問權限的官員。Abba在葬禮上形容Sullivan是他「遇過最聰明的情報中尉」，說Sullivan「背負了這個國家極少數人真正理解的秘密」。「沒有多少人能與你分享那些事。但那些背負這種重量的人能彼此理解。」
+**Key Detail: Sullivan's funeral was attended by Major General David Abba.** Abba served as Director of the Department of Defense's Special Access Program (SAP) Central Office from 2021 to 2024 — the official overseeing the highest levels of classified access in the nation. At the funeral, Abba described Sullivan as "the smartest intelligence lieutenant I ever met," saying Sullivan "carried secrets that very few in this country truly understand." "Not many people can share those things with you. But those who carry that weight understand each other."
 
-Sullivan的死亡恰逢媒體廣泛報導**11名美國科學家及國防相關人物神秘死亡或失蹤**的事件。
+Sullivan's death coincides with widespread media reports of **11 U.S. scientists and defense-related individuals mysteriously dying or disappearing**.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/nKtJslcHlCQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*Jeremy Corbell & George Knapp — WEAPONIZED 披露蘑菇形UAP影片*
+*Jeremy Corbell & George Knapp — WEAPONIZED reveals mushroom-shaped UAP footage*
 
 [🔗 Liberation Times — Late Air Force Officer Linked To Alleged Legacy UFO Program](https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program)
 
 ---
 
-### 🔍 白宮調查：十一名科學家神秘失蹤——事實還是陰謀論？
-**來源：** The Debrief（2026年4月）／NewsWeek
+### 🔍 White House Inquiry: Eleven Scientists Mysteriously Missing — Fact or Conspiracy Theory?
+**Source:** The Debrief (April 2026) / NewsWeek
 
-一個令人憂慮的新趨勢浮現：**與美國最高級別航空航天及核機密相關的科學家據報正接連失蹤**。自2023年起，已有近**12名**掌握敏感計劃信息的科學家要麼失蹤，要麼在可疑情況下死亡。
+A concerning new trend is emerging: **scientists linked to the highest levels of U.S. aerospace and nuclear secrets are reportedly disappearing**. Since 2023, nearly **12** scientists with knowledge of sensitive programs have either gone missing or died under suspicious circumstances.
 
-這個話題已上升至白宮層面。在最近一次白宮記者會上，記者 **Peter Doocey** 向發言人 **Karoline Leavitt** 提問：「目前已有十名美國科學家自2024年中起失蹤或死亡，他們全部曾接觸機密核或航空航天材料。有人在調查這些事件是否相關嗎？」
+This topic has reached the White House level. At a recent White House press briefing, reporter **Peter Doocey** asked Press Secretary **Karoline Leavitt**: "Ten American scientists have gone missing or died since mid-2024, all of whom had access to classified nuclear or aerospace materials. Is anyone investigating whether these events are connected?"
 
-Leavitt回應：「我看到了相關報導。我還沒有與相關機構溝通，但我肯定會這樣做，並為你找到答案。若屬實，這顯然是政府和本屆政府值得調查的事。」
+Leavitt responded: "I have seen the reports. I haven't communicated with the relevant agencies yet, but I will certainly do so and find an answer for you. If true, this is clearly something for the government and this administration to investigate."
 
-The Debrief的分析則較為克制，指出雖然媒體將這些事件串聯成疑似有組織的滅口行動，但**更可能的原因是巧合**——核科學家、退役軍官等高齡人群的自然死亡率本就不低。
+The Debrief's analysis is more restrained, noting that while media outlets link these events into a suspected organized silencing campaign, **a more likely explanation is coincidence** — the natural mortality rate among nuclear scientists, retired military officers, and other older demographics is not insignificant.
 
-其中最引人注目的個案仍是 **Neil McCasland 少將**。McCasland 曾是空軍研究實驗室（AFRL）司令，駐守 Wright-Patterson空軍基地——美國最高級別航空航天研究的中樞。他退役後參與了 Blink-182 歌手 Tom DeLonge 的UAP相關工作，為現代國會UAP披露運動奠定了基礎。自2月底從阿爾伯克基郊區失蹤後，搜索行動仍在繼續。
+The most prominent case remains **Major General Neil McCasland**. McCasland was the former commander of the Air Force Research Laboratory (AFRL), stationed at Wright-Patterson Air Force Base — the hub of the highest level of U.S. aerospace research. After retiring, he participated in Blink-182 singer Tom DeLonge's UAP-related work, laying the groundwork for the modern congressional UAP disclosure movement. Search efforts continue since his disappearance from the Albuquerque suburbs in late February.
 
-![失蹤科學家調查](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![Missing Scientists Investigation](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
 
 [🔗 The Debrief — Are Scientists Disappearing?](https://thedebrief.org/are-scientists-with-knowledge-of-u-s-secrets-disappearing-the-facts-tell-a-different-story/)
-[🔗 Liberation Times — McCasland失蹤案](https://www.liberationtimes.com/home/the-missing-general-neil-mccasland-ufo-claims-and-an-unfolding-mystery)
+[🔗 Liberation Times — McCasland Disappearance Case](https://www.liberationtimes.com/home/the-missing-general-neil-mccasland-ufo-claims-and-an-unfolding-mystery)
 
 ---
 
-### 🏛️ AARO主持機密工作坊：推動UAP數據標準化及民間協作
-**來源：** The Debrief（2026年4月／5月）
+### 🏛️ AARO Hosts Classified Workshop: Promoting UAP Data Standardization and Civilian Collaboration
+**Source:** The Debrief (April/May 2026)
 
-五角大樓的**全域異常解決辦公室（AARO）** 已公布計劃，擬統一UAP報告的收集與分析標準——這標誌著該機構正轉向與民間研究人員加強合作，並推動更結構化的公眾數據共享。
+The Pentagon's **All-domain Anomaly Resolution Office (AARO)** has announced plans to standardize the collection and analysis of UAP reports — marking a shift towards increased collaboration with civilian researchers and more structured public data sharing.
 
-相關計劃詳載於一份 **2025年8月在華盛頓DC地區舉行的機密工作坊報告**中。工作坊由AARO協調、Associated Universities, Inc.（AUI）主辦，邀請了來自政府、學術界及民間研究組織的專家參與。這是AARO在與民間獨立研究團體合作方面的**重大一步**。
+The plans are detailed in a **report from a classified workshop held in the Washington DC area in August 2025**. The workshop, coordinated by AARO and hosted by Associated Universities, Inc. (AUI), brought together experts from government, academia, and civilian research organizations. This represents a **significant step** for AARO in partnering with independent civilian research groups.
 
-**工作坊討論重點包括：**
-- 評估當前UAP報告系統及數據庫的狀況
-- 識別UAP數據收集、標準化及可訪問性方面的關鍵挑戰與缺口
-- 探索UAP報告分析的數據方法與模式識別技術
-- 培養研究人員、政府機構及民間組織間的信任與協作
-- 提出建立穩健UAP數據基礎設施的建議
+**Key discussion points from the workshop included:**
+- Assessing the current state of UAP reporting systems and databases
+- Identifying key challenges and gaps in UAP data collection, standardization, and accessibility
+- Exploring data methods and pattern recognition techniques for UAP report analysis
+- Fostering trust and collaboration among researchers, government agencies, and civilian organizations
+- Proposing recommendations for building a robust UAP data infrastructure
 
-AARO在報告中特別強調了 **人工智能** 的雙刃劍效應：AI可協助轉錄、聚類和大規模模式檢測，但也有可能引入偏見、放大惡作劇或產出不準確的結果——即經典的「垃圾進、垃圾出」問題。工作坊強烈支持**人類-AI混合模型**，並保留人類監督。
+In the report, AARO specifically highlighted the **double-edged sword of Artificial Intelligence**: AI can assist with transcription, clustering, and large-scale pattern detection, but it can also introduce bias, amplify hoaxes, or produce inaccurate results — the classic "garbage in, garbage out" problem. The workshop strongly supported a **human-AI hybrid model** with human oversight retained.
 
-**隱私保護**被列為優先事項。工作坊全程獲機構審查委員會（IRB）批准，數據收集及安全受到嚴格規範。
+**Privacy protection** was listed as a priority. The workshop received full Institutional Review Board (IRB) approval, with strict regulations on data collection and security.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Gru2EDJvj9Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*Liberation Times — 證據、無人機與UFO辯論*
+*Liberation Times — Evidence, Drones & the UFO Debate*
 
 [🔗 The Debrief — AARO Hosts Private Workshop](https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/)
 
 ---
 
-## 🎥 新影片證據
+## 🎥 New Video Evidence
 
-### 🍄 蘑菇形UAP新影片曝光：展示瞬間加速能力
-**來源：** Liberation Times（2026年2月8日）
+### 🍄 New Mushroom-Shaped UAP Footage Revealed: Demonstrates Instantaneous Acceleration
+**Source:** Liberation Times (February 8, 2026)
 
-調查記者 **Jeremy Corbell** 和 **George Knapp** 於2026年2月3日在WEAPONIZED播客中公布了一段前所未見的UAP影片。影片顯示一個**蘑菇形不明物體在敘利亞-約旦邊境附近表現出瞬間加速**——這個特徵此前大多只存在於證詞之中，而非公開影像。
+Investigative journalists **Jeremy Corbell** and **George Knapp** released never-before-seen UAP footage on the WEAPONIZED podcast on February 3, 2026. The video shows a **mushroom-shaped unidentified object exhibiting instantaneous acceleration near the Syria-Jordan border** — a characteristic previously mostly confined to testimony rather than public imagery.
 
-**影片核心細節：**
-- **拍攝時間：** 2021年
-- **拍攝平台：** MQ-9收割者無人機（美國空軍操作）
-- **地點：** 敘利亞-約旦邊境
-- **感測器：** 熱成像前視紅外（FLIR）
-- **達成武器級鎖定：** 屏幕符號顯示系統達到所謂的「武器級別目標鎖定」
-- **異常能力：** 物體突然離開，快速加速並改變方向，且**沒有可見機翼、控制面或傳統推進系統**
+**Key details of the footage:**
+- **Date of capture:** 2021
+- **Platform:** MQ-9 Reaper drone (operated by U.S. Air Force)
+- **Location:** Syria-Jordan border
+- **Sensor:** Thermal imaging Forward Looking Infrared (FLIR)
+- **Weapons-grade lock achieved:** On-screen symbology indicates the system achieved a so-called "weapons-grade target lock"
+- **Anomalous capability:** The object suddenly departed, rapidly accelerating and changing direction, with **no visible wings, control surfaces, or conventional propulsion system**
 
-Corbell表示，事件發生數月後的一份**五眼聯盟情報報告**將該物體歸類為UAP。該報告聚焦於**敘利亞及伊拉克上空UAP遭遇數量上升**——涉及美國空軍、英國皇家空軍、加拿大皇家空軍及俄羅斯、敘利亞的軍事力量。
+Corbell stated that a **Five Eyes intelligence report** from months after the event classified the object as a UAP. The report focused on a **rise in UAP encounters over Syria and Iraq** — involving U.S. Air Force, Royal Air Force, Canadian Royal Air Force, as well as Russian and Syrian military forces.
 
-Corbell對Liberation Times表示：「這份影片獨特之處在於，George Knapp和我呈現的是**專門為美國情報機構和戰爭部內部使用而準備的官方分析產物**。這份影片因其對瞬間加速——已確立的UAP可觀測特徵之一——的明確展現而被深入評估。」
+Corbell told Liberation Times: "What makes this footage unique is that George Knapp and I are presenting an **official analytical product prepared specifically for internal use by U.S. intelligence agencies and the War Department**. This footage was deeply evaluated for its clear demonstration of instantaneous acceleration — one of the established observable characteristics of UAPs."
 
-「相比George和我多年來獲得和發布的所有其他軍方拍攝UFO影片——**這一段是異常突出的有力證據**。它有可能改變人們的認知框架。」
+"Compared to all other military-captured UFO footage George and I have obtained and released over the years — **this piece stands out as exceptionally strong evidence**. It has the potential to change people's cognitive frameworks."
 
-**更深的語境：** 這段影片是在盟軍基地頻繁遭受恐怖分子無人機攻擊的時期拍攝的。但重點在於——前國家情報總監、現任CIA局長 **John Ratcliffe** 曾警告過這種不匹配的能力：「這些物體展示的技術似乎違反物理定律，展現了我們作為世界超級大國也不具備的能力。」Ratcliffe當時是在 Fox & Friends 節目上向當時的主持人、現任戰爭部長 **Pete Hegseth** 直接提出這個警告的。
+**Deeper context:** This footage was captured during a period of frequent terrorist drone attacks on allied bases. But the key point is — former Director of National Intelligence, now CIA Director **John Ratcliffe**, had warned about this mismatched capability: "These objects demonstrate technology that appears to violate the laws of physics, exhibiting capabilities we don't possess as a world superpower." Ratcliffe made this warning directly to then-host, now Secretary of War **Pete Hegseth**, on the Fox & Friends program.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/hSGF6yjJJjc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*John Ratcliffe 在 Fox & Friends 的UAP警告（2023年1月）*
+*John Ratcliffe's UAP warning on Fox & Friends (January 2023)*
 
-[🔗 Liberation Times — 蘑菇形UAP新影片](https://www.liberationtimes.com/home/new-footage-shows-mushroom-shaped-ufo-making-apparent-sudden-acceleration-echoing-cia-directors-warning-to-defense-secretary)
-
----
-
-## 🏭 核設施無人機入侵
-
-### 🏭 新解密記錄：三角物體攜大型探照燈飛越美國核電站
-**來源：** Liberation Times（2026年4月8日）
-
-Liberation Times通過《信息自由法》（FOIA）獲得的記錄顯示，**美國核設施上空於2022年9月至2023年2月期間發生了一系列無人機入侵事件**。
-
-**最矚目的案例：** 在賓夕法尼亞州的 **Susquehanna蒸汽電力站**——一座核電站——報告至少發生了一次事件，一個**三角物體攜帶大型探照燈**，在電站空域和周邊徘徊超過兩小時。
-
-記錄由美國核管會（NRC）提供，內容為NRC於2020年1月1日至2025年11月24日期間發送給五角大樓AARO的報告。共記錄了 **22宗無人機相關事件**，其中17宗集中於兩個地點：
-
-| 地點 | 事件次數 | 時間跨度 |
-|------|---------|---------|
-| Susquehanna（賓夕法尼亞） | 8次 | 約1個月 |
-| Columbia Generating Station（華盛頓州） | 9次 | 約3個月 |
-
-**最密集事件：** 2022年9月26日，8架無人機入侵電站空域，持續約**2小時45分鐘**。2022年10月3日，另一宗多無人機事件持續了2小時8分鐘，其中**三架為四軸飛行器，第四架體積更大、呈三角狀、似乎裝有大型探照燈**。無人機顯示紅、綠、白三色燈光，至少一架帶有藍燈。
-
-![核電站安全監控](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
-
-華盛頓州的 Columbia Generating Station 記錄了從2022年11月至2023年2月的持續無人機活動，包括一些體積巨大的無人機——其中一架估計直徑達**8至10呎（約2.4至3米）**，帶有紅白閃爍燈光。
-
-其他涉及的地點包括：德州Comanche Peak、明尼蘇達州Monticello及賓夕法尼亞州Peach Bottom。
-
-值得留意的是，2022年度的《國防授權法案》（NDAA）明確要求AARO在年度報告中記錄並描述發生在核管會監管場所的UAP或來源不明無人機事件。
-
-[🔗 Liberation Times — 新解密核設施無人機記錄](https://www.liberationtimes.com/home/newly-released-records-reveal-drone-incursions-including-triangular-object-with-spotlight-above-us-nuclear-sites)
+[🔗 Liberation Times — New Mushroom-Shaped UAP Footage](https://www.liberationtimes.com/home/new-footage-shows-mushroom-shaped-ufo-making-apparent-sudden-acceleration-echoing-cia-directors-warning-to-defense-secretary)
 
 ---
 
-## 🌍 國際動態
+## 🏭 Nuclear Facility Drone Incursions
 
-### 🏛️ 戰爭部：白宮協調發布前所未見UFO材料
-**來源：** Liberation Times（2026年4月14日）
+### 🏭 Newly Declassified Records: Triangular Object with Large Spotlight Flies Over US Nuclear Power Plant
+**Source:** Liberation Times (April 8, 2026)
 
-戰爭部官員向Liberation Times證實，白宮正與AARO及聯邦機構協調，準備發布從未公開的UAP材料。然而，國會議員 **Anna Paulina Luna** 於3月31日要求戰爭部提供超過**46段UAP影片**——截止日期（4月14日）已過，戰爭部仍未完全回應。
+Records obtained by Liberation Times through the Freedom of Information Act (FOIA) reveal a **series of drone incursions over U.S. nuclear facilities between September 2022 and February 2023**.
 
-Luna公開批評戰爭部初期「沒有人回應，直到我們主動聯繫」。調查記者 **Jeremy Corbell** 透露他本人已直接觀看了大部分Luna要求的UAP影片，並與George Knapp一同向國會提供了具體檔案名稱及精確位置，包括**眾多美國空軍拍攝材料**。
+**Most notable case:** At the **Susquehanna Steam Electric Station** in Pennsylvania — a nuclear power plant — at least one incident was reported involving a **triangular object carrying a large spotlight**, loitering in the plant's airspace and surrounding area for over two hours.
+
+The records, provided by the Nuclear Regulatory Commission (NRC), consist of reports sent by the NRC to the Pentagon's AARO between January 1, 2020, and November 24, 2025. A total of **22 drone-related incidents** were recorded, with 17 concentrated at two locations:
+
+| Location | Number of Incidents | Time Span |
+|----------|-------------------|-----------|
+| Susquehanna (Pennsylvania) | 8 | ~1 month |
+| Columbia Generating Station (Washington State) | 9 | ~3 months |
+
+**Most intense incident:** On September 26, 2022, 8 drones invaded the plant's airspace for approximately **2 hours and 45 minutes**. On October 3, 2022, another multi-drone incident lasted 2 hours and 8 minutes, with **three being quadcopters and a fourth, larger one being triangular and seemingly equipped with a large spotlight**. The drones displayed red, green, and white lights, with at least one carrying a blue light.
+
+![Nuclear Plant Security Monitoring](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+
+The Columbia Generating Station in Washington State recorded persistent drone activity from November 2022 to February 2023, including some very large drones — one estimated to be **8 to 10 feet (about 2.4 to 3 meters) in diameter**, with red and white flashing lights.
+
+Other locations involved include: Comanche Peak in Texas, Monticello in Minnesota, and Peach Bottom in Pennsylvania.
+
+Notably, the 2022 National Defense Authorization Act (NDAA) explicitly required AARO to record and describe UAP or unidentified drone incidents occurring at NRC-regulated facilities in its annual report.
+
+[🔗 Liberation Times — Newly Declassified Nuclear Facility Drone Records](https://www.liberationtimes.com/home/newly-released-records-reveal-drone-incursions-including-triangular-object-with-spotlight-above-us-nuclear-sites)
+
+---
+
+## 🌍 International Developments
+
+### 🏛️ War Department: White House Coordinating Release of Never-Before-Seen UFO Material
+**Source:** Liberation Times (April 14, 2026)
+
+War Department officials confirmed to Liberation Times that the White House is coordinating with AARO and federal agencies to prepare the release of previously undisclosed UAP material. However, Congresswoman **Anna Paulina Luna** requested over **46 UAP videos** from the War Department on March 31 — the deadline (April 14) has passed, and the War Department has not fully responded.
+
+Luna publicly criticized the War Department's initial "no one responded until we reached out." Investigative journalist **Jeremy Corbell** revealed he has personally viewed most of the UAP videos Luna requested and, along with George Knapp, provided Congress with specific file names and precise locations, including **numerous U.S. Air Force captured materials**.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/1KMyf6VSEI4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*《The Age of Disclosure》紀錄片預告*
+*Trailer for the documentary "The Age of Disclosure"*
 
-[🔗 Liberation Times — 戰爭部白宮協調解密](https://www.liberationtimes.com/home/war-department-says-white-house-coordinating-release-of-never-before-seen-ufo-material)
+[🔗 Liberation Times — War Department White House Coordinating Declassification](https://www.liberationtimes.com/home/war-department-says-white-house-coordinating-release-of-never-before-seen-ufo-material)
 
 ---
 
-## ⚡ 突發：過去24小時最新消息
+## ⚡ Breaking: Latest News from the Past 24 Hours
 
-### 🌊 51區附近密集地震群引發猜測
-**來源：** Daily Mail（2026年5月2日）
+### 🌊 Dense Earthquake Swarm Near Area 51 Sparks Speculation
+**Source:** Daily Mail (May 2, 2026)
 
-過去24小時內，**內華達州極機密軍事基地51區附近錄得17次地震**，其中最大一次達到**黎克特制4.4級**，震源深度僅約4公里（2.5英里），引發外界對**地下秘密測試**的猜測。
+In the past 24 hours, **17 earthquakes were recorded near the highly classified military base Area 51 in Nevada**, with the largest reaching **magnitude 4.4 on the Richter scale** at a depth of only about 4 kilometers (2.5 miles), fueling speculation about **underground secret testing**.
 
-地震學家 **Stefan Burns** 形容這個位置「不是正常會發生地震的地方」，因為該地區歷史上一向相對平靜。他指出地震和地下爆炸有時會產生相似的震波信號，但強調這起事件「最大可能是自然地震」，只是數據中存在「一些模糊性」。
+Seismologist **Stefan Burns** described the location as "not a place where earthquakes normally occur," given the area's historically relative quietness. He noted that earthquakes and underground explosions can sometimes produce similar seismic signals but emphasized that this event is "most likely a natural earthquake," though there is "some ambiguity" in the data.
 
-超過百人向美國地質調查局（USGS）報告感覺到震動，但由於該地區主要為軍方人員居住，普遍反饋有限。網上隨即出現大量陰謀論，有網民開玩笑稱「外星人在搖晃地球！」。
+Over a hundred people reported feeling the shaking to the U.S. Geological Survey (USGS), but due to the area being primarily inhabited by military personnel, feedback is generally limited. Conspiracy theories quickly proliferated online, with some users joking that "aliens are shaking the Earth!".
 
-這次地震群適逢 **51區相關爭議再度升溫**——此前一份2025年的報告揭露，美國國防部曾刻意製造UFO陰謀論，包括在冷戰時期分發偽造飛碟照片予居民，以掩飾機密武器測試項目。
+This earthquake swarm coincides with **renewed controversy surrounding Area 51** — following a 2025 report revealing that the U.S. Department of Defense had deliberately manufactured UFO conspiracy theories, including distributing fake flying saucer photos to residents during the Cold War to conceal classified weapons testing projects.
 
-![內華達沙漠](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
+![Nevada Desert](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/LSyMDpKzjnI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*關於2026年科學家神秘失蹤與死亡的媒體報導合集*
+*Media compilation regarding the mysterious disappearances and deaths of scientists in 2026*
 
 [🔗 Daily Mail — Area 51 Earthquake Swarm](https://www.dailymail.com/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)
 
 ---
 
-### 👩‍🔬 家人首度開腔：失蹤NASA科學家Monica Reza事件——特朗普下令調查
-**來源：** Daily Mail（2026年5月1日）
+### 👩‍🔬 Family Speaks Out for First Time: Missing NASA Scientist Monica Reza Case — Trump Orders Investigation
+**Source:** Daily Mail (May 1, 2026)
 
-**Monica Reza**，一名**60歲航空航天工程師**，自2025年6月22日在加州Mount Waterman行山徑失蹤已近10個月。近日她的家人和朋友**首次打破沉默**向Daily Mail發聲，表示「整件事極度可疑」。
+**Monica Reza**, a **60-year-old aerospace engineer**, has been missing for nearly 10 months since disappearing on the Mount Waterman hiking trail in California on June 22, 2025. Her family and friends have now **broken their silence for the first time**, speaking to Daily Mail and stating the "whole thing is extremely suspicious."
 
-Reza的家屬直言：「我知道這遠不止她失足跌下懸崖或被路人抓走。我一直懷疑這與工作有關。我心底裡知道她是被綁架的。」
+Reza's family member stated directly: "I know this is far more than her falling off a cliff or being grabbed by a passerby. I've always suspected it's work-related. In my heart, I know she was kidnapped."
 
-**關鍵背景：** Reza在1990年代中期在Rocketdyne共同發明了 **Mondaloy**——一種用於火箭引擎的鎳基超級合金。這個項目由**空軍研究實驗室（AFRL）**資助，由至今仍未尋獲的失蹤少將 **Neil McCasland** 監督。Reza和McCasland曾同時駐守Wright-Patterson空軍基地——一個與UFO傳說密切相關的設施。
+**Key background:** In the mid-1990s, Reza co-invented **Mondaloy** at Rocketdyne — a nickel-based superalloy used in rocket engines. This project was funded by the **Air Force Research Laboratory (AFRL)** and overseen by the still-missing Major General **Neil McCasland**. Reza and McCasland were both stationed at Wright-Patterson Air Force Base — a facility heavily associated with UFO lore.
 
-另一令人關注線索：Reza與McCasland均涉及**高端航空航太研究**。McCasland在2026年2月27日從阿爾伯克基郊區失蹤後，引發了關於科學家遭有系統針對的陰謀論。
+Another concerning clue: Reza and McCasland were both involved in **high-end aerospace research**. McCasland's disappearance from the Albuquerque suburbs on February 27, 2026, fueled conspiracy theories about scientists being systematically targeted.
 
-家人稱，有政府官員表示正在調查Reza的案件，部分受訪者因**擔心自身安全**要求匿名。
+The family stated that government officials have indicated they are investigating Reza's case, with some interviewees requesting anonymity due to **concerns for their own safety**.
 
-2026年4月，**特朗普總統**宣布其政府將對Reza及至少**10至12名**其他失蹤或死亡的美國科學家展開調查，這些科學家大多掌握國防、核能和航空航天領域的高級機密。截至4月30日，特朗普表示已聽取調查情況簡報：「其中一些是非常悲慘的個案，有人患病，有人自尋短見……有時案件之間確實有關聯……但至今我們發現關聯不大。」
+In April 2026, **President Trump** announced his administration would investigate the cases of Reza and at least **10 to 12** other missing or deceased American scientists, most of whom held high-level secrets in defense, nuclear, and aerospace fields. As of April 30, Trump said he had been briefed on the investigations: "Some of them are very tragic cases, people were sick, some took their own lives... sometimes there are connections between cases... but so far we haven't found much of a connection."
 
-![NASA科學家](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+![NASA Scientist](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
 
 [🔗 Daily Mail — Missing Scientist Monica Reza Family Speaks Out](https://www.dailymail.com/sciencetech/article-15769971/missing-scientist-hiking-nasa-jpl-suspicious-disappearance-monica-reza.html)
 
 ---
 
-### ✈️ Matthew Sullivan命案：Burlison正式要求FBI調查
-**來源：** Daily Mail（2026年5月1日）／Liberation Times
+### ✈️ Matthew Sullivan Death Case: Burlison Formally Requests FBI Investigation
+**Source:** Daily Mail (May 1, 2026) / Liberation Times
 
-美國眾議員 **Eric Burlison** 已正式去信聯邦調查局（FBI）局長 **Kash Patel**，要求對已故空軍情報官 **Matthew Sullivan** 的死亡展開刑事調查。Sullivan在2024年5月12日去世，年僅39歲，官方死因至今未公開。
+U.S. Representative **Eric Burlison** has formally written to FBI Director **Kash Patel**, requesting a criminal investigation into the death of deceased Air Force intelligence officer **Matthew Sullivan**. Sullivan died on May 12, 2024, at the age of 39, and the official cause of death has not been publicly released.
 
-Burlison在信中寫道：「他死亡前後的突然及可疑情況，引發對可能涉及不軌行為及其他相關人士安全的嚴重關憂。」
+Burlison wrote in the letter: "The sudden and suspicious circumstances surrounding his death raise serious concerns about possible foul play and the safety of other relevant individuals."
 
-情報社群監察長（Intelligence Community Inspector General）的調查據報已發現「嚴重的不當行為指控及可能違法活動」，指向Sullivan的死**並非自殺**。
+An investigation by the Intelligence Community Inspector General has reportedly uncovered "serious allegations of misconduct and potentially illegal activity," pointing towards Sullivan's death **not being a suicide**.
 
-Sullivan被揭露是**UAP任務小組**原定的關鍵證人，他曾由吹哨人David Grusch協助準備挺身而出，卻在作證前突然離世，令知情者深感不安。
+Sullivan was revealed to be a key intended witness for the **UAP Task Force**, who was prepared to come forward with the help of whistleblower David Grusch but died suddenly before testifying, deeply unsettling those in the know.
 
 [🔗 Daily Mail — Sullivan Death Investigation](https://www.dailymail.com/sciencetech/article-15742843/death-air-force-whistleblower-ufo-virginia.html)
 
 ---
 
-## 📌 重點一覽：2026年5月2日UAP新聞重點
+## 📌 Key Points at a Glance: UAP News Highlights for May 2, 2026
 
-| 事件 | 狀態 | 關鍵人物／機構 |
-|------|------|--------------|
-| 🌊 51區附近17次地震 | ⏳ USGS監測中 | 物探學家Stefan Burns, Area 51 |
-| 👩‍🔬 失蹤NASA科學家家人首度開腔 | 🏛️ 特朗普下令調查 | Monica Reza, McCasland將軍 |
-| ✈️ Sullivan涉UFO遺留計劃 | 📰 Liberation Times獨家報導 | Matthew Sullivan, Eric Burlison, David Grusch |
-| 🔍 11名科學家失蹤 | 🏛️ 白宮回應調查中 | Karoline Leavitt, Neil McCasland |
-| 🏛️ AARO數據標準化工作坊 | 📄 白皮書已發布 | AARO, AUI, 學術及民間研究組織 |
-| 🍄 蘑菇形UAP影片 | 🎥 已公開 | Jeremy Corbell, George Knapp, John Ratcliffe |
-| 🏭 三角物體飛越核電站 | 📄 FOIA解密記錄 | NRC, AARO, Susquehanna核電站 |
-| 🏛️ 戰爭部46段UAP影片 | ⏳ 未全面兌現 | Anna Paulina Luna, Pete Hegseth |
+| Event | Status | Key Figures / Agencies |
+|-------|--------|-----------------------|
+| 🌊 17 Earthquakes Near Area 51 | ⏳ USGS Monitoring | Seismologist Stefan Burns, Area 51 |
+| 👩‍🔬 Missing NASA Scientist's Family Speaks Out | 🏛️ Trump Orders Investigation | Monica Reza, General McCasland |
+| ✈️ Sullivan Linked to UFO Legacy Program | 📰 Liberation Times Exclusive | Matthew Sullivan, Eric Burlison, David Grusch |
+| 🔍 11 Scientists Missing | 🏛️ White House Responds, Investigating | Karoline Leavitt, Neil McCasland |
+| 🏛️ AARO Data Standardization Workshop | 📄 White Paper Published | AARO, AUI, Academic & Civilian Research Orgs |
+| 🍄 Mushroom-Shaped UAP Footage | 🎥 Released Publicly | Jeremy Corbell, George Knapp, John Ratcliffe |
+| 🏭 Triangular Object Over Nuclear Plant | 📄 FOIA Declassified Records | NRC, AARO, Susquehanna Nuclear Plant |
+| 🏛️ War Department's 46 UAP Videos | ⏳ Not Fully Delivered | Anna Paulina Luna, Pete Hegseth |
 
 ---
 
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 2em;">
 
-*🤖 本文章由 AI 自動搜集及整理*
-*🕐 更新時間：2026-05-02 23:59 HKT*
-*📋 資料來源：Liberation Times、The Debrief、NewsWeek、White House Briefing等*
+*🤖 This article is automatically collected and organized by AI*
+*🕐 Updated: 2026-05-02 23:59 HKT*
+*📋 Sources: Liberation Times, The Debrief, NewsWeek, White House Briefing, etc.*
 
-**來源連結：**
+**Source Links:**
 - [Liberation Times — Late Air Force Officer Linked To Alleged Legacy UFO Program](https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program)
 - [The Debrief — Are Scientists Disappearing?](https://thedebrief.org/are-scientists-with-knowledge-of-u-s-secrets-disappearing-the-facts-tell-a-different-story/)
 - [The Debrief — AARO Hosts Private Workshop](https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/)
-- [Liberation Times — 蘑菇形UAP新影片](https://www.liberationtimes.com/home/new-footage-shows-mushroom-shaped-ufo-making-apparent-sudden-acceleration-echoing-cia-directors-warning-to-defense-secretary)
-- [Liberation Times — 新解密核設施無人機記錄](https://www.liberationtimes.com/home/newly-released-records-reveal-drone-incursions-including-triangular-object-with-spotlight-above-us-nuclear-sites)
-- [Liberation Times — 戰爭部白宮協調解密](https://www.liberationtimes.com/home/war-department-says-white-house-coordinating-release-of-never-before-seen-ufo-material)
-- [Liberation Times — McCasland失蹤將軍](https://www.liberationtimes.com/home/the-missing-general-neil-mccasland-ufo-claims-and-an-unfolding-mystery)
-- [Liberation Times — 證據、無人機與UFO辯論](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate)
-- [WEAPONIZED Podcast — 蘑菇形UAP影片](https://www.youtube.com/watch?v=nKtJslcHlCQ)
+- [Liberation Times — New Mushroom-Shaped UAP Footage](https://www.liberationtimes.com/home/new-footage-shows-mushroom-shaped-ufo-making-apparent-sudden-acceleration-echoing-cia-directors-warning-to-defense-secretary)
+- [Liberation Times — Newly Declassified Nuclear Facility Drone Records](https://www.liberationtimes.com/home/newly-released-records-reveal-drone-incursions-including-triangular-object-with-spotlight-above-us-nuclear-sites)
+- [Liberation Times — War Department White House Coordinating Declassification](https://www.liberationtimes.com/home/war-department-says-white-house-coordinating-release-of-never-before-seen-ufo-material)
+- [Liberation Times — Missing General McCasland](https://www.liberationtimes.com/home/the-missing-general-neil-mccasland-ufo-claims-and-an-unfolding-mystery)
+- [Liberation Times — Evidence, Drones & the UFO Debate](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate)
+- [WEAPONIZED Podcast — Mushroom-Shaped UAP Footage](https://www.youtube.com/watch?v=nKtJslcHlCQ)
 - [Daily Mail — Area 51 Earthquake Swarm](https://www.dailymail.com/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)
 - [Daily Mail — Missing Scientist Monica Reza Family Speaks Out](https://www.dailymail.com/sciencetech/article-15769971/missing-scientist-hiking-nasa-jpl-suspicious-disappearance-monica-reza.html)
 - [Daily Mail — Sullivan Death Investigation](https://www.dailymail.com/sciencetech/article-15742843/death-air-force-whistleblower-ufo-virginia.html)

@@ -7,14 +7,13 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "scientist"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+Famed astronomer Carl Sagan's attitude toward UFOs is complex. He was a supporter of the SETI (Search for Extraterrestrial Intelligence) program, believing that a vast number of alien civilizations exist in the universe—but he was strongly skeptical of the claim that UFOs are alien spacecraft.
 
-著名天文學家Carl Sagan對UFO嘅態度係複雜嘅。佢係Seti（搜尋外星智慧）計劃嘅支持者，相信宇宙中有大量外星文明存在——但佢對UFO係外星飛船嘅說法持強烈懷疑態度。
+Sagan argued that the assertion "UFOs are alien spacecraft" lacks "diamond-hard" evidence. He attributed most UFO sightings to natural phenomena, misperceptions, or hoaxes. He also participated in the review work of the Condon Committee.
 
-Sagan認為「UFO係外星飛船」嘅主張缺乏「金剛石級別」嘅證據。佢將大部分UFO目擊歸因於自然現象、錯覺或者騙局。佢曾參與Condon委員會嘅審查工作。
+Interestingly, Sagan's MIT colleague Dr. David L. Chandler and several UFO researchers noted that Sagan showed greater curiosity in private than in public. Regardless, Sagan's skepticism had a profound impact on the scientific community—some supporters view it as "responsible," while critics see it as "overly restrictive."
 
-但有趣嘅係，Sagan嘅麻省理工學院同事Dr. David L. Chandler以及多名UFO研究者指出，Sagan喺私下表現出比公開場合更大嘅好奇。無論如何，Sagan嘅懷疑態度對科學界產生咗深遠影響——有支持者認為「盡責」，有批評者認為「過度限制」。
-
-📚 來源
+📚 Sources
 - Sagan, C. "The Demon-Haunted World" (1995), Random House
 - Sagan, C. & Page, T. "UFOs: A Scientific Debate" (1972), Cornell University Press
 - Clark, J. "The UFO Encyclopedia: Sagan" (1998)

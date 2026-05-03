@@ -6,33 +6,32 @@ descriptionEn: 'The 1995 alien autopsy footage claimed to show a real extraterre
 pubDate: '2022-11-20'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
+> 📍 **UK/Global** | 📅 **1995** | 🔍 **Controversial Media, Fabricated Event**
 
-> 📍 **英國/全球** | 📅 **1995年** | 🔍 **爭議媒體、偽造事件**
+## Event Background
 
-## 事件背景
+In 1995, British producer **Ray Santilli** released a black-and-white film claiming to show footage shot at the crash site of the 1947 Roswell incident. The video depicted military personnel performing an autopsy on a "grey alien" corpse.
 
-1995年，英國製作人 **Ray Santilli** 公開咗一段聲稱喺1947年羅斯威爾事件墜毀現場拍攝嘅黑白影片。影片顯示軍方人員對一具「灰色外星人」屍體進行解剖。
+## Global Sensation
 
-## 全球轟動
+- Fox TV purchased the rights and broadcast it worldwide
+- Ratings skyrocketed, with over 15 million US households watching
+- Sparked renewed global interest in the Roswell incident
 
-- 福斯電視台（Fox）買咗版權全球播放
-- 收視率爆燈，超過1,500萬美國家庭觀看
-- 引發咗全球對羅斯威爾事件嘅重新關注
+## Controversial Truth
 
-## 爭議真相
+Years later, Santilli admitted the film was not authentic but a "reconstruction" based on original footage (which he claimed had deteriorated). However, he consistently maintained that the original 1947 footage did exist.
 
-多年後，Santilli 承認影片唔係真跡，而係根據原有底片（佢話已經損壞）重新製作嘅「還原版」。但佢一直堅持1947年嘅原始底片確實存在。
+![Alien Autopsy Video](../../assets/blog-placeholder-5.jpg)
+*Still from the 1995 globally sensational alien autopsy video*
 
-![外星人解剖影片](../../assets/blog-placeholder-5.jpg)
-*1995年轟動全球嘅外星人解剖影片劇照*
+## Cultural Impact
 
-## 文化影響
-
-即使係偽造，呢段影片嘅影響力極大：
-- 催生咗《X檔案》嘅熱潮
-- 令UFO文化進入主流
-- 羅斯威爾旅遊業暴增
-- 亦令人從此對「UFO影片」抱持更大懷疑
+Even as a forgery, this video had a massive influence:
+- Fueled the craze for *The X-Files*
+- Brought UFO culture into the mainstream
+- Boosted Roswell tourism dramatically
+- Also made people more skeptical of "UFO footage" ever since
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/p3GXysr7XxY" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -40,4 +39,4 @@ heroImage: '../../assets/blog-placeholder-5.jpg'
 
 ---
 
-*📚 參考：Ray Santilli 訪問、媒體報導*
+*📚 Reference: Ray Santilli interviews, media reports*

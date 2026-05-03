@@ -6,55 +6,54 @@ descriptionEn: 'During the Cold War, UFOs appeared at missile bases, nuclear fac
 pubDate: '2022-05-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 🌍 **Special Series**: The Geopolitical Dimensions of UFOs
+> **Coverage**: The UFO military rivalry among the three major powers during the Cold War
 
-> 🌍 **專題系列**：UFO 嘅地緣政治維度
-> **涵蓋**：冷戰時期三大國嘅 UFO 軍事角力
+## The Cold War UFO Race
 
-## 冷戰 UFO 競賽
+During the Cold War, UFOs were not just a civilian topic but also:
 
-冷戰期間，UFO 唔單止係民間話題，仲係：
+1. **Military Threat**: Both sides feared the other was using "UFOs" as cover for reconnaissance aircraft
+2. **Intelligence Gathering**: Both sides had dedicated departments collecting UFO intelligence
+3. **Psychological Warfare**: Using UFO phenomena to disrupt the opponent
 
-1. **軍事威脅**：雙方擔心對方用「UFO」掩護偵察機
-2. **情報收集**：雙方都有專責部門收集 UFO 情報
-3. **心理戰**：利用 UFO 現象干擾對方
+## Soviet UFO Archives
 
-## 蘇聯 UFO 檔案
+Although the Soviet Union publicly denied the existence of UFOs, it maintained detailed internal UFO investigation records:
 
-蘇聯雖然表面上否認 UFO 存在，但內部有詳細嘅 UFO 調查記錄：
+- **Ministry of Defense UFO Working Group**: Established in the 1970s, known as the "Grid" program
+- **Famous Case**: The Petrozavodsk phenomenon (1977) — a jellyfish-shaped luminous object enveloping the city's sky
+- **KGB Role**: The KGB also collected UFO intelligence
 
-- **國防部 UFO 工作組**：1970 年代成立，名為「Grid」計劃
-- **著名案例**：Petrozavodsk 現象（1977）——水母形發光體罩住城市上空
-- **克格勃角色**：KGB 亦有收集 UFO 情報
+## U.S. Military Response Mechanisms
 
-## 美軍應對機制
+During the Cold War, the U.S. military deployed:
+- Continuous UFO monitoring by the North American Aerospace Defense Command (NORAD)
+- Alert procedures by the Strategic Air Command (SAC)
+- UFO sighting records at nuclear bases (e.g., the 1967 Malmstrom Air Force Base incident)
 
-美軍喺冷戰期間部署咗：
-- 北美防空司令部（NORAD）對 UFO 持續監視
-- 戰略防空司令部（SAC）嘅警戒程序
-- 核基地 UFO 目擊記錄（如 Malmstrom 空軍基地 1967 年事件）
+## Chinese UFO Records
 
-## 中國 UFO 記錄
+China also has a rich history of UFO records:
 
-中國亦有豐富嘅 UFO 歷史記錄：
+- **Ancient Records**: The "Song Shi" (History of Song) documents "heavenly fire" and "stellar anomalies"
+- **1960s-1970s**: Numerous civilian sighting reports
+- **Official Archives**: The Chinese Academy of Sciences once conducted internal UFO investigations
 
-- **古代記錄**：《宋史》記載「天火」同「星變」
-- **1960-70 年代**：大量民間目擊報告
-- **官方檔案**：中國科學院曾有內部 UFO 調查
+## Declassified Archives
 
-## 解密檔案
+With the end of the Cold War, some UFO-related military archives have begun to be declassified:
 
-隨着冷戰結束，部分 UFO 相關軍事檔案開始解密：
+- **U.S. CIA**: Over 2,700 pages of UFO-related files
+- **UK MOD**: "UFO files" have been gradually released
+- **Russia**: Some Soviet archives have been declassified but not fully disclosed
+- **China**: The lowest level of openness
 
-- **美國 CIA**：超過 2,700 頁 UFO 相關檔案
-- **英國 MOD**：「UFO 檔案」已逐步公開
-- **俄羅斯**：部分蘇聯檔案已解密但未完全公開
-- **中國**：開放程度最低
+## Modern Revival
 
-## 現代復甦
-
-俄烏戰爭期間，雙方都曾報告神秘無人機同不明飛行物，令人聯想起冷戰時期嘅 UFO 軍事角力。
+During the Russia-Ukraine war, both sides have reported mysterious drones and unidentified flying objects, reminiscent of the Cold War-era UFO military rivalry.
 
 ---
 
-*📚 資料來源：各國解密文件、情報收藏檔案、歷史研究*
-*🕐 文章建立日期：2022-05-15*
+*📚 Sources: Declassified documents from various countries, intelligence collection archives, historical research*
+*🕐 Article creation date: 2022-05-15*

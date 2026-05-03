@@ -6,39 +6,38 @@ descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: 2026-05-02T17:04:00Z
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---
+> It's time for the late-night UFO news flash! Today is May 2, 2026 (Saturday), and Hong Kong has already entered the early hours of May 3. Even though it's the weekend, the UFO scene hasn't slowed down! Tonight brings multiple updates, along with some astronomical trivia to fuel your UFO cravings! 🛸
 
-> 又到咗深夜UFO快訊時間！今日係2026年5月2日（星期六），香港已經踏入5月3日凌晨。雖然係週末，但UFO界嘅動態依然冇停過！今晚帶嚟多個更新消息，同埋天文冷知識撐住你嘅UFO癮！🛸
-
-![UFO夜空概念圖](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO Night Sky Concept](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
 
 ---
 
-## 1. 🌍 Area 51 地震群 — 持續更新追蹤
+## 1. 🌍 Area 51 Earthquake Swarm — Ongoing Tracking
 
-| 📍 *內華達州，美國* | 📅 *2026年5月1-2日* | 🔍 *軍事基地/地震異常* |
+| 📍 *Nevada, USA* | 📅 *May 1-2, 2026* | 🔍 *Military Base/Seismic Anomaly* |
 
-**更新：** 之前報道嘅 Area 51 附近地震群繼續引起關注。至少 **17次地震**（最強4.4級）發生喺極淺層（僅 **2.5英里深**），位置同典型地震帶唔同，引發關於秘密地下測試嘅討論。
+**Update:** The previously reported earthquake swarm near Area 51 continues to draw attention. At least **17 earthquakes** (strongest at 4.4 magnitude) occurred at very shallow depths (only **2.5 miles deep**), in locations different from typical seismic zones, sparking discussions about secret underground testing.
 
-地球物理學家 Stefan Burns 分析話雖然好大機會係自然地震，但地震波譜同地下爆炸「有啲模糊性」，值得討論。USGS 尚未正式回應。
+Geophysicist Stefan Burns analyzed that while it's highly likely natural earthquakes, the seismic wave spectrum shows "some ambiguity" with underground explosions, making it worth discussing. The USGS has not yet officially responded.
 
-Area 51 嘅 UFO 迷注意：美國冷戰時期其實用過故意製造 UFO 傳聞嚟掩蓋秘密武器計劃——包括空軍軍官向酒吧客人派發偽造飛碟照片。呢啲「草根假消息」行動證實咗 Area 51 嘅外星傳說有幾大部分係人造嘅。但係咪全部係假？你又信唔信呢？😅
+Area 51 UFO fans take note: During the Cold War, the US actually used deliberately manufactured UFO rumors to cover up secret weapons programs—including Air Force officers handing out fake flying saucer photos to bar patrons. These "grassroots disinformation" operations confirmed how much of Area 51's alien lore was man-made. But is it all fake? What do you believe? 😅
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/rgc-f6M4dNE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## 2. 🏛️ MKUltra 聽證會倒數 — 5月13日嘅意義
+## 2. 🏛️ MKUltra Hearing Countdown — The Significance of May 13
 
-| 📍 *華盛頓特區，美國* | 📅 *2026年5月13日* | 🔍 *國會聽證/機密計劃* |
+| 📍 *Washington D.C., USA* | 📅 *May 13, 2026* | 🔍 *Congressional Hearing/Classified Program* |
 
-距離 **MKUltra 心靈控制計劃聽證會** 仲有 **11日**。眾議員 Anna Paulina Luna 嘅聽證會係少數針對冷戰時期 CIA 秘密行動嘅公開調查。
+There are **11 days** left until the **MKUltra Mind Control Program Hearing**. Representative Anna Paulina Luna's hearing is one of the few public investigations into the CIA's Cold War secret operations.
 
-點解同 UFO 有關？
-- MKUltra 嘅研究方法——包括 LSD 審訊、催眠、記憶刪除——同 UFO 揭露社區多年來討論嘅「心靈控制」技術有驚人相似
-- Dr Frank Olson 離奇死亡案——佢被落 LSD 後墮樓身亡，家人話係謀殺，官方話係自殺
-- 近期科學家離奇失蹤/死亡案（Monica Reza 等）有聲音話同隱藏 UFO 秘密有關
+Why is this related to UFOs?
+- MKUltra's research methods—including LSD interrogation, hypnosis, and memory deletion—bear striking similarities to the "mind control" technologies discussed in the UFO disclosure community for years
+- The mysterious death of Dr. Frank Olson—he fell to his death after being dosed with LSD; his family says it was murder, the official story says suicide
+- Recent mysterious disappearances/deaths of scientists (Monica Reza, etc.) have voices suggesting a connection to hiding UFO secrets
 
-呢場聽證會嘅結果可能會為未來嘅 UFO 揭露程序鋪路。如果連 MKUltra 呢班科學家都可以被政府系統性對待，咁 UFO 相關嘅 whistleblower 所受嘅威脅就唔係空穴來風。
+The outcome of this hearing could pave the way for future UFO disclosure procedures. If even the scientists of MKUltra could be systematically treated by the government, then the threats faced by UFO-related whistleblowers are not unfounded.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/q5LRk-6d3pI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
@@ -46,63 +45,63 @@ Area 51 嘅 UFO 迷注意：美國冷戰時期其實用過故意製造 UFO 傳�
 
 ---
 
-## 3. 🌌 5月天文預告：呢幾個UFO觀察黃金時期！
+## 3. 🌌 May Astronomical Preview: Prime UFO Observation Periods!
 
-| 📍 *全球多地* | 📅 *2026年5月* | 🔍 *天文/觀測* |
+| 📍 *Global Locations* | 📅 *May 2026* | 🔍 *Astronomy/Observation* |
 
-各位UFO迷記低呢啲日子：
+UFO fans, mark these dates:
 
-**5月6日 — 寶瓶座η流星雨高峰**
-寶瓶座η流星雨係哈雷彗星嘅遺跡，每小時可達50顆流星。最佳觀測時間係黎明前。呢排係UFO報告嘅常規高峰期——因為夜空好多移動光點，冇經驗嘅觀察者可能會誤報！
+**May 6 — Eta Aquarids Meteor Shower Peak**
+The Eta Aquarids are debris from Halley's Comet, with up to 50 meteors per hour. Best viewing time is before dawn. This period is a regular peak for UFO reports—because there are many moving lights in the night sky, inexperienced observers may misreport them!
 
-**5月15日 — 國際太空站（ISS）傍晚多次飛越香港**
-ISS會有幾日特別光，如果唔知佢係太空站，好易誤認為UFO。佢以穩定速度移動，冇閃爍燈光，係最常見嘅「假UFO」成因之一。
+**May 15 — International Space Station (ISS) Multiple Evening Flyovers over Hong Kong**
+The ISS will be particularly bright for a few days. If you don't know it's a space station, it's easy to mistake for a UFO. It moves at a steady speed with no flashing lights, making it one of the most common "fake UFO" causes.
 
-**5月31日 — 新月**
-新月前後嘅暗夜係觀測異常天象（包括UFO）嘅最佳時機。記得帶多啲朋友一齊睇，互相做證人！
+**May 31 — New Moon**
+The dark nights around the new moon are the best time to observe anomalous celestial phenomena (including UFOs). Remember to bring friends along to serve as witnesses!
 
-![星空觀測](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![Stargazing](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/YVfJFvYJMWw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## 4. 🤫 冷知識：巴拿馬UFO事件 — 懷疑外星人襲擊警察局？！
+## 4. 🤫 Trivia: Panama UFO Incident — Suspected Alien Attack on a Police Station?!
 
-| 📍 *巴拿馬Cerro Azul* | 📅 *歷史案件* | 🔍 *UFO冷知識* |
+| 📍 *Cerro Azul, Panama* | 📅 *Historical Case* | 🔍 *UFO Trivia* |
 
-講起UFO同政府嘅神秘互動，巴拿馬嘅「警察局UFO事件」一定上榜！
+When it comes to mysterious interactions between UFOs and governments, Panama's "Police Station UFO Incident" definitely makes the list!
 
-話說1994年，巴拿馬嘅 Cerro Azul 區警察局報告，一個發光嘅圓形物體盤旋喺警局上空長達 **40分鐘**。事件最詭異嘅地方係：
-- 警察聲稱被射出一道綠色光束
-- 其中有警察事後出現 **嘔吐、頭暈、皮膚灼傷** 徵狀
-- 警車嘅引擎同通訊系統一齊失效
-- 到達現場嘅記者都見到光點，但相機冇辦法影到清晰影像
+In 1994, the Cerro Azul district police station in Panama reported a glowing circular object hovering over the station for **40 minutes**. The most bizarre aspects of the incident:
+- Police claimed they were hit by a green beam of light
+- Some officers later experienced **vomiting, dizziness, and skin burns**
+- The patrol car's engine and communication systems simultaneously failed
+- Journalists who arrived at the scene also saw the light, but cameras couldn't capture a clear image
 
-呢單案件到而家依然係巴拿馬最著名嘅UFO案例之一，同巴西嘅「Colares事件」（1977年，類似嘅光束襲擊，數百人受傷）有異曲同工之妙。
+This case remains one of Panama's most famous UFO incidents, similar to Brazil's "Colares Incident" (1977, with similar beam attacks injuring hundreds).
 
-唔知你有冇遇過類似嘅奇怪發光物體？記住第一時間揾相機，然後跑！（安全第一 😅）
+Have you ever encountered a similar strange glowing object? Remember to grab your camera first, then run! (Safety first! 😅)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/gXH3CjqSndA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## 5. 📈 社群統計：Reddit r/UFOs 正經歷討論熱潮
+## 5. 📈 Community Stats: Reddit r/UFOs Experiencing a Discussion Surge
 
-| 📍 *網絡社群* | 📅 *2026年5月* | 🔍 *社群動態* |
+| 📍 *Online Community* | 📅 *May 2026* | 🔍 *Community Dynamics* |
 
-雖然今日冇特別炸裂嘅新巨型爆料，但 Reddit r/UFOs 社群嘅討論量持續高企，主要圍繞以下話題：
+Although there's no particularly explosive new mega-leak today, the discussion volume on Reddit r/UFOs remains high, mainly centered around these topics:
 
-- **Burlison 巨型UFO 隱藏建築物**（上小時頭條）——持續討論中，有人懷疑係監聽站而非UFO
-- **Monica Reza 失蹤案**——警方表示調查仍然進行中，未有新進展
-- **MKUltra 聽證會準備**——UFO社區期待聽證會中可能會揭露更多關於「心靈控制」同UFO揭露嘅關係
-- **Pentagon UAP 報告更新**——有消息指五角大樓正在準備新一輪UAP報告
+- **Burlison's Giant UFO Hidden Structure** (last hour's headline)—ongoing discussion, some suspect it's a listening post rather than a UFO
+- **Monica Reza Disappearance Case**—police say the investigation is still ongoing, no new developments
+- **MKUltra Hearing Preparations**—the UFO community is looking forward to the hearing potentially revealing more about the relationship between "mind control" and UFO disclosure
+- **Pentagon UAP Report Update**—there are reports that the Pentagon is preparing a new round of UAP reports
 
-UFO界嘅重點開始由「外星人係咪存在」轉向「政府仲隱瞞緊啲咩」。而呢個轉變本身，可能係最大嘅進步。
+The focus of the UFO community is shifting from "do aliens exist" to "what else is the government hiding." And this shift itself may be the biggest progress.
 
 ---
 
-## 📺 更多UFO精選影片
+## 📺 More Featured UFO Videos
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/fLDhVLPC13I" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
@@ -110,15 +109,15 @@ UFO界嘅重點開始由「外星人係咪存在」轉向「政府仲隱瞞緊�
 
 ---
 
-### 📚 來源連結
+### 📚 Source Links
 
-- [Daily Mail: Area 51 地震群](https://www.dailymail.co.uk/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)
-- [Daily Mail: 眾議員爆料隱藏UFO](https://www.dailymail.co.uk/sciencetech/article-15568557/Secret-immovable-UFO-hiding-plain-sight-purpose-built-structure-claims-US-congressman.html)
-- [Daily Mail: MKUltra聽證會](https://www.dailymail.co.uk/sciencetech/article-15782361/cia-mkultra-mind-control-hearing.html)
-- [Daily Mail: 科學家失蹤案](https://www.dailymail.co.uk/sciencetech/article-15769971/missing-scientist-hiking-nasa-jpl-suspicious-disappearance-monica-reza.html)
-- [Wiki: 巴拿馬Cerro Azul UFO事件](https://en.wikipedia.org/wiki/Cerro_Azul_UFO_incident)
-- [NASA: 寶瓶座η流星雨2026](https://science.nasa.gov/solar-system/meteors-meteorites/eta-aquarids/)
+- [Daily Mail: Area 51 Earthquake Swarm](https://www.dailymail.co.uk/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)
+- [Daily Mail: Congressman Reveals Hidden UFO](https://www.dailymail.co.uk/sciencetech/article-15568557/Secret-immovable-UFO-hiding-plain-sight-purpose-built-structure-claims-US-congressman.html)
+- [Daily Mail: MKUltra Hearing](https://www.dailymail.co.uk/sciencetech/article-15782361/cia-mkultra-mind-control-hearing.html)
+- [Daily Mail: Scientist Disappearance Case](https://www.dailymail.co.uk/sciencetech/article-15769971/missing-scientist-hiking-nasa-jpl-suspicious-disappearance-monica-reza.html)
+- [Wiki: Panama Cerro Azul UFO Incident](https://en.wikipedia.org/wiki/Cerro_Azul_UFO_incident)
+- [NASA: Eta Aquarids 2026](https://science.nasa.gov/solar-system/meteors-meteorites/eta-aquarids/)
 
 ---
 
-*本快訊由自動系統生成 | 2026年5月2日 17:04 UTC | 💡 記得：5月暗夜多，多啲抬頭望天！*
+*This bulletin is auto-generated | May 2, 2026 17:04 UTC | 💡 Remember: Dark nights in May, look up more often!*

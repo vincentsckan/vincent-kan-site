@@ -6,33 +6,32 @@ descriptionEn: 'Dr. J. Allen Hynek started as a skeptic hired by the US Air Forc
 pubDate: '2022-10-05'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
+> 📍 **USA** | 📅 **1910-1986** | 🔍 **Biography, Scientific Research**
 
-> 📍 **美國** | 📅 **1910-1986** | 🔍 **人物傳記、科學研究**
+**Josef Allen Hynek** is one of the most important figures in the history of UFO research. Originally an astronomer, he was hired by the U.S. Air Force to serve as a scientific consultant for Project Blue Book.
 
-**Josef Allen Hynek**（海尼克博士）係UFO研究史上最重要嘅人物之一。佢本來係一位天文學家，被美國空軍聘請擔任Project Blue Book嘅科學顧問。
-
-最初Hynek係一個徹底嘅懷疑者，佢相信99%嘅UFO報告都可以用常規現象解釋。但隨住研究深入，佢發現有一小部分案件根本無法解釋。
+Initially, Hynek was a thorough skeptic, believing that 99% of UFO reports could be explained by conventional phenomena. But as his research deepened, he discovered a small number of cases that were simply unexplainable.
 
 ![J. Allen Hynek](../../assets/blog-placeholder-4.jpg)
-*海尼克博士——由懷疑者變成UFO研究之父*
+*Dr. Hynek—from skeptic to father of UFO research*
 
-## 近距離接觸分類系統
+## Close Encounter Classification System
 
-Hynek創立咗至今仍然使用嘅分類法：
+Hynek created the classification system still in use today:
 
-| 分類 | 描述 |
-|------|------|
-| **第一類** | 夜晚亮光 / 晝間碟形 |
-| **第二類** | 雷達+目視同時確認 |
-| **第三類** | 見到外星生物 |
-| **第四類** | 被外星生物綁架 |
-| **第五類** | 與外星生物直接溝通 |
+| Category | Description |
+|----------|-------------|
+| **First Kind** | Nocturnal lights / Daylight discs |
+| **Second Kind** | Radar + visual confirmation simultaneously |
+| **Third Kind** | Sighting of alien beings |
+| **Fourth Kind** | Abduction by alien beings |
+| **Fifth Kind** | Direct communication with alien beings |
 
-## 科學貢獻
+## Scientific Contributions
 
-1972年，Hynek出版《The UFO Experience: A Scientific Inquiry》，係第一本用科學方法分析UFO嘅著作。佢仲講過一句名言：
+In 1972, Hynek published *The UFO Experience: A Scientific Inquiry*, the first work to analyze UFOs using scientific methods. He also famously said:
 
-> 「UFO研究唔係偽科學。但一個科學家如果公開研究UFO，佢嘅事業就完蛋。」
+> "UFO research is not pseudoscience. But if a scientist publicly studies UFOs, his career is finished."
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/2RG1BZgZ_ro" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -40,4 +39,4 @@ Hynek創立咗至今仍然使用嘅分類法：
 
 ---
 
-*📚 參考：Hynek著作、CUFOS檔案*
+*📚 References: Hynek's works, CUFOS archives*

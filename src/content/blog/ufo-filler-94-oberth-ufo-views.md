@@ -7,11 +7,10 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "scientist"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+Hermann Oberth (1894-1989) is hailed as the father of modern rocket science. In a 1954 interview with *American Weekly*, he stated: "I am convinced that UFOs are real spacecraft from other solar systems, piloted by some form of intelligent beings."
 
-Hermann Oberth（1894-1989）被譽為現代火箭科學之父。1954年接受《美國周刊》訪問時，佢話：「我確信UFO係來自其他太陽系嘅真實飛行器，由某種智慧生物操控。」
+As a rocket scientist, he was particularly intrigued by the propulsion systems of UFOs: "They can hover, fly at extreme speeds, and make right-angle turns—far surpassing any known propulsion technology. They must be using physical principles we have yet to grasp." Oberth's stance is significant because he was a respected authority in mainstream academia.
 
-作為火箭科學家，佢對UFO推進系統特別感興趣：「佢哋可保持靜止、超高速飛行、直角轉彎——遠遠超越任何已知推進技術。佢哋必定使用我哋尚未掌握嘅物理原理。」Oberth嘅立場重要，因為佢係主流學術界尊重嘅權威科學家。
-
-📚 來源
-- Oberth, H. "UFOs: Our Visitors from Outer Space" (1954), American Weekly
+📚 Sources
+- Oberth, H. "UFOs: Our Visitors from Outer Space" (1954), *American Weekly*
 - Good, T. "Above Top Secret" (1988)

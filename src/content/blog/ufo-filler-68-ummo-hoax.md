@@ -7,26 +7,25 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "hoax"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-1967年2月，西班牙馬德里郊區Madrid嘅一個家庭收到咗一封奇怪嘅信——信件用一種前所未見嘅語言寫成，附有技術圖紙，仲有一個外星符號。呢封信自稱嚟自「Ummo」星球，一個距離地球14.6光年嘅文明。呢個被稱為Ummo事件嘅現象，持續咗超過20年，成為UFO史上最複雜嘅外星人通訊事件。
+In February 1967, a family in the outskirts of Madrid, Spain, received a strange letter—written in a previously unseen language, accompanied by technical drawings and an alien symbol. The letter claimed to be from the planet "Ummo," a civilization 14.6 light-years from Earth. This phenomenon, known as the Ummo Incident, lasted over 20 years, becoming the most complex alien communication event in UFO history.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Madrid, Spain | 1967-1990s | Alien Contact / Hoax |
 
-信件嘅內容極之詳細，涉及天文學、物理學、生物學同工程學。Ummites（Ummo外星人嘅自稱）聲稱佢哋嘅飛船使用「磁重力」推進系統，仲提供咗機器人、醫學技術同宇宙結構嘅詳細描述。
+The content of the letters was extremely detailed, covering astronomy, physics, biology, and engineering. The Ummites (the Ummo aliens' self-designation) claimed their spacecraft used a "magnetic gravity" propulsion system and provided detailed descriptions of robots, medical technology, and the structure of the universe.
 
-信件同文件嘅數量不斷增加，到1970年代末已經超過數千頁。Ummites仲聲稱佢哋嘅飛船喺世界各地降落過，包括法國、西班牙同美國嘅偏遠地區。
+The number of letters and documents grew continuously, exceeding thousands of pages by the late 1970s. The Ummites also claimed their spacecraft had landed in various remote areas around the world, including France, Spain, and the United States.
 
-令Ummo事件如此引人入勝嘅係——部分佢哋嘅「預言」同科技描述後來真係實現咗。例如，佢哋喺1970年代就精準預測咗CD-ROM鐳射儲存技術嘅出現，亦準確描繪咗DNA修復技術嘅原理。呢啲「預測」導致好多科學家同工程師認真咁看待Ummo信件。
+What makes the Ummo Incident so fascinating is that some of their "predictions" and technological descriptions later came true. For example, in the 1970s, they accurately predicted the emergence of CD-ROM laser storage technology and precisely described the principles of DNA repair technology. These "predictions" led many scientists and engineers to take the Ummo letters seriously.
 
-Ummo神秘事件喺1980年代達到高峰，當時西班牙電視台同報紙都廣泛報道。甚至有大學教授開設講座專門討論Ummo嘅技術文件。
+The Ummo mystery peaked in the 1980s, when Spanish television and newspapers widely covered it. Some university professors even held lectures specifically discussing Ummo's technical documents.
 
-但係——1990年代初期，呢個神話開始崩潰。西班牙調查記者Javier Sierra同其他研究員發現，信件嘅技術細節與已知嘅科學事實有太多矛盾。更加致命嘅係，一位自稱係始作俑者嘅人物——一度傳係一位西班牙工程師或者科學家——表示呢個只係一個社會實驗。
+But then—in the early 1990s, the myth began to crumble. Spanish investigative journalist Javier Sierra and other researchers found that the technical details in the letters contained too many contradictions with known scientific facts. More critically, a figure who claimed to be the originator—rumored to be a Spanish engineer or scientist—stated that it was merely a social experiment.
 
-Ummo事件最終被認定為史上最精密嘅UFO騙局之一。但佢嘅文化影響深遠——令公眾更加關注UFO同外星人主題，同時亦提醒咗UFO研究者要謹慎對待所謂嘅「外星人通訊」。
+The Ummo Incident was ultimately deemed one of the most elaborate UFO hoaxes in history. However, its cultural impact was profound—it increased public attention on UFO and alien topics while also reminding UFO researchers to be cautious about so-called "alien communications."
 
-📚 來源
+📚 Sources
 - Sierra, J. "Ummo: The Ultimate Alien Communication" (1994), EDAF
 - Jiménez, J.M. "Cartas de Ummo: Una Investigación" (1988)
 - Forteana Society, "The Ummo Mystery: 30 Years of Correspondence" (1997)

@@ -7,14 +7,13 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "asia"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+Ancient Chinese classical texts contain numerous records similar to modern UFOs, especially during the Song Dynasty (960-1279). Official historical works such as the *Song Shi·Tianwen Zhi* (History of Song: Astronomical Records) and the *Xu Zizhi Tongjian Changbian* (Long Draft of the Continued Comprehensive Mirror for Aid in Government) document a large number of "unusual celestial phenomena"—from "flying stars entering the moon" (a light point flying into the moon) to "red vapor spanning the sky" (red light crossing the sky).
 
-中國古代典籍中有大量類似現代UFO嘅記錄，尤其係宋朝（960-1279年）。《宋史·天文志》同《續資治通鑑長編》等官方史書記載咗大量「奇特天象」——從「飛星入月」（一個光點飛入月亮）到「赤氣亙天」（紅色光芒橫貫天空）。
+In 1072 (the fifth year of Xining under Emperor Shenzong of Song), residents of Suzhou reported seeing a luminous object "as large as a cartwheel" flying over the city, emitting red and blue light, hovering in the sky for about an hour before disappearing. In 1193 (the fourth year of Shaoxi under Emperor Guangzong of Song), the Hubei region recorded that "a star fell in the southwest, its light illuminating the ground, with a sound like thunder, then it scattered into dozens of small stars."
 
-1072年（宋神宗熙寧五年），蘇州居民報告見到一個「大如車輪」嘅發光物體飛過城市，發出紅色同藍色光芒，停留喺空中約一小時然後消失。1193年（宋光宗紹熙四年），湖北地區記載「有星隕於西南，光燭地，有聲如雷，既而散為數十小星」。
+Although these records are difficult to directly equate with modern UFO concepts, their displayed high maneuverability, hovering capability, and multi-colored light changes bear striking similarities to modern UFO reports.
 
-這些記錄雖難以用現代UFO概念直接對應，但佢哋展示嘅高度機動性、停留能力同多色光變換，同現代UFO報告有驚人相似之處。
-
-📚 來源
-- 《宋史·天文志》(1345), 脫脫等編
-- 《續資治通鑑長編》, 李燾編
-- 李衛東, "中國古代UFO記錄" (2009), 台灣UFO研究會
+📚 Sources
+- *Song Shi·Tianwen Zhi* (1345), compiled by Tuotuo et al.
+- *Xu Zizhi Tongjian Changbian*, compiled by Li Tao
+- Li Weidong, "Ancient Chinese UFO Records" (2009), Taiwan UFO Research Society

@@ -7,142 +7,140 @@ pubDate: '2026-05-03T10:02:00Z'
 tags: ["UFO", "UAP", "news", "自動更新"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 🔔 **UFO/UAP News Flash** — Evening Update, Sunday, May 3, 2026
+> AI-powered real-time collection, compilation, tracking latest developments
 
-> 🔔 **UFO/UAP 新聞速遞** — 2026年5月3日（星期日）傍晚更新
-> 人工智能即時搜集、編譯，跟進最新發展
-
-| 📍 *美國（華盛頓DC、各地）、英國、全球* | 📅 *2026年5月3日* | 🔍 *特朗普UFO文件、名人目擊、非人類來源證據* |
+| 📍 *USA (Washington DC, nationwide), UK, Global* | 📅 *May 3, 2026* | 🔍 *Trump UFO files, celebrity sightings, non-human origin evidence* |
 
 ---
 
-## 🏛️「絕對唔係空心彈！」— 前國防官員力撐特朗普UFO披露
+## 🏛️ "It's definitely not a nothingburger!" — Former Defense Official Backs Trump's UFO Disclosure
 
-**來源：** NewsNation（2026年4月30日）
+**Source:** NewsNation (April 30, 2026)
 
-前國防部官員 **Christopher Mellon** 近日接受 NewsNation 專訪，對特朗普政府承諾的UFO文件披露發表關鍵評論。Mellon曾擔任國防部助理副部長，負責情報事務，是UFO披露運動中最具份量的前政府官員之一。
+Former Pentagon official **Christopher Mellon** recently gave a key interview to NewsNation, commenting on the Trump administration's promised UFO document disclosure. Mellon, a former Deputy Assistant Secretary of Defense for Intelligence, is one of the most prominent former government officials in the UFO disclosure movement.
 
-面對外界對特朗普承諾可能只是一場「空心彈」（nothingburger）的質疑，Mellon斬釘截鐵回應：
+Addressing skepticism that Trump's promise might be a "nothingburger," Mellon responded unequivocally:
 
-> **「我唔認為會係空心彈。」**
-> （"I don't think it's going to be a nothingburger."）
+> **"I don't think it's going to be a nothingburger."**
 
-**Mellon的論據：**
-1. **戰爭部（War Department）** 已經明確表態，白宮正在協調第一批從未曝光的UFO材料發布
-2. 眾議員 **Anna Paulina Luna** 公開承諾將展示「非人類來源」之物（nonhuman origin items）
-3. AARO目前手上超過2,000宗UAP案件，當中包括大量軍方雷達、紅外線及多感測器數據
-4. 特朗普本人親自監督這項工作，而非交由下屬處理
+**Mellon's Arguments:**
+1. The **War Department** has already stated clearly that the White House is coordinating the release of the first batch of never-before-seen UFO materials
+2. Congresswoman **Anna Paulina Luna** has publicly promised to show items of "nonhuman origin"
+3. AARO currently has over 2,000 UAP cases on file, including extensive military radar, infrared, and multi-sensor data
+4. Trump himself is personally overseeing this effort, rather than delegating it to subordinates
 
-Mellon特別指出，過去數月「多名掌握秘密的軍方及情報人員離奇死亡或失蹤」的現象，正促使政府內部有更多人傾向支持披露——因為 **「保密制度本身已失去公信力」**。
+Mellon specifically noted that the phenomenon of "multiple military and intelligence personnel with knowledge of secrets dying or disappearing mysteriously in recent months" is pushing more people within the government to support disclosure — because **"the secrecy system itself has lost credibility."**
 
-> 分析：Mellon的發言不代表披露必然發生，但從他的背景及過去在UAP議題上的記錄來看，這可能是近年最可信的一次預告。值得密切關注5月至6月的後續發展。
+> Analysis: Mellon's statement does not guarantee disclosure will happen, but given his background and track record on UAP issues, this may be the most credible预告 in recent years. Keep a close watch on developments from May to June.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/BhZAB1FSBps" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🎙️ NewsNation專訪：Christopher Mellon分析UFO披露前景*
+*🎙️ NewsNation Interview: Christopher Mellon Analyzes UFO Disclosure Prospects*
 
-![華盛頓國會山莊](/vincent-kan-site/_astro/blog-placeholder-3.jpg)
+![Washington Capitol Hill](/vincent-kan-site/_astro/blog-placeholder-3.jpg)
 
 ---
 
-## 🎤 Kacey Musgraves自爆目擊UFO：「我見到嘅嘢正常唔到」
+## 🎤 Kacey Musgraves Reveals UFO Sighting: "What I Saw Was Not Normal"
 
-**來源：** InsideHook、JoBlo（2026年4月-5月）
+**Source:** InsideHook, JoBlo (April-May 2026)
 
-鄉村音樂天后 **Kacey Musgraves** 最近加入名人UFO目擊者行列，在一個公開活動中分享她的經歷。佢形容當時見到嘅物體：
+Country music superstar **Kacey Musgraves** has joined the ranks of celebrity UFO witnesses, sharing her experience at a public event. She described the object she saw:
 
-> **「速度同移動方式，完全唔係正常飛機或者無人機可以做到。」**
+> **"The speed and movement were completely impossible for a normal airplane or drone."**
 
-雖然Musgraves未有詳細說明具體時間同地點，但佢嘅證詞被UFO研究界視為名人目擊中較有說服力嘅個案——因為佢能夠具體描述物體嘅飛行特徵，包括急停、直角轉彎同瞬間加速。
+Although Musgraves did not provide specific details about the time and location, her testimony is considered by the UFO research community to be one of the more credible celebrity sightings — because she was able to specifically describe the object's flight characteristics, including sudden stops, right-angle turns, and instantaneous acceleration.
 
-加上此前已有 **John Travolta、Mick Jagger、Elvis Presley、William Shatner** 等名人分享類似經歷，名人UFO目擊已經成為公開的秘密。
+With celebrities like **John Travolta, Mick Jagger, Elvis Presley, William Shatner** having shared similar experiences, celebrity UFO sightings have become an open secret.
 
-你最鍾意嘅名人邊個見過UFO？下面有影片整理！👇
+Which of your favorite celebrities has seen a UFO? Check out the video compilation below! 👇
 
-![Kacey Musgraves表演](/vincent-kan-site/_astro/blog-placeholder-4.jpg)
+![Kacey Musgraves Performing](/vincent-kan-site/_astro/blog-placeholder-4.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🎵 Kacey Musgraves及其他名人UFO經歷合集*
+*🎵 Kacey Musgraves and Other Celebrity UFO Experiences Compilation*
 
 ---
 
-## 🕵️‍♂️ Congresswoman Luna承諾展示「非人類來源之物」
+## 🕵️‍♂️ Congresswoman Luna Promises to Show "Nonhuman Origin Items"
 
-**來源：** Newsweek（2026年4月29日）
+**Source:** Newsweek (April 29, 2026)
 
-眾議員 **Anna Paulina Luna** 在多次採訪中持續升級她的披露承諾。她在Newsweek最新專訪中表示：
+Congresswoman **Anna Paulina Luna** has been escalating her disclosure promises in multiple interviews. In her latest interview with Newsweek, she stated:
 
-> **「我哋將會展示一啲你哋從未見過嘅嘢——非人類來源之物。」**
+> **"We are going to show you things you have never seen before — items of nonhuman origin."**
 
-Luna是眾議院監督委員會國家安全小組委員會成員，一直積極推動UAP透明度。佢的承諾緊接特朗普的披露命令，顯示 **國會與行政部門正聯手推動披露**。
+Luna, a member of the House Oversight Committee's National Security Subcommittee, has been actively pushing for UAP transparency. Her promise follows Trump's disclosure order, indicating that **Congress and the Executive Branch are working together to push for disclosure.**
 
-**關鍵看點：**
-- Luna指的是實物證據還是影片/影像？
-- 她提到的「非人類來源」是否暗示有物質回收計劃？
-- 若屬實，這將是美國官員首次正式展示非人類技術的證據
+**Key Points to Watch:**
+- Is Luna referring to physical evidence or videos/images?
+- Does her mention of "nonhuman origin" imply the existence of a material recovery program?
+- If true, this would be the first time a US official has formally presented evidence of non-human technology
 
-Luna此前曾批評五角大樓對UFO議題長期「隱瞞真相」（stonewalling），認為公眾有權知道UAP背後的事實。
+Luna has previously criticized the Pentagon for "stonewalling" on the UFO issue for years, arguing that the public has the right to know the truth behind UAP.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/IWrK1SdpG70" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🗣️ 眾議員Luna：美國需要UFO透明度*
+*🗣️ Congresswoman Luna: America Needs UFO Transparency*
 
-![華盛頓國會](/vincent-kan-site/_astro/blog-placeholder-2.jpg)
+![Washington Capitol](/vincent-kan-site/_astro/blog-placeholder-2.jpg)
 
 ---
 
-## 👽 11位名人的UFO奇遇 — 你信邊個？
+## 👽 11 Celebrities' UFO Encounters — Who Do You Believe?
 
-**來源：** JoBlo（2026年5月1日）
+**Source:** JoBlo (May 1, 2026)
 
-JoBlo網站整理了一份**11位名人UFO目擊清單**，橫跨音樂、電影及政治界，當中有啲故事真係相當「猛料」：
+JoBlo has compiled a **list of 11 celebrity UFO sightings**, spanning music, film, and politics, with some truly remarkable stories:
 
-| 名人 | 目擊描述 |
+| Celebrity | Sighting Description |
 |------|---------|
-| **John Travolta** | 自家私人飛機附近見到神秘光點快速移動 |
-| **Mick Jagger** | 喺法國南部渡假時目睹三角形UFO |
-| **Elvis Presley** | 據報多次見到UFO，仲有相關錄音記錄 |
-| **William Shatner** | 《星空奇遇記》Captain Kirk本人見過UFO |
-| **Kacey Musgraves** | 新加入名人目擊者行列，見證極不尋常嘅飛行方式 |
-| **Tom DeLonge** | Blink-182結他手，創立To The Stars Academy推廣UFO研究 |
-| **David Bowie** | 曾表示相信外星生命存在，自己亦有唔明飛行物體經歷 |
+| **John Travolta** | Saw mysterious lights moving rapidly near his private plane |
+| **Mick Jagger** | Witnessed a triangular UFO while vacationing in the South of France |
+| **Elvis Presley** | Reportedly saw UFOs multiple times, with related audio recordings |
+| **William Shatner** | *Star Trek*'s Captain Kirk himself has seen a UFO |
+| **Kacey Musgraves** | Newest addition to celebrity witnesses, witnessed highly unusual flight patterns |
+| **Tom DeLonge** | Blink-182 guitarist, founded To The Stars Academy to promote UFO research |
+| **David Bowie** | Expressed belief in extraterrestrial life and had his own unidentified flying object experience |
 
-有趣嘅係，多位名人都描述目擊物體呈**三角形**或**雪茄形**，同軍方吹哨人David Grusch描述的UAP特徵不謀而合。
+Interestingly, many celebrities described the objects as **triangular** or **cigar-shaped**, matching the UAP characteristics described by military whistleblower David Grusch.
 
-![名人與UFO拼圖](/vincent-kan-site/_astro/blog-placeholder-5.jpg)
+![Celebrity UFO Collage](/vincent-kan-site/_astro/blog-placeholder-5.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/w5GvLWQZnoM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🎬 名人公開談論UFO目擊經歷合集*
+*🎬 Celebrities Openly Discussing UFO Sighting Experiences Compilation*
 
 ---
 
-## 📡 More to Watch — 其他UFO YouTube精選
+## 📡 More to Watch — Other UFO YouTube Highlights
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/6B6v2HSS3js" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🔴 UFO發現與科學家失蹤：最新分析*
+*🔴 UFO Discoveries and Scientist Disappearances: Latest Analysis*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/KfTjSJnUGVQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*📋 特朗普政府UFO檔案審查最新進展*
+*📋 Latest Progress on Trump Administration UFO File Review*
 
 ---
 
-## 📌 重點一覽：2026年5月3日（傍晚更新）
+## 📌 Key Summary: May 3, 2026 (Evening Update)
 
-| 事件 | 狀態 | 關鍵人物 |
+| Event | Status | Key Figures |
 |------|------|---------|
-| 🏛️ 前國防官員稱披露非「空心彈」 | 🔥 Mellon公開力撐 | Christopher Mellon, Trump, Luna |
-| 🎤 Kacey Musgraves新名人目擊 | ✅ 已確認報導 | Kacey Musgraves |
-| 🕵️ Luna承諾展示非人類來源之物 | 📄 專訪已刊登 | Anna Paulina Luna |
-| 👽 11位名人UFO奇遇整理 | 📰 已發布 | John Travolta, Elvis, 多位名人 |
-| ✈️ 戰爭部協調UFO材料發布 | ⏳ 進行中 | War Dept, White House |
-| 👩‍🔬 科學家失蹤調查 | ⏳ Trump下令調查中 | Monica Reza, Neil McCasland |
+| 🏛️ Former Defense Official Says Disclosure Not a "Nothingburger" | 🔥 Mellon Publicly Supports | Christopher Mellon, Trump, Luna |
+| 🎤 Kacey Musgraves New Celebrity Sighting | ✅ Confirmed Report | Kacey Musgraves |
+| 🕵️ Luna Promises to Show Nonhuman Origin Items | 📄 Interview Published | Anna Paulina Luna |
+| 👽 11 Celebrity UFO Encounters Compiled | 📰 Published | John Travolta, Elvis, Multiple Celebrities |
+| ✈️ War Department Coordinating UFO Material Release | ⏳ In Progress | War Dept, White House |
+| 👩‍🔬 Investigation into Scientist Disappearances | ⏳ Trump Ordered Investigation | Monica Reza, Neil McCasland |
 
 ---
 
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 2em;">
 
-*🤖 本文章由 AI 自動搜集及整理*
-*🕐 更新時間：2026-05-03 18:03 HKT*
-*📋 資料來源：NewsNation、Newsweek、InsideHook、JoBlo、The Guardian等*
+*🤖 This article was automatically collected and compiled by AI*
+*🕐 Updated: 2026-05-03 18:03 HKT*
+*📋 Sources: NewsNation, Newsweek, InsideHook, JoBlo, The Guardian, etc.*
 
-**來源連結：**
+**Source Links:**
 - [NewsNation — Promised UFO info release not a 'nothingburger': Ex-Defense official](https://www.newsnationnow.com/space/ufo/promised-ufo-info-release-not-a-nothingburger-ex-defense-official/)
 - [Newsweek — UFO Update: Congresswoman Promises to Show Things of 'Nonhuman Origin'](https://www.newsweek.com/ufo-update-congresswoman-promises-show-things-nonhuman-origin-2026)
 - [InsideHook — The Latest High-Profile UFO Sighting Comes From Kacey Musgraves](https://www.insidehook.com/music/ufo-sighting-kacey-musgraves)

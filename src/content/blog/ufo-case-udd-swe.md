@@ -6,15 +6,14 @@ descriptionEn: 'Sweden''s most compelling UFO case involving a close encounter a
 pubDate: '2022-10-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📍 **Sweden, Baltic Sea**
+> 📅 **1992**
+> 🔍 **Navy Sonar, Underwater UAP**
 
-> 📍 **瑞典，波羅的海**
-> 📅 **1992年**
-> 🔍 **海軍聲納、水下UAP**
+During a routine patrol in the Baltic Sea, the Swedish Navy's sonar system detected one or more unidentified objects on the seabed moving at an incredible speed. The military deployed multiple vessels and helicopters to track them.
 
-瑞典海軍喺波羅的海進行例行巡邏時，聲納系統偵測到海底有一個或多個不明物體以難以置信嘅速度移動。軍方出動咗多艘艦艇同直升機進行追蹤。
-
-物體可以潛入極深嘅海溝，高速移動冇任何噪音。瑞典海軍將事件記錄為 **「水下不明現象」**。呢單案件證明UAP唔單止出現喺空中，仲可以出現喺水中，亦即所謂嘅 **跨介質飛行器**。
+The objects could dive into extremely deep trenches and move at high speeds without any noise. The Swedish Navy recorded the incident as an **"Underwater Unidentified Phenomenon."** This case proves that UAPs not only appear in the air but can also emerge in water, known as **trans-medium vehicles**.
 
 ---
 
-*📚 參考：瑞典海軍檔案、UFO研究文獻*
+*📚 Reference: Swedish Navy Archives, UFO Research Literature*

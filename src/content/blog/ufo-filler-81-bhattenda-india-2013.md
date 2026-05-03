@@ -7,28 +7,27 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "asia"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-2013年9月，印度西孟加拉邦一條叫Bhattenda嘅小鄉村突然變成本地同國際媒體嘅焦點。連續多個晚上，超過一萬名村民一齊目睹咗一個發出強光嘅不明飛行物體喺夜空盤旋——佢甚至一度被誤傳為巴基斯坦嘅間諜無人機。
+In September 2013, a small village called Bhattenda in West Bengal, India, suddenly became the focus of local and international media. For several consecutive nights, over 10,000 villagers collectively witnessed an unidentified flying object emitting a strong light hovering in the night sky—it was even mistakenly rumored to be a Pakistani spy drone.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Bhattenda, West Bengal, India | 2013-09 | Mass Sighting / Military Investigation |
 
-事件由9月中旬開始。Bhattenda村同附近Jalpaiguri區嘅居民發現，每晚大約8點左右，天空就會出現一個「比金星亮10倍」嘅橙紅色發光物體。呢個物體會喺天空停留幾小時，有時緩慢移動，有時完全靜止，然後喺凌晨時分消失。
+The incident began in mid-September. Residents of Bhattenda village and the nearby Jalpaiguri district noticed that around 8 PM each night, an orange-red glowing object "10 times brighter than Venus" would appear in the sky. This object would linger for several hours, sometimes moving slowly, sometimes remaining completely still, before disappearing in the early morning hours.
 
-村民最初以為係中國或者巴基斯坦嘅間諜活動。呢個消息好快傳開，引發咗大規模嘅恐慌。部分村民話之前從未見過類似嘅嘢，擔心係唔係戰爭嘅前兆。當地報紙連日以頭條報導，令成個地區都陷入焦慮之中。
+Villagers initially thought it was espionage activity by China or Pakistan. The news spread quickly, triggering widespread panic. Some villagers said they had never seen anything like it before and feared it might be a precursor to war. Local newspapers reported it as a headline for days, plunging the entire region into anxiety.
 
-印度警方同當地政府官員嘗試安撫公眾，話可能係金星或者氣象氣球。但呢個解釋完全講唔通——金星喺天空嘅移動速度冇咁快，而氣象氣球唔會每晚喺同一時間同一位置出現。
+Indian police and local government officials tried to calm the public, suggesting it might be Venus or a weather balloon. But this explanation didn't hold up—Venus doesn't move that fast across the sky, and a weather balloon wouldn't appear at the same time and place every night.
 
-由於公眾壓力越來越大，印度空軍（IAF）決定介入。印度空軍派出咗一架直升機同一個調查小組去現場進行調查。空軍官員使用紅外線儀器同雙筒望遠鏡進行咗長時間嘅觀察。
+Due to mounting public pressure, the Indian Air Force (IAF) decided to intervene. The IAF dispatched a helicopter and an investigation team to the site for on-the-ground inquiry. Air Force officials conducted prolonged observations using infrared equipment and binoculars.
 
-印度空軍最後嘅結論係：「目擊物體為金星加上村民嘅群體心理效應。」但呢個結論好快就被天文學家同村民反駁——金星唔會發出橙色光，亦唔會有明顯嘅三維移動。
+The IAF's final conclusion was: "The sighted object is Venus, combined with the collective psychological effect of the villagers." But this conclusion was quickly refuted by astronomers and villagers—Venus does not emit orange light, nor does it exhibit clear three-dimensional movement.
 
-更加有趣嘅係，事件發生後幾日，印度國家安全部門嘅官員突然到訪Bhattenda，對村民進行咗「保密警告」。呢個動作令到唔少人更加確信——事情唔係政府所講咁簡單。
+More intriguingly, a few days after the incident, officials from India's National Security Department suddenly visited Bhattenda and issued a "confidential warning" to the villagers. This move led many to believe even more strongly that the matter was not as simple as the government claimed.
 
-Bhattenda事件至今仍然係印度最廣為人知嘅UFO集體目擊之一，亦係亞洲近年最重大嘅UAP目擊事件。
+The Bhattenda incident remains one of India's most widely known mass UFO sightings and one of Asia's most significant UAP events in recent years.
 
-📚 來源
+📚 Sources
 - Indian Air Force, "Bhattenda Incident Investigation Report" (2013)
 - Times of India, "Mysterious Light Over Bhattenda" (September 2013)
 - UFO Research India, "West Bengal Mass Sighting Analysis" (2014)

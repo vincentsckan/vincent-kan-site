@@ -6,17 +6,16 @@ descriptionEn: 'In 1986, a Japanese cargo jet over Alaska was pursued by a massi
 pubDate: '2022-09-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📍 **Alaska, USA - Airspace**
+> 📅 **November 17, 1986**
+> 🔍 **Reported by Commercial Airline Pilot, Confirmed by FAA Radar**
 
-> 📍 **美國阿拉斯加上空**
-> 📅 **1986年11月17日**
-> 🔍 **民航機師報告、FAA雷達確認**
+Japan Airlines (JAL) Flight 1628 was a Boeing 747 cargo plane flying from Iceland to Tokyo. As the aircraft flew over Alaska, Captain **Kenju Terauchi** suddenly spotted two mysterious square-shaped lights appearing on the left side of the plane.
 
-日本航空（JAL）1628號班機係一架由冰島飛往東京嘅波音747貨機。當飛機飛越阿拉斯加上空時，機長 **Kenju Terauchi** 突然見到兩個神秘嘅方形光點喺飛機左側出現。
+Subsequently, an even larger craft, bigger than an aircraft carrier, appeared in front of the cargo plane. The captain described the object's shape as resembling a "Russian nesting doll," with numerous rotating structures inside. The FAA Anchorage radar station confirmed receiving a massive radar echo. The incident lasted for 50 minutes.
 
-隨後一個更加巨大、比航空母艦仲大嘅飛行器出現喺貨機前方。機長形容物體嘅外形似「俄羅斯套娃」，內部有大量旋轉結構。FAA安克雷奇雷達站確認收到咗一個巨大嘅雷達回波。事件持續咗50分鐘。
-
-FAA後來發布咗正式報告，但未有作出最終結論。機長 Terauchi 嘅詳細畫圖同 FAA 雷達記錄令呢單案件極具說服力。
+The FAA later released an official report but did not reach a final conclusion. Captain Terauchi's detailed drawings and the FAA radar records make this case highly compelling.
 
 ---
 
-*📚 參考：FAA報告、日航機長證詞*
+*📚 References: FAA Report, Testimony of JAL Captain*

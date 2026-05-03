@@ -7,143 +7,142 @@ pubDate: '2026-04-30'
 updatedDate: '2026-04-30'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
+> 📡 **Daily UAP News Digest** — April 30, 2026 (Thursday)
+> AI-automated collection, organization, and formatting, focusing on authoritative sources and key developments
 
-> 📡 **每日UAP新聞精選** — 2026年4月30日（星期四）
-> 由AI自動搜集、整理及排版，聚焦權威來源及重要發展
-
-| 🌎 *全球* | 📅 *2026年4月* | 🔍 *綜合報導* |
+| 🌎 *Global* | 📅 *April 2026* | 🔍 *Comprehensive Report* |
 
 ---
 
-## 🏛️ 政府披露與國會動態
+## 🏛️ Government Disclosures & Congressional Developments
 
-### 🔥 已故空軍情報官 Sullivan 證實參與「遺留UFO計劃」
-**來源：** Liberation Times（2026年4月24日）／Daily Mail（2026年4月）
+### 🔥 Deceased Air Force Intelligence Officer Sullivan Confirmed Involved in "Legacy UFO Program"
+**Source:** Liberation Times (April 24, 2026) / Daily Mail (April 2026)
 
-Liberation Times 獨家報導揭露，已故美國空軍情報官 Matthew Sullivan（2024年去世，終年39歲）曾直接參與一個被稱為「遺留UFO計劃」（legacy UFO program）的秘密項目。據了解，Sullivan 主力負責該計劃的技術層面，涉及一架懷疑屬非人類來源的「異型飛行器」（exotic vehicle）。
+An exclusive report by Liberation Times reveals that the late U.S. Air Force intelligence officer Matthew Sullivan (died in 2024 at age 39) was directly involved in a secret project referred to as the "legacy UFO program." It is understood that Sullivan was primarily responsible for the technical aspects of the program, involving an "exotic vehicle" suspected to be of non-human origin.
 
-Sullivan 在去世前原定與國會 UFO 吹哨人、退役空軍少校 David Grusch 一同作證。國會議員 Eric Burlison 指出：「他安排了接受訪問，但兩星期內便『可疑地自殺』了。」Burlison 已正式致函 FBI 局長 Kash Patel，要求就 Sullivan 的死亡展開刑事調查，認為事件涉及「嚴重不當行為及潛在違法活動」。
+Before his death, Sullivan was scheduled to testify alongside congressional UFO whistleblower and retired Air Force Major David Grusch. Congressman Eric Burlison stated: "He arranged to be interviewed, but within two weeks, he 'suspiciously committed suicide.'" Burlison has formally written to FBI Director Kash Patel, requesting a criminal investigation into Sullivan's death, believing the incident involves "serious misconduct and potential illegal activity."
 
-Liberation Times 消息人士稱，Sullivan 以私人企業身份與某美國情報機構合作執行遺留UFO計劃的技術工作，但其參與早在空軍服役期間便已開始。Sullivan 曾服役於國家空天情報中心（NASIC）、國家安全局（NSA）及空軍情報局，更在阿富汗戰爭中獲頒銅星勳章。
+Sources for Liberation Times indicate that Sullivan, through a private company, collaborated with a U.S. intelligence agency on the technical work of the legacy UFO program, but his involvement began during his Air Force service. Sullivan served at the National Air and Space Intelligence Center (NASIC), the National Security Agency (NSA), and the Air Force Intelligence Directorate, and was awarded the Bronze Star for his service in the Afghanistan War.
 
-值得注意的是，Sullivan 的葬禮由 Major General David Abba 出席致詞，Abba 曾於2021至2024年擔任國防部特別訪問計劃中央辦公室主任，掌握美國最高級別的機密訪問權限。Abba 在葬禮上形容 Sullivan 是「我見過最聰明的情報中尉」，並稱他「背負了這個國家極少數人真正理解的秘密」。
+Notably, Sullivan's funeral was attended by Major General David Abba, who delivered a eulogy. Abba served as Director of the Office of the Secretary of Defense's Special Access Program Central Office from 2021 to 2024, holding the highest level of classified access in the U.S. At the funeral, Abba described Sullivan as "the smartest intelligence lieutenant I have ever met" and stated he "carried secrets that very few in this country truly understand."
 
-此事同時與近期多名國防科學家接連死亡或失蹤的事件相呼應——據 NewsNation 報導，已有11名美國科學家及國防人物在近期死亡或下落不明，最矚目的包括退役空軍將領 Neil McCasland 在二月底離奇失蹤。
+This incident echoes the recent string of deaths or disappearances of multiple defense scientists. According to NewsNation, 11 U.S. scientists and defense figures have recently died or gone missing, the most prominent being retired Air Force General Neil McCasland, who mysteriously disappeared in late February.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/6iLQ4ETJcPY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-![美國空軍標誌](../../assets/blog-placeholder-1.jpg)
-*圖：Matthew Sullivan 曾任職於美國國家空天情報中心（NASIC），其死亡引發國會及FBI關注。*
+![U.S. Air Force Logo](../../assets/blog-placeholder-1.jpg)
+*Image: Matthew Sullivan served at the U.S. National Air and Space Intelligence Center (NASIC); his death has drawn attention from Congress and the FBI.*
 
-[🔗 Liberation Times 原文](https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program)
-[🔗 Daily Mail 原文](https://www.dailymail.com/sciencetech/article-15742843/death-air-force-whistleblower-ufo-virginia.html)
-
----
-
-### 新澤西州UFO研究中心法案正式成為法律
-**來源：** UAP Check（2026年4月17日）
-
-新澤西州 Assembly Bill 5712 已於2026年1月正式生效，當中包含設立「不明空中現象研究中心」（Center for the Study of Unidentified Aerial Phenomena）的歷史性條款。該中心由具備相關能力的高等教育機構管理，每年獲撥款250萬美元，成為美國首個以州立法層級正式設立的UFO研究機構。
-
-[🔗 詳細報導](https://www.uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/)
+[🔗 Liberation Times Original Article](https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program)
+[🔗 Daily Mail Original Article](https://www.dailymail.com/sciencetech/article-15742843/death-air-force-whistleblower-ufo-virginia.html)
 
 ---
 
-## 🔬 科學研究進展
+### New Jersey UFO Research Center Bill Becomes Law
+**Source:** UAP Check (April 17, 2026)
 
-### 🪐 科學家提出利用行星模式檢測外星生命
-**來源：** The Debrief（2026年4月28日）
+New Jersey's Assembly Bill 5712 officially took effect in January 2026, including a historic provision to establish a "Center for the Study of Unidentified Aerial Phenomena." Managed by a qualified higher education institution, the center will receive an annual appropriation of $2.5 million, making it the first UFO research institution formally established at the state legislative level in the U.S.
 
-由東京地球生命科學研究所（ELSI）Harrison B. Smith 及國立基礎生物學研究所 Lana Sinapayen 領導的團隊，在《天文物理學期刊》（The Astrophysical Journal）發表突破性研究，提出一種全新外星生命搜尋方法——「不可知生物標誌」（agnostic biosignature）。
+[🔗 Full Report](https://www.uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/)
 
-傳統SETI方法依賴對單一行星尋找氧氣、甲烷等生物標誌或技術信號，但兩者均有缺陷：生物標誌可由非生命化學過程產生，技術信號則需猜測外星文明的技術形態。新方法轉而分析整個行星群之間的模式關聯。研究團隊的電腦模擬顯示，如果生命透過「泛種論」（panspermia）在行星之間傳播，則生命會令相近行星的物理特徵產生可量化的相關性——即使沒有一顆行星單獨顯示出明確的生命信號。
+---
 
-這種方法犧牲部分覆蓋率以換取更低假陽性率，在望遠鏡觀測時間日趨昂貴的今天尤具價值。Smith 表示：「透過聚焦生命如何傳播及改造環境，我們可以在不需要完美定義或單一確定信號的情況下搜尋生命。」
+## 🔬 Scientific Research Progress
+
+### 🪐 Scientists Propose Detecting Alien Life Using Planetary Patterns
+**Source:** The Debrief (April 28, 2026)
+
+A team led by Harrison B. Smith from the Earth-Life Science Institute (ELSI) in Tokyo and Lana Sinapayen from the National Institute for Basic Biology has published groundbreaking research in *The Astrophysical Journal*, proposing a novel method for searching for extraterrestrial life: "agnostic biosignatures."
+
+Traditional SETI methods rely on searching for biosignatures like oxygen or methane, or technosignatures on individual planets, but both have flaws. Biosignatures can be produced by non-living chemical processes, while technosignatures require guessing the technological form of an alien civilization. The new method instead analyzes pattern correlations across entire groups of planets. The team's computer simulations show that if life spreads between planets via "panspermia," life would cause quantifiable correlations in the physical characteristics of neighboring planets—even if no single planet shows a clear sign of life.
+
+This method sacrifices some coverage for a lower false positive rate, which is particularly valuable in an era of increasingly expensive telescope observation time. Smith stated: "By focusing on how life spreads and modifies its environment, we can search for life without needing a perfect definition or a single definitive signal."
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/HX2G5N_kplg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-![外星生命搜尋概念圖](../../assets/blog-placeholder-5.jpg)
-*圖：藝術家筆下外星生命的想像——科學家提出透過分析行星群模式而非單一行星來尋找生命。*
+![Conceptual image of searching for alien life](../../assets/blog-placeholder-5.jpg)
+*Image: An artist's impression of alien life—scientists propose finding life by analyzing patterns across planetary groups rather than individual planets.*
 
-[🔗 The Debrief 原文](https://thedebrief.org/scientists-propose-new-way-to-detect-alien-life-using-planetary-patterns/)
+[🔗 The Debrief Original Article](https://thedebrief.org/scientists-propose-new-way-to-detect-alien-life-using-planetary-patterns/)
 
 ---
 
-### 🔊 次聲波被證實可引發靈異體驗
-**來源：** The Debrief（2026年4月28日）
+### 🔊 Infrasound Confirmed to Trigger Paranormal Experiences
+**Source:** The Debrief (April 28, 2026)
 
-加拿大 MacEwan 大學與阿爾伯塔大學的聯合研究在《Frontiers in Behavioral Neuroscience》發表論文，提供強而有力的證據顯示，暴露於低頻次聲波（低於20Hz，人類無法聽到的頻率）可以引發與靈異經歷相關的生理變化。
+A joint study by Canada's MacEwan University and the University of Alberta, published in *Frontiers in Behavioral Neuroscience*, provides strong evidence that exposure to low-frequency infrasound (below 20Hz, inaudible to humans) can trigger physiological changes associated with paranormal experiences.
 
-研究團隊招募36名參與者分別在播放平靜音樂與「令人不安」音樂的房間中獨處，其中一半房間配備發出18Hz次聲波的超低音揚聲器。結果發現，暴露於次聲波的參與者皮質醇水平顯著升高，並報告感到更煩躁、對音樂興趣降低，且認為音樂「更悲傷」。關鍵是，參與者完全無法分辨自己是否暴露於次聲波。
+The research team recruited 36 participants who spent time alone in rooms playing either calm or "disturbing" music. Half of the rooms were equipped with subwoofers emitting 18Hz infrasound. Results showed that participants exposed to infrasound had significantly elevated cortisol levels and reported feeling more irritable, less interested in the music, and perceived the music as "sadder." Crucially, participants could not tell whether they were exposed to infrasound.
 
-教授 Rodney Schmaltz 解釋：「如果你走進一座據說鬧鬼的建築，立即感到情緒變化、煩躁不安，但看不見也聽不到任何異常——你很可能是身處一個充斥次聲波的環境，尤其是地下室老舊管道和通風系統產生的低頻振動。」
+Professor Rodney Schmaltz explained: "If you walk into a supposedly haunted building and immediately feel a change in mood, feel uneasy, but see or hear nothing unusual—you might be in an environment filled with infrasound, especially low-frequency vibrations from old pipes and ventilation systems in basements."
 
-研究人員指出，這項發現有助於解釋為何某些建築物被認為「鬧鬼」，同時也為真實 UAP 事件中目擊者報告的生理異常感受提供了一個需要排除的解釋變量。
+Researchers note that this finding helps explain why certain buildings are considered "haunted" and also provides a variable that needs to be ruled out for the unusual physiological sensations reported by witnesses in real UAP events.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/5jR8OqFOmdg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-![實驗室研究示意](../../assets/blog-placeholder-2.jpg)
-*圖：次聲波實驗示意——低頻聲波可在人不知情的情況下引發煩躁、焦慮等情緒變化。*
+![Laboratory research illustration](../../assets/blog-placeholder-2.jpg)
+*Image: Illustration of an infrasound experiment—low-frequency sound waves can trigger emotional changes like irritability and anxiety without the person's knowledge.*
 
-[🔗 The Debrief 原文](https://thedebrief.org/scientists-explore-paranormal-experiences-and-the-effects-of-inaudible-infrasound/)
-
----
-
-### 北約無人機入侵與UFO敘事之爭
-**來源：** Liberation Times（2026年4月10日）
-
-Liberation Times 記者 Franc Milburn 發表深度分析，揭示歐洲北約盟國在波羅的海、北海、黑海、大西洋、北極及英倫海峽均面臨嚴重無人機入侵問題。文章特別反駁社交媒體將2024年12月RAF Lakenheath事件標籤為「UFO活動」的說法——MI6已確認該等活動涉及俄羅斯無人機偵察。
-
-Milburn 呼籲UFO社群提高取證標準，避免因確認偏誤而急於將無法解釋的事件歸因於非人類來源。不過，他也承認北約各國目前缺乏統一的無人機應對策略，這種監管真空本身就是安全隱患。
-
-[🔗 詳細報導](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate)
+[🔗 The Debrief Original Article](https://thedebrief.org/scientists-explore-paranormal-experiences-and-the-effects-of-inaudible-infrasound/)
 
 ---
 
-## ❓ 懸案與神秘事件
+### NATO Drone Incursions and the UFO Narrative Debate
+**Source:** Liberation Times (April 10, 2026)
 
-### 失蹤將領 McCasland 事件仍無進展
-**來源：** Liberation Times（2026年3月16日）
+Liberation Times journalist Franc Milburn published an in-depth analysis revealing that NATO allies in Europe face serious drone incursion problems in the Baltic Sea, North Sea, Black Sea, Atlantic Ocean, Arctic, and the English Channel. The article specifically refutes social media claims labeling the December 2024 RAF Lakenheath incident as "UFO activity"—MI6 has confirmed the activity involved Russian drone reconnaissance.
 
-退役美國空軍將領 William「Neil」McCasland 自二月底在新墨西哥州阿爾伯克基離奇失蹤，至今已超過兩個月仍無突破性進展。McCasland 曾任空軍研究實驗室（AFRL）指揮官，處於五角大樓頂尖航空航天研究的核心位置，退役後更與 Blink-182 樂手 Tom DeLonge 合作參與UAP推動工作。
+Milburn calls on the UFO community to raise forensic standards and avoid prematurely attributing unexplained events to non-human sources due to confirmation bias. However, he also acknowledges that NATO countries currently lack a unified drone response strategy, and this regulatory vacuum itself poses a security risk.
 
-McCasland 的失蹤被認為是近期美國科學家及國防人物連環死亡/失蹤事件中最引人注目的一宗。
-
-[🔗 詳細報導](https://www.liberationtimes.com/home/the-missing-general-neil-mccasland-ufo-claims-and-an-unfolding-mystery)
+[🔗 Full Report](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate)
 
 ---
 
-### 美國國安科學家連環死亡事件
-**來源：** NewsNation（2026年4月）
+## ❓ Cold Cases & Mysterious Events
 
-據 NewsNation 報導，美國已有11名科學家及國防相關人物在近期死亡或下落不明，大部分與機密航空航天及國防項目有關。除了上述的 McCasland 和 Sullivan，還包括多名曾參與先進國防技術項目的研究人員。
+### Missing General McCasland Case Still Without Progress
+**Source:** Liberation Times (March 16, 2026)
 
-Burlison 議員表示已經接觸 FBI，但FBI對是否正在調查這些死亡事件既不確認也不否認。
+Retired U.S. Air Force General William "Neil" McCasland has been missing since late February in Albuquerque, New Mexico. Over two months later, there is still no breakthrough. McCasland, a former commander of the Air Force Research Laboratory (AFRL), was at the core of the Pentagon's top aerospace research. After retirement, he collaborated with Blink-182 musician Tom DeLonge on UAP advocacy.
+
+McCasland's disappearance is considered the most prominent among the recent string of deaths/disappearances of U.S. scientists and defense figures.
+
+[🔗 Full Report](https://www.liberationtimes.com/home/the-missing-general-neil-mccasland-ufo-claims-and-an-unfolding-mystery)
 
 ---
 
-## 🔮 世界局勢前瞻
+### String of Deaths of U.S. National Security Scientists
+**Source:** NewsNation (April 2026)
 
-### 歐盟UAP通報機制嚴重缺位
-**來源：** UAP Check（2026年3月20日）
+According to NewsNation, 11 U.S. scientists and defense-related individuals have recently died or gone missing, most linked to classified aerospace and defense projects. Besides McCasland and Sullivan, this includes several researchers who participated in advanced defense technology projects.
 
-歐洲UAP日發布的數據顯示，歐洲在過去一年錄得超過5,000宗UFO目擊報告，然而歐盟至今仍未建立統一的UAP追蹤與應對機制。與美國已設有AARO及多個州層級UAP研究機構相比，歐洲的碎片化通報系統形成顯著的跨大西洋應對能力差距。
+Congressman Burlison stated he has contacted the FBI, but the FBI has neither confirmed nor denied whether it is investigating these deaths.
+
+---
+
+## 🔮 Global Outlook
+
+### EU UAP Reporting Mechanism Severely Lacking
+**Source:** UAP Check (March 20, 2026)
+
+Data released on European UAP Day shows that Europe recorded over 5,000 UFO sighting reports in the past year, yet the EU has still not established a unified UAP tracking and response mechanism. Compared to the U.S., which has AARO and multiple state-level UAP research institutions, Europe's fragmented reporting system creates a significant transatlantic response capability gap.
 
 ---
 
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 2em;">
 
-*🤖 本文章由 AI 自動搜集及整理*
-*🕐 更新時間：2026-04-30 12:00 HKT*
-*📋 資料來源：Liberation Times、The Debrief、UAP Check、Daily Mail、NewsNation等*
+*🤖 This article is automatically collected and organized by AI*
+*🕐 Updated: 2026-04-30 12:00 HKT*
+*📋 Sources: Liberation Times, The Debrief, UAP Check, Daily Mail, NewsNation, etc.*
 
-**來源連結：**
-- [Liberation Times — 已故空軍情報官與遺留UFO計劃](https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program)
-- [Daily Mail — Sullivan死亡事件](https://www.dailymail.com/sciencetech/article-15742843/death-air-force-whistleblower-ufo-virginia.html)
-- [The Debrief — 行星模式外星生命檢測法](https://thedebrief.org/scientists-propose-new-way-to-detect-alien-life-using-planetary-patterns/)
-- [The Debrief — 次聲波與靈異體驗](https://thedebrief.org/scientists-explore-paranormal-experiences-and-the-effects-of-inaudible-infrasound/)
-- [Liberation Times — 北約無人機與UFO敘事](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate)
-- [Liberation Times — 失蹤將領 McCasland](https://www.liberationtimes.com/home/the-missing-general-neil-mccasland-ufo-claims-and-an-unfolding-mystery)
-- [UAP Check — 三州UFO法案](https://www.uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/)
+**Source Links:**
+- [Liberation Times — Deceased Air Force Officer Linked to Legacy UFO Program](https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program)
+- [Daily Mail — Sullivan Death Incident](https://www.dailymail.com/sciencetech/article-15742843/death-air-force-whistleblower-ufo-virginia.html)
+- [The Debrief — Planetary Pattern Alien Life Detection Method](https://thedebrief.org/scientists-propose-new-way-to-detect-alien-life-using-planetary-patterns/)
+- [The Debrief — Infrasound and Paranormal Experiences](https://thedebrief.org/scientists-explore-paranormal-experiences-and-the-effects-of-inaudible-infrasound/)
+- [Liberation Times — NATO Drones and UFO Narrative](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate)
+- [Liberation Times — Missing General McCasland](https://www.liberationtimes.com/home/the-missing-general-neil-mccasland-ufo-claims-and-an-unfolding-mystery)
+- [UAP Check — Three-State UFO Bills](https://www.uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/)
 
 </div>

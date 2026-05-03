@@ -7,14 +7,13 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "brazil"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+In 1977, a UFO incident that shocked South America occurred on Colares Island at the mouth of the Amazon River in Brazil—residents were "attacked" by beams of light from UFOs, with multiple people injured, prompting the Brazilian Air Force to launch a large-scale military investigation called "Operation Saucer."
 
-1977年，巴西亞馬遜河入口嘅Colares島發生咗一件震驚南美嘅UFO事件——島上居民俾UFO嘅光束「攻擊」，多人受到傷害，巴西空軍展開咗大規模嘅「Operation Saucer」（碟形行動）軍事調查。
+Residents reported multiple UFOs emitting intense red, blue, and yellow lights hovering over rooftops at night. Some said they were struck by beams shot from the crafts, causing skin burns, paralysis, and dizziness. Over 40 injury reports were registered.
 
-居民報告夜晚有多個發出強烈紅光、藍光同黃光嘅UFO喺屋頂上空盤旋。有居民話俾飛船射出嘅光束擊中，造成皮膚灼傷、麻痹同頭暈。超過40人登記咗受傷報告。
+The Brazilian Air Force dispatched an investigation team led by Captain Uyrangê Hollanda. They captured numerous UFO photos (over 500) and recorded many residents' testimonies. Hollanda later stated: "We saw them, they are real."
 
-巴西空軍派出以Captain Uyrangê Hollanda為首嘅調查隊。佢哋拍攝到大量UFO照片（超過500張），並記錄咗好多居民嘅證詞。Hollanda後來話：「我哋見到佢哋，佢哋係真實嘅。」
-
-📚 來源
+📚 Sources
 - Brazilian Air Force, "Operation Saucer Mission Report" (1977)
 - Hollanda, U. Testimony (1997), Brazilian UFO Congress
-- Pratt, B. & Vankin, J. "Operation Saucer: The Brazilian Air Force''s UFO Cover-up" (1999)
+- Pratt, B. & Vankin, J. "Operation Saucer: The Brazilian Air Force's UFO Cover-up" (1999)

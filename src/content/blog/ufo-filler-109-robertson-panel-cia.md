@@ -7,14 +7,13 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "government-panel"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+In January 1953, the CIA assembled a group of scientists to form the "Robertson Panel," chaired by physicist H.P. Robertson from the California Institute of Technology. The panel met for only four days and reviewed a small number of UFO cases.
 
-1953年1月，CIA召集咗一批科學家組成「Robertson小組」，小組由加州理工學院物理學家H.P. Robertson主持。小組只開咗四日會，審視咗少量UFO案例。
+The panel's conclusion was that the vast majority of UFO sightings had ordinary explanations, and although a small portion remained unexplained, there was "insufficient evidence to prove they were of extraterrestrial origin." The panel's most critical recommendation was to "reduce" public interest in UFOs through public education, debunk the UFO myth, and prevent it from being exploited by adversaries to cause public panic.
 
-小組嘅結論係：絕大部分UFO目擊有普通解釋，雖然有一小部分無法解釋，但「冇足夠證據證明佢哋係外星來源」。小組最關鍵嘅建議係——應該透過公眾教育「降低」公眾對UFO嘅興趣，拆穿UFO神話，以防止被敵方利用嚟造成公眾恐慌。
+This strategy was adopted by the U.S. military and intelligence agencies, shaping the government's attitude of "debunking and ignoring" UFOs for decades to come. To this day, many analysts consider the Robertson Panel a key starting point for the stigmatization of UFOs.
 
-呢個策略被美國軍方同情報機構採納，塑造咗之後幾十年政府對UFO「貶低同忽視」嘅態度。直至今日，好多分析師認為Robertson小組係UFO污名化嘅重要起點。
-
-📚 來源
+📚 Sources
 - CIA, "Report of the Scientific Advisory Panel on Unidentified Flying Objects" (1953)
 - Haines, G. "The Robertson Panel and the UFO Stigma" (1997)
 - Dolan, R. "UFOs and the National Security State" (2000)

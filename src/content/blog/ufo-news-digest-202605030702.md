@@ -6,78 +6,77 @@ descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-03T07:02:00.000Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---
+> It's time for another UFO News Flash! Even though it's Sunday, the UFO world never takes a day off. Today we bring several major stories: a former US president brings up UFO files again, a congresswoman pressures for classified information, and the UK's most classic UFO case is back in the spotlight. Buckle up!
 
-> 又嚟到UFO快訊時間！雖然係星期日，但ＵＦＯ世界永遠唔會放假。今日帶嚟幾個重磅消息：美國前總統再提UFO檔案、國會女將逼爆機密、仲有英國最經典嘅UFO案件再次成為焦點。坐穩啦！
-
-![UFO概念圖](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![UFO concept image](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
 
 ---
 
-## ⭐ 1. 特朗普再講UFO：「你哋會見到我哋釋放好多嘢」
+## ⭐ 1. Trump Talks UFOs Again: "You're Going to See Us Release a Lot of Things"
 
-| 📍 *美國* | 📅 *2026年4月29-30日* | 🔍 *政治 / 披露* |
+| 📍 *USA* | 📅 *April 29-30, 2026* | 🔍 *Politics / Disclosure* |
 
-前總統 **唐納德·特朗普** 最近再次公開談論UFO，話佢嘅團隊將釋放關於不明飛行物的信息，仲話裡面有 **「好多你唔會相信嘅嘢」**（things you wouldn't believe）。《USA Today》同《Newsweek》都分別報道咗呢個消息。
+Former President **Donald Trump** recently spoke publicly about UFOs again, saying his team will release information about unidentified flying objects, adding that it contains **"a lot of things you wouldn't believe."** *USA Today* and *Newsweek* both reported on this news.
 
-特朗普呢幾年一直間歇性提UFO——由佢第一任期時被問到、到近期頻頻開口話「有啲好奇怪嘅嘢飛緊」。雖然具體時間表同內容仍然唔清楚，但呢次佢用嘅措辭比之前更加具體，令人期待佢係咪真係會釋放新資訊。
+Trump has intermittently mentioned UFOs over the years—from being asked about them during his first term to recently speaking out more frequently, saying "there are some very strange things flying around." Although the specific timeline and content remain unclear, his wording this time is more specific than before, raising expectations about whether he will actually release new information.
 
-有分析指出，特朗普可能係回應近月嚟國會內部對UAP問題越嚟越多嘅壓力，或者純粹係選舉前嘅策略——但無論動機係咩，呢啲言論都再次將UFO推上主流議程。
+Some analysts suggest Trump may be responding to the increasing pressure within Congress on UAP issues in recent months, or it could simply be a pre-election strategy—but regardless of the motive, these remarks have once again pushed UFOs onto the mainstream agenda.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/NvP4bKzsX_Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## ⭐ 2. 眾議員承諾披露「非人類起源」資訊
+## ⭐ 2. Congresswoman Promises to Disclose Information of "Nonhuman Origin"
 
-| 📍 *美國華盛頓* | 📅 *2026年4月30日* | 🔍 *國會 / 披露* |
+| 📍 *Washington, USA* | 📅 *April 30, 2026* | 🔍 *Congress / Disclosure* |
 
-另一位國會議員——據《NewsNation》獨家報道——公開承諾將會處理同 **「非人類起源」**（nonhuman origin）相關嘅資訊。
+Another member of Congress—according to an exclusive report by *NewsNation*—has publicly promised to address information related to **"nonhuman origin."**
 
-雖然特朗普喺冇實際行動嘅情況下講咗好耐，今次呢位國會議員嘅表態可能係國會內部越嚟越多人支持披露嘅跡象。近幾屆國會嘅UAP聽證會已經證實咗部分過往保密嘅內容，包括不明飛行現象嘅真實性同佢哋對國家安全嘅潛在影響。
+While Trump has talked for a long time without concrete action, this congresswoman's statement may be a sign of growing support for disclosure within Congress. Recent UAP hearings in Congress have already confirmed some previously classified content, including the reality of unidentified aerial phenomena and their potential impact on national security.
 
-> 之前已經有多位吹哨人如David Grusch同Ryan Graves喺國會作證，呢位國會議員嘅承諾可能意味着準備好進行下一步——真正公開更多受保護嘅資訊。
+> Multiple whistleblowers like David Grusch and Ryan Graves have previously testified before Congress. This congresswoman's promise may indicate readiness for the next step—truly releasing more protected information.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/BGAAh93l4F0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## ⭐ 3. Rendlesham Forest UFO之謎：「完美嘅UFO案件」
+## ⭐ 3. The Rendlesham Forest UFO Mystery: "The Perfect UFO Case"
 
-| 📍 *英國Suffolk* | 📅 *1980年12月 / 2026年4月30日* | 🔍 *經典案件 / 重新審視* |
+| 📍 *Suffolk, UK* | 📅 *December 1980 / April 30, 2026* | 🔍 *Classic Case / Re-examination* |
 
-英國最著名嘅UFO案件——**Rendlesham Forest事件**——最近又成為熱話。《衞報》（The Guardian）喺4月30日發表咗一篇深入報道，形容呢次事件為 **「完美嘅UFO案件風暴」**。
+The UK's most famous UFO case—the **Rendlesham Forest incident**—has recently become a hot topic again. *The Guardian* published an in-depth article on April 30, describing the event as **"the perfect storm of a UFO case."**
 
-發生喺1980年聖誕期間，美國空軍人員喺英國Suffolk嘅Rendlesham Forest見到神秘光點，甚至觸摸到一個奇怪嘅三角形飛行器。事後軍方記錄顯示，多名有經驗嘅空軍人員都確認見到異常現象。當年嘅調查報告稱為 **「英國嘅Roswell」**。
+Occurring during the Christmas period of 1980, US Air Force personnel in Rendlesham Forest, Suffolk, UK, saw mysterious lights and even touched a strange triangular craft. Subsequent military records show that multiple experienced air force personnel confirmed witnessing anomalous phenomena. The investigation report at the time called it **"Britain's Roswell."**
 
-今次《衞報》嘅報道再次引起討論，因為有新嘅證人同文件浮出水面，進一步印證呢次事件唔係普通嘅誤認。Rendlesham已經成為UFO研究中最多人研究、同時最具爭議嘅案件之一。
+*The Guardian's* report has sparked discussion again, as new witnesses and documents have surfaced, further confirming that this incident was not a simple misidentification. Rendlesham has become one of the most studied and most controversial cases in UFO research.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/dUypHStRJ2Y" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## ⭐ 4. 前國防部官員：承諾嘅UFO資訊釋放唔會係「冇料到」
+## ⭐ 4. Former Defense Official: Promised UFO Info Release Won't Be a "Nothingburger"
 
-| 📍 *美國* | 📅 *2026年4月29-30日* | 🔍 *內幕 / 分析* |
+| 📍 *USA* | 📅 *April 29-30, 2026* | 🔍 *Insider / Analysis* |
 
-一位不具名嘅前國防部官員向《NewsNation》表示，政府承諾嘅UFO資訊釋放 **唔會係「nothingburger」（冇料到）**。
+An unnamed former Defense Department official told *NewsNation* that the government's promised release of UFO information **will not be a "nothingburger."**
 
-呢個評論緊接住特朗普同國會議員嘅表態，似乎暗示有實質內容正在準備釋放。近年來隨住《2023年國防授權法案》嘅UAP修正案同AARO辦公室嘅設立，信息披露已經比以前更制度化——問題係進度太慢，令公眾同研究社群開始不耐煩。
+This comment follows closely on the statements from Trump and the congresswoman, seemingly hinting that substantive content is being prepared for release. In recent years, with the UAP amendment in the *2023 National Defense Authorization Act* and the establishment of the AARO office, information disclosure has become more institutionalized—the problem is that progress is too slow, causing impatience among the public and the research community.
 
-前官員嘅呢番話，可能係為即將到來嘅重大披露做準備。而到底係新檔案定係吹哨人出面，就要睇跟住落嚟嘅發展。
+The former official's remarks may be preparing the ground for a major disclosure to come. Whether it will be new files or whistleblowers coming forward remains to be seen in the developments ahead.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/lGDFjLJkHXc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## 📺 更多UFO相關精選影片
+## 📺 More Featured UFO Videos
 
-以下係今日推介嘅幾條熱門UFO影片：
+Here are a few popular UFO videos recommended today:
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ybUXfnOaK3w" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## 🔗 來源連結
+## 🔗 Source Links
 
 - [USA Today — Trump says administration will release 'a lot of things' on UFOs](https://www.usatoday.com/story/news/politics/2026/04/29/trump-ufo-announcement/82942218007/)
 - [Newsweek — Trump Says He'll Release UFO Files: 'Things You Wouldn't Believe'](https://www.newsweek.com/trump-ufo-files-release-things-you-wouldnt-believe-2106222)

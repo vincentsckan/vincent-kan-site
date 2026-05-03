@@ -7,14 +7,13 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "government-files"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+After the collapse of the Soviet Union, a large number of former KGB UFO files were exposed. These documents reveal the Soviet Union's high level of attention to UFO phenomena during the Cold War—a country mistakenly believed by the West to have "no UFO problem" actually possessed an extremely rich collection of UFO archives.
 
-蘇聯解體後，大量前KGB嘅UFO檔案被曝光。呢啲文件揭示咗冷戰期間蘇聯對UFO現象嘅高度關注——一個被西方誤以為「蘇聯冇UFO問題」嘅國家，實際上擁有極豐富嘅UFO檔案。
+The KGB's special files include: incidents of UFOs flying over nuclear missile bases (the 1982 Pervomaisk incident in Ukraine), records of fighter jets scrambled to intercept UFOs but unable to approach, cases where military and civilian radars simultaneously locked onto targets, and even documents about alleged UFO crash retrievals.
 
-KGB嘅特別檔案中包括：核導彈基地被UFO飛越嘅事件（1982年烏克蘭Pervomaisk事件）、戰機升空攔截UFO但無法接近嘅記錄、軍民雷達同時鎖定目標嘅案例，甚至仲有傳聞中UFO墜毀回收嘅文件。
+The most famous is a document declassified in 1993, known as the "KGB/Soviet Academy of Sciences Joint Report," which summarizes Soviet UFO data from 1947 to 1990, acknowledging that approximately 20-30% of military-grade UFO incidents remain unexplained.
 
-最著名嘅係1993年解密嘅一份稱為「KGB/Soviet Academy of Sciences Joint Report」嘅文件，總結咗蘇聯1947年至1990年嘅UFO數據，承認約20-30%嘅軍事級別UFO事件無法解釋。
-
-📚 來源
+📚 Sources
 - Azhazha, V. "UFOs Around the World" (1997)
 - Stonehill, P. "The Soviet UFO Files" (1996)
 - KGB Archive, "Unidentified Aerial Phenomena Reports" (Declassified 1993)

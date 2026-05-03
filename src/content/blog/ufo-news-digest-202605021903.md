@@ -6,105 +6,104 @@ descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-02T19:03:00.000Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---
+> All major UFO news, gathered in one place! Several major stories are shaking the UFO world today — Nick Pope's passing shocks the globe, Trump and Obama clash over the alien question, and the documentary *The Age of Disclosure* sparks heated debate.
 
-> 大小UFO新聞，全部搜羅！今日UFO界有幾個重大消息——Nick Pope離世震驚全球、特朗普同奧巴馬因為外星人問題開火、《The Age of Disclosure》紀錄片引發熱議。
-
-| 📍 *全球* | 📅 *2026年4-5月* | 🔍 *綜合快訊* |
+| 📍 *Global* | 📅 *April-May 2026* | 🔍 *News Roundup* |
 
 ---
 
-## ⚠️ 突發！UFO界傳奇人物 Nick Pope 逝世，終年60歲
+## ⚠️ Breaking! UFO Legend Nick Pope Dies at 60
 
-《紐約時報》報道，前英國國防部UFO調查員 Nick Pope 已經離世，享年60歲。佢被譽為「現實版 Mulder」（X-Files角色），喺英國國防部嘅 Ministry of Defence 任職期間，負責調查不明飛行物體案件，後來成為UFO界最具影響力嘅公眾人物之一。
+The New York Times reports that former British Ministry of Defence UFO investigator Nick Pope has passed away at the age of 60. Known as the "real-life Mulder" (X-Files character), he was responsible for investigating UFO cases during his tenure at the UK's Ministry of Defence, later becoming one of the most influential public figures in the UFO community.
 
-Pope 由 skeptic （懷疑論者）逐步轉變為 believer（相信者），佢嘅轉變經歷影響咗無數人對UFO嘅睇法。佢撰寫咗多本關於UFO嘅暢銷書，經常喺媒體上評論UAP議題。
+Pope gradually transformed from a skeptic to a believer, and his journey profoundly influenced countless people's views on UFOs. He authored several bestselling books on UFOs and frequently commented on UAP issues in the media.
 
-> 「Nick Pope 係將UFO研究帶入主流嘅關鍵人物。佢嘅離世對整個UFO社群係巨大損失。」
+> "Nick Pope was a key figure in bringing UFO research into the mainstream. His passing is a huge loss for the entire UFO community."
 
-**相關影片：**
+**Related Videos:**
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/mfHznCZXu0M" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*Nick Pope 生前最後受訪：講述佢嘅UFO調查經歷*
+*Nick Pope's last interview: recounting his UFO investigation experiences*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/DI51G2Kd3xI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*Nick Pope 回顧英國國防部UFO檔案*
+*Nick Pope reflects on the UK Ministry of Defence's UFO files*
 
 ---
 
-## 🔥 特朗普 vs 奧巴馬：外星人罵戰
+## 🔥 Trump vs. Obama: Alien War of Words
 
-《紐約時報》獨家報道，美國前總統奧巴馬喺一個podcast節目入面公開話「外星人係真嘅」（aliens were real），隨即觸發特朗普強烈反擊。特朗普喺社交媒體上猛烈抨擊奧巴馬，稱呢啲係「假新聞」同「政治手段」。
+The New York Times exclusively reports that former U.S. President Barack Obama publicly stated on a podcast that "aliens were real," immediately triggering a strong backlash from Trump. Trump lashed out on social media, calling it "fake news" and a "political stunt."
 
-兩位前總統就外星人問題隔空開火，可能同近期國會推動嘅UAP披露法案有關。UFO社群普遍認為，呢啲高層政治人物嘅爭論，反而證明咗真係有嘢隱瞞。
+The two former presidents are trading fire over the alien issue, possibly linked to recent congressional pushes for UAP disclosure legislation. The UFO community widely believes that these high-level political arguments actually prove there is something being hidden.
 
-**相關影片：**
+**Related Videos:**
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/mdRzWovKqAI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*奧巴馬談外星人是否存在*
+*Obama discusses whether aliens exist*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/C5iGGOsOcLs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*美國總統與UFO披露嘅政治角力*
+*The political struggle between U.S. presidents and UFO disclosure*
 
 ---
 
-## 🎬 《The Age of Disclosure》紀錄片：34位高官齊爆料
+## 🎬 *The Age of Disclosure* Documentary: 34 High-Level Officials Spill the Beans
 
-由 Dan Farah 執導嘅紀錄片《The Age of Disclosure》喺 SXSW 首映後持續引發話題。呢部紀錄片訪問咗34位政府、軍方同情報界高層官員，佢哋全部喺鏡頭前指控美國政府隱瞞「非人類智慧生命」嘅存在。
+Directed by Dan Farah, the documentary *The Age of Disclosure* continues to generate buzz after its premiere at SXSW. The film interviews 34 high-ranking government, military, and intelligence officials, all of whom accuse the U.S. government of concealing the existence of "non-human intelligence."
 
-重點爆料人物包括：
-- **Jay Stratton**（前國防情報局官員、政府UAP任務小組前負責人）：公開話「我親眼見過非人類嘅飛行器同非人類嘅生物」
-- **Luis Elizondo**（前國防部官員、AATIP成員）：指控政府有個自1940年代以嚟嘅「legacy program」隱瞞真相
-- **國務卿 Marco Rubio** 喺片中表示：「就算係總統，似乎都係按需先知（need-to-know basis）」
+Key whistleblowers include:
+- **Jay Stratton** (former Defense Intelligence Agency official, former head of the government's UAP task force): publicly stated, "I have personally seen non-human craft and non-human beings."
+- **Luis Elizondo** (former Department of Defense official, AATIP member): accuses the government of running a "legacy program" since the 1940s to hide the truth.
+- **Secretary of State Marco Rubio** says in the film: "Even the president seems to be on a need-to-know basis."
 
-紀錄片指出，UAP唔單止係天上奇怪嘅光點，仲有文件證明呢啲飛行器貌似「違反物理定律」，而且會干擾核設施同軍事行動。
+The documentary points out that UAPs are not just strange lights in the sky; there is documentation showing these craft appear to "violate the laws of physics" and interfere with nuclear facilities and military operations.
 
-**相關影片：**
+**Related Videos:**
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/YRfW6pMiVGQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*《The Age of Disclosure》紀錄片預告*
+*Trailer for *The Age of Disclosure* documentary*
 
 ---
 
-## 🌟 Goldie Hawn 親述外星人接觸經歷
+## 🌟 Goldie Hawn Recounts Alien Encounter
 
-荷里活影星 Goldie Hawn 喺訪問中回憶起50年前嘅一次疑似外星人接觸經歷。佢話：「佢哋摸咗我塊面」（They touched my face）。呢段經歷發生喺50幾年前，Goldie Hawn 到而家都仲記得清清楚楚。
+Hollywood star Goldie Hawn recalled a suspected alien encounter from 50 years ago in an interview. She said: "They touched my face." The experience happened over 50 years ago, and Goldie Hawn still remembers it vividly.
 
-雖然唔少人可能覺得荷里活明星講呢啲嘢信唔過，但 Goldie Hawn 一直以嚟都係較為理性嘅公眾人物，令到佢嘅外星人經歷特別引人關注。
+While some may dismiss a Hollywood star's claims, Goldie Hawn has always been a relatively rational public figure, making her alien experience particularly noteworthy.
 
-**相關影片：**
+**Related Videos:**
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/rI0XeW5KDmo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*Goldie Hawn 分享外星人經歷*
+*Goldie Hawn shares her alien experience*
 
 ---
 
-## 📰 Ross Douthat 專欄：4大UFO問題需要解答
+## 📰 Ross Douthat Column: 4 Big UFO Questions Need Answers
 
-《紐約時報》專欄作家 Ross Douthat 近日發表題為「4 Big U.F.O. Questions Have Landed」嘅評論文章，提出四個核心問題：
+New York Times columnist Ross Douthat recently published a commentary titled "4 Big U.F.O. Questions Have Landed," raising four core questions:
 
-1. 政府究竟知道啲咩？
-2. 非人類智慧係咪真係存在？
-3. 點解披露咁慢？
-4. 如果真係有外星技術，對國家安全有咩影響？
+1. What does the government actually know?
+2. Does non-human intelligence really exist?
+3. Why is disclosure so slow?
+4. If alien technology exists, what are the implications for national security?
 
-呢篇文反映咗主流媒體對UFO議題嘅態度正喺度轉變——由以往嘅嘲笑、邊緣化，到而家認真討論。
+This article reflects a shift in mainstream media's attitude toward the UFO issue — from past ridicule and marginalization to serious discussion.
 
-![UFO相關圖片](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
-
----
-
-## 📡 NASA 公佈 UFO 報告結果
-
-美國太空總署 NASA 嘅 UAP 研究小組亦公佈咗最新研究結果。雖然 NASA 一直強調未有證據顯示UAP同外星人有關，但佢哋承認有部分案例「無法用現有科學解釋」，呼籲政府進一步投入資源研究。
-
-呢啲發現同以往 NASA 保守嘅立場相比，已經係好大嘅進步。
+![UFO-related image](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
 
 ---
 
-## 來源連結
+## 📡 NASA Releases UFO Report Findings
 
-- [紐約時報：Nick Pope 訃聞](https://www.nytimes.com/search?query=UFO+UAP)
-- [紐約時報：特朗普vs奧巴馬外星人言論](https://www.nytimes.com/search?query=UFO+UAP)
-- [Yahoo Entertainment：The Age of Disclosure 紀錄片](https://www.yahoo.com/entertainment/the-age-of-disclosure-documentary-presents-evidence-of-aliens-and-ufos-with-broad-bipartisan-support-will-people-believe-it-224248772.html)
-- [Yahoo Entertainment：Goldie Hawn 外星人經歷](https://www.yahoo.com/entertainment/goldie-hawn-recalls-alleged-alien-214949628.html)
-- [Ross Douthat：4 Big U.F.O. Questions](https://www.nytimes.com/search?query=UFO+UAP)
+NASA's UAP research team has also released its latest findings. While NASA has consistently emphasized that there is no evidence linking UAPs to aliens, they acknowledge that some cases "cannot be explained by current science" and call for further government investment in research.
+
+Compared to NASA's traditionally conservative stance, these findings represent significant progress.
+
+---
+
+## Source Links
+
+- [New York Times: Nick Pope Obituary](https://www.nytimes.com/search?query=UFO+UAP)
+- [New York Times: Trump vs. Obama Alien Remarks](https://www.nytimes.com/search?query=UFO+UAP)
+- [Yahoo Entertainment: *The Age of Disclosure* Documentary](https://www.yahoo.com/entertainment/the-age-of-disclosure-documentary-presents-evidence-of-aliens-and-ufos-with-broad-bipartisan-support-will-people-believe-it-224248772.html)
+- [Yahoo Entertainment: Goldie Hawn Alien Experience](https://www.yahoo.com/entertainment/goldie-hawn-recalls-alleged-alien-214949628.html)
+- [Ross Douthat: 4 Big U.F.O. Questions](https://www.nytimes.com/search?query=UFO+UAP)

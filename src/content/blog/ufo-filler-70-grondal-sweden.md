@@ -7,26 +7,25 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "military-radar"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-1970年代，瑞典北部Jämtland地區嘅Gröndal軍事雷達站記錄咗一系列極為唔尋常嘅雷達接觸事件。當地軍方人員報告話，佢哋嘅雷達經常鎖定到以超過10馬赫（即音速10倍）飛行嘅不明物體——呢種速度遠遠超越當時任何已知嘅人造飛行器。
+In the 1970s, the Gröndal military radar station in the Jämtland region of northern Sweden recorded a series of highly unusual radar contact events. Local military personnel reported that their radar frequently locked onto unidentified objects flying at speeds exceeding Mach 10 (ten times the speed of sound)—a velocity far beyond any known man-made aircraft at the time.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Gröndal, Jämtland, Sweden | 1970s | Military Radar Tracking |
 
-Gröndal雷達站係瑞典空軍嘅防空網絡一部分，負責監控挪威邊境同波羅的海上空嘅空中活動。雷達操作員技術高超，有能力區分飛機、鳥類同氣象現象。
+The Gröndal radar station was part of the Swedish Air Force's air defense network, responsible for monitoring air activity over the Norwegian border and the Baltic Sea. The radar operators were highly skilled, capable of distinguishing between aircraft, birds, and meteorological phenomena.
 
-但佢哋遇到嘅UFO訊號完全唔同。操作員描述呢啲目標可以喺幾秒鐘內從懸停加速到超過8,000公里每小時——呢種加速力係人類身體完全冇可能承受嘅。更加詭異嘅係，雷達顯示呢啲目標經常做出90度直角急轉彎，完全違反慣性定律。
+But the UFO signals they encountered were entirely different. Operators described these targets as capable of accelerating from a hover to over 8,000 km/h in just seconds—a level of acceleration impossible for the human body to withstand. Even more bizarre, the radar showed these targets frequently making sharp 90-degree turns, completely defying the laws of inertia.
 
-瑞典空軍嘅秘密調查報告中提到一個最奇怪嘅特徵：UFO嘅雷達回波訊號與一般飛機好唔同，係「脈衝式」嘅，好似不斷閃爍一樣。呢個特徵喺多個獨立的雷達站中被交叉確認。
+A secret investigation report by the Swedish Air Force noted one of the strangest features: the radar echo signals of the UFOs were very different from those of ordinary aircraft, being "pulsed" and appearing to flicker continuously. This characteristic was cross-confirmed by multiple independent radar stations.
 
-不過Gröndal事件最特別嘅地方係——瑞典政府選擇咗公開部分資訊。1970年代，瑞典國防部長曾經喺國會會議上確認，軍方「無法解釋部分雷達接觸事件」。呢種公開透明度，喺冷戰時期嘅軍事大國中係非常罕見。
+However, the most unique aspect of the Gröndal incident is that the Swedish government chose to release some information publicly. In the 1970s, the Swedish Minister of Defense confirmed in a parliamentary session that the military "could not explain some of the radar contact events." This level of transparency was extremely rare among military powers during the Cold War.
 
-瑞典UFO研究組織UFO-Sverige嘅創始人Clas Svahn喺2000年代初期成功透過信息自由法獲得咗更多嘅軍方文件。呢啲文件顯示瑞典空軍曾經成立過一個秘密小組去研究呢啲雷達接觸——名稱係「Gröndal Group」（Gröndal小組）。
+Clas Svahn, founder of the Swedish UFO research organization UFO-Sverige, successfully obtained more military documents in the early 2000s through freedom of information laws. These documents revealed that the Swedish Air Force had established a secret group to study these radar contacts—named the "Gröndal Group."
 
-Gröndal事件至今仍然被北歐UFO研究界視為「雷達鎖定UFO嘅典範案例」，同英國Lakenheath事件、美國RB-47事件齊名。
+The Gröndal incident is still regarded by the Nordic UFO research community as a "classic case of radar-locked UFOs," on par with the UK's Lakenheath incident and the US's RB-47 incident.
 
-📚 來源
+📚 Sources
 - Swedish Air Force, "Gröndal Radar Station Reports" (1971-1979)
 - UFO-Sverige, "Gröndalgruppen: The Secret Military UFO Group" (2003)
 - Svahn, C. "Swedish UFO History" (2008), Norstedts

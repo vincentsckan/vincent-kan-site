@@ -8,164 +8,163 @@ updatedDate: '2026-05-03T14:04:00Z'
 tags: ["UFO", "UAP", "news", "自動更新"]
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
+> 📡 **UFO/UAP Latest News** — Evening Edition, Sunday, May 3, 2026
+> AI-Automated Collection · Focus on Latest Disclosure Developments and Bizarre Sighting Events
 
-> 📡 **UFO/UAP 最新消息** — 2026年5月3日（星期日）晚間版
-> 由AI自動搜集·重點報導最新披露動態及奇特目擊事件
-
-| 📍 *內華達Silver Lake · 華盛頓DC · 火星 · 太陽 · 多個UFO話題* | 📅 *2026年5月3日* | 🔍 *內華達地震 · MKUltra聽證會 · 披露分析 · Serpo任務 · UFO目擊* |
+| 📍 *Silver Lake, Nevada · Washington DC · Mars · Sun · Multiple UFO Topics* | 📅 *May 3, 2026* | 🔍 *Nevada Earthquakes · MKUltra Hearing · Disclosure Analysis · Serpo Mission · UFO Sightings* |
 
 ---
 
-## 🌊 內華達Silver Lake連續地震！4.9級為最強 — 盆地與山脈省地殼正撕裂
+## 🌊 Consecutive Earthquakes at Silver Lake, Nevada! 4.9 Magnitude Strongest — Crust Tearing in Basin and Range Province
 
-**來源：** Daily Mail（2026年5月3日）
+**Source:** Daily Mail (May 3, 2026)
 
-內華達州 **Silver Lake** 地區今晨爆發大規模地震群，首震為凌晨1:15 PT（4:15 ET）的**4.1級地震**，不足兩分鐘後再錄得**4.9級強震**。USGS至今已探測到至少**十多次後續餘震**。
+A major earthquake swarm erupted this morning in the **Silver Lake** area of Nevada. The first tremor was a **4.1 magnitude earthquake** at 1:15 AM PT (4:15 AM ET), followed by a **4.9 magnitude strong quake** less than two minutes later. The USGS has detected at least **over a dozen aftershocks** so far.
 
-震央位於**盆地與山脈省（Basin and Range Province）**——一個橫跨美國西部的廣闊地質區域。該地區地殼正逐漸被拉伸及變薄，持續形成斷層及地震活動。Silver Lake亦處於**Walker Lane地震帶**，是板塊拉離陸地的極活躍區域。
+The epicenter is located in the **Basin and Range Province** — a vast geological region spanning the western United States. The crust in this area is gradually being stretched and thinned, continuously forming faults and seismic activity. Silver Lake is also situated in the **Walker Lane seismic zone**, a highly active area where tectonic plates are pulling away from the land.
 
-搖晃範圍遠及**加州北部**——有Auburn居民在社交平台表示：「感覺搖晃了好一陣子，我隻貓嚇到跑咗去梳化後面。」
+The shaking was felt as far as **Northern California** — one Auburn resident posted on social media: "Felt it shaking for a while, my cat got scared and ran behind the couch."
 
-不少居民在社交媒體上發文：
-- 「喺Fernley感受到，搖晃時間較長，地下有嘢喺度郁。」
-- 「我同孫女喺NE Sparks都感受到，係一連串滾動式波浪。掛喺室內嘅風鈴搖晃咗5分鐘。」
+Many residents shared their experiences on social media:
+- "Felt it in Fernley, the shaking lasted a long time, something was moving underground."
+- "My granddaughter and I felt it in NE Sparks, it was a series of rolling waves. The wind chimes hanging indoors swayed for 5 minutes."
 
-Nevada是全國第三活躍地震州，僅次於加州及阿拉斯加。雖然地震以自然因素為主，但考慮到早前**51區附近地震群**引發的陰謀論熱潮，這次大規模地震群勢必再次引發UFO社群關注。
+Nevada is the third most seismically active state in the US, after California and Alaska. While the earthquakes are primarily natural, considering the earlier conspiracy theories sparked by the **earthquake swarm near Area 51**, this large-scale swarm is sure to reignite interest within the UFO community.
 
-![內華達Silver Lake地震分布圖](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
+![Nevada Silver Lake Earthquake Map](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/LSyMDpKzjnI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🌊 Nevada地震群分析 — 地殼撕裂背後的秘密*
+*🌊 Analysis of the Nevada Earthquake Swarm — Secrets Behind the Crustal Tearing*
 
 [🔗 Daily Mail — Rapid-fire earthquakes rattle Nevada](https://www.dailymail.com/sciencetech/article-15782271/nevada-earthquake-swarm-basin-range.html)
 
 ---
 
-## 🏛️ Luna宣布5月13日MKUltra聽證會 — CIA心靈控制計劃再受審視
+## 🏛️ Luna Announces MKUltra Hearing for May 13 — CIA Mind Control Program Under Scrutiny Again
 
-**來源：** Daily Mail（2026年5月3日）
+**Source:** Daily Mail (May 3, 2026)
 
-佛羅里達州眾議員 **Anna Paulina Luna** 宣布，聯邦機密解密工作組（Task Force on the Declassification of Federal Secrets）將於**2026年5月13日**舉行聽證會，審查CIA冷戰時期的**MKUltra心靈控制計劃**。
+Florida Congresswoman **Anna Paulina Luna** announced that the Task Force on the Declassification of Federal Secrets will hold a hearing on **May 13, 2026**, to review the CIA's Cold War-era **MKUltra mind control program**.
 
-MKUltra計劃（1953-1964年）旨在開發用於審訊的程序及藥物，通過洗腦及心理折磨削弱個人意志並逼供。計劃共進行了**144個項目**，規模之龐大令人震驚：
+The MKUltra program (1953-1964) aimed to develop interrogation procedures and drugs, using brainwashing and psychological torture to weaken individual will and extract confessions. The program conducted **144 projects**, its scale staggering:
 
-- 受試者包括罪犯、精神病患者、癮君子、軍人及平民
-- 1956年文件顯示CIA曾考慮在外國人身上測試，但最終結論是「**對美國公民的非知情測試必須繼續**」
-- 一名1956年文件被Luna團隊發現並放入CIA閱讀室後，觸發了這次聽證
+- Subjects included criminals, psychiatric patients, drug addicts, military personnel, and civilians
+- A 1956 document showed the CIA considered testing on foreigners, but ultimately concluded that "**non-consensual testing on American citizens must continue**"
+- The hearing was triggered after a 1956 document was discovered by Luna's team and placed in the CIA reading room
 
-最令人關注的案例是**生物戰科學家Dr Frank Olson**——他在一次會議上被暗中注射LSD，9天後從紐約酒店13樓墮下身亡，官方判定自殺，但其家屬一直堅信是**被謀殺**。
+The most concerning case is that of **biological warfare scientist Dr. Frank Olson** — he was secretly injected with LSD during a meeting, and died 9 days later after falling from the 13th floor of a New York hotel. The official ruling was suicide, but his family has always believed he was **murdered**.
 
-田納西州眾議員 **Tim Burchett** 將MKUltra與近期科學家失蹤潮相提並論：
-> 「佢哋綁架人，畀佢哋灌迷幻藥，嘗試洗去佢哋記憶⋯⋯1975年佢哋下令銷毀記錄，後來又承認存在過但已經冇咗。我哋應該信邊個版本嘅謊言？」
+Tennessee Congressman **Tim Burchett** compared MKUltra to the recent wave of missing scientists:
+> "They kidnap people, give them hallucinogens, try to wipe their memories... In 1975 they ordered records destroyed, then later admitted they existed but were gone. Which version of the lie should we believe?"
 
-這與UFO社群密切相關——許多吹哨人及研究員認為，MKUltra的隱瞞模式與UAP披露問題如出一轍。
+This is closely related to the UFO community — many whistleblowers and researchers believe the concealment pattern of MKUltra mirrors the UAP disclosure issue.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/z0F2HUM5E84" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🏛️ MKUltra計劃完整記錄 — CIA的秘密實驗與國會聽證會*
+*🏛️ Complete Record of the MKUltra Program — CIA's Secret Experiments and Congressional Hearings*
 
 [🔗 Daily Mail — CIA's mind-control program in turmoil after scientist's mysterious death](https://www.dailymail.com/sciencetech/article-15782361/cia-mkultra-mind-control-hearing.html)
 
 ---
 
-## 📂 三股力量推動UFO披露！Bassett：特朗普隨時可確認外星存在
+## 📂 Three Forces Driving UFO Disclosure! Bassett: Trump Could Confirm Alien Existence at Any Time
 
-**來源：** Daily Mail（2026年5月3日）
+**Source:** Daily Mail (May 3, 2026)
 
-美國最資深UFO披露倡導者之一 **Stephen Bassett** 向Daily Mail表示，三股強大的力量正匯聚一起，推動美國走向他認為可能是**歷史性披露**的時刻。
+One of America's most veteran UFO disclosure advocates, **Stephen Bassett**, told Daily Mail that three powerful forces are converging, pushing the US towards what he believes could be a **historic disclosure** moment.
 
-### 三股力量分析：
+### Analysis of the Three Forces:
 
-**第一股 — 公眾壓力 📱**
-過去九年間，主流媒體已發表**超過10,000篇UFO相關文章**。UFO已從邊緣話題躍升為主流對話，由病毒式影片、政府簡報及媒體報導推動。
+**First Force — Public Pressure 📱**
+Over the past nine years, mainstream media has published **over 10,000 UFO-related articles**. UFOs have moved from fringe topics to mainstream conversation, driven by viral videos, government briefings, and media coverage.
 
-Bassett直言：「不僅可信，而且規模龐大。經過80年積累，平台已經鋪好。總統明天就可以站出來確認非人類存在——我們有技術、有屍體、有飛船——我唔覺得任何人會特別震驚。」
+Bassett stated bluntly: "Not only is it credible, but it's massive. After 80 years of accumulation, the stage is set. The President could stand up tomorrow and confirm non-human existence — we have the technology, the bodies, the spacecraft — I don't think anyone would be particularly shocked."
 
-他形容揭露真相將是「**人類歷史上任何國家元首做過嘅最重要一件事**」。
+He described revealing the truth as "**the single most important thing any head of state has ever done in human history**."
 
-**第二股 — 政治動盪與爭議 🏛️**
-不過，共和黨眾議員Thomas Massie卻有不同看法，稱披露UFO檔案是「**終極的注意力轉移武器**」，暗示政府可能利用UFO話題轉移公眾對其他事件的關注。
+**Second Force — Political Turmoil and Controversy 🏛️**
+However, Republican Congressman Thomas Massie had a different view, calling the release of UFO files the "**ultimate distraction weapon**," suggesting the government might use the UFO topic to divert public attention from other events.
 
-**第三股 — 全球不穩定性與戰爭恐懼 🌍**
-Bassett認為最令人憂慮的是全球衝突風險不斷升級。在國際緊張局勢下，他認為政府可能認為「與其隱瞞，不如公開以爭取公眾信任」。
+**Third Force — Global Instability and Fear of War 🌍**
+Bassett believes the most concerning factor is the escalating risk of global conflict. Amid international tensions, he thinks the government might conclude that "disclosure is better than concealment to gain public trust."
 
-特朗普今年2月曾表示：「我會指示戰爭部長及其他相關部門和機構，開始識別並發布與外星生命、UAP及UFO有關的政府檔案。」
+Trump stated this February: "I will direct the Secretary of War and other relevant departments and agencies to begin identifying and releasing government files related to extraterrestrial life, UAPs, and UFOs."
 
-目前公眾仍在等待具體行動。
+The public is still waiting for concrete action.
 
-![UFO披露概念圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO Disclosure Concept Image](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/7tLRW4I3GxM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*📂 Trump UFO檔案披露 — Bassett專訪及三股推動力分析*
+*📂 Trump UFO File Disclosure — Bassett Interview and Analysis of the Three Driving Forces*
 
 [🔗 Daily Mail — Three key forces driving UFO disclosure as Trump prepares file release](https://www.dailymail.com/sciencetech/article-15762125/trump-ufo-disclosure-bassett-files.html)
 
 ---
 
-## 🛸 Serpo任務：UFO界最具爭議的故事 — 人類曾與外星人星際交換？
+## 🛸 The Serpo Mission: The Most Controversial Story in UFOlogy — Did Humans Engage in an Interstellar Exchange with Aliens?
 
-**來源：** Latest UFO Sightings（2026年5月）
+**Source:** Latest UFO Sightings (May 2026)
 
-「Project Serpo」（又稱「Project Crystal Knight」）再次成為話題焦點。這個由前空軍特別調查處特工 **Richard Doty** 講述的驚人故事，聲稱美國政府曾秘密與**澤塔雙星（Zeta Reticuli）** 的外星文明進行星際交換計劃。
+"Project Serpo" (also known as "Project Crystal Knight") is back in the spotlight. This astonishing story, told by former Air Force Office of Special Investigations agent **Richard Doty**, claims the US government secretly conducted an interstellar exchange program with an alien civilization from **Zeta Reticuli**.
 
-### 故事核心：
+### Core of the Story:
 
-**Roswell事故（1947年）** — 據稱新墨西哥州Corona附近有兩次UFO墜毀，美軍不僅回收了先進技術，更發現了一名生還的外星生物「Ebe」。
+**Roswell Incident (1947)** — Allegedly, two UFO crashes occurred near Corona, New Mexico. The military not only recovered advanced technology but also found a surviving alien being named "Ebe."
 
-**與Ebe溝通** — 透過Ebe，美軍情報部門獲得了超越光速的通訊技術，能夠在約9個月內將信號發送到Ebe的家鄉行星——該行星被稱為**「Serpo」**（代表「秘密外星遙遠星球行動」）。
+**Communicating with Ebe** — Through Ebe, US military intelligence obtained faster-than-light communication technology, capable of sending signals to Ebe's home planet in about 9 months — a planet referred to as **"Serpo"** (an acronym for "Secret Extraterrestrial Remote Planet Operation").
 
-**星際交換計劃** — 1960年代，美國精心挑選了一組軍事人員，乘外星飛船前往Serpo：
-- 42個月秘密訓練
-- 身份被情報部門徹底抹除
-- 預計停留10年
-- 攜帶約9萬磅物資
-- 隨行還派駐了外星代表到地球
+**Interstellar Exchange Program** — In the 1960s, the US carefully selected a group of military personnel to travel to Serpo on an alien spacecraft:
+- 42 months of secret training
+- Identities completely erased by intelligence agencies
+- Planned 10-year stay
+- Carried approximately 90,000 pounds of supplies
+- An alien representative was also stationed on Earth
 
-**失蹤的證據** — 據稱任務記錄包括**1,800頁筆記**及**超過600卷錄音帶**，這些材料一度在網絡上流傳，卻在2005年左右神秘消失。
+**Missing Evidence** — The mission records allegedly include **1,800 pages of notes** and **over 600 audio tapes**. These materials once circulated online but mysteriously disappeared around 2005.
 
-### 是真相還是冷戰假情報？
+### Truth or Cold War Disinformation?
 
-連Doty本人也承認，Serpo故事可能是冷戰時期精心設計的**虛假情報行動**——目的包括：
-- 讓蘇聯相信美國擁有外星盟友
-- 顯示美國擁有先進推進系統或武器系統
-- 通過技術威懾阻止潛在侵略
+Even Doty himself admits the Serpo story could be an elaborate **disinformation operation** from the Cold War era, with goals including:
+- Making the Soviet Union believe the US had alien allies
+- Showing the US possessed advanced propulsion systems or weapons
+- Deterring potential aggression through technological intimidation
 
-至今Serpo任務仍懸在「非凡可能性與精心虛構」之間，繼續吸引UFO愛好者的無限想像。
+To this day, the Serpo mission remains suspended between "extraordinary possibility and elaborate fiction," continuing to captivate the boundless imagination of UFO enthusiasts.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/dh3TbNnliIA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🛸 Project Serpo全面解說 — 人類與澤塔雙星的外星交換計劃*
+*🛸 Complete Explanation of Project Serpo — The Human-Alien Exchange Program with Zeta Reticuli*
 
 [🔗 Latest UFO Sightings — The Serpo Mission](https://www.latest-ufo-sightings.net/2026/05/the-serpo-mission-inside-one-of-the-most-controversial-ufo-conspiracy-stories-ever-told.html)
 
 ---
 
-## 🔭 火星動物、4英哩巨大UFO掠過太陽、南極爬蟲族面孔
+## 🔭 Mars Animal, 4-Mile Giant UFO Skimming the Sun, Reptilian Face in Antarctica
 
-**來源：** UFO Sightings Daily（2026年4-5月）
+**Source:** UFO Sightings Daily (April-May 2026)
 
-UFO Sightings Daily近日發布了多項令人驚嘆的發現：
+UFO Sightings Daily has recently published several astonishing discoveries:
 
-### 1️⃣ 火星發現動物？🐢
-**發現日期：** 2026年4月30日
-**地點：** 火星
+### 1️⃣ Animal Found on Mars? 🐢
+**Discovery Date:** April 30, 2026
+**Location:** Mars
 
-Scott C. Waring 聲稱在NASA火星照片中發現了**一個類似龜的動物**及兩個古代雕像面孔。他表示：「龜在沙漠中生存，所以火星有這種生物也是合理的。」
+Scott C. Waring claims to have found **an animal resembling a turtle** and two ancient statue faces in NASA Mars photos. He stated: "Turtles survive in deserts, so it's reasonable for Mars to have such creatures."
 
-### 2️⃣ 7英哩UFO掠過太陽 ☀️
-**發現日期：** 2026年4月26日
-**來源：** Helioviewer.org
+### 2️⃣ 7-Mile UFO Skimming the Sun ☀️
+**Discovery Date:** April 26, 2026
+**Source:** Helioviewer.org
 
-Waring捕捉到一個**長達7-10英哩（約11-16公里）**的巨大圓盤狀物體緩慢掠過NASA太陽觀測畫面。NASA將之標記為「Comet R3 pan-starrs」，但Waring指出其幾乎沒有彗尾，在高溫及強烈輻射下不可能是普通彗星。
+Waring captured a massive disc-shaped object, **7-10 miles (approx. 11-16 km) long**, slowly skimming across NASA's solar observation imagery. NASA labeled it as "Comet R3 pan-starrs," but Waring pointed out it has almost no tail and, given the high temperature and intense radiation, cannot be an ordinary comet.
 
-### 3️⃣ 南極發現爬蟲族面孔 🦎
-**發現日期：** 2026年4月14日
-**地點：** 南極 Google Map座標 79°56'17.82"S 81°45'55.59"W
+### 3️⃣ Reptilian Face Found in Antarctica 🦎
+**Discovery Date:** April 14, 2026
+**Location:** Antarctica, Google Maps Coordinates 79°56'17.82"S 81°45'55.59"W
 
-Waring在南極Google地圖上發現了一個「瘦削的人類/爬蟲族混合物種面孔」。
+Waring discovered a "thin human/reptilian hybrid species face" on Google Maps of Antarctica.
 
-![NASA火星照片疑似動物及雕像](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+![NASA Mars Photo Showing Suspected Animal and Statues](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/NLNjrQ5UPmk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🔭 UFO Sightings Daily — 火星發現、太陽巨型UFO及南極異常*
+*🔭 UFO Sightings Daily — Mars Discovery, Giant Solar UFO, and Antarctic Anomaly*
 
 [🔗 UFO Sightings Daily — Animal Found On Mars](https://www.ufosightingsdaily.com/2026/04/animal-found-on-mars-in-recent-nasa.html)
 [🔗 UFO Sightings Daily — 7 Mile UFO Shots Past Sun](https://www.ufosightingsdaily.com/2026/04/7-mile-ufo-shots-past-sun-nasa-calls-it.html)
@@ -173,26 +172,26 @@ Waring在南極Google地圖上發現了一個「瘦削的人類/爬蟲族混合�
 
 ---
 
-## 📌 重點一覽：2026年5月3日UAP新聞晚間版
+## 📌 Key Points at a Glance: UAP News Evening Edition, May 3, 2026
 
-| 事件 | 狀態 | 關鍵人物／機構 |
+| Event | Status | Key Figures / Agencies |
 |------|------|--------------|
-| 🌊 內華達Silver Lake 4.9級地震群 | 🟢 持續監測 | USGS, Basin and Range, Walker Lane |
-| 🏛️ 5月13日MKUltra聽證會 | 🏛️ 已排期 🔥 | Anna Paulina Luna, CIA, Dr Frank Olson |
-| 📂 Bassett三股力分析 | 📄 分析報告 | Stephen Bassett, Trump, Thomas Massie |
-| 🛸 Serpo任務傳說 | 🧠 經典回顧 | Richard Doty, Project Crystal Knight |
-| 🔭 火星動物+太陽巨型UFO+南極爬蟲 | 🤔 未經證實目擊 | Scott C. Waring, Helioviewer, Google Maps |
-| 📋 戰爭部透露白宮協調UAP材料發布 | ⏳ 進行中 | Anna Paulina Luna, Pete Hegseth, Corbell |
+| 🌊 Silver Lake, Nevada 4.9 Magnitude Earthquake Swarm | 🟢 Ongoing Monitoring | USGS, Basin and Range, Walker Lane |
+| 🏛️ May 13 MKUltra Hearing | 🏛️ Scheduled 🔥 | Anna Paulina Luna, CIA, Dr. Frank Olson |
+| 📂 Bassett's Three Forces Analysis | 📄 Analysis Report | Stephen Bassett, Trump, Thomas Massie |
+| 🛸 The Serpo Mission Legend | 🧠 Classic Review | Richard Doty, Project Crystal Knight |
+| 🔭 Mars Animal + Giant Solar UFO + Antarctic Reptilian | 🤔 Unconfirmed Sightings | Scott C. Waring, Helioviewer, Google Maps |
+| 📋 War Department Says White House Coordinating UAP Material Release | ⏳ Ongoing | Anna Paulina Luna, Pete Hegseth, Corbell |
 
 ---
 
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 2em;">
 
-*🤖 本文章由 AI 自動搜集及整理*
-*🕐 更新時間：2026-05-03 14:04 UTC / 22:04 HKT*
-*📋 資料來源：Daily Mail、Liberation Times、UFO Sightings Daily、Latest UFO Sightings等*
+*🤖 This article is AI-automatically collected and compiled*
+*🕐 Updated: 2026-05-03 14:04 UTC / 22:04 HKT*
+*📋 Sources: Daily Mail, Liberation Times, UFO Sightings Daily, Latest UFO Sightings, etc.*
 
-**來源連結：**
+**Source Links:**
 - [Daily Mail — Rapid-fire earthquakes rattle Nevada](https://www.dailymail.com/sciencetech/article-15782271/nevada-earthquake-swarm-basin-range.html)
 - [Daily Mail — CIA's mind-control program hearing](https://www.dailymail.com/sciencetech/article-15782361/cia-mkultra-mind-control-hearing.html)
 - [Daily Mail — Three key forces driving UFO disclosure](https://www.dailymail.com/sciencetech/article-15762125/trump-ufo-disclosure-bassett-files.html)

@@ -7,13 +7,12 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "government-analysis"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+In 1955, the U.S. Air Force Technical Intelligence Center released a several-hundred-page document titled "Project Blue Book Special Report No. 14." This report was analyzed by scientists at the Battelle Memorial Institute, who examined over 3,200 UFO reports.
 
-1955年，美國空軍技術情報中心發表咗一份長達數百頁嘅「Project Blue Book Special Report No. 14」。呢份報告由Battelle Memorial Institute嘅科學家分析咗超過3,200宗UFO報告。
+The conclusion was quite contradictory: although the report stated that most cases had explanations, it simultaneously acknowledged that the cases in the "unexplained" category—approximately 22%—were of higher quality, with more witnesses and physical evidence. Statistical analysis further showed that the "quality/credibility ratings" of these unexplained cases were higher than those of cases attributed to known phenomena.
 
-結論相當矛盾：雖然報告話大部份案例有解釋，但同時承認「無法解釋」類別中嘅案例——大約22%——質量更高、有更多證人同物理證據。統計分析更顯示，呢啲無法解釋案例嘅「質量/可信度評分」高於已知現象嘅案例。
+In other words—the more evidence a UFO case had, the harder it was to explain. This contradiction made the report's conclusions highly controversial.
 
-換句話說——越有證據嘅UFO案例，反而越難解釋。呢個矛盾令報告嘅結論備受爭議。
-
-📚 來源
+📚 Sources
 - U.S. Air Force, "Project Blue Book Special Report No. 14" (1955), Battelle Memorial Institute
 - Hall, R. "The Blue Book Special Report: A Statistical Analysis" (1964)

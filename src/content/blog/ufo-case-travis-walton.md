@@ -6,21 +6,20 @@ descriptionEn: 'In 1975, logger Travis Walton disappeared for 5 days after encou
 pubDate: '2022-08-10'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
+> 📍 **Snowflake, Arizona, USA**
+> 📅 **November 5, 1975**
+> 🔍 **Alien abduction, witnesses, film adaptation**
 
-> 📍 **美國亞利桑那州，雪諾弗拉克**
-> 📅 **1975年11月5日**
-> 🔍 **外星綁架、目擊者、電影改編**
+On November 5, 1975, Arizona lumberjack **Travis Walton** and six coworkers were driving home after work when they spotted a glowing disc-shaped object hovering above the trees.
 
-1975年11月5日，亞利桑那州伐木工人 **Travis Walton** 同6名同事放工揸車回家途中，見到一個發光碟形物體懸浮喺樹林上方。
+Out of curiosity, Walton got out of the truck to approach it, but was suddenly struck by a blue-green beam of light, sending him flying backward. His panicked coworkers sped away from the scene.
 
-Walton出於好奇落車靠近，突然被一道藍綠色光束擊中，整個人彈飛倒地。佢嘅同事驚慌失措揸車逃離現場。
+![Travis Walton abduction incident](../../assets/blog-placeholder-4.jpg)
+*Travis Walton being interviewed afterward*
 
-![Travis Walton 劫持事件](../../assets/blog-placeholder-4.jpg)
-*Travis Walton 事後接受訪問*
+When they returned to the site, Walton had vanished. Police launched a massive search but found nothing. His coworkers later passed polygraph tests, confirming the credibility of their testimony.
 
-當佢哋返返現場時，Walton已經消失咗。警方展開大規模搜索，但一無所獲。佢嘅同事後來通過測謊測試，證實佢哋嘅證詞可信。
-
-**5日後**，Walton離奇出現喺一個電話亭旁邊，神志不清。佢後來描述被帶到外星飛船上，見到多個細小灰色外星人。佢嘅故事被拍攝成經典電影 **《Fire in the Sky》（1993）**。
+**Five days later**, Walton mysteriously appeared near a phone booth, disoriented. He later described being taken aboard an alien spacecraft, where he encountered several small gray aliens. His story was adapted into the classic film **《Fire in the Sky》（1993）**.
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/utcWz6qms0Y" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -28,4 +27,4 @@ Walton出於好奇落車靠近，突然被一道藍綠色光束擊中，整個�
 
 ---
 
-*📚 參考：Walton自傳《The Walton Experience》、警方記錄*
+*📚 References: Walton's autobiography 《The Walton Experience》, police records*

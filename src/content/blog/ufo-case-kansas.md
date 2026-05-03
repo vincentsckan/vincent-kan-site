@@ -6,15 +6,14 @@ descriptionEn: 'In 2022, residents across Kansas reported a massive triangular U
 pubDate: '2022-07-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📍 **Multiple towns in Kansas, USA**
+> 📅 **August 2, 1965**
+> 🔍 **Debris fall, military封锁**
 
-> 📍 **美國肯薩斯州，多個城鎮**
-> 📅 **1965年8月2日**
-> 🔍 **碎片墜落、軍方封鎖**
+On August 2, 1965, hundreds of residents in Kansas and Nebraska witnessed pieces of burning metal debris falling from the sky. Some reported seeing a round metallic object flying at low altitude before exploding in the distance.
 
-1965年8月2日，肯薩斯州同內布拉斯加州嘅數百名居民目睹一塊塊燃燒嘅金屬碎片從天空掉落。有人報告見到一個圓形金屬物體低空飛過，隨後喺遠處爆炸。
-
-軍方迅速趕到，封鎖咗一個可能嘅墜落點。官方解釋係隕石，但目擊者話見到嘅係有結構嘅人造物體。
+The military quickly arrived and cordoned off a potential crash site. The official explanation was a meteorite, but witnesses claimed they saw structured, man-made objects.
 
 ---
 
-*📚 參考：媒體報導、目擊者證詞*
+*📚 References: Media reports, witness testimonies*

@@ -6,50 +6,49 @@ descriptionEn: 'On November 7, 2006, United Airlines employees saw a metallic di
 pubDate: '2022-04-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📍 **Case Focus**: Chicago O'Hare International Airport, USA  
+> 📅 **Date of Incident**: November 7, 2006  
+> 🔍 **Category**: Airport Sighting / FAA Controversy  
 
-> 📍 **案件焦點**：美國芝加哥奧黑爾國際機場
-> 📅 **發生日期**：2006 年 11 月 7 日
-> 🔍 **分類**：機場目擊 / FAA 爭議
+## Incident Overview  
 
-## 事件概述
+![Chicago O'Hare Airport](../../assets/blog-placeholder-4.jpg)  
+*Chicago O'Hare International Airport — 2006 UFO Sighting Location*  
 
-![芝加哥奧黑爾機場](../../assets/blog-placeholder-4.jpg)
-*芝加哥奧黑爾國際機場——2006年UFO目擊地點*
+On November 7, 2006, at approximately 4:30 PM, United Airlines employees at Chicago O'Hare International Airport suddenly spotted a mysterious object hovering above Gate C17.  
 
-2006 年 11 月 7 日下午約 4:30，芝加哥奧黑爾國際機場（O'Hare International Airport）嘅聯合航空公司員工突然見到一個神秘物體懸浮喺 C17 登機閘口嘅上空。
+This metallic gray, disc-shaped object hovered below the clouds for about 5 minutes, then abruptly shot vertically upward through the clouds at extreme speed, leaving a perfectly circular hole in the cloud layer.  
 
-呢個金屬灰色嘅碟形物體喺雲層下方盤旋約 5 分鐘，之後突然以極快速度垂直向上穿透雲層，留下一個完美圓形嘅雲洞。
+## Witness Background  
 
-## 目擊者背景
+- **Number of Witnesses**: At least 12 United Airlines employees (including pilots and ground crew)  
+- **Credibility**: Aviation professionals trained in visual identification  
+- **Consistency**: Multiple independent reports with consistent accounts  
 
-- **人數**：至少 12 名聯合航空員工（包括機師、地勤人員）
-- **可信度**：航空業專業人員，受過目視識別訓練
-- **集體性**：多個獨立報告敘述一致
+## FAA's Response  
 
-## FAA 嘅反應
+The Federal Aviation Administration (FAA) initially stated that their radar recorded no anomalies. However, later investigations revealed:  
+- FAA controllers did receive phone inquiries that day  
+- Internal FAA records showed "UFO"-related notes  
+- The FAA refused to conduct a formal investigation, sparking external speculation  
 
-美國聯邦航空管理局（FAA）最初話佢哋嘅雷達冇記錄到任何異常。但後來嘅調查發現：
-- FAA 管制員當日確曾收到電話查詢
-- FAA 內部記錄顯示有「UFO」相關備註
-- FAA 拒絕進行正式調查，引起外界猜測
+## Object Description  
 
-## 物體描述
+- **Shape**: Disc-shaped (classic UFO shape)  
+- **Color**: Metallic gray  
+- **Size**: Estimated diameter of 6-24 feet  
+- **Flight Characteristics**: Stationary hover → instantaneous vertical acceleration  
+- **Physical Effect**: Left a clear circular hole when penetrating the clouds (the hole remained unclosed for several minutes)  
 
-- **形狀**：碟形（經典 UFO 形狀）
-- **顏色**：金屬灰色
-- **尺寸**：估計直徑 6-24 英尺
-- **飛行特徵**：靜止懸浮 → 瞬間垂直加速
-- **物理效果**：穿透雲層時留下清晰圓洞（雲持續多分鐘未閉合）
+## Case Highlights  
 
-## 案件特點
+This case is notable for:  
+1. Occurring at one of the world's busiest airports  
+2. Witnesses being aviation industry professionals  
+3. Occurring in broad daylight with numerous bystanders  
+4. Leaving an observable physical phenomenon (cloud hole)  
 
-呢單案件特別之處在於：
-1. 發生喺全球最繁忙機場之一
-2. 目擊者係航空業專業人員
-3. 大白天、有大量旁觀者
-4. 留下可觀測嘅物理現象（雲洞）
+---  
 
----
-
-*📚 資料來源：聯合航空員工證詞、媒體報導、FAA 文件*
-*🕐 文章建立日期：2022-04-15*
+*📚 Sources: United Airlines employee testimonies, media reports, FAA documents*  
+*🕐 Article creation date: 2022-04-15*

@@ -7,26 +7,25 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "alien-encounter"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-1989年9月下旬，蘇聯沃羅涅日（Voronezh）市發生咗一件震撼全國嘅事件——多達數百人聲稱見到一架巨大飛船降落喺市區公園，仲有身高3米嘅外星生物走出嚟。最特別嘅係，蘇聯官方媒體TASS同科學院都進行咗報道同調查。
+In late September 1989, an event shook the entire nation in the city of Voronezh, Soviet Union — as many as hundreds of people claimed to have seen a giant spaceship land in a city park, with alien beings 3 meters tall emerging from it. Most notably, the official Soviet media TASS and the Academy of Sciences both reported and investigated the incident.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Voronezh, Russian SFSR, Soviet Union | 1989-09-27 | Alien Landing / Mass Sighting |
 
-事發喺9月27日傍晚6點半左右，Voronezh市南部嘅一個公園附近。目擊者見到一個發出粉紅色光嘅巨大球體由天而降——佢哋描述呢個球體大約有200至300米直徑，懸停喺公園上方大約100米嘅高度。
+The incident occurred around 6:30 PM on September 27 near a park in the southern part of Voronezh. Witnesses saw a huge pink-glowing sphere descending from the sky — they described it as about 200 to 300 meters in diameter, hovering at an altitude of roughly 100 meters above the park.
 
-公園內嘅多個家庭——包括大人同細路——都睇到一個大約3米高、著住銀色太空衣同銅色靴子嘅人形生物由球體降落地面。目擊者話呢啲生物行路好似「漂浮」咁，佢哋身邊仲有一個細細嘅機械人陪同。
+Multiple families in the park — including adults and children — observed a humanoid creature about 3 meters tall, wearing a silver spacesuit and copper-colored boots, descending from the sphere to the ground. Witnesses said these beings moved as if "floating," accompanied by a small robot.
 
-蘇聯科學院嘅研究員Dr. Alexei Semenov接受地方報紙訪問時話：「呢件事唔可以被忽視，因為有太多獨立嘅目擊者。」TASS通訊社更係蘇聯歷史上首次正式報道UFO事件，引起國際媒體轟動。
+Dr. Alexei Semenov, a researcher from the Soviet Academy of Sciences, told a local newspaper: "This incident cannot be ignored because there are too many independent witnesses." TASS news agency made history by officially reporting a UFO event for the first time in the Soviet Union, causing an international media sensation.
 
-KGB（蘇聯國家安全委員會）都介入咗調查。雖然蘇聯政府一直對UFO議題採取保密態度，但Voronezh事件嘅規模實在太大，令當局無法掩蓋。KGB嘅調查報告後來部分被公開，顯示有「無法解釋嘅物理痕跡」喺降落現場被發現。
+The KGB (Soviet State Security Committee) also intervened in the investigation. Although the Soviet government had always maintained a secretive stance on UFO topics, the scale of the Voronezh incident was too large for authorities to cover up. Parts of the KGB's investigation report were later made public, revealing "inexplicable physical traces" found at the landing site.
 
-現場發現咗四處直徑約20厘米嘅凹陷，呈完美嘅長方形排列。附近嘅草地顯示有異常嘅高溫破壞痕跡，而且現場嘅樹葉出現咗唔正常嘅乾枯現象，好似俾高能量輻射照射過。
+Four depressions about 20 centimeters in diameter were discovered at the scene, arranged in a perfect rectangular pattern. The surrounding grass showed signs of abnormal heat damage, and leaves in the area exhibited unusual withering, as if exposed to high-energy radiation.
 
-Voronezh事件喺蘇聯UFO研究史上有住里程碑式嘅意義——佢係第一個被蘇聯官方媒體同科學機構認真對待嘅UFO案例。今日嘅俄羅斯UFO研究者仍然將呢個案例視為「東歐最重要嘅UFO目擊事件之一」。
+The Voronezh incident holds milestone significance in the history of Soviet UFO research — it is the first UFO case to be taken seriously by official Soviet media and scientific institutions. Today's Russian UFO researchers still regard this case as "one of the most important UFO sightings in Eastern Europe."
 
-📚 來源
+📚 Sources
 - TASS News Agency report (October 9, 1989)
 - Soviet Academy of Sciences, "Voronezh Incident Preliminary Report" (1989)
 - Stonehill, P. "The Soviet UFO Files" (1996), Quantum Leap

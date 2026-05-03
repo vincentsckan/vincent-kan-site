@@ -6,36 +6,35 @@ descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-03T04:05:00Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---
-
-> **今日重點：Trump White House再次放風UFO文件即將公開，Area 51附近發生17次地震引發猜測，NASA內部電郵流出揭露GoFast UFO影片分析有重大漏洞，資深揭露倡導者分析三大力量正在推動歷史性公開。**
+> **Today's Key Points: Trump White House again hints at imminent UFO document release, 17 earthquakes near Area 51 spark speculation, leaked NASA internal emails reveal major flaws in GoFast UFO video analysis, veteran disclosure advocate analyzes three forces driving historic transparency.**
 
 ---
 
-## 📰 本日UFO/UAP頭條新聞
+## 📰 Today's UFO/UAP Headlines
 
-| 📍 *地點* | 📅 *日期* | 🔍 *分類* |
+| 📍 *Location* | 📅 *Date* | 🔍 *Category* |
 |---|---|---|
-| 美國華盛頓白宮 | 2026年4月底 | 政府揭露 / Trump UFO文件 |
-| 美國內華達州Area 51附近 | 2026年4月30日 - 5月1日 | 異常地震活動 / 軍事基地相關 |
-| 美國NASA內部 | 2026年4月 | GoFast UFO影片分析爭議 |
-| 美國（總體） | 2026年4-5月 | 揭露倡導與公眾壓力 |
+| White House, Washington D.C., USA | Late April 2026 | Government Disclosure / Trump UFO Files |
+| Near Area 51, Nevada, USA | April 30 - May 1, 2026 | Anomalous Seismic Activity / Military Base Related |
+| NASA Internal, USA | April 2026 | GoFast UFO Video Analysis Controversy |
+| USA (General) | April-May 2026 | Disclosure Advocacy & Public Pressure |
 
 ---
 
-## 1️⃣ 特朗普再次暗示UFO文件即將公開 🏛️
+## 1️⃣ Trump Again Hints at Imminent UFO Document Release 🏛️
 
-特朗普星期三在白宮橢圓形辦公室接見 **Artemis II** 太空人團隊時，被記者追問關於UFO文件公開進度。當時四位太空人（Victor Glover、Reid Wiseman、Christina Koch 及加拿大太空人 Jeremy Hansen）企喺特朗普身後，聽到話題從太空飛行突然轉到UFO時，表情相當有趣 😅
+During a meeting with the **Artemis II** astronaut team in the Oval Office on Wednesday, Trump was pressed by reporters on the progress of releasing UFO documents. As the four astronauts (Victor Glover, Reid Wiseman, Christina Koch, and Canadian astronaut Jeremy Hansen) stood behind Trump, their expressions were quite amusing 😅 when the topic suddenly shifted from spaceflight to UFOs.
 
-特朗普回答：「我哋會喺唔遠嘅將來盡量公開多啲文件。有啲原因——我諗只係一個原因——呢個話題喺人們腦海存在好耐。佢哋想了解UFO同任何同UFO或相關材料有關嘅事。」
+Trump replied: "We'll release as many documents as we can in the not-too-distant future. There are some reasons—I think just one reason—this topic has been on people's minds for a long time. They want to know about UFOs and anything related to UFOs or related materials."
 
-**「我諗會令好多人覺得好有趣。」** 特朗普補充話，佢喺第一任期訪問過機師，「非常可靠嘅人，佢哋話見過你難以置信嘅嘢。」
+**"I think a lot of people will find it very interesting."** Trump added that during his first term, he spoke with pilots, "very reliable people, who said they've seen things you wouldn't believe."
 
-不過，自今年2月特朗普下令五角大樓公開所有UFO同外星生命相關文件之後，已經過咗幾個月，公眾至今**未見到一份文件或影片**。
+However, months have passed since Trump ordered the Pentagon in February to release all documents related to UFOs and extraterrestrial life, and the public has **yet to see a single document or video**.
 
-共和黨眾議員 **Anna Paulina Luna** 4月1日去信國防部長 Pete Hegseth，要求喺4月14日前提交46段特定影片。但截至4月14日，Luna喺X上表示「五角大樓冇任何人回應，直到我哋主動聯絡，似乎有人冇將信件傳俾相關部門。」佢仲話：「總統已經授權公開，所以五角大樓邊個想玩嘢嘅話，可以滾蛋。」
+Republican Congresswoman **Anna Paulina Luna** sent a letter to Defense Secretary Pete Hegseth on April 1, requesting the submission of 46 specific videos by April 14. But as of April 14, Luna stated on X: "No one at the Pentagon responded until we proactively reached out. It seems someone didn't forward the letter to the relevant departments." She added: "The President has authorized the release, so anyone at the Pentagon who wants to play games can get lost."
 
 <details>
-<summary>📺 相關影片</summary>
+<summary>📺 Related Videos</summary>
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/4eKzY9TF-CI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Trump UFO Files Update*
@@ -47,20 +46,20 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 ---
 
-## 2️⃣ Area 51附近發生17次地震群 🌍
+## 2️⃣ 17 Earthquakes Occur Near Area 51 🌍
 
-內華達州嘅**Area 51**高度機密基地附近，24小時內錄得**至少17次地震**，最強達到黎克特制 **4.4級**，震源深度只有約4公里（2.5英里）。
+Near the highly classified **Area 51** base in Nevada, **at least 17 earthquakes** were recorded within 24 hours, the strongest reaching magnitude **4.4**, with a shallow depth of only about 4 kilometers (2.5 miles).
 
-地球物理學家 **Stefan Burns** 形容呢個位置係「一個唔尋常嘅地震位置」，指出該區歷史上相對平靜。佢特別提到浅源地震喺呢個區域值得關注，地震同地下爆炸有時可以產生相似嘅地震信號。
+Geophysicist **Stefan Burns** described the location as "an unusual earthquake location," noting the area's historically relative quietness. He specifically highlighted that shallow earthquakes in this region warrant attention, as earthquakes and underground explosions can sometimes produce similar seismic signals.
 
-雖然Burns強調呢次好大可能係自然地震，但佢承認地震數據存在「某程度嘅模糊性」，認為呢啲唔尋常特徵令活動「值得喺係咪隱蔽地下核試驗嘅背景下討論」。
+Although Burns emphasized this is most likely natural seismic activity, he acknowledged "a degree of ambiguity" in the data, suggesting these unusual characteristics make the activity "worth discussing in the context of whether it could be a covert underground nuclear test."
 
-超過100人向USGS報告感受到震動。網上隨即出現各種猜測，有X用戶開玩笑話：「外星人喺度搖緊地球！！」
+Over 100 people reported feeling the tremors to the USGS. Online speculation quickly followed, with one X user joking: "Aliens are shaking the Earth!!"
 
-Area 51自冷戰時期已經係陰謀論嘅焦點——2025年一份報告更聲稱，五角大樓當年為咗隱藏秘密武器計劃，刻意製造UFO謠言做煙幕。
+Area 51 has been a focal point of conspiracy theories since the Cold War—a 2025 report even claimed the Pentagon deliberately created UFO rumors as a smokescreen to hide secret weapons programs.
 
 <details>
-<summary>📺 相關影片</summary>
+<summary>📺 Related Videos</summary>
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/hbMEwMjO8J8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Area 51 Earthquake Swarm Explained*
@@ -72,20 +71,20 @@ Area 51自冷戰時期已經係陰謀論嘅焦點——2025年一份報告更聲
 
 ---
 
-## 3️⃣ NASA內部電郵踢爆GoFast UFO分析有鑊 🛸
+## 3️⃣ NASA Internal Emails Expose Flaws in GoFast UFO Analysis 🛸
 
-Pentagon最有名嘅UFO影片之一 **「GoFast」** ，近期因為NASA內部電郵流出而再次引起爭議。呢段2015年由美國海軍F/A-18機師喺大西洋沿岸拍攝嘅黑白片段，顯示一個物體低空高速掠過海面。
+One of the Pentagon's most famous UFO videos, **"GoFast,"** has sparked renewed controversy following the leak of NASA internal emails. This black-and-white footage, filmed in 2015 by a US Navy F/A-18 pilot off the Atlantic coast, shows an object skimming rapidly over the ocean surface.
 
-UFO研究員 **Grant Lavac** 透過《資訊自由法》（FOIA）取得嘅文件顯示，NASA嘅2023年UAP專家小組分析**完全依賴公開影片**，**從未訪問過當日目擊嘅海軍機師**。
+Documents obtained by UFO researcher **Grant Lavac** through the Freedom of Information Act (FOIA) reveal that NASA's 2023 UAP expert panel analysis **relied entirely on publicly available footage** and **never interviewed the Navy pilot who witnessed the event that day**.
 
-NASA小組成員 **Josh Semeter**（波士頓大學太空物理中心主任）喺內部電郵承認：「唔係，我哋小組冇同機師傾過。分析完全基於公開影片中嘅資訊。」
+NASA panel member **Josh Semeter** (Director of the Center for Space Physics at Boston University) admitted in an internal email: "No, our panel did not speak with the pilot. The analysis was based entirely on information from the publicly available video."
 
-另一封電郵顯示，小組成員 **David Spergel**（西蒙斯基金會主席）寫道：「我相信我哋小組只詳細審查咗一個高速度聲稱嘅案例（即Josh負責嘅GoFast），而且就算係咁，呢個審查都唔全面。」
+Another email showed panel member **David Spergel** (President of the Simons Foundation) writing: "I believe our panel only reviewed one high-speed claim in detail (the GoFast case handled by Josh), and even then, that review was not comprehensive."
 
-呢啲內部電郵揭示咗NASA嘅分析可能比公眾理解中窄得多，令GoFast UFO到底係乜嘢呢個問題，仍然未有答案。
+These internal emails reveal that NASA's analysis may have been much narrower than the public understood, leaving the question of what the GoFast UFO actually was still unanswered.
 
 <details>
-<summary>📺 相關影片</summary>
+<summary>📺 Related Videos</summary>
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/SaRX8N_j--A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *GoFast UFO Video Analysis - Full Breakdown*
@@ -97,23 +96,23 @@ NASA小組成員 **Josh Semeter**（波士頓大學太空物理中心主任）�
 
 ---
 
-## 4️⃣ 揭露倡導者分析：三大力量正推動UFO公開 💥
+## 4️⃣ Disclosure Advocate Analysis: Three Forces Driving UFO Transparency 💥
 
-美國資深UFO揭露倡導者 **Stephen Bassett** 接受《每日郵報》專訪，指出**三個主要力量**正匯聚推動歷史性嘅UFO公開：
+Veteran US UFO disclosure advocate **Stephen Bassett**, in an exclusive interview with the Daily Mail, identified **three main forces** converging to drive historic UFO transparency:
 
-**第一力量：公眾壓力** 📢
-過去九年間，主流媒體發表超過**10,000篇**關於UFO嘅文章。UFO已经从邊緣話題變成主流討論。
+**First Force: Public Pressure** 📢
+Over the past nine years, mainstream media has published over **10,000** articles about UFOs. The topic has moved from the fringe to mainstream discussion.
 
-**第二力量：政治動盪** 🏛️
-Bassett認為，多屆總統都知道外星活動嘅存在，但冇選擇公開。Jimmy Carter曾經承諾公開但最終拒絕；奧巴馬聲稱冇證據；特朗普則受到政府內部壓力。
+**Second Force: Political Turmoil** 🏛️
+Bassett believes multiple presidents have known about extraterrestrial activity but chose not to disclose it. Jimmy Carter promised disclosure but ultimately refused; Obama claimed no evidence; Trump faced internal government pressure.
 
-**第三力量：全球衝突威脅** ☢️
-Bassett認為，人類嘅核武歷史同外星現象有密切關聯：「呢個星球被非人類同佢哋嘅技術接觸——呢啲事喺廣島長崎原子彈爆炸後就開始爆發出嚟。」佢指出UFO曾多次喺美國同俄羅斯嘅核基地上空懸浮，甚至關閉ICBM導彈。
+**Third Force: Global Conflict Threat** ☢️
+Bassett argues there is a close link between humanity's nuclear weapons history and the UFO phenomenon: "This planet has been contacted by non-humans and their technology—these things started erupting after the atomic bombings of Hiroshima and Nagasaki." He notes UFOs have repeatedly hovered over nuclear bases in the US and Russia, even shutting down ICBM missiles.
 
-Bassett形容，如果公開真係發生，將會係「人類史上任何國家元首所做過嘅最重要嘅單一行動」。
+Bassett described that if disclosure truly happens, it would be "the single most important action any head of state has ever taken in human history."
 
 <details>
-<summary>📺 相關影片</summary>
+<summary>📺 Related Videos</summary>
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/5TfF5qNCv40" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Stephen Bassett on the Forces Driving UFO Disclosure*
@@ -125,14 +124,14 @@ Bassett形容，如果公開真係發生，將會係「人類史上任何國家�
 
 ---
 
-## 📸 今日精選圖片
+## 📸 Featured Image of the Day
 
-![Area 51衛星圖](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
-*內華達沙漠中嘅Area 51——全球最神秘嘅軍事基地之一，長期同UFO陰謀論聯繫在一起*
+![Area 51 Satellite Image](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+*Area 51 in the Nevada desert—one of the world's most mysterious military bases, long associated with UFO conspiracy theories*
 
 ---
 
-## 🔗 來源連結
+## 🔗 Source Links
 
 - [Daily Mail: Three key forces driving UFO disclosure as Trump prepares file release](https://www.dailymail.co.uk/sciencetech/article-15762125/trump-ufo-disclosure-bassett-files.html)
 - [Daily Mail: Artemis astronauts' awkward reaction as Trump teases classified UFO files](https://www.dailymail.co.uk/sciencetech/article-15776933/trump-ufo-files-release-artemis.html)
@@ -142,4 +141,4 @@ Bassett形容，如果公開真係發生，將會係「人類史上任何國家�
 
 ---
 
-*本文章為自動生成嘅UFO/UAP新聞快訊，每小時更新。所有內容均來自公開新聞來源。*
+*This article is an automatically generated UFO/UAP news digest, updated hourly. All content is sourced from public news outlets.*

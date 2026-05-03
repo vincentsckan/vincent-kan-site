@@ -7,9 +7,8 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "government-report"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+In 1999, the French COMETA group published a shocking report. Its members included high-ranking officials such as former Air Force General Denis Letty. The report concluded that UFOs are real, with technology far surpassing human capabilities, raising concerns for national security. It specifically noted that the propulsion systems and energy sources of these craft exceed the scope of modern physics, and they have the ability to render Earth's military forces completely obsolete.
 
-1999年，法國COMETA小組發表震撼報告。成員包括前空軍將軍Denis Letty等高級官員。報告結論指UFO係真實嘅，技術遠超人類水平，對國家安全構成關切。報告特別指出呢啲飛行器嘅推進系統同能量來源超出現代物理學範疇，有能力令地球軍事力量完全過時。
-
-📚 來源
+📚 Sources
 - COMETA, "UFOs and Defense: What Should We Prepare For?" (1999)
 - Letty, D. Preface to COMETA Report (1999)

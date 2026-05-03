@@ -6,15 +6,14 @@ descriptionEn: 'The Novato 2021 UFO case investigated by AARO. Home security cam
 pubDate: '2022-06-10'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📍 **Novato Police Department, California, USA**
+> 📅 **November 29, 1967**
+> 🔍 **Police-verified, classic photo**
 
-> 📍 **美國加州諾瓦托市警局**
-> 📅 **1967年11月29日**
-> 🔍 **警方認證、經典照片**
+During the 1967 Thanksgiving holiday, a woman reported seeing a large metallic object land in a nearby field. When officers **Leo Dwyer** and **Francis Escobar** arrived at the scene, a metallic silver, dome-shaped UFO suddenly rose from the field, hovered for a few seconds, and then sped away at high speed. Officer **Dwyer** managed to capture four photos using the instant camera in the patrol car.
 
-1967年感恩節期間，一名女子報警話見到一個大型金屬物體降落喺附近田野。當警察 **Leo Dwyer** 同 **Francis Escobar** 到達現場時，一架金屬銀色、圓頂形UFO突然從田野升起，盤旋數秒後高速飛走。警員 **Dwyer** 用警車上嘅即影即有相機成功拍到咗四張照片。
-
-呢張照片後來被廣泛傳播，由於目擊者係受過訓練嘅警察，可信度極高。
+This photo later became widely circulated, and due to the witnesses being trained police officers, its credibility is extremely high.
 
 ---
 
-*📚 參考：諾瓦托警局檔案、UFO照片分析*
+*📚 Reference: Novato Police Department archives, UFO photo analysis*

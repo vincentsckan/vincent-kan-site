@@ -7,87 +7,86 @@ pubDate: '2026-05-02T14:03:00Z'
 tags: ["UFO", "UAP", "news", "自動更新"]
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
-
-> 最新UFO/UAP國際新聞一網打盡！特朗普最新表態、國會消息、Area 51地震群、前國防部官員爆料，全部睇晒！
+> Latest UFO/UAP International News All in One! Trump's Latest Statement, Congressional News, Area 51 Earthquake Swarm, Former Pentagon Official's Leaks — All Covered!
 
 ---
 
-## 📰 本日頭條
+## 📰 Today's Headlines
 
-### 1️⃣ 特朗普：將公開UFO檔案，「你唔信嘅嘢」
+### 1️⃣ Trump: Will Release UFO Files, "Things You Won't Believe"
 
-美國前總統特朗普近日再次公開談論UFO話題，表示其政府將會釋放「大量資料」關於UFO。「有啲嘢你係唔會相信嘅，」特朗普喺訪問中說道，暗示即將有重大披露。
+Former U.S. President Donald Trump recently spoke again about the UFO topic, stating that his administration will release "a lot of information" about UFOs. "There are some things you won't believe," Trump said in an interview, hinting at a major disclosure.
 
-| 📍 *美國* | 📅 *2026年4月30日* | 🔍 *政治/披露* |
+| 📍 *United States* | 📅 *April 30, 2026* | 🔍 *Politics/Disclosure* |
 
-相關來源：Newsweek、USA Today
+Related Sources: Newsweek, USA Today
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 2️⃣ 國會女議員：將展示「非人類起源」證據
+### 2️⃣ Congresswoman: Will Present Evidence of "Nonhuman Origin"
 
-一名美國國會女議員公開承諾，將會展示屬於「非人類起源」（nonhuman origin）嘅物品。呢單消息由Newsweek率先報道，引發UFO社群極大關注。如果屬實，呢個將會係美國政府首次正式確認掌握非人類科技。
+A U.S. congresswoman has publicly promised to present items of "nonhuman origin." This news, first reported by Newsweek, has sparked significant interest in the UFO community. If true, this would be the first official U.S. government confirmation of possessing non-human technology.
 
-| 📍 *華盛頓特區* | 📅 *2026年4月29日* | 🔍 *國會聽證* |
+| 📍 *Washington D.C.* | 📅 *April 29, 2026* | 🔍 *Congressional Hearing* |
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/3fUMWw7OGY8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 3️⃣ 前國防部官員：UFO資訊釋放「絕非空砲彈」
+### 3️⃣ Former Pentagon Official: UFO Info Release "Absolutely Not a Nothingburger"
 
-NewsNation報道，一位前國防部官員回應近期關於UFO資訊釋放嘅討論，強調呢啲資訊「唔會係空砲彈」（not a 'nothingburger'）。呢位官員指出，即將公開嘅資料包含實質性內容，並非傳媒猜測咁簡單。
+NewsNation reports that a former Pentagon official has responded to recent discussions about the release of UFO information, emphasizing that this information is "not a 'nothingburger.'" The official pointed out that the upcoming data contains substantive content, not just media speculation.
 
-| 📍 *美國* | 📅 *2026年4月30日* | 🔍 *國防/披露* |
+| 📍 *United States* | 📅 *April 30, 2026* | 🔍 *Defense/Disclosure* |
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/XF8kUyS6Y6o" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 4️⃣ 🔥 Area 51附近發生17次地震群！引發秘密測試猜測
+### 4️⃣ 🔥 17 Earthquakes Near Area 51! Sparks Secret Test Speculation
 
-根據Daily Mail報道，內華達州Area 51高度機密基地附近24小時內錄得至少17次地震，最強達到黎克特制4.4級。震源深度僅約4公里，屬於極淺層地震。
+According to Daily Mail, at least 17 earthquakes were recorded within 24 hours near the highly classified Area 51 base in Nevada, with the strongest reaching magnitude 4.4. The epicenter depth was only about 4 km, making it a very shallow earthquake.
 
-地震學家Stefan Burns指出，呢個地區「通常唔係地震活躍區」，強調震源深度令事件「值得討論——呢個會唔會係一次秘密地下核試驗？」
+Seismologist Stefan Burns noted that this area is "usually not seismically active," emphasizing that the shallow depth makes the event "worth discussing — could this be a secret underground nuclear test?"
 
-有社交媒體用戶隨即留言笑稱：「外星人喺度震動地球！！」
+Social media users quickly joked: "Aliens are shaking the Earth!!"
 
-| 📍 *內華達州 Area 51* | 📅 *2026年5月1-2日* | 🔍 *地震/陰謀論* |
+| 📍 *Nevada, Area 51* | 📅 *May 1-2, 2026* | 🔍 *Earthquake/Conspiracy Theory* |
 
-> 雖然多數專家認為好大機會係自然地震，但Area 51嘅神秘色彩加上震源深度，自然令人聯想到唔少UFO傳說。
+> While most experts believe it's likely natural earthquakes, Area 51's mystique combined with the shallow depth naturally invites many UFO legends.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/5vVfP0uD5oA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 5️⃣ 海軍上將：亞特蘭提斯係真的，外星人已經喺度
+### 5️⃣ Navy Admiral: Atlantis Is Real, Aliens Are Already Here
 
-The Free Press刊登一篇專訪，訪問一位美國海軍上將，佢竟然宣稱傳說中的亞特蘭提斯（Atlantis）係真實存在，而且外星人「已經喺地球上」。呢篇訪問引發廣泛討論，結合最近嘅披露浪潮，令到傳統媒體都開始認真對待呢啲話題。
+The Free Press published an exclusive interview with a U.S. Navy admiral who astonishingly claimed that the legendary Atlantis is real and that aliens are "already on Earth." This interview has sparked widespread discussion, and combined with the recent wave of disclosures, it has led traditional media to take these topics more seriously.
 
-| 📍 *美國* | 📅 *2026年4月28-29日* | 🔍 *爆料/亞特蘭提斯* |
+| 📍 *United States* | 📅 *April 28-29, 2026* | 🔍 *Leak/Atlantis* |
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/s4xV5GRj4MA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## 📊 重點摘要
+## 📊 Key Summary
 
 ![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
 
-**本週UFO圈五大焦點：**
-- ✅ 特朗普承諾公開UFO檔案，稱「極不尋常」
-- ✅ 國會女議員將展示非人類起源證據
-- ✅ 前國防部官員確認資訊有料到
-- ✅ Area 51附近出現罕見地震群
-- ✅ 亞特蘭提斯與外星人話題重回主流討論
+**This Week's Top 5 UFO Highlights:**
+- ✅ Trump promises to release UFO files, calling them "extremely unusual"
+- ✅ Congresswoman to present evidence of nonhuman origin
+- ✅ Former Pentagon official confirms info has substance
+- ✅ Rare earthquake swarm near Area 51
+- ✅ Atlantis and alien topics return to mainstream discussion
 
-> 💡 **Vincent嘅分析：** 今個星期真係好熱鬧！特朗普同國會雙管齊下，加上前官員背書，感覺披露嘅列車越開越快。Area 51地震事件雖然好大機會係巧合，但時間點真係好靚 —— 適逢披露討論熱烈之際。繼續睇實！
+> 💡 **Vincent's Analysis:** This week is really buzzing! Trump and Congress are working in tandem, and with former officials backing it up, it feels like the disclosure train is speeding up. The Area 51 earthquake event is likely a coincidence, but the timing is perfect — right in the middle of intense disclosure discussions. Keep watching!
 
 ---
 
-## 🔗 來源連結
+## 🔗 Source Links
 
 - [Newsweek: Trump Says He'll Release UFO Files](https://www.newsweek.com/)
 - [USA Today: Trump says administration will release 'a lot of things' on UFOs](https://www.usatoday.com/)
@@ -98,4 +97,4 @@ The Free Press刊登一篇專訪，訪問一位美國海軍上將，佢竟然宣
 
 ---
 
-*🤖 本頁由自動系統每小時生成 · 如有最新消息將即時更新*
+*🤖 This page is automatically generated every hour · Updated immediately with the latest news*

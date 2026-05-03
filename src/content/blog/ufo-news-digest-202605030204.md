@@ -6,109 +6,108 @@ descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-03T02:04:00Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---
-
-> 嘩！今日嘅UFO新聞量嚇死人😱 **著名UFO研究員David Wilcock吞槍自殺**、**FBI正式調查科學家連環死傷失蹤案**、國會聽證會上公開**Hellfire導彈打中UFO彈開**嘅震撼片段，仲有白宮真係註冊咗**Aliens.gov**呢個域名！由細到大講到UFO都冇咁多新聞同一時間爆發過！
+> Wow! The amount of UFO news today is mind-blowing 😱 **Famous UFO researcher David Wilcock dies by self-inflicted gunshot**, **FBI officially investigates series of scientist deaths, injuries, and disappearances**, a shocking clip of a **Hellfire missile hitting a UFO and bouncing off** was shown at a congressional hearing, and the White House actually registered the domain **Aliens.gov**! In all my years following UFOs, there's never been this much news breaking at once!
 
 ![UFO](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
 
 ---
 
-## 🔴 震驚：著名UFO研究員David Wilcock吞槍自殺身亡
+## 🔴 Shocking: Famous UFO Researcher David Wilcock Dies by Self-Inflicted Gunshot
 
-| 📍 *美國科羅拉多州Boulder County* | 📅 *2026年4月20日* | 🔍 *UFO界重大損失* |
+| 📍 *Boulder County, Colorado, USA* | 📅 *April 20, 2026* | 🔍 *Major Loss for UFO Community* |
 
-著名UFO研究員、History Channel《Ancient Aliens》常客**David Wilcock**（53歲）喺科羅拉多州Boulder County吞槍自殺身亡。
+Famous UFO researcher and frequent guest on History Channel's *Ancient Aliens*, **David Wilcock** (53), died by a self-inflicted gunshot in Boulder County, Colorado.
 
-根據Boulder County法醫辦公室確認，Wilcock喺4月20日上午11:02用槍結束自己生命。警方接報到場時發現佢正處於精神健康危機當中。
+According to the Boulder County Coroner's Office, Wilcock ended his life with a firearm at 11:02 AM on April 20. Police responding to the scene found him in a mental health crisis.
 
-Wilcock嘅YouTube頻道 **"Divine Cosmos with David Wilcock"** 累積超過 **4,600萬觀看次數**同**51.8萬訂閱者**。佢係UFO「披露運動」（Disclosure Movement）嘅重要人物，多年來呼籲美國政府公開外星文明資訊。
+Wilcock's YouTube channel **"Divine Cosmos with David Wilcock"** has accumulated over **46 million views** and **518,000 subscribers**. He was a key figure in the UFO "Disclosure Movement," having called for years for the U.S. government to release information about extraterrestrial civilizations.
 
-離世兩日前，佢喺X平台發文：
-> "我仲未確定聽日會唔會做節目。呢個週末發生咗一啲好 intense 嘅事⋯⋯無論如何，我想你哋知道我係幾咁愛你同感激你。記住，造物主喺我哋之內——我哋活在一個充滿愛嘅宇宙。"
+Two days before his death, he posted on X:
+> "I'm not sure yet if I'll do the show tomorrow. Some very intense things happened this weekend... Regardless, I want you to know how much I love and appreciate you. Remember, the Creator is within us — we live in a universe of love."
 
-**眾議員Anna Paulina Luna** 喺X上發文悼念，形容佢嘅死係「悲劇」，並引用聖經約翰福音8:32：「你哋必曉得真理，真理必叫你得自由。」
+**Representative Anna Paulina Luna** posted a tribute on X, calling his death a "tragedy" and quoting John 8:32: "Then you will know the truth, and the truth will set you free."
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/L2Rrnyak4Hk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/nnDGPi2Lx3k" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## 🔍 FBI正式調查——科學家連環死亡失蹤案
+## 🔍 FBI Officially Investigates — Series of Scientist Deaths and Disappearances
 
-| 📍 *美國全國範圍* | 📅 *2026年4月-5月* | 🔍 *國家安全調查* |
+| 📍 *Nationwide, USA* | 📅 *April-May 2026* | 🔍 *National Security Investigation* |
 
-**國會眾議院監督與政府改革委員會**正式宣布調查至少 **10名頂尖科學家**嘅死亡或失蹤案件。呢班科學家全部與美國 **核研究、太空計劃或敏感國防科技**有關。
+The **House Committee on Oversight and Government Reform** has officially announced an investigation into the deaths or disappearances of at least **10 top scientists**. All of these scientists were linked to U.S. **nuclear research, space programs, or sensitive defense technology**.
 
-FBI局長 **Kash Patel** 表示會「統籌調查」，與能源部、國防部及地方執法部門合作，必要時「作出適當逮捕」。
+FBI Director **Kash Patel** stated they would "coordinate the investigation," working with the Department of Energy, Department of Defense, and local law enforcement, and would "make appropriate arrests" if necessary.
 
-### 重點案件：
+### Key Cases:
 
-1. **William Neil McCasland**（68歲）— 退役空軍將領，曾任職Wright-Patterson空軍基地（即Roswell殘骸分析地點），曾參與UFO相關研究。2026年2月喺新墨西哥州Albuquerque離家後失蹤，冇帶電話同手錶，警方發咗「銀色警報」。
-2. **Monica Reza** — 前NASA科學家，2025年6月喺加州Angeles National Forest遠足時失蹤，至今下落不明。
-3. **Nuno F.G. Loureiro** — MIT物理學教授（核聚變專家），2025年12月喺波士頓屋企被槍殺。
-4. **Amy Catherine Eskridge**（34歲）— 反重力研究員，2022年死亡，裁定為自殺。
+1. **William Neil McCasland** (68) — Retired Air Force General, formerly stationed at Wright-Patterson Air Force Base (the location where Roswell debris was analyzed), involved in UFO-related research. Disappeared in February 2026 after leaving his home in Albuquerque, New Mexico, without his phone or watch. Police issued a "Silver Alert."
+2. **Monica Reza** — Former NASA scientist, disappeared in June 2025 while hiking in Angeles National Forest, California. Still missing.
+3. **Nuno F.G. Loureiro** — MIT Physics Professor (nuclear fusion expert), shot and killed at his home in Boston in December 2025.
+4. **Amy Catherine Eskridge** (34) — Anti-gravity researcher, died in 2022, ruled a suicide.
 
-McCalsand嘅太太公開呼籲停止散播「錯誤資訊」，強調佢丈夫13年前已離開敏感職位，冇特殊渠道獲取外星機密。
+McCasland's wife publicly called for an end to spreading "misinformation," emphasizing that her husband had left his sensitive position 13 years ago and had no special access to extraterrestrial secrets.
 
-特朗普回應記者時話：「呢啲係好 serious 嘅事⋯⋯希望只係巧合啦，定係你哋叫佢做乜都得。」
+Trump responded to reporters, saying: "These are very serious matters... Hopefully it's just a coincidence, or whatever you want to call it."
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/5y4Lm3W6GHQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/RB5YTv6NHPc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## 🎯 國會聽證會震撼——Hellfire導彈打中UFO竟然彈開
+## 🎯 Shocking Congressional Hearing — Hellfire Missile Hits UFO and Bounces Off
 
-| 📍 *也門海岸* | 📅 *2024年10月30日（2026年聽證會上公開）* | 🔍 *軍方確鑿證據* |
+| 📍 *Coast of Yemen* | 📅 *October 30, 2024 (Revealed at 2026 Hearing)* | 🔍 *Conclusive Military Evidence* |
 
-**眾議員Eric Burlison** 喺國會聽證會上公開咗一段 **前所未見**嘅影片——2024年10月30日，一架 **Hellfire地獄火導彈** 喺也門海岸打中一個「球形或不明物體」，結果個UFO **完全冇事繼續行**！
+**Representative Eric Burlison** released **unprecedented** footage during a congressional hearing — on October 30, 2024, a **Hellfire missile** struck a "spherical or unidentified object" off the coast of Yemen, and the UFO **was completely unharmed and continued moving**!
 
-記者 **George Knapp**（UFO披露界重量級人物）喺聽證會上話：
-> 「Hellfire導彈打中個UFO，就咁彈開咗，佢繼續飛。」
+Journalist **George Knapp** (a heavyweight in the UFO disclosure community) stated at the hearing:
+> "The Hellfire missile hit the UFO, just bounced off, and it kept flying."
 
-佢仲爆料話：「有個伺服器入面保存咗 **一整批呢類影片**，國會冇得睇，公眾更加冇得睇。」
+He also revealed: "There's a server containing a **whole batch of these kinds of videos** that Congress can't see, and the public certainly can't see."
 
-### 聽證會其他爆炸性證詞：
+### Other Explosive Testimony from the Hearing:
 
-- **Jeffrey Nuccetelli**（前空軍憲兵）：2003-2005年喺Vandenberg空軍基地經歷過5次無法解釋嘅UFO事件
-- **Dylan Borland**（前空軍退伍軍人）：2012年喺Langley空軍基地見到 **100英尺三角形飛行物** 起飛，爆料後被報復打壓
-- **Alexandro Wiggins**（海軍）：2023年2月喺加州南部對開海岸，喺USS Jackson軍艦上見到「自發光Tic-Tac形狀物體從海洋飛出，同另外3個類似物體會合後加速消失」
+- **Jeffrey Nuccetelli** (Former Air Force Military Police): Experienced 5 unexplained UFO incidents at Vandenberg Air Force Base between 2003-2005.
+- **Dylan Borland** (Former Air Force Veteran): Saw a **100-foot triangular craft** take off at Langley Air Force Base in 2012, and was retaliated against after coming forward.
+- **Alexandro Wiggins** (Navy): In February 2023, off the coast of Southern California, aboard the USS Jackson, he saw a "self-luminous Tic-Tac shaped object emerge from the ocean, rendezvous with 3 other similar objects, and then accelerate away."
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/u9sFTH15z60" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## 🌐 白宮真係註冊咗 Aliens.gov！
+## 🌐 White House Actually Registered Aliens.gov!
 
-| 📍 *美國華盛頓特區* | 📅 *2026年4月-5月* | 🔍 *政府檔案解密* |
+| 📍 *Washington D.C., USA* | 📅 *April-May 2026* | 🔍 *Government Document Declassification* |
 
-除咗特朗普下令解密UFO檔案之外，最新消息顯示白宮行政辦公室已經 **正式註冊咗「Aliens.gov」呢個域名**！目前網站仲未有任何內容，但呢個動作已經引發全球UFO界狂歡。
+In addition to Trump ordering the declassification of UFO files, the latest news shows that the White House Office of Administration has **officially registered the domain "Aliens.gov"**! The website currently has no content, but this move has already sparked a frenzy in the global UFO community.
 
-事源係前總統 **奧巴馬** 今年2月喺Podcast中疑似「承認外星人存在」：
-> 「佢哋係真嘅，但我冇見過。除非有個巨大嘅陰謀連美國總統都呃埋。」
+This follows former President **Obama** seemingly "acknowledging the existence of aliens" on a podcast in February:
+> "They are real, but I haven't seen them. Unless there's a massive conspiracy that even the President is kept in the dark about."
 
-之後特朗普喺Truth Social宣布：
-> 「基於公眾嘅極大興趣，我將會指示戰爭部長及其他相關部門開始識別同釋放同外星生命、UAP同UFO有關嘅政府檔案。」
+Then Trump announced on Truth Social:
+> "Due to the immense public interest, I will be directing the Secretary of Defense and other relevant departments to begin identifying and releasing government files related to extraterrestrial life, UAPs, and UFOs."
 
-**眾議員Thomas Massie** 就潑冷水話：「佢哋祭出咗終極嘅注意力轉移武器⋯⋯但Epstein檔案唔會就咁消失，就算係外星人都冇用。」
+**Representative Thomas Massie** poured cold water on the idea, saying: "They've deployed the ultimate distraction weapon... but the Epstein files won't just disappear, not even for aliens."
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/zuI4RjAF1B0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## 📊 本日速報總結
+## 📊 Today's News Summary
 
-| 事件 | 分類 | 熱度 |
+| Event | Category | Heat |
 |------|------|------|
-| David Wilcock自殺身亡 | 😢 UFO界損失 | ⭐⭐⭐⭐⭐ |
-| FBI調查10名科學家死亡失蹤 | 🔍 國家安全 | ⭐⭐⭐⭐⭐ |
-| Hellfire打UFO彈開片段公開 | 🎯 軍方證據 | ⭐⭐⭐⭐⭐ |
-| 白宮註冊Aliens.gov | 🌐 政府解密 | ⭐⭐⭐⭐ |
-| 國會聽證會Whistleblower證詞 | 🏛️ 立法進展 | ⭐⭐⭐⭐ |
+| David Wilcock's Death | 😢 UFO Community Loss | ⭐⭐⭐⭐⭐ |
+| FBI Investigates 10 Scientist Deaths/Disappearances | 🔍 National Security | ⭐⭐⭐⭐⭐ |
+| Hellfire Missile Bounces Off UFO Footage Released | 🎯 Military Evidence | ⭐⭐⭐⭐⭐ |
+| White House Registers Aliens.gov | 🌐 Government Declassification | ⭐⭐⭐⭐ |
+| Congressional Hearing Whistleblower Testimony | 🏛️ Legislative Progress | ⭐⭐⭐⭐ |
 
 ---
 
-## 🔗 來源連結
+## 🔗 Source Links
 
 - [The Independent: David Wilcock death](https://www.independent.co.uk/news/world/americas/david-wilcock-ufo-researcher-dead-b2963362.html)
 - [The Independent: FBI investigates scientists deaths](https://www.independent.co.uk/news/world/americas/crime/scientists-killed-disappeared-fbi-investigation-b2961506.html)
@@ -118,4 +117,4 @@ McCalsand嘅太太公開呼籲停止散播「錯誤資訊」，強調佢丈夫13
 - [The Independent: Trump alien files MAGA](https://www.independent.co.uk/news/world/americas/us-politics/trump-alien-extraterrestrial-files-maga-b2924360.html)
 
 ---
-*🛸 自動生成 UFO新聞摘要 • 2026年5月3日 10:04 HKT • 資料來源：The Independent 及多個新聞媒體*
+*🛸 Auto-generated UFO News Summary • May 3, 2026 10:04 HKT • Sources: The Independent and multiple news outlets*

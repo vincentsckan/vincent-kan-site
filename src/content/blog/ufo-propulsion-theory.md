@@ -6,41 +6,40 @@ descriptionEn: 'Theoretical analysis of UFO propulsion technology: anti-gravity,
 pubDate: '2023-02-01'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
+> 📚 **UAP Scientific Research** | 🔍 **Propulsion System Theory**
 
-> 📚 **UAP 科學研究** | 🔍 **推進系統理論**
+## Limitations of Human Technology
 
-## 人類科技嘅限制
+Currently, the fastest human-made aircraft (X-43A) reaches speeds of approximately 11,200 km/h, but the performance of the Tic Tac UAP during the Nimitz incident far exceeds this figure.
 
-目前人類最快嘅飛行器（X-43A）時速約11,200公里，但Tic Tac UAP喺尼米茲事件中嘅表現遠超呢個數字。
+## Possible Propulsion Theories
 
-## 可能嘅推進理論
+### 1. Inertial Cancellation
+- Principle: Cancels an object's inertial mass
+- Effect: Extreme acceleration without generating G-forces
+- Status: Theoretically feasible, but requires immense energy
 
-### 1. 慣性抵消
-- 原理：抵消物體嘅慣性質量
-- 效果：極限加速唔會產生G力
-- 現狀：理論上可行，但需要極大能量
+### 2. Gravitational Field Manipulation
+- Principle: Locally warps spacetime
+- Effect: Moves "space itself" rather than using thrust
+- Status: Allowed by Einstein's General Relativity, but practically unattainable
 
-### 2. 重力場操控
-- 原理：局部彎曲時空
-- 效果：唔用推力，而係「移動空間本身」
-- 現狀：愛因斯坦廣義相對論允許，但實際無法實現
+### 3. Zero-Point Energy Extraction
+- Principle: Extracts energy from the quantum vacuum
+- Effect: Infinite energy, no fuel required
+- Status: Controversial, but studied by NASA's Eagleworks laboratory
 
-### 3. 零點能提取
-- 原理：從量子真空提取能量
-- 效果：無限能源、無需燃料
-- 現狀：有爭議，但NASA Eagleworks實驗室曾研究
+### 4. Plasma Stealth
+- Principle: Envelops the craft in plasma
+- Effect: Absorbs radar waves, creates its own optical illusions
+- Status: Preliminary research by Russia and China
 
-### 4. 等離子體隱形
-- 原理：用等離子體包圍飛行器
-- 效果：吸收雷達波，製造自己嘅光學幻覺
-- 現狀：俄羅斯同中國有初步研究
+## Military Speculation
 
-## 軍方推測
+Former AARO Director **Sean Kirkpatrick** has hinted that some UAP technology surpasses that of the United States by at least **50-100 years**.
 
-AARO前主任 **Sean Kirkpatrick** 曾暗示，部分UAP嘅技術水平超越美國至少 **50-100年**。
-
-![UAP推進示意](../../assets/blog-placeholder-3.jpg)
-*UAP可能推進系統概念圖*
+![UAP Propulsion Illustration](../../assets/blog-placeholder-3.jpg)
+*Conceptual diagram of a possible UAP propulsion system*
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/od5hGm4glLY" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -48,4 +47,4 @@ AARO前主任 **Sean Kirkpatrick** 曾暗示，部分UAP嘅技術水平超越美
 
 ---
 
-*📚 參考：NASA研究、物理學期刊、AARO文件*
+*📚 References: NASA research, physics journals, AARO documents*

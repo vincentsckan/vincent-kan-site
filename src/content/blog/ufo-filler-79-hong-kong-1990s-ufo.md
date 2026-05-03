@@ -7,24 +7,23 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "asia"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-香港——呢個國際大都會唔單止係金融中心，實際上亦係UFO嘅活躍地點。1990年代，香港多處地區都有居民同遊客目擊到神秘嘅三角形飛行器，部分仲有人用手機或者相機影低。
+Hong Kong—this international metropolis is not only a financial hub but also an active location for UFOs. In the 1990s, residents and tourists in multiple areas of Hong Kong witnessed mysterious triangular aircraft, with some even capturing them on mobile phones or cameras.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Hong Kong (multiple districts) | 1990s-2000s | Multiple Sightings |
 
-1994年夏天，九龍城區嘅居民首先報告見到一個黑色嘅三角形飛行物體低空飛過。呢個物體有三個發光點——每個角有一個——以完美嘅三角形排列。佢慢速飛行，完全冇引擎聲音，呢點喺密集嘅城市環境中顯得特別詭異。
+In the summer of 1994, residents of Kowloon City were the first to report seeing a black triangular flying object flying low overhead. This object had three glowing points—one at each corner—arranged in a perfect triangle. It flew slowly with absolutely no engine sound, which was particularly eerie in the dense urban environment.
 
-1997年回歸前後，香港嘅UFO目擊報告更加頻繁。屯門、沙田同元朗嘅居民都報告見過類似嘅黑色三角形物體。有目擊者話，呢啲物體嘅體積大約等同兩架巴士咁大。
+Around the time of the 1997 handover, UFO sighting reports in Hong Kong became more frequent. Residents of Tuen Mun, Sha Tin, and Yuen Long all reported seeing similar black triangular objects. Some witnesses stated that these objects were roughly the size of two buses.
 
-最出名嘅一次發生喺1998年8月。一位叫做林先生嘅攝影發燒友喺維多利亞公園用長鏡頭拍攝夜景時，意外捕捉到一個三角形物體飛越中環上空嘅畫面。佢將照片交畀香港UFO研究會分析，專家經過放大對比後認為，呢個物體冇任何可見嘅機翼、螺旋槳或者噴射口。
+One of the most famous incidents occurred in August 1998. A photography enthusiast named Mr. Lam, while using a telephoto lens to capture night scenes at Victoria Park, accidentally captured an image of a triangular object flying over Central. He submitted the photo to the Hong Kong UFO Research Society for analysis. After magnification and comparison, experts concluded that the object had no visible wings, propellers, or exhaust nozzles.
 
-香港UFO研究會嘅創會成員周先生分析話，「三角形UFO」係全球UFO現象嘅一個獨特子類別。香港嘅三角形UFO多數係黑色或者深灰色，邊長大約5-15米，以極慢速度飛行（有時甚至低過直升機巡航速度），但零引擎聲音。
+Mr. Chow, a founding member of the Hong Kong UFO Research Society, analyzed that "triangular UFOs" are a unique subcategory of global UFO phenomena. Most triangular UFOs in Hong Kong are black or dark gray, with side lengths of approximately 5-15 meters. They fly at extremely slow speeds (sometimes even slower than helicopter cruising speed) but produce zero engine noise.
 
-呢類三角形UFO嘅案例喺其他城市都有出現——包括比利時（1989-1990年嘅著名三角UFO浪潮）、美國鳳凰城（1997年嘅鳳凰城光點）等。但香港嘅三角形UFO有一個獨特之處：佢哋好少飛得高，經常喺城市建築物之間穿行。
+Cases of this type of triangular UFO have appeared in other cities—including Belgium (the famous triangular UFO wave of 1989-1990), Phoenix, USA (the 1997 Phoenix Lights), and others. However, Hong Kong's triangular UFOs have a unique characteristic: they rarely fly high and often weave between urban buildings.
 
-📚 來源
-- 香港UFO研究會, "香港UFO目擊報告匯編(1990-2005)"
-- 《蘋果日報》1998年8月UFO照片專題報導
-- 周先生, "香港空中謎團：三角形UFO調查" (2002), 香港UFO研究會刊物
+📚 Sources
+- Hong Kong UFO Research Society, "Compilation of Hong Kong UFO Sighting Reports (1990-2005)"
+- Apple Daily, August 1998 UFO photo feature report
+- Mr. Chow, "Hong Kong's Aerial Mystery: Investigation of Triangular UFOs" (2002), Hong Kong UFO Research Society publication

@@ -7,12 +7,11 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "belgian-wave"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+From November 1989 to May 1990, Belgium experienced the largest UFO wave in European history. Over 13,500 people registered sighting reports, primarily involving huge triangular flying objects with bright lights at the three corners, flying extremely low and completely silent with no engine noise.
 
-1989年11月至1990年5月，比利時經歷歐洲史上最大規模UFO浪潮。超過13,500人登記目擊報告，主要係巨大三角形飛行物體，三個角有強光，飛得極低且完全冇引擎聲。
+On March 30, 1990, the Belgian Air Force scrambled F-16 fighter jets to intercept. Radar data showed the target could accelerate from 280 km/h to 1,770 km/h within seconds, and descend from 3,000 meters to 1,700 meters in just one second—generating 40 Gs of force, completely unbearable for humans. The Belgian Ministry of Defence released the radar data and intercept records.
 
-1990年3月30日，比利時空軍派出F-16戰鬥機升空攔截。雷達數據顯示目標可在幾秒內從280km/h加速到1,770km/h，由3,000米急降到1,700米只需一秒——產生40G力，人類完全無法承受。比利時國防部公開咗雷達數據同攔截記錄。
-
-📚 來源
+📚 Sources
 - Belgian Ministry of Defence, "UFO Wave Report (1989-1990)"
-- SOBEPS, "Vague d''OVNI sur la Belgique" (1991)
+- SOBEPS, "Vague d'OVNI sur la Belgique" (1991)
 - Belgian Air Force, F-16 Intercept Radar Data (March 30-31, 1990)

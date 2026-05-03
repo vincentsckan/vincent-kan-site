@@ -6,44 +6,43 @@ descriptionEn: 'UFO/UAP breaking news roundup: Latest developments in UAP disclo
 tags: ["UFO", "UAP", "news", "自動更新"]
 pubDate: 2026-05-02T23:03:00.000Z
 ---
-
-> 每小時為你追蹤全球UFO/UAP最新動態！今期焦點：NUFORC新公開嘅1967年冷戰雷達神秘高速UFO事件，仲有51區附近嘅地震群引發外星秘密測試嘅猜測。**越多影片越好，立即去片！** 🚀
+> Tracking global UFO/UAP updates every hour! This week's highlights: NUFORC's newly released 1967 Cold War radar mystery high-speed UFO case, and the earthquake swarm near Area 51 sparking speculation about secret alien tests. **The more videos, the better—let's dive in!** 🚀
 
 ---
 
-## 📰 本週UFO/UAP重點新聞
+## 📰 This Week's UFO/UAP Top Stories
 
-| 📍 *地點* | 📅 *日期* | 🔍 *分類* |
+| 📍 *Location* | 📅 *Date* | 🔍 *Category* |
 |---|---|---|
-| 美國北達科他州 Fortuna AFS | 1967年春（2026年4月公開） | 冷戰雷達UFO個案 |
-| 美國內華達州 Area 51 附近 | 2026年4月30日-5月1日 | 地震群 + UFO基地傳聞 |
-| 美國密芝根州北部 | 2025年9月-10月（調查報告） | NUFORC實地調查 |
-| 美國 | 2025-2026年 | AARO/NUFORC研討會 |
+| Fortuna AFS, North Dakota, USA | Spring 1967 (Released April 2026) | Cold War Radar UFO Case |
+| Near Area 51, Nevada, USA | April 30 - May 1, 2026 | Earthquake Swarm + UFO Base Rumors |
+| Northern Michigan, USA | September - October 2025 (Investigation Report) | NUFORC Field Investigation |
+| USA | 2025-2026 | AARO/NUFORC Workshop |
 
 ---
 
-## ⭐ 重點一：1967年Fortuna冷戰雷達高速UFO個案終於公開
+## ⭐ Highlight 1: 1967 Fortuna Cold War Radar High-Speed UFO Case Finally Released
 
-**NUFORC** 喺2026年5月1日發表咗一份令人震驚嘅新歷史個案報告！📄
+**NUFORC** published a shocking new historical case report on May 1, 2026! 📄
 
-一名退休嘅美國空軍雷達維修技術員，喺2026年4月12日向NUFORC報告，佢喺1967年春季服役期間，喺**Fortuna空軍基地（Fortuna AFS）** 用雷達捕捉到一個時速高達 **5,000英里（約8,000公里）** 嘅不明物體！
+A retired U.S. Air Force radar maintenance technician reported to NUFORC on April 12, 2026, that during his service in the spring of 1967, he captured an unidentified object traveling at speeds up to **5,000 mph (approximately 8,000 km/h)** on radar at **Fortuna Air Force Station (Fortuna AFS)**!
 
-**重點細節：**
-- 🛡️ 地點：Fortuna AFS，位於北達科他州西北角近加拿大邊境
-- 📡 SAGE（半自動地面防空系統）冷戰雷達網絡一部分
-- 🔭 使用AN/FPS 35巨型雷達（碟形天線直徑128英尺！）
-- ⚡ 目標以「跳躍式」橫掃雷達螢幕，每12秒掃描一次都完全跳過正常飛機軌跡
-- 🏃‍♂️ 維修技術員嘗試用高度定位雷達鎖定，但因目標太快而失敗
-- 🕵️ 第二日：**空軍特別調查辦公室（AFOSI）** 派隊到基地進行「審訊」，命令所有人唔准講出去
+**Key Details:**
+- 🛡️ Location: Fortuna AFS, near the Canadian border in northwestern North Dakota
+- 📡 Part of the SAGE (Semi-Automatic Ground Environment) Cold War radar network
+- 🔭 Used the massive AN/FPS 35 radar (dish antenna 128 feet in diameter!)
+- ⚡ The target "jumped" across the radar screen, completely skipping normal aircraft trajectories with each 12-second scan
+- 🏃‍♂️ The maintenance technician tried to lock on with height-finding radar but failed due to the target's extreme speed
+- 🕵️ The next day: The **Air Force Office of Special Investigations (AFOSI)** sent a team to the base for an "interrogation," ordering everyone not to speak about it
 
-最巧合嘅係，NUFORC調查員Jim Clarkson發現呢件事可能同 **1967年3月5日Minot空軍基地UFO事件** 有關——當日Minot嘅核導彈基地上空出現金屬碟形物體，機密文件顯示三名武裝追擊小隊曾經高速追捕該物體。
+Most coincidentally, NUFORC investigator Jim Clarkson found that this event may be linked to the **March 5, 1967 Minot Air Force Base UFO incident**—on that day, a metallic disc-shaped object appeared over Minot's nuclear missile base, and classified documents show three armed pursuit teams chased the object at high speed.
 
 <blockquote class="twitter-tweet">
 <p lang="en">NUFORC releases newly uncovered 1967 Fortuna AFS radar UFO case - object tracked at ~5,000 mph over North Dakota, AFOSI suppressed the witnesses. Full investigation online now.</p>
 &mdash; NUFORC (@NUFORC) <a href="https://x.com/NUFORC">May 1, 2026</a>
 </blockquote>
 
-### 🎥 相關影片
+### 🎥 Related Videos
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/z7ix3I5vW-E" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
@@ -51,19 +50,19 @@ pubDate: 2026-05-02T23:03:00.000Z
 
 ---
 
-## ⭐ 重點二：51區附近爆發17次地震群！引發秘密測試疑雲
+## ⭐ Highlight 2: 17 Earthquakes Swarm Near Area 51! Sparks Secret Test Speculation
 
-**Daily Mail** 報導，內華達州高度機密的 **51區** 基地附近，喺短短24小時內錄得 **至少17次地震**，最強達到 **黎克特制4.4級**。
+**Daily Mail** reports that near the highly classified **Area 51** base in Nevada, at least **17 earthquakes** were recorded within just 24 hours, with the strongest reaching **magnitude 4.4 on the Richter scale**.
 
-地震學家Stefan Burns形容呢個位置係「一個唔尋常嘅地震發生地」，並指出最強震動嘅震源深度得 **2.5英里**，非常淺層，令到地下爆炸同地震訊號難以區分。
+Seismologist Stefan Burns described the location as "an unusual place for earthquakes" and noted that the strongest tremor's hypocenter was only **2.5 miles deep**, very shallow, making it difficult to distinguish between underground explosions and seismic signals.
 
-- 🗺️ 超過100人向USGS報告感受到震動
-- 💬 X平台上網民即時開玩笑：「外星人喺度震動地球！！」
-- 📜 背景：2025年有報告指出五角大樓曾故意散播UFO假消息，用嚟掩蓋冷戰時期嘅機密武器計劃，包括1955年建立嘅51區同羅伯特·拉扎爾（Robert Lazar）喺1989年爆料嘅「S-4」逆向工程外星飛船設施
+- 🗺️ Over 100 people reported feeling the tremors to the USGS
+- 💬 X platform users immediately joked: "Aliens are shaking the Earth!!"
+- 📜 Background: In 2025, reports indicated the Pentagon deliberately spread UFO disinformation to cover up Cold War-era secret weapons programs, including the establishment of Area 51 in 1955 and Robert Lazar's 1989 revelations about the "S-4" reverse-engineering alien spacecraft facility
 
-雖然Burns強調好大可能係自然地震，但佢承認數據存在「一定模糊性」，值得討論會唔會係「隱蔽嘅地下核試」。
+Although Burns emphasized it's likely natural earthquakes, he acknowledged the data has "some ambiguity," warranting discussion about whether it could be "concealed underground nuclear tests."
 
-### 🎥 相關影片
+### 🎥 Related Videos
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/1I4YNj2mB-o" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
@@ -71,37 +70,37 @@ pubDate: 2026-05-02T23:03:00.000Z
 
 ---
 
-## ⭐ 重點三：密芝根北部神秘夜光球 — NUFORC實地調查報告
+## ⭐ Highlight 3: Mysterious Nighttime Orbs in Northern Michigan — NUFORC Field Investigation Report
 
-NUFORC喺2025年11月發佈咗一份完整嘅實地調查報告：密芝根北部一對退休夫婦（76歲嘅藝術家太太同87歲嘅心理學博士先生）喺2025年9月至10月期間，連續多晚喺佢哋偏遠林地嘅屋企，目擊到**籃球般大小嘅發光物體**喺眼前水平位置出現。
+NUFORC released a complete field investigation report in November 2025: A retired couple (a 76-year-old artist wife and an 87-year-old psychology PhD husband) in northern Michigan witnessed **basketball-sized glowing objects** appearing horizontally at eye level on multiple nights between September and October 2025 on their remote wooded property.
 
-呢啲物體喺佢哋40英畝嘅樹林土地上反覆出現，每次持續數分鐘。NUFORC調查員親身到場，排除咗無人機、燈光反射等常見解釋。
+These objects repeatedly appeared over their 40-acre forested land, each time lasting several minutes. NUFORC investigators visited the scene in person, ruling out common explanations like drones or light reflections.
 
-### 🎥 相關影片
+### 🎥 Related Videos
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/H-9EVNQA_AM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## ☕ 今日UFO趣聞冷知識
+## ☕ Today's UFO Fun Fact
 
-> **你知道嗎？** 美國空軍喺冷戰時期有一個惡搞傳統：新上任嘅指揮官會被安排參加一個名為「**Yankee Blue**」嘅虛構絕密項目簡報，內容係關於所謂嘅「外星飛船逆向工程研究」。新仔聽完之後會被警告：洩密將會面臨軍事法庭甚至死刑。呢個「入會儀式」喺冷戰期間一直存在，而五角大樓直到近年先承認呢件事！
+> **Did you know?** During the Cold War, the U.S. Air Force had a hazing tradition: Newly appointed commanders were scheduled for a briefing on a fictional top-secret project called "**Yankee Blue**," which involved so-called "reverse-engineering studies of alien spacecraft." After listening, the newcomer was warned that leaking information would lead to a court-martial or even the death penalty. This "initiation ritual" persisted throughout the Cold War, and the Pentagon only acknowledged it in recent years!
 
 ---
 
-## 📸 圖片精選
+## 📸 Image Highlights
 
 ![NUFORC Fortuna Radar Case](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
 
-*NUFORC公開嘅1967年Fortuna AFS雷達UFO個案，係冷戰SAGE系統嘅一部分*
+*NUFORC's released 1967 Fortuna AFS radar UFO case, part of the Cold War SAGE system*
 
 ![Area 51 Earthquake](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
 
-*Area 51附近嘅地震群引發地下測試疑雲*
+*Earthquake swarm near Area 51 sparks underground test speculation*
 
 ---
 
-## 📺 更多精選UFO影片
+## 📺 More Featured UFO Videos
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/qjnQhmmBEp8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
@@ -109,7 +108,7 @@ NUFORC喺2025年11月發佈咗一份完整嘅實地調查報告：密芝根北�
 
 ---
 
-## 🔗 來源連結
+## 🔗 Source Links
 
 - [NUFORC - A New Historical Radar Case Surfaces (May 1, 2026)](https://nuforc.org/fortuna-radar-case/)
 - [Daily Mail - Unusual earthquake swarm strikes near Area 51](https://www.dailymail.co.uk/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)
@@ -120,4 +119,4 @@ NUFORC喺2025年11月發佈咗一份完整嘅實地調查報告：密芝根北�
 
 ---
 
-*🤖 自動生成 UFO/UAP 快訊 | 每小時更新 | 數據來源：NUFORC、Daily Mail、NICAP等*
+*🤖 Auto-generated UFO/UAP News Flash | Updated Hourly | Data Sources: NUFORC, Daily Mail, NICAP, etc.*

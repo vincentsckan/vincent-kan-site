@@ -6,15 +6,14 @@ descriptionEn: 'In 1952, the Sutton family in Flatwoods, West Virginia encounter
 pubDate: '2022-07-10'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📍 **Hopkinsville, Kentucky, USA**
+> 📅 **August 21, 1955**
+> 🔍 **Close Encounter of the Third Kind, Gunfight**
 
-> 📍 **美國肯塔基州霍普金斯維爾**
-> 📅 **1955年8月21日**
-> 🔍 **第三類接觸、槍戰**
+On the night of August 21, 1955, an incredible incident occurred at an isolated farm in Kentucky—the Sutton Farm. Farm owner Billy Ray Taylor and his family claimed to have seen a glowing object land near the farm, after which several small, silver, large-headed humanoid beings approached the farmhouse.
 
-1955年8月21日晚，肯塔基州一個孤立的農場——薩頓農場（Sutton Farm）發生咗令人難以置信嘅事件。農場主人 Billy Ray Taylor 同家人聲稱見到一個發光物體降落喺農場附近，之後多個細小、銀色、大頭嘅人形生物接近農舍。
-
-家人用獵槍向呢啲生物開火，但子彈對佢哋冇明顯效果。牠們來回出現，持續幾個小時。警方到場調查時確實見到天空有神秘光芒。美國空軍後來介入，但檔案被封存。
+The family opened fire on these beings with shotguns, but the bullets had no apparent effect on them. They appeared and reappeared over several hours. When police arrived to investigate, they indeed saw mysterious lights in the sky. The U.S. Air Force later intervened, but the files were sealed.
 
 ---
 
-*📚 參考：空軍檔案、目擊者證詞*
+*📚 References: Air Force files, witness testimonies*

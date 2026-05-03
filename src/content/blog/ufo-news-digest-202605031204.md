@@ -8,131 +8,130 @@ updatedDate: '2026-05-03T12:04:00Z'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---
+> 📡 **UFO/UAP Flash Update** — Evening Update, Sunday, May 3, 2026
+> 🚀 Trump UFO Files About to Be Massively Released? Congress Pressures Pentagon to Hand Over Videos!
 
-> 📡 **UFO/UAP 快訊** — 2026年5月3日（星期日）夜晚更新
-> 🚀 特朗普UFO檔案即將大規模釋放？國會施壓五角大樓交出影片！
-
-| 📍 *美國華盛頓DC、內華達51區、英國Rendlesham* | 📅 *2026年5月3日* | 🔍 *特朗普UFO檔案·國會披露·Rendlesham·51區地震·萬斯* |
+| 📍 *Washington DC, USA; Area 51, Nevada; Rendlesham, UK* | 📅 *May 3, 2026* | 🔍 *Trump UFO Files · Congressional Disclosure · Rendlesham · Area 51 Earthquakes · Vance* |
 
 ---
 
-## 🇺🇸 【頭條】特朗普再爆猛料：UFO檔案「好有趣」即將釋出
+## 🇺🇸 【Headline】Trump Drops Another Bombshell: UFO Files "Very Interesting" Coming Soon
 
-**來源：** WTOP / Associated Press（2026年5月2-3日）
+**Source:** WTOP / Associated Press (May 2-3, 2026)
 
-**總統特朗普**再次點燃UFO披露話題！佢喺白宮出席NASA太空人活動時表示，**五角大樓正準備釋放一批「好有趣」（very interesting）嘅UFO檔案**，話係佢任內發現嘅從未公開文件。
+**President Trump** has reignited the UFO disclosure topic! Speaking at a White House event with NASA astronauts, he stated that the **Pentagon is preparing to release a batch of "very interesting" UFO files**, which he described as previously unreleased documents discovered during his tenure.
 
-特朗普話：「我哋將會釋放好多以前從未公開過嘅嘢。我諗有啲會令大家好有興趣。」呢番言論隨即喺UFO社群引發轟動。
+Trump said: "We're going to release a lot of things that have never been released before. I think some of it will be very interesting to people." This remark immediately caused a stir in the UFO community.
 
-回顧今次披露歷程：
-- **2月**：特朗普下令聯邦機構釋出與**外星生命及UFO相關**嘅政府檔案
-- **4月**：喺鳳凰城**Turning Point USA**活動上宣稱「首批檔案好快就會出」
-- **5月2-3日**：再度放風，話檔案已經「**好有趣**」
+Looking back at the disclosure timeline:
+- **February**: Trump ordered federal agencies to release government files related to **extraterrestrial life and UFOs**
+- **April**: At a **Turning Point USA** event in Phoenix, he claimed "the first batch of files will be out very soon"
+- **May 2-3**: He hinted again, saying the files are already "**very interesting**"
 
-白宮表示，**全域異常解析辦公室（AARO）** 而家正同白宮合作，準備釋出「前所未見嘅UAP資訊」。
+The White House stated that the **All-domain Anomaly Resolution Office (AARO)** is now working with the White House to prepare the release of "unprecedented UAP information."
 
-### ⚠️ 前AARO局長潑冷水
+### ⚠️ Former AARO Director Pours Cold Water
 
-不過，前AARO局長 **Sean Kirkpatrick**（物理學家、前情報官）就大潑冷水，話特朗普嘅承諾只係「**光輝嘅轉移視線把戲**」，用嚟 distract 美國人對伊朗戰爭嘅關注。佢話自己睇過晒政府記錄，**根本冇乜震撼性嘅嘢可以爆**：
+However, former AARO Director **Sean Kirkpatrick** (physicist, former intelligence officer) poured cold water on the claims, calling Trump's promise a "**brilliant distraction tactic**" to divert Americans' attention from the war in Iran. He said he has reviewed all government records and **there's nothing earth-shattering to reveal**:
 
-> 「讀者唔好期望會有一份文件，入面有外星人落嚟嘅相。因為呢啲嘢根本唔存在。」
+> "Readers shouldn't expect a document with a picture of aliens landing. Because those things simply don't exist."
 
-Kirkpatrick仲話，軍事紅外線鏡頭成日影到引擎熱力痕跡，啲所謂「藥丸形狀UFO」影片其實都有平凡嘅解釋。
+Kirkpatrick also said that military infrared cameras often capture engine heat signatures, and the so-called "pill-shaped UFO" videos actually have mundane explanations.
 
-### 📺 相關影片
+### 📺 Related Video
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/nFMdu9eE1sI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-<p style="text-align:center;"><em>特朗普：UFO檔案「好有趣」將釋放 — 新聞報導剪輯</em></p>
+<p style="text-align:center;"><em>Trump: UFO Files "Very Interesting" to Be Released — News Report Clip</em></p>
 
 ---
 
-## 🏛️ 眾議員Anna Paulina Luna：承諾展示「非人類來源」證據
+## 🏛️ Rep. Anna Paulina Luna: Promises to Show Evidence of "Nonhuman Origin"
 
-**來源：** NewsNation · Newsweek（2026年4月29-30日）
+**Source:** NewsNation · Newsweek (April 29-30, 2026)
 
-佛羅里達州眾議員、**聯邦機密解密任務部隊（Task Force on the Declassification of Federal Secrets）** 聯合主席 **Anna Paulina Luna** 發表強硬講話，承諾會向公眾展示 **「非人類來源」（nonhuman origin）** 嘅資訊！
+Florida Congresswoman and co-chair of the **Task Force on the Declassification of Federal Secrets**, **Anna Paulina Luna**, made a strong statement, promising to show the public information of **"nonhuman origin"** !
 
-Luna（空軍退役軍人）一直批評五角大樓透明度「唔夠」。佢喺3月去信國防部長 **Pete Hegseth**，要求交出被吹哨人標記嘅幾十條UAP影片，包括名為 **「雲層中球形UAP」（Spherical UAP in clouds）** 嘅片段。但限期過咗，五角大樓一條片都冇交。
+Luna (Air Force veteran) has consistently criticized the Pentagon's lack of transparency. In March, she sent a letter to Defense Secretary **Pete Hegseth**, demanding the release of dozens of UAP videos flagged by whistleblowers, including a clip titled **"Spherical UAP in clouds."** But after the deadline passed, the Pentagon didn't hand over a single video.
 
-Luna去年喺Joe Rogan嘅podcast上面講過，佢親眼見過**「跨維度生命體」**（interdimensional beings）嘅證據。特朗普下令披露後，Luna立即喺社交媒體歡呼：「五角大樓今次冇得再匿埋啲文件啦！」
+Last year, on Joe Rogan's podcast, Luna said she had personally seen evidence of **"interdimensional beings."** After Trump's disclosure order, Luna immediately cheered on social media: "The Pentagon can't hide these documents anymore this time!"
 
-而**前國防官員**亦向NewsNation表示，承諾嘅UFO資訊披露「**絕對唔係nothingburger**」，暗示真係有料到！
+Meanwhile, a **former defense official** told NewsNation that the promised UFO information release is "**definitely not a nothingburger**," hinting there's real substance!
 
-### 📺 相關影片
+### 📺 Related Video
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/mCC4ppHFFf4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-<p style="text-align:center;"><em>Anna Paulina Luna 討論UAP與非人類智慧</em></p>
+<p style="text-align:center;"><em>Anna Paulina Luna Discusses UAP and Non-Human Intelligence</em></p>
 
 ---
 
-## 👾 副總統萬斯自爆「沉迷」UFO檔案
+## 👾 Vice President Vance Admits He's "Obsessed" with UFO Files
 
-**來源：** WTOP / Associated Press
+**Source:** WTOP / Associated Press
 
-副總統 **JD Vance** 亦加入UFO熱潮！佢形容自己對UFO檔案「**上晒癮**」（obsessed）。今年3月，Vance話自從上任以嚟一直想抽時間去調查**51區**：
+Vice President **JD Vance** has also joined the UFO frenzy! He described himself as "**obsessed**" with UFO files. In March, Vance said he's been wanting to find time to investigate **Area 51** since taking office:
 
-> 「我仲有三年時間做副總統。我一定會查到UFO檔案嘅真相。」
+> "I still have three years left as Vice President. I will definitely get to the truth of the UFO files."
 
-Vance仲喺**Benny Johnson**嘅保守派podcast上話，基於佢嘅基督教信仰，佢相信啲UFO目擊報告其實係**靈界魔鬼嘅工作**（spiritual demons）——呢個角度都幾有趣！
+Vance also said on **Benny Johnson's** conservative podcast that, based on his Christian faith, he believes some UFO sighting reports are actually the work of **spiritual demons** — an interesting perspective!
 
 ---
 
-## 🇬🇧 Rendlesham Forest 謎團：「完美風暴嘅UFO案」
+## 🇬🇧 Rendlesham Forest Mystery: "The Perfect Storm of a UFO Case"
 
-**來源：** The Guardian（2026年4月30日）
+**Source:** The Guardian (April 30, 2026)
 
-英國《衞報》最近刊出長文，重新探討英國史上最著名嘅UFO事件——**Rendlesham Forest Incident**（1980年）。呢宗發生喺英國Suffolk嘅事件，被稱為「英國版Roswell」。
+The UK's *Guardian* recently published a long article re-examining Britain's most famous UFO event — the **Rendlesham Forest Incident** (1980). This event, which occurred in Suffolk, UK, is known as the "British Roswell."
 
-當時美國空軍人員喺Rendlesham森林目睹奇怪光點，有人聲稱見到**三角形金屬飛行器**，表面有象形文字標記。事件涉及**Woodbridge同Bentwaters**兩個美國空軍基地。
+At the time, US Air Force personnel witnessed strange lights in Rendlesham Forest, with some claiming to have seen a **triangular metallic craft** with hieroglyphic markings. The incident involved two US Air Force bases: **Woodbridge and Bentwaters**.
 
-《衞報》形容呢單案係「**完美風暴嘅UFO案件**」——多個目擊者、軍方背景、官方記錄存在但解釋含糊。即使46年過去，呢單案仍然係UFO研究者嘅最愛案例之一。
+*The Guardian* described the case as a "**perfect storm of a UFO case**" — multiple witnesses, a military backdrop, official records with vague explanations. Even 46 years later, this case remains one of the most popular among UFO researchers.
 
-### 📺 相關影片
+### 📺 Related Video
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/T2feJh9U7YQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-<p style="text-align:center;"><em>Rendlesham Forest UFO事件全紀錄 — 英國最著名嘅UFO案例</em></p>
+<p style="text-align:center;"><em>Rendlesham Forest UFO Incident Full Documentary — The UK's Most Famous UFO Case</em></p>
 
 ---
 
-## 🌊 51區地震群持續：又震過！
+## 🌊 Area 51 Earthquake Swarm Continues: Shaken Again!
 
-**來源：** Daily Mail · USGS
+**Source:** Daily Mail · USGS
 
-51區附近嘅**地震群**仲未完！內華達州Eureka縣繼續錄得輕微地震，距離51區僅數英里。雖然地震學家話最大機會係自然地震活動，但因為位置太敏感，UFO社群依然議論紛紛——會唔會係**地下秘密測試**？定係**外星科技啟動**？
+The **earthquake swarm** near Area 51 isn't over yet! Eureka County, Nevada, continues to record minor tremors, just a few miles from Area 51. Although seismologists say the most likely cause is natural seismic activity, the sensitive location keeps the UFO community buzzing — could it be **underground secret testing**? Or **alien technology activation**?
 
-USGS話超過100人匯報感到震動，考慮到嗰區居民主要係**軍方人員同承包商**，實際數字可能更高。
-
----
-
-## 🎬 荷里活都湊熱鬧：Spielberg新片《Disclosure Day》
-
-**來源：** WTOP / AP
-
-連荷里活都加入UFO熱潮！**Steven Spielberg** 嘅新電影 **《Disclosure Day》** 即將上映，由Josh O'Connor主演，講述UFO披露日嘅故事。而**前總統奧巴馬**今年2月亦喺podcast上話「**外星人好大機會存在**」——雖然佢澄清自己冇睇過證據，但話「宇宙咁大，存在生命嘅機會好高」。
-
-仲有，特朗普之前已經下令釋放**JFK、Robert F. Kennedy同Martin Luther King Jr.暗殺案**嘅檔案，但最終揭露嘅內容同外界已知嘅分別唔大。所以有人擔心UFO檔案會唔會又係「得個講字」？
+The USGS reports that over 100 people have reported feeling the shaking. Considering the area's residents are mainly **military personnel and contractors**, the actual number could be higher.
 
 ---
 
-## ⭐ **本日精選影片**
+## 🎬 Hollywood Joins the Fun: Spielberg's New Film *Disclosure Day*
+
+**Source:** WTOP / AP
+
+Even Hollywood is jumping on the UFO bandwagon! **Steven Spielberg's** new film **《Disclosure Day》**, starring Josh O'Connor, is about to be released, telling the story of UFO disclosure day. Meanwhile, **former President Obama** said on a podcast in February that "**the chances of aliens existing are very high**" — though he clarified he hasn't seen any evidence, he said "the universe is so vast, the chance of life existing is very high."
+
+Also, Trump previously ordered the release of files on the assassinations of **JFK, Robert F. Kennedy, and Martin Luther King Jr.**, but the final revelations weren't much different from what was already known. So some worry whether the UFO files will be another "all talk, no action" situation?
+
+---
+
+## ⭐ **Featured Video of the Day**
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/nGmD0MPb7SQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-<p style="text-align:center;"><em>UAP披露最新進展：前國防官員獨家專訪</em></p>
+<p style="text-align:center;"><em>Latest UAP Disclosure Progress: Exclusive Interview with Former Defense Official</em></p>
 
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/C_xhjvM2fZs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-<p style="text-align:center;"><em>美國政府UFO檔案：真相仲有幾遠？</em></p>
+<p style="text-align:center;"><em>US Government UFO Files: How Far Are We from the Truth?</em></p>
 
 ---
 
-> 💡 **總結：** 今日最大新聞係特朗普再度放風話UFO檔案即將釋放，加上國會Luna承諾展示「非人類來源」證據，副總統Vance都加入討論。雖然前官員潑冷水，但披露嘅可能性似乎比以往任何時候都高！而且荷里活大片、前總統奧巴馬嘅發言都顯示UFO話題已經滲入主流文化。
+> 💡 **Summary:** Today's biggest news is Trump once again hinting that UFO files are about to be released, plus Congresswoman Luna's promise to show evidence of "nonhuman origin," and Vice President Vance joining the discussion. Although a former official poured cold water, the possibility of disclosure seems higher than ever! And with Hollywood blockbusters and former President Obama's comments, the UFO topic has clearly entered mainstream culture.
 
-![UFO/UAP新聞](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![UFO/UAP News](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
 
 ---
 
-### 📚 來源連結
+### 📚 Source Links
 
 - [WTOP/AP: Trump keeps us up in the air with his hints of what's coming in a new batch of UFO files](https://wtop.com/national/2026/05/trump-keeps-us-up-in-the-air-with-his-hints-of-whats-coming-in-a-new-batch-of-ufo-files/)
 - [NewsNation: Congresswoman promises to address information of 'nonhuman origin'](https://www.newsnationnow.com/space/ufo/congresswoman-promises-to-address-information-of-nonhuman-origin/)
@@ -144,4 +143,4 @@ USGS話超過100人匯報感到震動，考慮到嗰區居民主要係**軍方�
 
 ---
 
-*🔔 本日誌由AI自動生成，每日多次更新。如有任何UFO/UAP新聞，歡迎隨時提供線索！*
+*🔔 This journal is AI-generated and updated multiple times daily. If you have any UFO/UAP news, feel free to provide tips!*

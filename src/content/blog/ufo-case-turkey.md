@@ -6,15 +6,14 @@ descriptionEn: 'Between 2007-2008, night guard Yalcin Yalman filmed over 3 hours
 pubDate: '2022-11-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+> 📍 **Istanbul, Turkey**
+> 📅 **2007**
+> 🔍 **Video evidence, night-time footage**
 
-> 📍 **土耳其伊斯坦布爾**
-> 📅 **2007年**
-> 🔍 **影片證據、夜間拍攝**
+In 2007, an unidentified flying object appeared in the night sky near Istanbul, Turkey, lasting for several hours. A local security guard successfully captured a large amount of footage using his camcorder.
 
-2007年，土耳其伊斯坦布爾附近嘅夜空中出現一個持續數小時嘅不明飛行物體。當地一名保安員用佢嘅攝錄機成功拍低咗大量片段。
-
-影片顯示一個發光嘅圓形物體，帶有兩個附屬結構。物體做出各種令人費解嘅動作。土耳其 UFO 研究中心 **Sirius UFO Space Sciences Research Center** 分析後認為，呢啲係目前最清晰嘅 UFO 影片之一。雖然分析結果有爭議，但影片確實引起咗國際關注。
+The video shows a luminous circular object with two attached structures. The object performs various puzzling maneuvers. After analysis, the Turkish UFO research center **Sirius UFO Space Sciences Research Center** concluded that this is one of the clearest UFO videos to date. Although the analysis results are controversial, the footage indeed attracted international attention.
 
 ---
 
-*📚 參考：Sirius UFO研究中心、媒體報導*
+*📚 Reference: Sirius UFO Research Center, media reports*

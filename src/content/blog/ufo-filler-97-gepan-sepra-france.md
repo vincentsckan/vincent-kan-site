@@ -7,16 +7,15 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "government-agency"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+In 1977, the French National Centre for Space Studies (CNES) established the world's first government-led UFO investigation agency—GEPAN (Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés). The creation of this agency made France one of the most open countries in the world regarding the UFO phenomenon.
 
-1977年，法國國家太空研究中心（CNES）成立咗全球第一個由政府主導嘅UFO調查機構——GEPAN（Groupe d''Étude des Phénomènes Aérospatiaux Non-identifiés）。呢個機構嘅成立，令法國成為世界上對UFO現象最開放嘅國家之一。
+GEPAN was composed of engineers and scientists from CNES, dedicated to collecting and analyzing UFO reports. Their investigative methods were scientifically orthodox—including on-site inspections, physical sample analysis, radar data review, and psychological assessments of witnesses.
 
-GEPAN由CNES嘅工程師同科學家組成，專責收集同分析UFO報告。佢哋嘅調查方法係正統科學嘅——包括現場勘查、物理樣本分析、雷達數據審查同目擊者心理評估。
+In 1988, GEPAN was renamed SEPRA (Service d'Expertise des Phénomènes de Rentrée Atmosphérique), continuing similar work but with reduced budget and scope. In 2005, SEPRA was replaced by GEIPAN—a more transparent agency that made its files publicly available online.
 
-1988年，GEPAN改名為SEPRA（Service d''Expertise des Phénomènes de Rentrée Atmosphérique），繼續進行同類工作，但預算同規模縮小咗。2005年，SEPRA被GEIPAN取代——呢個係一個更加透明、將檔案放上網公開嘅機構。
+The existence of this French government UFO agency proves that: even without official recognition of "alien spacecraft," governments can seriously investigate the UFO phenomenon using scientific methods. France's approach has become a model for other countries.
 
-法國呢個政府UFO機構嘅存在證明咗：即使冇官方承認「外星飛船」，政府都可以用科學方法認真調查UFO現象。法國嘅做法成為咗其他國家嘅典範。
-
-📚 來源
+📚 Sources
 - CNES, "GEPAN Activity Reports" (1977-1988)
 - SEPRA, "Annual Reports on Atmospheric Reentry Phenomena" (1988-2005)
 - Bounias, M. "GEPAN: A Scientific Approach to UFOs" (1980)

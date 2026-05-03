@@ -7,11 +7,10 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "radar-visual"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+In March 1968, a UFO event confirmed by both radar and the naked eye occurred near Walker Air Force Base in Roswell, New Mexico. After base radar operators detected a high-speed approaching target, an Air Force major with over 1,000 flight hours was summoned to the radar room. He and another officer went outside and observed through binoculars a huge, cigar-shaped, silver-white flying object.
 
-1968年3月，新墨西哥州Roswell附近嘅Walker空軍基地發生咗一個雷達同肉眼同時確認嘅UFO事件。基地雷達操作員發現高速接近嘅目標後，一位擁有超過1,000飛行時數嘅空軍少校被召喚到雷達室。佢同另一位軍官走出室外用望遠鏡觀察，見到一個巨大嘅雪茄形狀銀白色飛行物體。
+Radar data clearly showed that the target could instantly switch between stationary and high-speed movement—a flight characteristic impossible for any known aircraft in 1968. The final conclusion of Project Blue Book was "unexplained."
 
-雷達數據清楚顯示，目標可以喺靜止同高速之間瞬間切換——呢種飛行特性喺1968年嘅任何已知飛行器中都係冇可能做到嘅。Project Blue Book嘅最終結論係「無法解釋」。
-
-📚 來源
+📚 Sources
 - Project Blue Book Case Files (1968), National Archives
 - Walker AFB Radar Operations Log, March 1968

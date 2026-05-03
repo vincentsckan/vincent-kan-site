@@ -7,24 +7,23 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "military-coverup"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-1996年1月20日，巴西東南部小城Varginha嘅居民目擊到一架奇怪嘅飛船喺市區低空飛過。但更加震撼嘅係——據目擊者稱，佢哋見到一隻啡色皮膚、有大眼、身高約1.2米嘅奇怪生物喺街頭出現。呢件事好快就演變成巴西史上最轟動嘅UFO事件。
+On January 20, 1996, residents of the small southeastern Brazilian city of Varginha witnessed a strange craft flying low over the urban area. But even more shocking—according to witnesses, they saw a bizarre creature with brown skin, large eyes, and a height of about 1.2 meters appearing on the streets. This incident quickly escalated into the most sensational UFO event in Brazilian history.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Varginha, Minas Gerais, Brazil | 1996-01-20 | Alien Encounter / Military Cover-up |
 
-當日下午，三姐妹Liliane、Valquiria同Kátia Andrade喺返屋企途中見到一隻奇怪嘅生物蹲喺牆邊。佢哋描述話呢隻生物有啡色光滑嘅皮膚、紅色大眼睛、頭上有三個凸起物，下肢幼細，仲聞到一陣強烈嘅氨味。佢哋嚇到跑返屋企，然後報警。
+That afternoon, three sisters—Liliane, Valquiria, and Kátia Andrade—were on their way home when they spotted a strange creature crouching by a wall. They described it as having smooth brown skin, large red eyes, three protrusions on its head, thin lower limbs, and a strong smell of ammonia. Terrified, they ran home and called the police.
 
-同日稍後，有目擊者報稱見到軍方車輛同救護車迅速抵達現場。當地消防員喺晚間出動，據說喺一個下水道入口附近搜尋。有傳聞話消防員真係捉到咗一隻「生物」，然後咁「生物」被送到當地嘅人道主義醫院。
+Later that same day, witnesses reported seeing military vehicles and ambulances quickly arriving at the scene. Local firefighters were dispatched that evening, reportedly searching near a sewer entrance. Rumors circulated that the firefighters had actually captured a "creature," which was then taken to a local humanitarian hospital.
 
-第二日，一名叫Marco Eli Chereze嘅消防員因為「不明原因」暈倒入院。佢一直處於混亂狀態，聲稱「有嘢跟住我」。兩個月後，Marco Chereze突然死亡，醫院報告話係「感染性休克」引起，但UFO研究界一直懷疑真相冇咁簡單。
+The next day, a firefighter named Marco Eli Chereze collapsed and was hospitalized for "unknown reasons." He remained in a confused state, claiming "something is following me." Two months later, Marco Chereze suddenly died. The hospital report cited "septic shock" as the cause, but the UFO research community has long suspected the truth is not that simple.
 
-美國UFO研究組織MUFON同巴西媒體深入調查後發現，當日軍方曾經出動大量人員封鎖部分區域，仲有好幾架軍用貨車運送咗「某啲嘢」離開Varginha。巴西空軍亦被發現在附近區域進行咗異常嘅飛行活動。
+After in-depth investigations by the American UFO research organization MUFON and Brazilian media, it was discovered that the military had deployed a large number of personnel to cordon off parts of the area that day, and several military trucks transported "something" out of Varginha. The Brazilian Air Force was also found to have conducted unusual flight activities in the vicinity.
 
-2019年，巴西政府喺壓力下公開咗部分相關文件，但關鍵內容仍然被刪除。多位目擊者多年後仍然堅持佢哋嘅講法——佢哋見到嘅絕對唔係普通動物或人類。
+In 2019, under pressure, the Brazilian government released some related documents, but key content remained redacted. Many witnesses still insist on their accounts years later—what they saw was definitely not an ordinary animal or human.
 
-📚 來源
+📚 Sources
 - MUFON Journal, "The Varginha Case" (1997)
 - Official Brazilian Air Force documents declassified in 2019
 - Bueno, A.J. "Varginha: The Real Story" (2008), UFO Magazine Brazil

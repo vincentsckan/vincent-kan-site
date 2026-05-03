@@ -7,14 +7,13 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "nuclear-connection"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+UFOs don't just appear in the sky—they also dive underwater to track nuclear submarines. During the Cold War, multiple navies reported this phenomenon known as "USO" (Unidentified Submerged Object).
 
-UFO唔單止喺天上出現——佢哋仲會潛入水底跟蹤核潛艇。冷戰期間多國海軍報告過呢種被稱為「USO」（Unidentified Submerged Object）嘅現象。
+The most famous cases include: in the 1960s, a Soviet nuclear submarine in the Atlantic was pursued by a brightly glowing underwater object at speeds exceeding 40 knots; in the 1970s, during the U.S. Navy's "Gulf Breeze" sighting, a UFO descended from the sky into the water and then tracked a submarine.
 
-最著名嘅案例包括：1960年代蘇聯核潛艇喺大西洋俾一個發出強光嘅水下物體以超過40節嘅速度追蹤；1970年代美國海軍嘅「Gulf Breeze」目擊中，一個UFO由天入水再跟蹤潛艇。
+Former Soviet Navy Commander Captain Vladimir Azhazha—later a renowned UFO researcher—stated that the Soviet Navy had extensive records of USOs, with some objects capable of instantly accelerating from the surface to incredible speeds. These phenomena suggest that extraterrestrials are equally interested in humanity's oceanic nuclear deterrent.
 
-蘇聯海軍前司令官Vladimir Azhazha上校——後來成為著名UFO研究者——曾表示蘇聯海軍有大量USO記錄，部分物體可以從水面瞬間加速到難以置信嘅速度。呢啲現象顯示外星人對人類嘅海洋核威懾力量同樣關注。
-
-📚 來源
+📚 Sources
 - Azhazha, V. "UFOs and the Soviet Navy" (1995)
 - U.S. Navy, "Unidentified Submerged Object Reports" (FOIA release)
 - Stringfield, L. "USO: Unidentified Submarine Objects" (1980)

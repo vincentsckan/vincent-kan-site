@@ -6,42 +6,41 @@ descriptionEn: 'Technical exploration of how military and civilian radar systems
 pubDate: '2023-05-01'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
+> 📚 **UAP Scientific Research** | 🔍 **Radar Principles**
 
-> 📚 **UAP 科學研究** | 🔍 **雷達原理**
+## Radar Signal Characteristics of UAP
 
-## UAP嘅雷達信號特徵
+According to data from AARO and UAPTF, the radar characteristics of UAP differ significantly from conventional aircraft:
 
-根據AARO同UAPTF嘅數據，UAP嘅雷達特徵同普通飛行器有好大分別：
+### 1. No Radar Identification Code
+Regular aircraft have ADS-B or IFF (Identification Friend or Foe), but UAP have none.
 
-### 1. 無雷達識別碼
-普通飛機有ADS-B或IFF（敵我識別），UAP完全冇。
+### 2. Extremely High Acceleration
+Radar shows that UAP can accelerate from subsonic to supersonic speeds within 0.1 seconds.
 
-### 2. 極高加速度
-雷達顯示UAP可以喺0.1秒內由亞音速加速到超音速。
+### 3. No Thermal Signature
+Conventional aircraft engines emit infrared signals, while UAP have extremely weak infrared signatures.
 
-### 3. 無熱信號
-普通飛機引擎會發出紅外信號，UAP嘅紅外特徵極弱。
+### 4. Multi-Sensor Coordination
+UAP are often simultaneously tracked by radar, optical, and infrared sensors.
 
-### 4. 多傳感器協調
-UAP經常被雷達、光學、紅外線同時鎖定。
+## Radar Types
 
-## 雷達類型
+| Radar Type | Application | UAP Observation Capability |
+|------------|-------------|----------------------------|
+| AEGIS (SPY-1) | Navy Aegis System | Strongest, can track 3000+ targets |
+| Weather Radar | NEXRAD Network | Occasionally captures UAP unexpectedly |
+| Military Fire Control Radar | Fighter Jet Lock-on | Highest precision |
+| Air Traffic Control Radar | FAA | Useful but relatively coarse |
 
-| 雷達類型 | 應用 | UAP觀測能力 |
-|----------|------|------------|
-| AEGIS（SPY-1） | 海軍神盾系統 | 最強，可追蹤3000+目標 |
-| 氣象雷達 | NEXRAD網絡 | 有時意外捕捉UAP |
-| 軍用火控雷達 | 戰機鎖定 | 精度最高 |
-| 航管雷達 | FAA | 有用但較粗略 |
+## Supporting Cases
 
-## 佐證案例
+- **USS Nimitz**: SPY-1 radar tracked the Tic Tac throughout
+- **Belgian Wave**: F-16 fire control radar locked onto triangular UFO
+- **Russian Radar**: Multiple large-scale UAP radar incidents during the Soviet era
 
-- **尼米茲號**：SPY-1雷達全程追蹤Tic Tac
-- **比利時浪潮**：F-16火控雷達鎖定三角形UFO
-- **俄羅斯雷達**：蘇聯時期有多次大規模UAP雷達事件
-
-![UAP雷達示意](../../assets/blog-placeholder-5.jpg)
-*AEGIS神盾雷達系統曾經追蹤Tic Tac UAP*
+![UAP Radar Illustration](../../assets/blog-placeholder-5.jpg)
+*AEGIS radar system once tracked the Tic Tac UAP*
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/dP9y3XKhBRY" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -49,4 +48,4 @@ UAP經常被雷達、光學、紅外線同時鎖定。
 
 ---
 
-*📚 參考：AARO資料、國防部報告*
+*📚 References: AARO data, Department of Defense reports*

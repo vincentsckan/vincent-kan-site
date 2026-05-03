@@ -6,86 +6,85 @@ descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
 pubDate: "2026-05-03T06:04:00.000Z"
 tags: ["UFO", "UAP", "news", "自動更新"]
 ---
+> Whether it's big news or small updates, as long as it's about UFO/UAP, we'll compile it for you right away. Today's news flash brings several重磅 topics: the NRO's secret AI system, a congressman's public revelations, and new details about the mysterious death of a key whistleblower.
 
-> 無論大新聞定小消息，只要關乎UFO/UAP，我哋都會第一時間為你整理。今日嘅快訊帶嚟幾個重磅話題：NRO秘密AI系統、國會議員公開爆料、同埋一位關鍵吹哨人離奇死亡嘅新細節。
-
-![UFO概念圖](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO concept image](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
 
 ---
 
-## ⭐ 1. NRO 秘密AI「Sentient」被揭曾搜尋UAP後即被關閉
+## ⭐ 1. NRO's Secret AI "Sentient" Revealed to Have Searched for UAPs, Then Shut Down
 
-| 📍 *美國* | 📅 *2026年4月29日* | 🔍 *政府保密 / AARO* |
+| 📍 *USA* | 📅 *April 29, 2026* | 🔍 *Government Secrecy / AARO* |
 
-國家偵察局（NRO）建造咗一個名為 **「Sentient」** 嘅人工智能系統，專用於從太空衛星影像中搜尋UAP。根據 FOIA（信息自由法）獲得嘅內部電郵披露，Sentient 擁有每年 **2.38億美元**嘅預算，可以自主決定美國間諜衛星嘅指向——整合軌道影像、情報截取、開源資料，甚至能預測對手行為。
+The National Reconnaissance Office (NRO) built an AI system named **"Sentient"** specifically for searching for UAPs in satellite imagery from space. According to internal emails obtained via FOIA (Freedom of Information Act), Sentient had an annual budget of **$238 million** and could autonomously decide the pointing direction of US spy satellites—integrating orbital imagery, intelligence intercepts, open-source data, and even predicting adversary behavior.
 
-最震撼嘅係：呢套系統嘅UAP搜尋模組喺2021年已經存在，但**外部客戶必須正式要求先可以激活佢**——而之後嘅相關回應全部被塗黑。換句話講，呢個工具已經準備好，但似乎有人下令將佢熄咗。
+The most shocking part: the UAP search module of this system existed as early as 2021, but **an external client had to formally request its activation**—and all subsequent responses were redacted. In other words, the tool was ready, but someone apparently ordered it to be turned off.
 
-《The Verge》喺2019年曾形容Sentient為「無所不食」嘅系統。而Black Vault通過FOIA取得嘅內部電郵入面，最關鍵嘅一句就係：*「Sentient has a specific module to search for UAPs in satellite imagery, but an external client must formally request its activation」*——之後嘅回覆全部被REDACTED。
+*The Verge* described Sentient in 2019 as an "omnivorous" system. The most critical line in the internal emails obtained by The Black Vault via FOIA is: *"Sentient has a specific module to search for UAPs in satellite imagery, but an external client must formally request its activation"*—all replies after that were REDACTED.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/NvP4bKzsX_Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## ⭐ 2. 眾議員Anna Paulina Luna：非人類智慧體係「跨維度存在」
+## ⭐ 2. Rep. Anna Paulina Luna: Non-Human Intelligences Are "Interdimensional Beings"
 
-| 📍 *美國華盛頓* | 📅 *2026年4月30日* | 🔍 *國會披露 / 政治* |
+| 📍 *Washington, D.C., USA* | 📅 *April 30, 2026* | 🔍 *Congressional Disclosure / Politics* |
 
-眾議院解密聯邦機密工作組主席 **Anna Paulina Luna（R-FL）** 表示，美國人民就快得到長期被壓制嘅答案，關於喺地球上運作嘅**非人類智慧體**。呢位空軍退伍軍人喺高調露面——包括喺《The Joe Rogan Experience》上——明確拒絕傳統嘅「外星人來自另一個星球」說法，改為描述呢啲現象為 **「跨維度存在」**（interdimensional beings），能夠喺正常時空限制之外運作。
+**Anna Paulina Luna (R-FL)**, chair of the House Task Force on the Declassification of Federal Secrets, stated that the American people will soon get the long-suppressed answers about **non-human intelligences** operating on Earth. The Air Force veteran, in high-profile appearances—including on *The Joe Rogan Experience*—explicitly rejected the traditional "aliens from another planet" narrative, instead describing these phenomena as **"interdimensional beings"** capable of operating outside normal spacetime constraints.
 
-佢仲講出咗一句震撼嘅說話：
-> *「我觀察過屬於非人類起源同創造嘅事物。我唔叫佢哋做外星人。」*
+She also made a striking statement:
+> *"I have observed things that are of non-human origin and creation. I don't call them aliens."*
 > — Rep. Anna Paulina Luna
 
-呢個立場同Jacques Vallée等UFO研究者嘅「跨維度假說」不謀而合。
+This stance aligns with the "interdimensional hypothesis" of UFO researchers like Jacques Vallée.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/BGAAh93l4F0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## ⭐ 3. 空軍情報官Matthew Sullivan之死——「巧合」定「滅口」？
+## ⭐ 3. Death of Air Force Intelligence Officer Matthew Sullivan—"Coincidence" or "Silencing"?
 
-| 📍 *Falls Church, 維珍尼亞州* | 📅 *事發：2024年5月12日；曝光：2026年4月30日* | 🔍 *吹哨人 / 墜毀回收* |
+| 📍 *Falls Church, Virginia* | 📅 *Incident: May 12, 2024; Exposed: April 30, 2026* | 🔍 *Whistleblower / Crash Retrieval* |
 
-**Matthew James Sullivan**，39歲，銅星勳章獲得者，前空軍情報官，曾服役於國家空軍太空情報中心（NASIC）同NSA——喺2024年5月12日被發現死於維珍尼亞州Falls Church嘅家中。官方死因？**「意外服藥過量」**。體內驗出酒精、Xanax（阿普唑侖）、肌肉鬆弛劑同imipramine——一種通常用嚟醫細路尿床同焦慮嘅藥。
+**Matthew James Sullivan**, 39, Bronze Star recipient, former Air Force intelligence officer who served at the National Air and Space Intelligence Center (NASIC) and the NSA—was found dead at his home in Falls Church, Virginia, on May 12, 2024. Official cause of death? **"Accidental drug overdose."** His body tested positive for alcohol, Xanax (alprazolam), a muscle relaxant, and imipramine—a drug typically used to treat childhood bedwetting and anxiety.
 
-但關鍵在於時間線：**佢同意喺幾星期後到國會作證**，準備揭露美國政府嘅秘密墜毀回收計劃同非人類技術。UAP社群消息人士指出，Sullivan唔單止係另一個知情者——佢擁有**直接知識**。佢見過飛行器。佢準備好爆出David Grusch等人只係暗示過嘅「遺留計劃」（legacy program）。
+But the key lies in the timeline: **He had agreed to testify before Congress in a few weeks**, preparing to expose the US government's secret crash retrieval programs and non-human technology. UAP community sources indicate that Sullivan wasn't just another insider—he had **direct knowledge**. He had seen the craft. He was ready to reveal the "legacy programs" that people like David Grusch had only hinted at.
 
-然後，國會聽證會冇咗佢。UAP研究界炸開咗一條問題：**呢個真係意外咩？**
+Then, the congressional hearing lost him. The UAP research community erupted with one question: **Was this really an accident?**
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/dUypHStRJ2Y" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## ⭐ 4. 三角形UFO編隊現身卡塔爾杜哈雷暴中
+## ⭐ 4. Triangle UFO Formation Spotted During Thunderstorm Over Doha, Qatar
 
-| 📍 *杜哈，卡塔爾* | 📅 *2026年3月25日* | 🔍 *𠵹家目擊 / 影片* |
+| 📍 *Doha, Qatar* | 📅 *March 25, 2026* | 🔍 *Recent Sighting / Video* |
 
-喺卡塔爾首都杜哈嘅一場雷暴期間，有人拍攝到**三個發光體**以三角形編隊飛行。片段引發熱議——到底係罕見嘅自然現象定係未解釋嘅UFO？當地居民形容呢三個光體喺閃電之間穩定移動，形成完美嘅幾何排列。
+During a thunderstorm over Doha, the capital of Qatar, someone captured **three luminous objects** flying in a triangular formation. The footage sparked heated debate—is it a rare natural phenomenon or an unexplained UFO? Local residents described the three lights moving steadily between lightning flashes, forming a perfect geometric arrangement.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/lGDFjLJkHXc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## ⭐ 5. 前總統Jimmy Carter 1977年被秘密簡報UFO？新細節曝光
+## ⭐ 5. Former President Jimmy Carter Secretly Briefed on UFO in 1977? New Details Emerge
 
-| 📍 *華盛頓特區* | 📅 *2026年3月* | 🔍 *歷史揭秘 / 政府知情* |
+| 📍 *Washington, D.C.* | 📅 *March 2026* | 🔍 *Historical Revelation / Government Knowledge* |
 
-物理學家 **Eric Davis** 聲稱，前總統Jimmy Carter喺1977年收到過一份關於可能外星接觸嘅**秘密UFO簡報**。呢個新細節重新點燃咗呢個謎團——Carter本身曾經講過自己見過UFO，但呢次係首次有人證實佢喺白宮時期收到過官方簡報。
+Physicist **Eric Davis** claims that former President Jimmy Carter received a **secret UFO briefing** about possible extraterrestrial contact in 1977. This new detail reignites the mystery—Carter himself had previously stated he saw a UFO, but this is the first time someone has confirmed he received an official briefing during his White House years.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/LH_h7n9vB7E" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## 📺 更多UFO影片推薦
+## 📺 More UFO Video Recommendations
 
-想睇更多？以下係今日推介嘅YouTube播放清單：
+Want to see more? Here's today's recommended YouTube playlist:
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ybUXfnOaK3w" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-## 🔗 來源連結
+## 🔗 Source Links
 
 - [Disclosure News — News Burst 30 April 2026](https://www.disclosurenews.it/news-burst-30-april-2026-get-the-news/)
 - [Disclosure News — News Burst 29 April 2026](https://www.disclosurenews.it/news-burst-29-april-2026-get-the-news/)

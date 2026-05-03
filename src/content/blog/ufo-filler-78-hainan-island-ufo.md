@@ -7,26 +7,25 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "asia"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-海南島作為中國南海嘅戰略要地，設有多個軍事雷達站。喺1990年代到2000年代初期，呢啲雷達站多次記錄到無法解釋嘅空中目標——呢啲目標擁有極端嘅飛行性能，遠超任何已知嘅人類飛行器。
+As a strategic location in the South China Sea, Hainan Island is equipped with multiple military radar stations. From the 1990s to the early 2000s, these stations repeatedly recorded unexplained aerial targets—objects with extreme flight performance far exceeding any known human aircraft.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Hainan Island, South China Sea | 1990s-2000s | Military Radar / Air Force |
 
-根據中國UFO研究會搜集嘅資料，1994年某個晚上，海南島南部嘅一個雷達站突然發現一個以超過每小時5,000公里速度由南海方向飛入嘅目標。呢個目標喺雷達屏幕上以「蛇行」方式移動，呢種模式喺任何已知飛行器中都從未見過。
+According to data collected by the China UFO Research Association, on a certain night in 1994, a radar station in southern Hainan Island suddenly detected a target flying in from the South China Sea at a speed exceeding 5,000 kilometers per hour. This target moved in a "zigzag" pattern on the radar screen, a mode never seen in any known aircraft.
 
-雷達操作員最初以為係設備故障，但交叉對比之後發現——同一時間有幾個雷達站都追蹤到同一個目標。這證明了目標嘅物理存在，唔係大氣折射或設備誤差。
+The radar operator initially suspected equipment malfunction, but cross-referencing revealed that multiple radar stations had tracked the same target simultaneously. This confirmed the physical existence of the target, ruling out atmospheric refraction or equipment error.
 
-1998年嘅另一個事件仲更加戲劇性。海南島一個沿海雷達站報告話有一個「巨型」目標由北部灣方向飛來——雷達顯示嘅訊號大到操作員以為係「一群飛機」。但肉眼觀察後發現，天上只有一個巨大嘅圓形發光物體。
+Another incident in 1998 was even more dramatic. A coastal radar station on Hainan Island reported a "giant" target flying in from the Gulf of Tonkin—the radar signal was so large that the operator initially thought it was a "group of aircraft." However, visual observation revealed only a single huge circular luminous object in the sky.
 
-中國軍方嘅內部報告中將呢啲事件記錄為「不明空情」。部分報告提到，呢啲UFO出現時，經常會對周邊嘅通訊設備造成強烈干擾——無線電會出現異常噪音，甚至部分電子儀器會短暫失靈。
+Internal Chinese military reports recorded these incidents as "unidentified aerial situations." Some reports mentioned that when these UFOs appeared, they often caused strong interference with surrounding communication equipment—radios emitted abnormal noise, and some electronic instruments even temporarily malfunctioned.
 
-呢個現象喺UFO研究界被稱為「EM效應」（電磁效應），全球好多可靠嘅UFO案例都有類似描述。
+This phenomenon is known in UFO research circles as the "EM effect" (electromagnetic effect), and many credible global UFO cases have similar descriptions.
 
-2000年代後期，隨着中國軍方雷達技術嘅升級，呢類報告嘅數量有所減少。但UFO研究者認為，可能係新款雷達可以更精確咁過濾異常訊號，或者國防部門將呢啲記錄嘅保密級別提高咗。
+In the late 2000s, with the upgrade of Chinese military radar technology, the number of such reports decreased. However, UFO researchers believe this may be because newer radar systems can more accurately filter out anomalous signals, or because defense departments have raised the classification level of these records.
 
-📚 來源
-- 中國UFO研究會年度報告(1994-2005)
-- 王思潮, "南海軍事雷達UFO案例分析" (2003), 中國UFO研究會
-- 退役空軍雷達操作員訪問記錄, 中國UFO研究會檔案
+📚 Sources
+- China UFO Research Association Annual Reports (1994-2005)
+- Wang Sichao, "Analysis of Military Radar UFO Cases in the South China Sea" (2003), China UFO Research Association
+- Interview records of retired Air Force radar operators, China UFO Research Association Archives

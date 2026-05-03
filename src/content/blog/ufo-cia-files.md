@@ -6,26 +6,25 @@ descriptionEn: 'A deep dive into declassified CIA documents on UFOs, including t
 pubDate: '2022-09-15'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
+> 📍 **U.S. Central Intelligence Agency**
+> 📅 **1940s — 1970s**
+> 🔍 **Intelligence Files, Government Concealment**
 
-> 📍 **美國中央情報局**
-> 📅 **1940年代 — 1970年代**
-> 🔍 **情報檔案、政府隱瞞**
+The Central Intelligence Agency's (CIA) role in UFO research has always been shrouded in mystery. According to declassified files, the CIA actively collected UFO intelligence from the 1950s to the 1970s, focusing primarily on:
 
-中央情報局（CIA）喺UFO研究嘅角色一直係謎團重重。根據目前已解密嘅檔案，CIA喺1950年代至1970年代積極收集UFO情報，主要關注：
+1. **National Security Threats**: Could UFOs be secret Soviet weapons?
+2. **Intelligence Cover-ups**: The CIA assisted the Air Force in downplaying UFO incidents
+3. **Psychological Warfare**: Assessing the impact of the UFO phenomenon on public psychology
 
-1. **國家安全威脅**：UFO會唔會係蘇聯嘅秘密武器？
-2. **情報遮蓋**：CIA曾經協助空軍淡化UFO事件
-3. **心理戰**：評估UFO現象對公眾心理嘅影響
+![CIA UFO Files](../../assets/blog-placeholder-3.jpg)
+*Cover of declassified CIA UFO-related files*
 
-![CIA UFO 檔案](../../assets/blog-placeholder-3.jpg)
-*CIA已解密嘅UFO相關檔案封面*
+**Key Declassified Content:**
 
-**關鍵解密內容：**
-
-- **2016年**：CIA公開超過2,700頁UFO相關文件
-- **OSA（Other Space Agencies）**：檔案中出現神秘簡寫
-- **1952年華盛頓入侵**：CIA內部備忘錄顯示高層極度關注
-- **Robertson Panel（1953）**：CIA主導嘅小組建議用貶低手段「處理」UFO報告
+- **2016**: The CIA released over 2,700 pages of UFO-related documents
+- **OSA (Other Space Agencies)**: A mysterious abbreviation appearing in the files
+- **1952 Washington Invasion**: Internal CIA memos show high-level extreme concern
+- **Robertson Panel (1953)**: A CIA-led panel recommended using disparaging tactics to "handle" UFO reports
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/oPwkCynQINY" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -33,4 +32,4 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 ---
 
-*📚 參考：CIA FOIA 閱讀室、The Black Vault*
+*📚 References: CIA FOIA Reading Room, The Black Vault*

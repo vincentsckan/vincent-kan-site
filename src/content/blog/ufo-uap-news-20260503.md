@@ -7,188 +7,187 @@ pubDate: '2026-05-03'
 updatedDate: '2026-05-03T12:00:00Z'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
+> 📡 **Daily UAP News Digest** — May 3, 2026 (Sunday)
+> AI-automated collection, organization, and formatting, focusing on authoritative sources and key developments
 
-> 📡 **每日UAP新聞精選** — 2026年5月3日（星期日）
-> 由AI自動搜集、整理及排版，聚焦權威來源及重要發展
-
-| 📍 *美國：內華達51區、維珍尼亞、加州、華盛頓DC、紐澤西、佛蒙特、康涅狄格；北達科他州Fortuna* | 📅 *2026年5月3日* | 🔍 *州級UAP立法浪潮·51區地震群·Sullivan死因調查·Fortuna雷達懸案·科學家失蹤·AARO* |
+| 📍 *USA: Area 51 Nevada, Virginia, California, Washington DC, New Jersey, Vermont, Connecticut; Fortuna, North Dakota* | 📅 *May 3, 2026* | 🔍 *State-level UAP legislative wave · Area 51 earthquake swarm · Sullivan death investigation · Fortuna radar cold case · Missing scientists · AARO* |
 
 ---
 
-## 🌊 51區密集地震群持續 — 引發地下秘密測試猜測
+## 🌊 Intense Earthquake Swarm Continues Near Area 51 — Sparking Speculation of Underground Secret Testing
 
-**來源：** Daily Mail（2026年5月2-3日）
+**Source:** Daily Mail (May 2-3, 2026)
 
-內華達州艾瑞卡縣（Eureka County）——距離美國最高機密軍事基地**51區僅數英里**的地區——在過去兩天內錄得**至少17次地震**，最強一次達**黎克特制4.4級**，震源深度僅約**4公里（2.5英里）**。
+Eureka County, Nevada — An area **just miles from the highly classified military base Area 51** has recorded **at least 17 earthquakes** over the past two days, the strongest reaching **magnitude 4.4**, with a depth of only about **4 km (2.5 miles)**.
 
-地震學家 **Stefan Burns** 直言這個震央位置「不尋常」，因為該區在地震紀錄中一向平靜。他分析指，地震與地下爆炸有時會產生極相似的地震波信號，雖然最大機會仍是自然地震，但「數據中存在一些模糊性」，令外界高度關注這是否涉及**隱蔽地下核試驗或秘密飛行器測試**。
+Seismologist **Stefan Burns** stated the epicenter location is "unusual," as the region is typically quiet in seismic records. He analyzed that earthquakes and underground explosions can sometimes produce very similar seismic wave signals. While the most likely cause remains natural earthquakes, "there is some ambiguity in the data," drawing significant public attention to whether this involves **covert underground nuclear tests or secret aircraft testing**.
 
-超過100人向美國地質調查局（USGS）匯報感到明顯震動。然而由於該區主要為**軍方人員及承包商**居住，實際感受報告可能遠低於真實數量。
+Over 100 people reported feeling the tremors to the U.S. Geological Survey (USGS). However, since the area is primarily inhabited by **military personnel and contractors**, the actual number of reports may be far lower than the real count.
 
-雖然地震群在內華達州並非聞所未聞——該州正處於盆地與山脈省（Basin and Range Province）的擴張帶——但**51區的高度敏感性**，令這次地震迅速成為UFO社群及陰謀論者的討論焦點。社交媒體上「#Area51Quake」話題迅速升溫：
+While earthquake swarms are not unheard of in Nevada — the state lies within the extensional zone of the Basin and Range Province — the **high sensitivity of Area 51** has quickly made this swarm a focal point for the UFO community and conspiracy theorists. The hashtag "#Area51Quake" is trending on social media:
 
-> 「外星人喺地下醒咗咋嘛」 — X平台網民
+> "Aliens just woke up underground lol" — X platform user
 
-不過冷靜分析：USGS尚未將事件分類為異常，而該地區過往確有自然地震群記錄。儘管如此，佛羅里達州眾議員 **Anna Paulina Luna** 仍在社交媒體公開要求五角大樓交代**51區附近的異常活動**。
+But a calm analysis: the USGS has not yet classified the event as anomalous, and the area has recorded natural earthquake swarms in the past. Nevertheless, Florida Congresswoman **Anna Paulina Luna** has publicly demanded the Pentagon provide information on **anomalous activity near Area 51**.
 
-![內華達沙漠與51區](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
+![Nevada desert and Area 51](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/LSyMDpKzjnI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🌊 關於Area 51地震群及2026年科學家神秘失蹤的媒體報導合集*
+*🌊 Media compilation on the Area 51 earthquake swarm and the mysterious disappearance of scientists in 2026*
 
 [🔗 Daily Mail — Unusual earthquake swarm strikes near Area 51](https://www.dailymail.com/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)
 
 ---
 
-## 🏛️ 州級立法革命：紐澤西、康涅狄格、佛蒙特通過UAP研究法案
+## 🏛️ State-Level Legislative Revolution: New Jersey, Connecticut, Vermont Pass UAP Research Bills
 
-**來源：** UAPCheck（2026年4月17日）
+**Source:** UAPCheck (April 17, 2026)
 
-超過70年來，UFO研究主要由個別研究者、非牟利組織及聯邦政府主導。但這個局面正在改變——**紐澤西、康涅狄格、佛蒙特**三個州已在州立法機構提出強制研究UAP的法案，其中**紐澤西州更已正式簽署成為法律**。
+For over 70 years, UFO research has been primarily led by individual researchers, non-profit organizations, and the federal government. But this is changing — **New Jersey, Connecticut, and Vermont** have introduced bills in their state legislatures mandating UAP research, with **New Jersey's bill already signed into law**.
 
-雖然2017年《紐約時報》披露2004年尼米茲號事件及先進航空威脅識別計劃（AATIP）後，UFO話題迎來轉折點，但此後預期的重大披露始終未兌現。特朗普雖表示將指示戰爭部長及相關機構「開始識別和發佈UAP檔案」，至今仍未有任何文件流出。在此背景下，三州決定**自行尋求答案**。
+While the 2017 *New York Times* disclosure of the 2004 Nimitz incident and the Advanced Aerospace Threat Identification Program (AATIP) marked a turning point for the UFO topic, the anticipated major disclosures have yet to materialize. Although Trump stated he would direct the Secretary of War and relevant agencies to "begin identifying and releasing UAP files," no documents have been released to date. In this context, the three states have decided to **seek answers on their own**.
 
-### 📜 紐澤西州 — 議會法案5712（已成為法律）
-2026年1月12日生效，包含設立**「不明航空現象研究中心」**，由一所具備研究能力的高等教育機構管理。每年撥款**250萬美元**，但不包含具體營運細節。
+### 📜 New Jersey — Assembly Bill 5712 (Enacted into Law)
+Effective January 12, 2026, it establishes a **"Center for Unidentified Aerial Phenomena Research"** managed by a higher education institution with research capabilities. It allocates **$2.5 million annually**, but lacks specific operational details.
 
-### 📜 康涅狄格州 — 第5422號法案（待決）
-指定由**康涅狄格大學（UConn）**主導研究，可獲州軍事事務辦公室協助。最值得注意的是法案提及可諮詢**「州內專門調查UFO目擊、綁架及其他無法解釋現象的非牟利組織總監」**。
+### 📜 Connecticut — Bill No. 5422 (Pending)
+Designates the **University of Connecticut (UConn)** to lead the research, with assistance from the state's Office of Military Affairs. Most notably, the bill mentions consulting with **"the director of a non-profit organization within the state that specializes in investigating UFO sightings, abductions, and other unexplained phenomena."**
 
-### 📜 佛蒙特州 — H.654號法案（待決）
-最全面的一項，提議創立**「佛蒙特空域安全與不明現象工作小組」**，負責評估UAP報告、評估空域及公共安全風險，並須每年向州長及議會提交報告。
+### 📜 Vermont — H.654 (Pending)
+The most comprehensive of the three, it proposes creating a **"Vermont Airspace Safety and Unidentified Phenomena Working Group"** responsible for evaluating UAP reports, assessing airspace and public safety risks, and submitting an annual report to the Governor and the Legislature.
 
-> 「這正是聯邦政府自1947年以來一直應該公開、持續進行的工作。」 — UAPCheck
+> "This is exactly the kind of open, ongoing work the federal government should have been doing since 1947." — UAPCheck
 
-![三州UAP立法地圖](/vincent-kan-site/_astro/blog-placeholder-2.BAPKxQv-.jpg)
+![Map of three states with UAP legislation](/vincent-kan-site/_astro/blog-placeholder-2.BAPKxQv-.jpg)
 
 [🔗 UAPCheck — Three U.S. States Stride into the UFO Arena](https://www.uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/)
 
 ---
 
-## ✈️ Burlison正式要求FBI調查已故空軍情報官Matthew Sullivan死因
+## ✈️ Burlison Formally Requests FBI Investigation into Death of Late Air Force Intelligence Officer Matthew Sullivan
 
-**來源：** Daily Mail、Liberation Times（2026年5月2日更新）
+**Source:** Daily Mail, Liberation Times (Updated May 2, 2026)
 
-已故美國空軍情報官 **Matthew Sullivan** 的死亡事件持續發酵。眾議員 **Eric Burlison** 已正式致函聯邦調查局（FBI）局長 **Kash Patel**，要求對Sullivan在2024年5月12日的死亡展開**刑事調查**。
+The death of late U.S. Air Force intelligence officer **Matthew Sullivan** continues to unfold. Congressman **Eric Burlison** has formally written to FBI Director **Kash Patel**, requesting a **criminal investigation** into Sullivan's death on May 12, 2024.
 
-現年僅39歲的Sullivan，官方死因至今**從未對外公佈**。Burlison在信中強調：
+Sullivan, only 39 at the time, has had his official cause of death **never publicly released**. Burlison emphasized in his letter:
 
-> 「他死亡前後的突然及可疑情況，引發對可能涉及不軌行為及其他相關人士安全的嚴重關憂。」
+> "The sudden and suspicious circumstances surrounding his death raise serious concerns about potential foul play and the safety of other individuals involved."
 
-Liberation Times獨家報導揭露，Sullivan涉嫌曾參與一項**據稱的非人類來源UAP遺留計劃**，並獲吹哨人David Grusch協助準備作證，卻在作證前夕離世。
+An exclusive report by Liberation Times revealed that Sullivan was allegedly involved in a **purported non-human origin UAP legacy program** and was assisted by whistleblower David Grusch in preparing to testify, but died on the eve of his testimony.
 
-更引人注目的是，情報社群監察長（Intelligence Community Inspector General）的調查據報已發現「嚴重的不當行為指控及可能違法活動」，暗示Sullivan的死**並非自殺**。
+More strikingly, an investigation by the Intelligence Community Inspector General has reportedly uncovered "serious allegations of misconduct and potentially illegal activity," suggesting Sullivan's death was **not a suicide**.
 
-另一關鍵細節：Sullivan的葬禮由 **David Abba 少將**——曾任國防部特別訪問計劃（SAP）中央辦公室主任——親自出席。Abba在悼詞中形容Sullivan是「遇過最聰明的情報中尉」，說他「背負了這個國家極少數人真正理解的秘密」。
+Another key detail: Sullivan's funeral was attended by **Major General David Abba** — former Director of the Office of the Secretary of Defense for Special Access Programs (SAP). In his eulogy, Abba described Sullivan as "the smartest intelligence lieutenant I have ever met," saying he "carried secrets that very few in this country truly understand."
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Z0ROLUJs7eY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*✈️ Eric Burlison談Matthew Sullivan死因及國會UFO調查*
+*✈️ Eric Burlison discusses Matthew Sullivan's death and the congressional UFO investigation*
 
 [🔗 Daily Mail — Burlison asks FBI to investigate Sullivan death](https://www.dailymail.com/sciencetech/article-15742843/death-air-force-whistleblower-ufo-virginia.html)
 [🔗 Liberation Times — Late Air Force Officer Linked To Alleged Legacy UFO Program](https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program)
 
 ---
 
-## 👩‍🔬 特朗普下令調查科學家失蹤潮 — Monica Reza家人首度開腔
+## 👩‍🔬 Trump Orders Investigation into Missing Scientists — Monica Reza's Family Speaks Out for the First Time
 
-**來源：** Daily Mail（2026年5月1-2日）
+**Source:** Daily Mail (May 1-2, 2026)
 
-失蹤近10個月的60歲NASA/JPL航空航天工程師 **Monica Reza**，其家人近日**首次打破沉默**，向Daily Mail表示深信她並非單純失蹤。
+The family of **Monica Reza**, a 60-year-old NASA/JPL aerospace engineer missing for nearly 10 months, has **broken their silence for the first time**, telling the Daily Mail they firmly believe her disappearance is not a simple case.
 
-Reza的丈夫直言：
+Reza's husband stated:
 
-> 「我知道這遠不止她失足跌下懸崖。我一直懷疑與工作有關。我心底裡知道她是被綁架的。」
+> "I know this is far more than her falling off a cliff. I've always suspected it's work-related. Deep down, I know she was abducted."
 
-Reza是**Mondaloy**——一種用於火箭引擎的高溫鎳基超級合金——的共同發明者。這個項目由**空軍研究實驗室（AFRL）**資助，當時的監督者正是同樣離奇失蹤的退役少將 **Neil McCasland**。
+Reza is the co-inventor of **Mondaloy** — a high-temperature nickel-based superalloy used in rocket engines. This project was funded by the **Air Force Research Laboratory (AFRL)**, and its supervisor at the time was the equally mysteriously missing retired Major General **Neil McCasland**.
 
-2026年4月，**特朗普總統**宣布其政府將調查Reza及至少**10至12名**其他失蹤或死亡的美國科學家，這些科學家大多掌握國防、核能和航空航天領域的高級機密。截至4月30日，特朗普表示已聽取調查簡報：
+In April 2026, **President Trump** announced his administration would investigate Reza and at least **10 to 12** other missing or deceased American scientists, most of whom held high-level secrets in defense, nuclear energy, and aerospace. As of April 30, Trump stated he had been briefed on the investigation:
 
-> 「其中一些是非常悲慘的個案，有人患病，有人自尋短見……有時案件之間確實有關聯……但至今我們發現關聯不大。」
+> "Some of these are very tragic cases, people who were sick, some who took their own lives... Sometimes there are connections between cases... but so far we haven't found much of a connection."
 
-這番表述既沒有完全否認連環陰謀，亦沒有排除自然原因，留下極大想像空間。調查仍在進行中。
+This statement neither fully denies a serial conspiracy nor rules out natural causes, leaving significant room for speculation. The investigation is ongoing.
 
-![NASA科學家與航空航天研究](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+![NASA scientist and aerospace research](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/KfTjSJnUGVQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*👩‍🔬 11名科學家神秘失蹤事件 — 新聞分析及白宮回應*
+*👩‍🔬 The mysterious disappearance of 11 scientists — News analysis and White House response*
 
 [🔗 Daily Mail — Missing scientist Monica Reza family speaks out](https://www.dailymail.com/sciencetech/article-15769971/missing-scientist-hiking-nasa-jpl-suspicious-disappearance-monica-reza.html)
 [🔗 Liberation Times — The Missing General: Neil McCasland](https://www.liberationtimes.com/home/the-missing-general-neil-mccasland-ufo-claims-and-an-unfolding-mystery)
 
 ---
 
-## ⏳ 冷戰懸案重見天日：1967年Fortuna雷達站追蹤到5,000英里/小時高速目標
+## ⏳ Cold Case Resurfaces: 1967 Fortuna Radar Station Tracked Target at 5,000 mph
 
-**來源：** NUFORC（2026年5月1日）
+**Source:** NUFORC (May 1, 2026)
 
-2026年4月12日，**NUFORC**收到一位退休空軍雷達維修技術員的報告，涉及**1967年春天**在北達科他州**Fortuna空軍基地（Fortuna AFS）**發生的一宗前所未見的雷達異常事件。
+On April 12, 2026, **NUFORC** received a report from a retired Air Force radar maintenance technician regarding an unprecedented radar anomaly at **Fortuna Air Force Station (Fortuna AFS)** in North Dakota during the **spring of 1967**.
 
-該技術員（當年約21歲）隸屬於第780雷達中隊，操作AN/FPS-26測高雷達及AN/FPS-35巨型搜索雷達（天線直徑達128英尺）。
+The technician (then about 21 years old) was assigned to the 780th Radar Squadron, operating the AN/FPS-26 height-finding radar and the massive AN/FPS-35 search radar (antenna diameter of 128 feet).
 
-**事件經過：**
-一個清晨，技術員與同僚在作戰中心打撲克牌。Minot空軍基地來電詢問雷達屏幕上有無可疑目標。值班操作員**Lenny Kemp**望向屏幕後大喊：**「那是甚麼？」**
+**The Incident:**
+One early morning, the technician and his colleagues were playing poker in the operations center. Minot Air Force Base called to ask if there were any suspicious targets on the radar screen. The duty operator, **Lenny Kemp**, looked at the screen and shouted: **"What is that?"**
 
-目標以**約5,000英里/小時**的速度向西北偏北方向移動，速度快得令操作員無法用測高雷達鎖定。普通飛機在屏幕上的軌跡是持續流暢的，但這個目標每次雷達旋轉（每12秒一圈）時只在屏幕上**跳躍式移動**。
+The target was moving at approximately **5,000 mph** in a north-northwest direction, moving so fast that operators couldn't lock onto it with the height-finding radar. Normal aircraft tracks are continuous and smooth, but this target only appeared in **jumps** on the screen with each radar rotation (every 12 seconds).
 
-翌日或兩日後，一隊來自**Malmstrom空軍基地**的人員到場對所有目擊者進行審問，基本上告訴他們：**「你們甚麼都沒看到。」**
+A day or two later, a team from **Malmstrom Air Force Base** arrived to interrogate all witnesses, essentially telling them: **"You saw nothing."**
 
-該技術員後來在網上看到1967年Minot及Malmstrom基地附近發生的**UFO關閉核導彈事件**，才意識到自己可能目擊了同一個連接事件。NUFORC調查員**Jim Clarkson**（40年經驗）經詳細比對，認定該證人高度可信：80歲退休工程師，在通用汽車任職42年，思路清晰，細節一致。
+The technician later saw online reports of the **UFO shutdown of nuclear missiles** near Minot and Malmstrom bases in 1967, realizing he might have witnessed a related event. NUFORC investigator **Jim Clarkson** (40 years of experience), after detailed cross-referencing, deemed the witness highly credible: an 80-year-old retired engineer who worked at General Motors for 42 years, with a clear mind and consistent details.
 
-> 「現在我知道為甚麼那些審問人員當時給我們那麼大壓力了。」 — 退休技術員
+> "Now I know why those interrogators were putting so much pressure on us back then." — Retired technician
 
-![冷戰時期FPS-35巨型雷達](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![Cold War era FPS-35 giant radar](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/hSGF6yjJJjc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*⏳ 蘑菇形UFO瞬間加速片段與冷戰雷達記錄的類比*
+*⏳ Analogy between a mushroom-shaped UFO instant acceleration clip and Cold War radar records*
 
 [🔗 NUFORC — A New Historical Radar Case Surfaces](https://nuforc.org/fortuna-radar-case/)
 
 ---
 
-## 🧠 AARO機密工作坊：以AI對抗UAP誤判
+## 🧠 AARO Classified Workshop: Using AI to Combat UAP Misidentification
 
-**來源：** The Debrief（2026年5月更新）
+**Source:** The Debrief (Updated May 2026)
 
-五角大樓的**全域異常解決辦公室（AARO）**正悄悄推動UAP分析技術的革新。根據2025年8月在華盛頓DC地區舉行的機密工作坊報告，AARO正計劃引入**人工智能**協助大規模UAP數據標準化與辨識。
+The Pentagon's **All-domain Anomaly Resolution Office (AARO)** is quietly pushing for innovation in UAP analysis technology. According to a report from a classified workshop held in the Washington DC area in August 2025, AARO plans to introduce **artificial intelligence** to assist in the large-scale standardization and identification of UAP data.
 
-工作坊由Associated Universities, Inc.（AUI）主持，與會者包括政府機構、學術界及民間研究組織代表。這標誌著AARO在與**獨立民間研究團體**合作方面的突破性轉變。
+The workshop was hosted by Associated Universities, Inc. (AUI) and included representatives from government agencies, academia, and civilian research organizations. This marks a breakthrough shift in AARO's collaboration with **independent civilian research groups**.
 
-**主要討論重點：**
-- AI可協助大規模UAP報告錄入、聚類及模式檢測
-- 但AI也有可能引入偏見、放大惡作劇或產出不準確結果
-- 建議採用**人類-AI混合模型**，保留人類監督權
-- **隱私保護**被列為優先事項，數據收集獲機構審查委員會（IRB）批准
+**Key Discussion Points:**
+- AI can assist in large-scale UAP report entry, clustering, and pattern detection
+- However, AI could also introduce bias, amplify hoaxes, or produce inaccurate results
+- A **human-AI hybrid model** is recommended, retaining human oversight
+- **Privacy protection** is listed as a priority, with data collection approved by an Institutional Review Board (IRB)
 
-David Grusch此前曾透露，部分UAP相關「秘密」之所以難以披露，是因為它們被深埋在數以百萬計的日常報告中——AI或許正是解開這個混亂的關鍵。
+David Grusch previously revealed that some UAP-related "secrets" are difficult to disclose because they are buried within millions of routine reports — AI may be the key to unraveling this chaos.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Gru2EDJvj9Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-*🧠 證據、無人機與UFO辯論 — Liberation Times Christopher Sharp分析*
+*🧠 Evidence, Drones, and the UFO Debate — Analysis by Liberation Times' Christopher Sharp*
 
 [🔗 The Debrief — AARO Hosts Private Workshop with Civilian Researchers](https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/)
 
 ---
 
-## 📌 重點一覽：2026年5月3日UAP新聞重點
+## 📌 Key Points at a Glance: UAP News Highlights for May 3, 2026
 
-| 事件 | 狀態 | 關鍵人物／機構 |
+| Event | Status | Key Figures / Agencies |
 |------|------|--------------|
-| 🌊 51區附近17次地震群 | ⏳ 持續監測 🔥 | USGS, Stefan Burns, Area 51 |
-| 🏛️ 三州通過UAP研究法案 | ✅ 紐澤西已生效；康州、佛蒙特待決 | New Jersey, UConn, Vermont |
-| ✈️ Burlison要求FBI查Sullivan死因 | 🏛️ FBI收到正式請求 🔥 | Eric Burlison, Kash Patel, David Grusch |
-| 👩‍🔬 失蹤科學家家人首度開腔 | 🏛️ 特朗普下令調查中 | Monica Reza, Neil McCasland, 白宮 |
-| ⏳ 1967年Fortuna雷達懸案重見天日 | 🔍 NUFORC調查報告 | NUFORC, Jim Clarkson, 780th Radar Sq |
-| 🧠 AARO引入AI分析UAP數據 | 📄 機密工作坊報告 | AARO, AUI, David Grusch |
-| 🏛️ 戰爭部白宮協調UAP材料發布 | ⏳ 進行中 | Anna Paulina Luna, Pete Hegseth |
+| 🌊 17 earthquakes near Area 51 | ⏳ Ongoing monitoring 🔥 | USGS, Stefan Burns, Area 51 |
+| 🏛️ Three states pass UAP research bills | ✅ New Jersey enacted; CT, VT pending | New Jersey, UConn, Vermont |
+| ✈️ Burlison asks FBI to investigate Sullivan's death | 🏛️ Formal request received by FBI 🔥 | Eric Burlison, Kash Patel, David Grusch |
+| 👩‍🔬 Missing scientist's family speaks out for first time | 🏛️ Trump ordered investigation ongoing | Monica Reza, Neil McCasland, White House |
+| ⏳ 1967 Fortuna radar cold case resurfaces | 🔍 NUFORC investigation report | NUFORC, Jim Clarkson, 780th Radar Sq |
+| 🧠 AARO introduces AI for UAP data analysis | 📄 Classified workshop report | AARO, AUI, David Grusch |
+| 🏛️ War Department White House coordinating UAP material release | ⏳ Ongoing | Anna Paulina Luna, Pete Hegseth |
 
 ---
 
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 2em;">
 
-*🤖 本文章由 AI 自動搜集及整理*
-*🕐 更新時間：2026-05-03 12:00 HKT*
-*📋 資料來源：Daily Mail、Liberation Times、The Debrief、USGS等*
+*🤖 This article is automatically collected and organized by AI*
+*🕐 Updated: 2026-05-03 12:00 HKT*
+*📋 Sources: Daily Mail, Liberation Times, The Debrief, USGS, etc.*
 
-**來源連結：**
+**Source Links:**
 - [Daily Mail — Area 51 Earthquake Swarm](https://www.dailymail.com/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)
 - [Daily Mail — Burlison asks FBI to investigate Sullivan death](https://www.dailymail.com/sciencetech/article-15742843/death-air-force-whistleblower-ufo-virginia.html)
 - [Daily Mail — Missing scientist Monica Reza family speaks out](https://www.dailymail.com/sciencetech/article-15769971/missing-scientist-hiking-nasa-jpl-suspicious-disappearance-monica-reza.html)

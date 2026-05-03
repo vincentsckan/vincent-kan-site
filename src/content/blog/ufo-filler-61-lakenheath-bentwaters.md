@@ -7,24 +7,23 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "radar"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-1956年8月13日到14日嘅晚上，英國東部地區嘅上空發生咗一宗被UFO研究者稱為「雷達證據最強嘅案例之一」嘅事件。美國空軍駐英國Lakenheath基地嘅雷達，同英國皇家空軍（RAF）嘅多個雷達站，一齊追蹤到一批高速移動嘅不明飛行物體。
+On the night of August 13-14, 1956, an event occurred over eastern England that UFO researchers have called "one of the strongest radar evidence cases." Radar at the U.S. Air Force's Lakenheath base in England, along with multiple radar stations of the Royal Air Force (RAF), jointly tracked a group of high-speed unidentified flying objects.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Lakenheath-Bentwaters, Suffolk, England | 1956-08-13 to 1956-08-14 | Radar-Visual |
 
-事件由RAF Bentwaters嘅雷達操作員率先發現。佢哋喺雷達屏幕上見到一個物體由東面高速飛入禁區，然後突然停止，喺空中懸停。之後，屏幕上嘅目標分裂成幾個細小嘅光點，以超乎想像嘅速度做出蛇行同急轉彎動作。
+The event was first detected by radar operators at RAF Bentwaters. They saw an object on their radar screens flying at high speed from the east into a restricted zone, then suddenly stopping and hovering in mid-air. After that, the target on the screen split into several smaller points of light, performing zigzag maneuvers and sharp turns at unimaginable speeds.
 
-RAF Bentwaters即刻通知咗附近嘅美國空軍Lakenheath基地。美軍第81戰鬥機攔截中隊嘅雷達操作員亦確認咗屏幕上有「異常目標」。佢哋派出咗一架裝有雷達嘅F-86D軍刀式戰鬥機升空攔截。
+RAF Bentwaters immediately notified the nearby U.S. Air Force Lakenheath base. Radar operators from the U.S. 81st Fighter-Interceptor Squadron also confirmed "anomalous targets" on their screens. They scrambled an F-86D Sabre jet fighter equipped with radar to intercept.
 
-當美軍戰機接近目標時，F-86D嘅機載雷達鎖定咗一個物體——飛行員亦報告見到「一道強烈嘅白光」喺前方。但當佢試圖更接近時，目標以難以置信嘅速度加速逃走，根據雷達顯示，加速率超過每小時1,500英里。F-86D根本追唔上。
+As the U.S. fighter approached the target, the F-86D's onboard radar locked onto an object—the pilot also reported seeing "an intense white light" ahead. But when he tried to get closer, the target accelerated away at an incredible speed, with radar showing an acceleration rate exceeding 1,500 miles per hour. The F-86D could not keep up.
 
-英國RAF Neatishead雷達站嘅操作員Frederick "Fred" Windley係目擊整個事件嘅關鍵證人。佢話：「我哋見到至少12個目標以排隊形式移動。佢哋嘅速度同動作模式完全唔似任何飛機——我由1950年就做雷達操作員，從來未見過類似嘅嘢。」
+Frederick "Fred" Windley, a radar operator at RAF Neatishead radar station, was a key witness to the entire event. He said: "We saw at least 12 targets moving in a formation. Their speed and movement patterns were completely unlike any aircraft—I had been a radar operator since 1950 and had never seen anything like it."
 
-呢個事件嘅書面記錄喺1980年代根據美國信息自由法被解密。美國空軍後來嘅內部備忘錄將事件分類為「未解決」，表示「雖然不排除係大氣現象或設備故障，但證據強烈表明有一個或多個實體物體存在，其飛行性能遠超當時嘅飛行器技術」。
+The written records of this event were declassified in the 1980s under the U.S. Freedom of Information Act. A later internal U.S. Air Force memo classified the event as "unresolved," stating that "although atmospheric phenomena or equipment malfunction cannot be ruled out, the evidence strongly suggests the presence of one or more physical objects whose flight performance far exceeded the aircraft technology of the time."
 
-📚 來源
+📚 Sources
 - U.S. Air Force, "Lakenheath Air Force Base Radar Incident Report" (1956)
 - RAF Neatishead Operations Log, August 13-14, 1956
 - Hall, R. "Rendezvous with a UFO: The Lakenheath Incident" (1978), MUFON

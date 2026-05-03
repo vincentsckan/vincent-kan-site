@@ -7,28 +7,27 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "asia"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-1990年7月17日晚上，中國上海及周邊地區發生咗一次近代中國最大規模嘅UFO目擊事件——數以百萬計嘅市民同時見到夜空中出現一個發出紅光同白光嘅巨型不明飛行物體。
+On the evening of July 17, 1990, one of the largest UFO sightings in modern Chinese history occurred in Shanghai and its surrounding areas—millions of citizens simultaneously witnessed a giant unidentified flying object emitting red and white light in the night sky.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Shanghai and adjacent provinces, China | 1990-07-17 | Mass Sighting |
 
-當晚大約9點左右，上海市區同郊區嘅眾多市民發現夜空中有個「好大嘅光點」先係靜止不動，然後開始慢慢移動。呢個物體體積巨大，用肉眼就睇得好清楚。佢發出紅光同白光交替閃爍，冇任何聲音。
+Around 9 PM that night, numerous residents in both urban and suburban Shanghai noticed a "very large bright spot" in the night sky that first remained stationary, then began to move slowly. The object was enormous in size and clearly visible to the naked eye. It emitted alternating red and white flashes of light, with no sound at all.
 
-呢次目擊之所以咁驚人，係因為覆蓋面積極廣——唔單止上海，就連浙江、江蘇、安徽等省份都有居民報告見到同一個物體。初步估計目擊人數高達數百萬人。
+What made this sighting so astonishing was its extremely wide coverage—not only in Shanghai, but also in provinces such as Zhejiang, Jiangsu, and Anhui, where residents reported seeing the same object. Preliminary estimates put the number of witnesses in the millions.
 
-上海市UFO研究學會嘅調查顯示，當時上海嘅多個天文台同氣象站都收到大量查詢電話。上海電視台同《新民晚報》等媒體亦收到海量讀者來信報告。
+An investigation by the Shanghai UFO Research Society showed that multiple observatories and weather stations in Shanghai received a flood of inquiry calls. Media outlets like Shanghai Television and *Xinmin Evening News* also received a massive number of reader letters reporting the sighting.
 
-根據當時嘅報紙報導，有飛機乘客報告話喺萬米高空都見到呢個光團——佢話光團「比月亮大兩倍」，發出柔和嘅光芒。仲有氣象站嘅工作人員表示，佢哋嘅雷達亦偵測到異常回波。
+According to newspaper reports at the time, an airline passenger reported seeing the glowing mass from an altitude of 10,000 meters—describing it as "twice the size of the moon," emitting a soft radiance. Additionally, weather station staff stated that their radar had detected anomalous echoes.
 
-呢件事喺中國引起咗很大嘅社會反響。當時中國政府對UFO話題一向低調，但由於目擊人數實在太多，官方無法完全忽視。中國UFO研究會（CURO）進行咗詳細嘅問卷調查，收集咗超過一千份獨立目擊報告。
+This incident caused a significant social response in China. The Chinese government had traditionally kept a low profile on UFO topics, but due to the sheer number of witnesses, the authorities could not completely ignore it. The China UFO Research Organization (CURO) conducted a detailed questionnaire survey, collecting over 1,000 independent sighting reports.
 
-著名嘅中國UFO研究者王思潮（Wang Sichao）後來分析咗呢個案例。佢指出呢個物體嘅飛行軌跡同速度變化顯示佢係一個「實體飛行器」，唔係流星或者人造衛星。王思潮係中國科學院紫金山天文台嘅研究員，佢嘅分析為呢個案例增加咗學術嘅分量。
+Renowned Chinese UFO researcher Wang Sichao later analyzed this case. He pointed out that the object's flight trajectory and speed changes indicated it was a "physical craft," not a meteor or satellite. Wang Sichao was a researcher at the Purple Mountain Observatory of the Chinese Academy of Sciences, and his analysis added academic weight to the case.
 
-上海1990年UFO事件至今仍然係中國UFO研究界最經典嘅案例之一，亦係亞洲最大規模嘅UFO目擊事件之一。
+The 1990 Shanghai UFO incident remains one of the most classic cases in Chinese UFO research circles and is also one of the largest UFO sightings in Asia.
 
-📚 來源
-- 王思潮, "1990年7月17日UFO事件調查報告" (1991), 《飛碟探索》雜誌
-- 《新民晚報》1990年7月18日至20日連續報導
-- 中國UFO研究會(CURO), "華東地區UFO事件問卷分析" (1990)
+📚 Sources
+- Wang Sichao, "Investigation Report on the July 17, 1990 UFO Incident" (1991), *Flying Saucer Exploration* Magazine
+- *Xinmin Evening News*, consecutive reports from July 18 to 20, 1990
+- China UFO Research Organization (CURO), "Questionnaire Analysis of the East China UFO Incident" (1990)

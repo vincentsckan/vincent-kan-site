@@ -7,24 +7,23 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "military-radar"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-1957年7月17日，美國空軍一架RB-47H電子偵察機喺密西西比州同德克薩斯州上空進行例行訓練飛行時，遇到咗一個用機上所有設備都確認到嘅不明飛行物體。呢個案例之所以特別，係因為RB-47係當時美國空軍最先進嘅電子偵察平台，裝有大量精密嘅探測儀器。
+On July 17, 1957, a U.S. Air Force RB-47H electronic reconnaissance aircraft, during a routine training flight over Mississippi and Texas, encountered an unidentified flying object confirmed by all onboard equipment. This case is particularly notable because the RB-47 was the U.S. Air Force's most advanced electronic reconnaissance platform at the time, equipped with numerous sophisticated detection instruments.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Mississippi to Texas, USA | 1957-07-17 | Radar-Visual-EW |
 
-機上有三位軍官同時報告：視覺上見到一個巨大嘅白色發光物體；機上嘅電子對抗接收器（ECM）偵測到一個「非常強嘅信號」；而機尾警衛雷達亦追蹤到一個不明目標喺飛機後方移動。
+Three officers onboard simultaneously reported: visually observing a massive, white, luminous object; the aircraft's Electronic Countermeasures (ECM) receiver detecting a "very strong signal"; and the tail warning radar tracking an unidentified target moving behind the aircraft.
 
-特別係ECM系統方面——呢個系統係用嚟探測敵方雷達信號嘅——明確顯示呢個物體發出咗一系列強烈嘅脈衝信號。奇怪嘅係，呢啲信號嘅頻率同模式係美國空軍從未記錄過嘅。同時間，機尾嘅警衛雷達亦顯示目標喺飛機後方大約8公里到20公里之間嘅範圍內移動。
+Specifically regarding the ECM system—designed to detect enemy radar signals—it clearly indicated that the object emitted a series of intense pulse signals. Strangely, the frequency and pattern of these signals had never been recorded by the U.S. Air Force. Simultaneously, the tail warning radar showed the target moving within a range of approximately 8 to 20 kilometers behind the aircraft.
 
-當值機長Lewis D. Chase上校事後接受訪問時話：「我喺空軍飛咗好多年，從來未見過類似嘅嘢。佢好似喺度玩緊我哋咁——當我哋試圖打開ECM系統進行定位時，佢就即刻改變位置。」
+The duty pilot, Colonel Lewis D. Chase, stated in a post-incident interview: "I've flown for the Air Force for many years and have never seen anything like it. It seemed to be playing with us—whenever we tried to activate the ECM system to pinpoint it, it would immediately change position."
 
-更加令人印象深刻嘅係，UFO嘅機動能力遠超當時任何已知飛機。根據飛行記錄，呢個物體可以做到15G以上嘅急轉彎——呢個G力係人體完全冇辦法承受嘅。而RB-47嘅飛行員最多只能承受5G左右。
+Even more impressive was the UFO's maneuverability, far exceeding any known aircraft of the time. According to flight records, the object could execute sharp turns exceeding 15 Gs—a G-force completely unsustainable for the human body. In contrast, the RB-47's pilots could withstand only about 5 Gs.
 
-美國空軍Project Blue Book將呢個事件記錄為「無法解釋」。直至今日，佢仍然係被認為史上證據最齊全、最可靠嘅UFO接觸事件之一。CIA後來解密嘅文件都引用咗呢個案例。
+The U.S. Air Force's Project Blue Book recorded this incident as "unexplained." To this day, it remains considered one of the best-documented and most reliable UFO contact events in history. Declassified CIA documents later cited this case.
 
-📚 來源
+📚 Sources
 - U.S. Air Force, "RB-47H Electronic Reconnaissance Incident Report" (1957)
 - Project Blue Book, Case File No. 3988
 - CIA, "UFOB Incident: RB-47" (1957), Declassified 1995

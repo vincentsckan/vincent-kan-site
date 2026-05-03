@@ -6,30 +6,29 @@ descriptionEn: 'Over 4,000 years of Chinese UFO records, from ancient emperor en
 pubDate: '2023-04-20'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
+> 📍 **Across China** | 📅 **Ancient — Modern** | 🔍 **Asian UFO History**
 
-> 📍 **中國各地** | 📅 **古代 — 現代** | 🔍 **亞洲UFO歷史**
+## Ancient Chinese UFO Records
 
-## 古代中國UFO記錄
+China's records of unidentified flying objects date back very early:
 
-中國對不明飛行物嘅記載其實非常早：
+- **"Song Shi" (History of Song)**: Records a "heavenly fire" descending, shining as bright as day
+- **"Ming Shi" (History of Ming)**: Records a "star as big as a dipper" appearing in the sky and moving
+- **Qing Dynasty**: Multiple local gazetteers record "fire in the sky"
 
-- **《宋史》**：記載「天火」降臨，光芒如晝
-- **《明史》**：記載天空中出現「星大如斗」並移動
-- **清代**：多個地方誌記錄「空中火光」
+## Modern Chinese UFO Cases
 
-## 現代中國UFO案例
+### 1994 Guizhou Incident
+A mass sighting occurred at the Duxi Forest Farm in Guizhou Province, where hundreds of people witnessed a triangular UFO. The People's Liberation Army intervened in the investigation.
 
-### 1994年貴州事件
-貴州省都溪林場發生集體目擊，數百人見到三角形UFO。解放軍曾介入調查。
+### 1998 China Civil Aviation UFO
+Multiple civil aviation pilots reported seeing a giant luminous object over northern China.
 
-### 1998年中國民航UFO
-多架民航機師喺華北上空報告見到巨型發光物體。
+### 2010 Hangzhou Airport Incident
+Xiaoshan International Airport closed its runway for about an hour due to UFO activity.
 
-### 2010年杭州機場事件
-蕭山國際機場因UFO活動關閉跑道約1小時。
-
-![中國UFO](../../assets/blog-placeholder-4.jpg)
-*中國古代繪畫中嘅神秘天空現象*
+![Chinese UFO](../../assets/blog-placeholder-4.jpg)
+*Mysterious sky phenomena in ancient Chinese paintings*
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/IBmQX3AWx7A" frameborder="0" allowfullscreen loading="lazy"></iframe>
@@ -37,4 +36,4 @@ heroImage: '../../assets/blog-placeholder-4.jpg'
 
 ---
 
-*📚 參考：中國科學院檔案、媒體報導*
+*📚 References: Chinese Academy of Sciences archives, media reports*

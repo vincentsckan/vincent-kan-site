@@ -6,46 +6,45 @@ descriptionEn: 'The Vincent Kan UFO/UAP information site now has a discussion fo
 pubDate: '2025-01-01'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
+> 📍 **Global UFO Community** | 📅 **2025** | 🔍 **Discussion Board Launched**
 
-> 📍 **全球 UFO 社群** | 📅 **2025年** | 🔍 **討論區啟動**
+## 💬 Welcome to the Discussion!
 
-## 💬 歡迎加入討論！
+Our discussion board is now officially open! At the bottom of every article, there's a comment section where you can:
 
-我哋嘅討論區而家正式開放！每篇文章底部都有留言區，你可以：
+1. **Log in with a GitHub account** — If you don't have one, signing up is completely free
+2. **Leave comments** — Share your insights, questions, or personal experiences about the article
+3. **Reply to others** — Connect with UFO enthusiasts from around the world
+4. **React** — Use emojis like 👍 ❤️ 🚀 to express your thoughts
 
-1. **用 GitHub 帳號登入** — 如果冇 GitHub 帳號，註冊一個完全免費
-2. **留言討論** — 分享你對文章嘅見解、問題或者親身經歷
-3. **回覆其他人** — 同世界各地嘅 UFO 愛好者交流
-4. **反應** — 用 👍 ❤️ 🚀 等 emoji 表達你嘅睇法
+## 🌐 Discussion Board Rules
 
-## 🌐 討論區規則
+- **Respect each other** — Different viewpoints are welcome for discussion, but no attacks
+- **Stay rational** — Skeptics are welcome, but please discuss with facts and logic
+- **Multilingual** — You can use Chinese, English, Japanese, or any language
+- **No spam** — No advertising
 
-- **互相尊重** — 唔同觀點可以討論，但唔可以攻擊
-- **保持理性** — 歡迎懷疑論者，但請用事實同邏輯討論
-- **多語言** — 可以用中文、英文、日文，乜文都得
-- **禁止 spam** — 唔好賣廣告
+## 🔗 Go to the Discussion Board
 
-## 🔗 直接去討論區
+👉 **[Go to GitHub Discussions](https://github.com/vincentsckan/vincent-kan-site/discussions)**
 
-👉 **[去 GitHub 討論區](https://github.com/vincentsckan/vincent-kan-site/discussions)**
+Or start chatting directly in the comment section below!
 
-或者直接喺下面嘅留言區開始傾計！
-
-![討論區](../../assets/blog-placeholder-3.jpg)
-*全球 UFO 愛好者一齊討論*
+![Discussion Board](../../assets/blog-placeholder-3.jpg)
+*Global UFO enthusiasts discussing together*
 
 <div class="video-embed">
   <iframe src="https://www.youtube.com/embed/t9UvlV_KRq4" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
-## 🚀 你都可以幫手推廣！
+## 🚀 You Can Help Promote Too!
 
-- 將網站分享俾你嘅 UFO 朋友
-- 喺 Reddit、Facebook、Discord 討論區貼文章連結
-- 喺 Twitter/X 用 #UFO #UAP 分享
+- Share the site with your UFO friends
+- Post article links on Reddit, Facebook, Discord discussion boards
+- Share on Twitter/X using #UFO #UAP
 
-一齊令呢個社群越嚟越大！🛸
+Let's make this community grow bigger together! 🛸
 
 ---
 
-*📚 所有文章下面都有留言區，直接開始討論！*
+*📚 There's a comment section under every article—start discussing right away!*

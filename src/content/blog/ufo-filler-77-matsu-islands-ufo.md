@@ -7,26 +7,25 @@ pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "asia"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
-
-台灣海峽嘅馬祖、金門等前線島嶼，唔單止係冷戰時期嘅軍事前哨，亦係亞洲其中一個UFO目擊嘅熱點地區。由於呢啲島嶼長期有軍隊駐守，目擊報告嘅可信度特別高。
+The frontline islands of Matsu and Kinmen in the Taiwan Strait are not only Cold War-era military outposts but also one of Asia's UFO hotspot regions. Due to the long-term military presence on these islands, the credibility of sighting reports is particularly high.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |
 |---|---|---|
 | Matsu Islands, Taiwan Strait | 1990s-2000s | Military / Radar Confirmed |
 
-1990年代，馬祖嘅軍民多次報告見到奇怪嘅光團喺海面上空盤旋。呢啲光團嘅移動方式好唔尋常——可以保持完全靜止數小時，然後以極高速度飛走。部分報告更提到光團會潛入水中消失。
+In the 1990s, military personnel and civilians on Matsu repeatedly reported seeing strange glowing orbs hovering over the sea. These orbs moved in unusual ways—they could remain completely stationary for hours, then fly away at extremely high speeds. Some reports even mentioned the orbs diving into the water and disappearing.
 
-金門嘅退役軍官張先生（化名）接受台灣UFO研究者訪問時憶述，佢喺1995年夏天於金門服役時，親眼見到一個巨大嘅銀色圓盤狀物體懸浮喺海面上空。佢話當時營區進入緊急狀態，長官下令所有人進入掩體。
+A retired military officer from Kinmen, Mr. Zhang (pseudonym), recalled in an interview with Taiwanese UFO researchers that while serving on Kinmen in the summer of 1995, he personally witnessed a huge silver disc-shaped object hovering over the sea. He said the camp went into emergency mode, and the commander ordered everyone into bunkers.
 
-台灣嘅海軍雷達站亦多次記錄到「不明目標」喺台灣海峽中線附近出現。呢啲目標嘅飛行模式同任何已知嘅軍機或民航機都唔同——佢哋經常以極低速度飛行，然後突然加速到超音速。
+Taiwan's naval radar stations also repeatedly recorded "unidentified targets" appearing near the median line of the Taiwan Strait. The flight patterns of these targets differed from any known military or civilian aircraft—they often flew at very low speeds, then suddenly accelerated to supersonic speeds.
 
-有趣嘅係，兩岸嘅軍事雷達都有記錄到呢啲異常目標。台灣軍方嘅解密文件顯示，部分目標嘅高度可以瞬間由5,000米變化到海平面——呢啲動作完全超出當時任何飛行器嘅能力。
+Interestingly, military radars on both sides of the strait recorded these anomalous targets. Declassified documents from Taiwan's military show that some targets could instantly change altitude from 5,000 meters to sea level—maneuvers completely beyond the capabilities of any aircraft at the time.
 
-馬祖居民之間流傳住一個傳說：話喺某些特定夜晚，「海上的光」會特別活躍，而且呢啲光出現時，周圍嘅電子設備都會受到干擾。呢個講法同全球其他UFO熱點嘅報告非常一致。
+A legend circulates among Matsu residents: on certain specific nights, the "lights on the sea" become particularly active, and when these lights appear, surrounding electronic devices experience interference. This account is highly consistent with reports from other global UFO hotspots.
 
-台灣UFO研究學會一直呼籲台灣國防部公開更多關於海峽UFO嘅雷達記錄，但國防部以「國安考量」為由拒絕完全解密。
+The Taiwan UFO Research Society has long called on Taiwan's Ministry of National Defense to release more radar records of strait UFOs, but the ministry has refused full declassification, citing "national security considerations."
 
-📚 來源
-- 台灣UFO研究學會, "台海UFO事件調查報告" (2003)
-- 張先生(化名), "金門服役時的UFO目擊" (2005), 台灣UFO學刊
-- 台灣國防部空軍司令部, "海峽雷達接觸記錄" (1990年代, 部分解密)
+📚 Sources
+- Taiwan UFO Research Society, "Investigation Report on Taiwan Strait UFO Incidents" (2003)
+- Mr. Zhang (pseudonym), "UFO Sighting During Military Service on Kinmen" (2005), Taiwan UFO Journal
+- Taiwan Ministry of National Defense Air Force Command, "Strait Radar Contact Records" (1990s, partially declassified)
