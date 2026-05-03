@@ -4,14 +4,14 @@ description: '🌊 51區地震群持續引發UFO測試猜測 · 🏛️ Burlison
 titleEn: '🛸 Global UFO/UAP News Roundup — May 3, 2026'
 descriptionEn: '🌊 Area 51 quake swarm fuels testing speculation · 🏛️ Burlison demands FBI probe Sullivan death · 👩‍🔬 Trump orders vanished scientists inquiry · 🧠 AARO workshop explores AI and UAP detection'
 pubDate: '2026-05-03'
-updatedDate: '2026-05-03T01:00:00Z'
+updatedDate: '2026-05-03T12:00:00Z'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 > 📡 **每日UAP新聞精選** — 2026年5月3日（星期日）
 > 由AI自動搜集、整理及排版，聚焦權威來源及重要發展
 
-| 📍 *美國：內華達51區、維珍尼亞、加州、華盛頓DC* | 📅 *2026年5月3日* | 🔍 *UAP披露·科學家失蹤·51區地震群·AARO工作坊·新影片* |
+| 📍 *美國：內華達51區、維珍尼亞、加州、華盛頓DC、紐澤西、佛蒙特、康涅狄格；北達科他州Fortuna* | 📅 *2026年5月3日* | 🔍 *州級UAP立法浪潮·51區地震群·Sullivan死因調查·Fortuna雷達懸案·科學家失蹤·AARO* |
 
 ---
 
@@ -37,6 +37,31 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 *🌊 關於Area 51地震群及2026年科學家神秘失蹤的媒體報導合集*
 
 [🔗 Daily Mail — Unusual earthquake swarm strikes near Area 51](https://www.dailymail.com/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)
+
+---
+
+## 🏛️ 州級立法革命：紐澤西、康涅狄格、佛蒙特通過UAP研究法案
+
+**來源：** UAPCheck（2026年4月17日）
+
+超過70年來，UFO研究主要由個別研究者、非牟利組織及聯邦政府主導。但這個局面正在改變——**紐澤西、康涅狄格、佛蒙特**三個州已在州立法機構提出強制研究UAP的法案，其中**紐澤西州更已正式簽署成為法律**。
+
+雖然2017年《紐約時報》披露2004年尼米茲號事件及先進航空威脅識別計劃（AATIP）後，UFO話題迎來轉折點，但此後預期的重大披露始終未兌現。特朗普雖表示將指示戰爭部長及相關機構「開始識別和發佈UAP檔案」，至今仍未有任何文件流出。在此背景下，三州決定**自行尋求答案**。
+
+### 📜 紐澤西州 — 議會法案5712（已成為法律）
+2026年1月12日生效，包含設立**「不明航空現象研究中心」**，由一所具備研究能力的高等教育機構管理。每年撥款**250萬美元**，但不包含具體營運細節。
+
+### 📜 康涅狄格州 — 第5422號法案（待決）
+指定由**康涅狄格大學（UConn）**主導研究，可獲州軍事事務辦公室協助。最值得注意的是法案提及可諮詢**「州內專門調查UFO目擊、綁架及其他無法解釋現象的非牟利組織總監」**。
+
+### 📜 佛蒙特州 — H.654號法案（待決）
+最全面的一項，提議創立**「佛蒙特空域安全與不明現象工作小組」**，負責評估UAP報告、評估空域及公共安全風險，並須每年向州長及議會提交報告。
+
+> 「這正是聯邦政府自1947年以來一直應該公開、持續進行的工作。」 — UAPCheck
+
+![三州UAP立法地圖](/vincent-kan-site/_astro/blog-placeholder-2.BAPKxQv-.jpg)
+
+[🔗 UAPCheck — Three U.S. States Stride into the UFO Arena](https://www.uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/)
 
 ---
 
@@ -92,6 +117,34 @@ Reza是**Mondaloy**——一種用於火箭引擎的高溫鎳基超級合金—�
 
 ---
 
+## ⏳ 冷戰懸案重見天日：1967年Fortuna雷達站追蹤到5,000英里/小時高速目標
+
+**來源：** NUFORC（2026年5月1日）
+
+2026年4月12日，**NUFORC**收到一位退休空軍雷達維修技術員的報告，涉及**1967年春天**在北達科他州**Fortuna空軍基地（Fortuna AFS）**發生的一宗前所未見的雷達異常事件。
+
+該技術員（當年約21歲）隸屬於第780雷達中隊，操作AN/FPS-26測高雷達及AN/FPS-35巨型搜索雷達（天線直徑達128英尺）。
+
+**事件經過：**
+一個清晨，技術員與同僚在作戰中心打撲克牌。Minot空軍基地來電詢問雷達屏幕上有無可疑目標。值班操作員**Lenny Kemp**望向屏幕後大喊：**「那是甚麼？」**
+
+目標以**約5,000英里/小時**的速度向西北偏北方向移動，速度快得令操作員無法用測高雷達鎖定。普通飛機在屏幕上的軌跡是持續流暢的，但這個目標每次雷達旋轉（每12秒一圈）時只在屏幕上**跳躍式移動**。
+
+翌日或兩日後，一隊來自**Malmstrom空軍基地**的人員到場對所有目擊者進行審問，基本上告訴他們：**「你們甚麼都沒看到。」**
+
+該技術員後來在網上看到1967年Minot及Malmstrom基地附近發生的**UFO關閉核導彈事件**，才意識到自己可能目擊了同一個連接事件。NUFORC調查員**Jim Clarkson**（40年經驗）經詳細比對，認定該證人高度可信：80歲退休工程師，在通用汽車任職42年，思路清晰，細節一致。
+
+> 「現在我知道為甚麼那些審問人員當時給我們那麼大壓力了。」 — 退休技術員
+
+![冷戰時期FPS-35巨型雷達](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/hSGF6yjJJjc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+*⏳ 蘑菇形UFO瞬間加速片段與冷戰雷達記錄的類比*
+
+[🔗 NUFORC — A New Historical Radar Case Surfaces](https://nuforc.org/fortuna-radar-case/)
+
+---
+
 ## 🧠 AARO機密工作坊：以AI對抗UAP誤判
 
 **來源：** The Debrief（2026年5月更新）
@@ -120,8 +173,10 @@ David Grusch此前曾透露，部分UAP相關「秘密」之所以難以披露�
 | 事件 | 狀態 | 關鍵人物／機構 |
 |------|------|--------------|
 | 🌊 51區附近17次地震群 | ⏳ 持續監測 🔥 | USGS, Stefan Burns, Area 51 |
+| 🏛️ 三州通過UAP研究法案 | ✅ 紐澤西已生效；康州、佛蒙特待決 | New Jersey, UConn, Vermont |
 | ✈️ Burlison要求FBI查Sullivan死因 | 🏛️ FBI收到正式請求 🔥 | Eric Burlison, Kash Patel, David Grusch |
 | 👩‍🔬 失蹤科學家家人首度開腔 | 🏛️ 特朗普下令調查中 | Monica Reza, Neil McCasland, 白宮 |
+| ⏳ 1967年Fortuna雷達懸案重見天日 | 🔍 NUFORC調查報告 | NUFORC, Jim Clarkson, 780th Radar Sq |
 | 🧠 AARO引入AI分析UAP數據 | 📄 機密工作坊報告 | AARO, AUI, David Grusch |
 | 🏛️ 戰爭部白宮協調UAP材料發布 | ⏳ 進行中 | Anna Paulina Luna, Pete Hegseth |
 
@@ -130,7 +185,7 @@ David Grusch此前曾透露，部分UAP相關「秘密」之所以難以披露�
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 2em;">
 
 *🤖 本文章由 AI 自動搜集及整理*
-*🕐 更新時間：2026-05-03 09:03 HKT*
+*🕐 更新時間：2026-05-03 12:00 HKT*
 *📋 資料來源：Daily Mail、Liberation Times、The Debrief、USGS等*
 
 **來源連結：**
@@ -140,6 +195,9 @@ David Grusch此前曾透露，部分UAP相關「秘密」之所以難以披露�
 - [Liberation Times — Late Air Force Officer Linked To Alleged Legacy UFO Program](https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program)
 - [Liberation Times — The Missing General: Neil McCasland](https://www.liberationtimes.com/home/the-missing-general-neil-mccasland-ufo-claims-and-an-unfolding-mystery)
 - [Liberation Times — War Department: White House Coordinating Release of Never-Before-Seen UFO Material](https://www.liberationtimes.com/home/war-department-says-white-house-coordinating-release-of-never-before-seen-ufo-material)
+- [Liberation Times — Evidence, Drones and the UFO Debate](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate)
+- [UAPCheck — Three U.S. States Stride into the UFO Arena](https://www.uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/)
+- [NUFORC — A New Historical Radar Case Surfaces (Fortuna 1967)](https://nuforc.org/fortuna-radar-case/)
 - [The Debrief — AARO Hosts Private Workshop with Civilian Researchers](https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/)
 - [USGS — Earthquake Data Nevada](https://earthquake.usgs.gov/earthquakes/map/)
 
