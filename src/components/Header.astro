@@ -12,7 +12,7 @@ const t = useTranslations(lang);
   <nav>
     <a href={lang === 'en' ? '/' : '/zh/'} class="logo">
       <img src="/logo/vk-logo.svg" alt="Vincent Kan" class="logo-img" />
-      <span class="logo-text" data-astro-cid-3ef6ksr2>{SITE_TITLE}</span>
+      <!-- logo-text removed per Vincent's request -->
     </a>
     <div class="nav-links">
       <HeaderLink href={lang === 'en' ? '/' : '/zh/'}>{t('nav.home')}</HeaderLink>
