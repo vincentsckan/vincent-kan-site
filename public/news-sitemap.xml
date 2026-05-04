@@ -14,18 +14,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-20260502-afternoon/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T08:06:04.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 Global UFO/UAP News Digest — 2026-05-02]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.disclosurehk.com/blog/ufo-news-digest-20260502-evening-1/</loc>
     <news:news>
       <news:publication>
@@ -46,30 +34,6 @@
       </news:publication>
       <news:publication_date>2026-05-02T16:05:29.000Z</news:publication_date>
       <news:title><![CDATA[🛸 Global UFO/UAP News Digest — 2026-05-02]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605020803/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T08:03:00.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 UFO/UAP News Flash — 5月2日08:00]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605020903/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T09:03:00.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 UFO/UAP News Flash — 5月2日09:03]]></news:title>
       <news:keywords>UFO,UAP,disclosure,news</news:keywords>
     </news:news>
   </url>
@@ -645,6 +609,18 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-05-04T05:37:17.000Z</news:publication_date>
+      <news:title><![CDATA[🔴 LIVE: U.S. Congressional UFO/UAP Hearing]]></news:title>
+      <news:keywords>UFO,UAP,congressional hearing,disclosure</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-hearing-live-20260504-0807/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T08:07:19.000Z</news:publication_date>
       <news:title><![CDATA[🔴 LIVE: U.S. Congressional UFO/UAP Hearing]]></news:title>
       <news:keywords>UFO,UAP,congressional hearing,disclosure</news:keywords>
     </news:news>
