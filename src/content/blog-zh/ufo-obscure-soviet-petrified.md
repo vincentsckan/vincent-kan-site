@@ -14,7 +14,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 呢件事喺亞洲幾乎冇人講過，但係喺歐美嘅UFO圈子入面，佢有個專有名稱：**「The Siberian Petrification Incident」**（西伯利亞石化事件）。而呢個故事嘅源頭，嚟自一份CIA官方網站上載嘅解密文件——檔案號 **DOC_0005517761**。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ## 到底發生咗咩事？
 

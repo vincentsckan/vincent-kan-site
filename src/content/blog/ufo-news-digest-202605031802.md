@@ -57,7 +57,7 @@ Which of your favorite celebrities has seen a UFO? Check out the video compilati
 
 ![Kacey Musgraves Performing](/vincent-kan-site/_astro/blog-placeholder-4.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🎵 Kacey Musgraves and Other Celebrity UFO Experiences Compilation*
 
 ---

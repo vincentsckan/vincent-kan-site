@@ -134,7 +134,7 @@ In an interview with NewsNation reporter **Ross Coulthart**, he stated he was wi
 This leak perfectly echoes the essence of Project Stargate—if the CIA in the 1970s already knew psychic abilities could detect extraterrestrial information, then it's no surprise the military in 2025 is using the same technology to "recall" UFOs.
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

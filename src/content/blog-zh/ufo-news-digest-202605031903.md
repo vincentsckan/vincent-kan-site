@@ -21,7 +21,7 @@ tags: ['UFO', 'UAP', 'news', '自動更新']
 |---|---|---|
 
 相關影片：
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/R7PcH7kvoDs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -32,7 +32,7 @@ Newsweek 報導，有位美國國會議員承諾將會展示屬於「非人類�
 | 📍 *美國·國會山莊* | 📅 *2026年4月底* | 🔍 *國會聽證*
 |---|---|---|
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/VIDEO_ID_2" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ru7HHy5I2f4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -43,7 +43,7 @@ Newsweek 報導，有位美國國會議員承諾將會展示屬於「非人類�
 | 📍 *美國* | 📅 *2026年4月* | 🔍 *媒體報導·實地調查*
 |---|---|---|
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/VIDEO_ID_3" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/j_YPG_tFnHQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -54,7 +54,7 @@ WSLS 報導，特朗普喺多個場合不斷暗示 UFO 檔案即將公開，但�
 | 📍 *美國* | 📅 *2026年5月3日* | 🔍 *政府動態*
 |---|---|---|
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/VIDEO_ID_4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/eDm7OAzRJ9A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

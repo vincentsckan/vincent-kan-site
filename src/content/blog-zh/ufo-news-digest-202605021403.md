@@ -22,7 +22,7 @@ heroImage: '../../assets/blog-placeholder-4.jpg'
 
 相關來源：Newsweek、USA Today
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

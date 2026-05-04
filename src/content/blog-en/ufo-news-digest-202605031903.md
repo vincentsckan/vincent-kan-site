@@ -20,7 +20,7 @@ Trump mentioned UFO files again at a public event, saying his administration tea
 |---|---|---|
 
 Related video:
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/R7PcH7kvoDs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -31,7 +31,7 @@ Newsweek reported that a U.S. congressman has promised to display items of "Nonh
 | 📍 *USA · Capitol Hill* | 📅 *Late April 2026* | 🔍 *Congressional Hearing*
 |---|---|---|
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/VIDEO_ID_2" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ru7HHy5I2f4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -42,7 +42,7 @@ The Guardian published a long-form article detailing a reporter's personal journ
 | 📍 *USA* | 📅 *April 2026* | 🔍 *Media Report · Field Investigation*
 |---|---|---|
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/VIDEO_ID_3" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/j_YPG_tFnHQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -53,7 +53,7 @@ WSLS reported that Trump has repeatedly hinted at the imminent release of UFO fi
 | 📍 *USA* | 📅 *May 3, 2026* | 🔍 *Government Developments*
 |---|---|---|
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/VIDEO_ID_4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/eDm7OAzRJ9A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

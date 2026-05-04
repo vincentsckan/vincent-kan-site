@@ -135,7 +135,7 @@ Barber話，事件之後，高層UAP調查小組確認回收嘅物體係**非人
 呢個爆料同Stargate計劃嘅內涵完美呼應——如果1970年代嘅CIA已經知道心靈能力可以探測外星資訊，咁2025年嘅軍方用同一種技術去「召回」UFO，又有咩出奇？
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

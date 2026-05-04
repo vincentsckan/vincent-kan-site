@@ -59,7 +59,7 @@ Mellon特別指出，過去數月「多名掌握秘密的軍方及情報人員�
 
 ![Kacey Musgraves表演](/vincent-kan-site/_astro/blog-placeholder-4.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🎵 Kacey Musgraves及其他名人UFO經歷合集*
 
 ---

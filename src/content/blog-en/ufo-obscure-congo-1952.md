@@ -15,7 +15,7 @@ In 1952, at the height of the Cold War, the U.S. and the Soviet Union were frant
 
 This declassified CIA document (file number **0000015463**, 4 pages) is titled "Flying Saucers Reported Over Belgian Congo Uranium Mines." Although it was only declassified and made public in 1984 under the Freedom of Information Act (FOIA), its content is absolutely fascinating.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ### Sighting Details
 

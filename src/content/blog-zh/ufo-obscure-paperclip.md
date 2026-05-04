@@ -93,7 +93,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 但係，Die Glocke嘅傳說之所以咁持久，正正因為佢完美咁嵌入咗「Nazi有超高科技」嘅敘事框架。呢個框架，配上冷戰時空，直接餵養咗後期嘅UFO文化。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ## 冷戰如何塑造現代UFO神話
 

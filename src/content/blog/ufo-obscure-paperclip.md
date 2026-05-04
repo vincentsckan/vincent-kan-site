@@ -92,7 +92,7 @@ However, there's a big problem: **Die Glocke has no reliable evidence.**
 
 But the legend of Die Glocke persists precisely because it perfectly fits the narrative of "Nazis with super-advanced technology." This framework, combined with the Cold War context, directly fed later UFO culture.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ## How the Cold War Shaped the Modern UFO Myth
 

@@ -121,7 +121,7 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 ## 🎥 相關影片
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

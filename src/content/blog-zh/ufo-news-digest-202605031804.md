@@ -73,7 +73,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 不過要注意，到目前為止，FBI 仲未確認呢啲死亡之間有直接關聯。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1234567890a" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/QTQkLvPwNxs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 *神秘科學家死亡事件深度分析*
 

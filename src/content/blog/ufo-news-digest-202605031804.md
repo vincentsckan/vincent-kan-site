@@ -72,7 +72,7 @@ One of the deceased is NASA engineer Joshua LeBlanc, and the FBI is investigatin
 
 However, it's worth noting that the FBI has not yet confirmed any direct links between these deaths.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1234567890a" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/QTQkLvPwNxs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 *In-depth analysis of the mysterious scientist deaths*
 
