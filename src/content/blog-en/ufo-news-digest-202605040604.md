@@ -1,4 +1,7 @@
 ---
+
+
+
 title: "🛸 UFO/UAP News — May 4, 12:00"
 titleEn: '🛸 UFO/UAP News Digest — May 4, 2026'
 description: "UFO hearing live coverage begins · Burlison interview · Whistleblower security concerns · What to expect"
@@ -6,6 +9,9 @@ pubDate: 2026-05-04T04:00:00.000Z
 updatedDate: 2026-05-04T04:00:00.000Z
 heroImage: ../../assets/blog-placeholder-2.jpg
 tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 
 > **Rep. Burlison** speaks ahead of the hearing about whistleblower safety. Concerns raised about witness security. What to expect from today's historic hearing on Capitol Hill.

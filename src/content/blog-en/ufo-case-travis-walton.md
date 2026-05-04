@@ -1,10 +1,16 @@
 ---
-title: '🛸 特拉維斯·沃爾頓劫持事件 — 最著名的外星綁架案 (1975)'
-description: '1975年伐木工Travis Walton被強光帶走，失蹤5日後離奇出現，故事被拍成電影《Fire in the Sky》。'
+
+
+
+title: "🛸 The Travis Walton Abduction — The Most Famous Alien Kidnapping (1975)"
+description: "UFO/UAP news and case coverage"
 titleEn: '👽 The Travis Walton Abduction — The Most Credible Alien Abduction Case (1975)'
-descriptionEn: 'In 1975, logger Travis Walton disappeared for 5 days after encountering a UFO in Arizona. He reappeared with detailed memories of an alien abduction. Tested by polygraph.'
+
 pubDate: '2022-08-10'
 heroImage: '../../assets/blog-placeholder-4.jpg'
+
+
+
 ---
 > 📍 **Snowflake, Arizona, USA**
 > 📅 **November 5, 1975**

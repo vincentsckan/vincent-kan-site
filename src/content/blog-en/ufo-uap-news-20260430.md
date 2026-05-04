@@ -1,11 +1,17 @@
 ---
-title: '🛸 全球UFO/UAP新聞摘要 — 2026年4月30日'
-description: '已故空軍情報官Sullivan證實參與遺留UFO計劃 · 科學家提出外星生命行星模式檢測法 · 次聲波可引發靈異體驗'
+
+
+
+title: "🛸 Global UFO/UAP News Digest — April 30, 2026"
+description: "UFO/UAP news and case coverage"
 titleEn: '🛸 Global UFO/UAP News Roundup — April 30, 2026'
-descriptionEn: 'Late AF officer Sullivan linked to legacy UFO program · New planetary pattern method to detect alien life · Infrasound linked to paranormal experiences'
+
 pubDate: '2026-04-30'
 updatedDate: '2026-04-30'
 heroImage: '../../assets/blog-placeholder-3.jpg'
+
+
+
 ---
 > 📡 **Daily UAP News Digest** — April 30, 2026 (Thursday)
 > AI-automated collection, organization, and formatting, focusing on authoritative sources and key developments

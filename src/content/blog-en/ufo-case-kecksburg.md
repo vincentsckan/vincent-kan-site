@@ -1,10 +1,16 @@
 ---
-title: '🛸 卡克斯堡UFO墜毀事件 (1965)'
-description: '1965年美國賓州卡克斯堡發生UFO墜毀事件，一個巨大橡果形金屬物體墜落森林，軍方迅速封鎖現場用卡車運走。'
+
+
+
+title: "🛸 The Kecksburg UFO Crash (1965)"
+description: "UFO/UAP news and case coverage"
 titleEn: '🔥 The Kecksburg Incident — Pennsylvania''s "Roswell" (1965)'
-descriptionEn: 'In 1965, an object crashed in the woods near Kecksburg, Pennsylvania. Witnesses described a large acorn-shaped craft. The US military quickly cordoned off the area.'
+
 pubDate: '2022-07-05'
 heroImage: '../../assets/blog-placeholder-2.jpg'
+
+
+
 ---
 > 📍 **Kecksburg, Pennsylvania, USA**
 > 📅 **December 9, 1965**

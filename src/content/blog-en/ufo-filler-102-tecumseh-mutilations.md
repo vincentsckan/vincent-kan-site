@@ -1,11 +1,17 @@
 ---
-title: '俄克拉荷馬Tecumseh動物切割事件：UFO關聯之謎'
-description: '1950年代起俄克拉荷馬多次發生動物離奇死亡事件，被認為與UFO有關'
+
+
+
+title: "Oklahoma Tecumseh Animal Mutilations: The UFO Connection"
+description: "UFO/UAP news and case coverage"
 titleEn: 'Tecumseh Animal Mutilations: UFO Connection Mystery'
-descriptionEn: 'Starting in the 1950s, strange animal mutilations in Oklahoma were linked to UFO activity'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "animal-mutilation"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 From the 1950s to the 1960s, a large number of mysterious animal deaths and mutilations occurred in the Tecumseh area of Oklahoma, USA. Cows and horses were found dead with precise, surgical-grade incisions, and specific organs (such as genitals, rectums, and lips) were neatly removed—yet there was no blood at the scene, no footprints, and no signs of predator activity.
 

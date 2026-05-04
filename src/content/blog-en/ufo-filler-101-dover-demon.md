@@ -1,11 +1,17 @@
 ---
-title: '1977年Dover惡魔：短暫出現嘅神秘外星生物'
-description: '1977年4月，麻省Dover鎮多名少年見到奇怪嘅小型外星生物'
+
+
+
+title: "1977 Dover Demon: The Brief Appearance of a Mysterious Alien"
+description: "UFO/UAP news and case coverage"
 titleEn: '1977 Dover Demon: Mysterious Alien Creature in Massachusetts'
-descriptionEn: 'In April 1977, multiple teenagers in Dover, Massachusetts encountered a strange small alien-like creature'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "humanoid-encounter"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 On April 21-22, 1977, a series of bizarre encounters occurred in Dover, Massachusetts — multiple local teenagers saw a small mysterious creature at different times and locations. This being, later known as the "Dover Demon," became one of the most famous alien encounter cases in the northeastern United States.
 

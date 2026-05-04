@@ -1,11 +1,17 @@
 ---
-title: '1967年西班牙Ummo事件：史上最精妙嘅外星人通訊騙局'
-description: '1967年起，西班牙Ummo「外星人」向地球發送大量文件，科技預言部分實現但最終被揭穿'
+
+
+
+title: "1967 Ummo Hoax: The Most Elaborate Alien Communication Hoax"
+description: "UFO/UAP news and case coverage"
 titleEn: 'The 1967 Ummo Hoax: Spain''s Elaborate Alien Correspondence'
-descriptionEn: 'Starting in 1967, letters from "Ummo" aliens flooded Spain with detailed scientific claims, some prophetic, ultimately revealed as an elaborate hoax'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "hoax"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 In February 1967, a family in the outskirts of Madrid, Spain, received a strange letter—written in a previously unseen language, accompanied by technical drawings and an alien symbol. The letter claimed to be from the planet "Ummo," a civilization 14.6 light-years from Earth. This phenomenon, known as the Ummo Incident, lasted over 20 years, becoming the most complex alien communication event in UFO history.
 

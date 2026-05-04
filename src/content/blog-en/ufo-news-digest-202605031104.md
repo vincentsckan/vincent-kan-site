@@ -1,12 +1,18 @@
 ---
-title: '🛸 UFO/UAP 快訊 — 05月03日19:04'
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-03"
 titleEn: '🛸 UFO/UAP News Flash — 05月03日19:04'
-description: '🇺🇸 Avi Loeb預測特朗普UFO檔案分批釋出 · 🏛️ Luna承諾公開非人類證據 · 🛡️ 「Source Kilo」宣誓作證曾處理非人類材料 · 📹 五角大樓錯過UAP影片交收死線 · 🌲 《衛報》專題：Rendlesham Forest UFO謎團'
-descriptionEn: 'UFO/UAP breaking news roundup: Latest developments in UAP disclosure, congressional hearings, and global sightings.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: '2026-05-03T11:04:00Z'
 updatedDate: '2026-05-03T11:04:00Z'
 heroImage: '../../assets/blog-placeholder-2.jpg'
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > 📡 **UFO/UAP Flash Update** — May 3, 2026 (Sunday) 7:00 PM Update
 > AI-automated collection, focus: Trump UFO file release progress, Luna promises to show non-human evidence, whistleblower shocking testimony

@@ -1,10 +1,16 @@
 ---
-title: '🛸 藍皮書計劃 — 美國空軍嘅 UFO 調查檔案 (1952-1969)'
-description: 'Project Blue Book 係美國空軍最著名嘅 UFO 調查計劃，調查咗超過 12,600 宗案件，至今仍然係 UAP 研究中最重要嘅官方資料庫。'
+
+
+
+title: "🛸 Project Blue Book — The USAF's UFO Investigation Files (1952-1969)"
+description: "UFO/UAP news and case coverage"
 titleEn: '📋 Project Blue Book — The US Air Force''s Official UFO Investigation (1947-1969)'
-descriptionEn: 'Project Blue Book was the US Air Force''s 22-year UFO investigation program. From 1947-1969, they investigated 12,618 cases. Thorough analysis and lessons learned.'
+
 pubDate: '2022-05-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 📍 **Institution**: United States Air Force  
 > 📅 **Operational Period**: 1952 — 1969  

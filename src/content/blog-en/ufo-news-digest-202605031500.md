@@ -1,10 +1,16 @@
 ---
-title: "🛸 UFO/UAP 快訊 — 5月3日15:00"
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-03"
 titleEn: '🛸 UFO/UAP News Flash — 5月3日15:00'
-description: "Project Serpo 傳奇再成熱話 · 三角形UFO夜視片持續發酵 · 多哈雷暴中神秘三角光球 · 新舉報人爆UFO隱秘架構"
-descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: 2026-05-03T15:00:00Z
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > It's time for our hourly UFO news flash! Today we bring you the most talked-about UFO/UAP news recently, including an in-depth analysis of the viral Project Serpo, new night vision footage of a triangular UFO in California, and mysterious triangular orbs during a thunderstorm in Doha, Qatar!
 

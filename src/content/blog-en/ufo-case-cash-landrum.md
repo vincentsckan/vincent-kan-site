@@ -1,10 +1,16 @@
 ---
-title: '🛸 卡斯-蘭德魯姆事件 — 輻射灼傷嘅UFO目擊者 (1980)'
-description: '1980年德州三名女子遭遇UFO後出現類似輻射灼傷嘅症狀，頭髮脫落，案件最終上到最高法院。'
+
+
+
+title: "🛸 Cash-Landrum Incident — Witnesses Radiation-Burned by UFO (1980)"
+description: "UFO/UAP news and case coverage"
 titleEn: '🔥 The Cash-Landrum Incident — When a UFO Left Real Burns (1980, Texas)'
-descriptionEn: 'In 1980, Betty Cash, Vickie Landrum, and Colby Landrum encountered a diamond-shaped UFO on a Texas highway, suffering severe radiation burns confirmed by doctors.'
+
 pubDate: '2023-06-01'
 heroImage: '../../assets/blog-placeholder-2.jpg'
+
+
+
 ---
 > 📍 **Texas, United States**
 > 📅 **December 29, 1980**

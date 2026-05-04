@@ -1,11 +1,17 @@
 ---
-title: '1961年Barney同Betty Hill綁架案：現代外星綁架經典案例'
-description: '美國新罕布什爾州一對夫婦被外星人綁架，催眠回憶驚人細節開創咗現代UFO學術研究'
+
+
+
+title: "1961 Barney & Betty Hill Abduction: A Classic Case"
+description: "UFO/UAP news and case coverage"
 titleEn: 'The Betty and Barney Hill Abduction: The First Famous Alien Abduction Case'
-descriptionEn: 'In 1961, a New Hampshire couple was abducted by aliens; their hypnosis-recovered memories became the archetype of modern abduction accounts'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "abduction"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 On the evening of September 19, 1961, Barney Hill and Betty Hill drove from Montreal, Canada, back to their home in Portsmouth, New Hampshire, USA. As they passed through the White Mountains near Lancaster, they suddenly spotted a strange glowing object in the sky following their car.
 

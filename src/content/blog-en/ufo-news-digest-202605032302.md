@@ -1,4 +1,7 @@
 ---
+
+
+
 title: "🛸 UFO/UAP News — May 4, 07:00"
 titleEn: '🛸 UFO/UAP News Digest — May 4, 2026'
 description: "Hearing live blog continues · Rep. Luna questions AARO · Navy pilot testimony · Nuclear base UFO connections"
@@ -6,6 +9,9 @@ pubDate: 2026-05-04T00:00:00.000Z
 updatedDate: 2026-05-04T00:00:00.000Z
 heroImage: ../../assets/blog-placeholder-2.jpg
 tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 
 > **LIVE BLOG continues:** Rep. **Luna** presses AARO director on unexplained cases. Navy pilot provides gripping testimony of 2014 East Coast UAP encounters. Discussion turns to UFO activity near nuclear weapons facilities.

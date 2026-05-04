@@ -1,11 +1,17 @@
 ---
-title: '海南島UFO事件：中國南疆雷達多次鎖定不明目標'
-description: '1990至2000年代，海南島軍事雷達多次追蹤到以超音速飛行嘅UFO'
+
+
+
+title: "Hainan Island UFO: China's Southern Radar Locks onto Unknown Targets"
+description: "UFO/UAP news and case coverage"
 titleEn: 'Hainan Island Radar UFOs: Chinese Military Tracked Anomalous Targets'
-descriptionEn: 'Throughout the 1990s-2000s, Chinese military radar on Hainan Island repeatedly tracked UFOs at supersonic speeds'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "asia"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 As a strategic location in the South China Sea, Hainan Island is equipped with multiple military radar stations. From the 1990s to the early 2000s, these stations repeatedly recorded unexplained aerial targets—objects with extreme flight performance far exceeding any known human aircraft.
 

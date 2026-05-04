@@ -1,11 +1,17 @@
 ---
-title: '1982年蘇聯核導彈基地UFO事件：導彈系統一度失控'
-description: '1982年，烏克蘭蘇聯核導彈基地發生UFO入侵，導彈系統出現異常啟動'
+
+
+
+title: "1982 Soviet Nuclear Base: UFO Causes Missile System Malfunction"
+description: "UFO/UAP news and case coverage"
 titleEn: '1982 Soviet Nuclear Base Incident: UFOs Over Ukrainian Silos'
-descriptionEn: 'In 1982, a Soviet nuclear missile base in Ukraine experienced a UFO intrusion with missile systems temporarily going offline'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "nuclear-connection"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 In October 1982, an unprecedented event occurred at the Soviet strategic missile base in Pervomaisk, western Ukraine. A retired officer using the pseudonym "Mikhail" testified that an object emitting intense white light flew at low altitude over the base, causing severe interference with electronic systems—the control systems of some missiles displayed an "abnormal launch status," meaning the missile launch program automatically activated for several seconds, while all communication equipment simultaneously failed.
 

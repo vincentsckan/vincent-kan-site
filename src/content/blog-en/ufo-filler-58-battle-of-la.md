@@ -1,11 +1,17 @@
 ---
-title: '1942年洛杉磯之戰：二戰期間美軍炮轟UFO'
-description: '1942年2月，洛杉磯上空疑似出現敵機，美軍高射炮狂射千發炮彈但冇擊中任何嘢'
+
+
+
+title: "1942 Battle of Los Angeles: The Military Shells a UFO"
+description: "UFO/UAP news and case coverage"
 titleEn: 'The Battle of Los Angeles: WWII US Military Fired on UFOs'
-descriptionEn: 'In February 1942, US anti-aircraft batteries fired 1,400+ shells at unidentified aerial objects over Los Angeles, hitting nothing'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "military"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 At 2:25 AM on February 25, 1942, just three months after the attack on Pearl Harbor, the city of Los Angeles was suddenly plunged into war panic. Radar detected an "unidentified object" moving approximately 8 kilometers above Santa Monica, prompting the U.S. military to activate a full-scale air raid alert.
 

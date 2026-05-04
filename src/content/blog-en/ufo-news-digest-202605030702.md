@@ -1,10 +1,16 @@
 ---
-title: "🛸 UFO/UAP 快訊 — 05月03日15:03"
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-03"
 titleEn: '🛸 UFO/UAP News Flash — 05月03日15:03'
-description: "特朗普承諾釋放「你唔會相信嘅嘢」UFO檔案、國會議員承諾披露非人類智慧體資訊、Rendlesham Forest UFO經典案例再度討論——最新UFO動態一次過睇"
-descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: "2026-05-03T07:02:00.000Z"
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > It's time for another UFO News Flash! Even though it's Sunday, the UFO world never takes a day off. Today we bring several major stories: a former US president brings up UFO files again, a congresswoman pressures for classified information, and the UK's most classic UFO case is back in the spotlight. Buckle up!
 

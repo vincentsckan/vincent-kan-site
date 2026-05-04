@@ -1,10 +1,16 @@
 ---
-title: '🛸 諾瓦托UFO照片 — 最清晰嘅UFO照片之一 (1967)'
-description: '1967年美國加州警方用即影即有相機拍到UFO照片，佐證一名女子嘅目擊報告，照片被認為係最經典UFO照片之一。'
+
+
+
+title: "🛸 Novato UFO Photo — One of the Clearest UFO Photos (1967)"
+description: "UFO/UAP news and case coverage"
 titleEn: '🌁 The Novato UFO Case — An AARO-Investigated Incident (2021, California)'
-descriptionEn: 'The Novato 2021 UFO case investigated by AARO. Home security cameras captured unusual objects in the sky, analyzed by the US government''s UAP investigation office.'
+
 pubDate: '2022-06-10'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 📍 **Novato Police Department, California, USA**
 > 📅 **November 29, 1967**

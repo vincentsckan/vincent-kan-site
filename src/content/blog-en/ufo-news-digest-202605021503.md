@@ -1,10 +1,16 @@
 ---
-title: "🛸 UFO/UAP 快訊 — 05月02日23:03"
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-02"
 titleEn: '🛸 UFO/UAP News Flash — 05月02日23:03'
-description: "Area 51 附近發生17次地震｜國會議員爆料海外有超大不可移動UFO被藏於建築內｜MKUltra聽證會5月13日舉行｜科學家失蹤事件調查期限逼近"
-descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: "2026-05-02T15:03:00.000Z"
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > Back with another daily UFO/UAP news flash! Today's news is packed—Area 51 earthquake swarm, a congressman's leak about a giant overseas UFO, the MKUltra hearing, and the investigation deadline for the missing scientists case. All of it is intricately linked to the UFO/UAP world! 👽
 

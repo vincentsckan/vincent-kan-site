@@ -1,11 +1,17 @@
 ---
-title: '1976年Allagash綁架案：四位年輕畫家集體被外星人擄走'
-description: '四名年輕人在緬因州Allagash獨木舟旅行時被外星人綁架，經過催眠後先憶起恐怖經歷'
+
+
+
+title: "1976 Allagash Abductions: Four Painters Abducted by Aliens"
+description: "UFO/UAP news and case coverage"
 titleEn: 'The Allagash Abductions: Four Men Abducted While Camping in Maine'
-descriptionEn: 'In 1976, four young men were abducted by aliens during a canoe trip in Maine''s Allagash Wilderness, recovering memories only through hypnosis'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "abduction"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 In August 1976, four young men from Massachusetts—Jack Weiner, Jim Weiner, Charlie Foltz, and Chuck Rak—set out on a canoe trip to the Allagash Wilderness in Maine. These four guys in their early twenties never imagined this wilderness adventure would turn into a terrifying experience.
 

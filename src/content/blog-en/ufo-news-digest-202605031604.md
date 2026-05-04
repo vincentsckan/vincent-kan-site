@@ -1,10 +1,16 @@
 ---
-title: "🛸 UFO/UAP 快訊 — 05月04日00:04"
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-03"
 titleEn: '🛸 UFO/UAP News Flash — 05月04日00:04'
-description: "特朗普暗示即將公開更多UFO機密文件，著名UFO研究者David Wilcock離世，FBI介入調查科學家死亡事件，國會UAP聽證會即將舉行"
-descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: 2026-05-03T16:04:00.000Z
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > "No matter the size of the UFO news, we've got you covered!" — Welcome to the latest edition of the UFO/UAP Express, helping you quickly grasp the latest global developments on unidentified flying objects.
 

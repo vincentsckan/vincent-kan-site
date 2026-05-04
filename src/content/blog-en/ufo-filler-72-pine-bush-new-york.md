@@ -1,11 +1,17 @@
 ---
-title: '紐約Pine Bush UFO熱點：美國東岸最活躍嘅UFO走廊'
-description: '1970至80年代，紐約州Pine Bush地區出現大量UFO目擊，被稱為美國東岸UFO走廊'
+
+
+
+title: "New York's Pine Bush: The East Coast's Most Active UFO Corridor"
+description: "UFO/UAP news and case coverage"
 titleEn: 'Pine Bush UFO Hotspot: New York''s Most Active UFO Corridor'
-descriptionEn: 'Throughout the 1970s-80s, Pine Bush, New York experienced hundreds of UFO sightings, earning fame as the East Coast''s UFO corridor'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "hotspot"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 Located in Pine Bush, Orange County, New York, this remote township has a population of only about 2,000. However, in the UFO research community, this small town is highly renowned—since the 1970s, it has become one of the most famous UFO hotspots on the East Coast of the United States.
 

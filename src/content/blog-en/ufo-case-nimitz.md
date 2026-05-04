@@ -1,10 +1,16 @@
 ---
-title: '🛸 尼米茲航母戰鬥群UFO事件 — 五角大樓承認嘅真實案例 (2004)'
-description: '2004 年 11 月，美國海軍尼米茲號航母戰鬥群喺太平洋遭遇技術力遠超人類嘅 Tic-Tac 形不明飛行器，成為五角大樓正式承認嘅 UAP 事件。'
+
+
+
+title: "🛸 Nimitz Carrier Strike Group UFO — The Pentagon-Confirmed Case (2004)"
+description: "UFO/UAP news and case coverage"
 titleEn: '🛸 The USS Nimitz UFO Incident — Pentagon Confirmed (2004)'
-descriptionEn: 'In November 2004, the USS Nimitz Carrier Strike Group encountered a Tic-Tac shaped craft with technology far beyond human capabilities — officially confirmed by the Pentagon.'
+
 pubDate: '2022-03-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 📍 **Case Focus**: Pacific Ocean, USS Nimitz Carrier Strike Group
 > 📅 **Date**: November 14, 2004

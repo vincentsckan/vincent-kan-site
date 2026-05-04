@@ -1,10 +1,16 @@
 ---
-title: '🛸 美國海軍USS奧馬哈號UAP事件 (2019)'
-description: '2019年USS奧馬哈號戰鬥艦拍攝到球形UAP從空中降落海面，五角大樓確認影片真實。'
+
+
+
+title: "🛸 USS Omaha UAP Incident (2019)"
+description: "UFO/UAP news and case coverage"
 titleEn: '🌊 The USS Omaha Incident — US Navy''s Swarming UFO Encounter (2019)'
-descriptionEn: 'In 2019, the USS Omaha encountered a swarm of UFOs off the California coast. The Navy released footage showing a sphere entering the water. An officially confirmed case.'
+
 pubDate: '2022-12-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 📍 **Pacific Ocean, USS Omaha (US Navy)**
 > 📅 **2019**

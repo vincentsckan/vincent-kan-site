@@ -1,10 +1,16 @@
 ---
-title: '🛸 中國UFO歷史 — 從古代天象到現代目擊'
-description: '中國關於UFO嘅記錄可以追溯到數千年前。由《宋史》記載嘅「天火」到現代解放軍接觸案例，中國嘅UFO歷史同樣豐富。'
+
+
+
+title: "🛸 Chinese UFO History — From Ancient Skies to Modern Sightings"
+description: "UFO/UAP news and case coverage"
 titleEn: '🏮 UFOs in Chinese History — From Ancient Silk Scrolls to Modern Encounters'
-descriptionEn: 'Over 4,000 years of Chinese UFO records, from ancient emperor encounters to modern military sightings. A comprehensive look at UFO phenomena in Chinese civilization.'
+
 pubDate: '2023-04-20'
 heroImage: '../../assets/blog-placeholder-4.jpg'
+
+
+
 ---
 > 📍 **Across China** | 📅 **Ancient — Modern** | 🔍 **Asian UFO History**
 

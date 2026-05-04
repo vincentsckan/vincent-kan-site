@@ -1,11 +1,17 @@
 ---
-title: '挪威Hessdalen Lights：持續40年未解嘅神秘光團現象'
-description: '1981年起挪威Hessdalen山谷頻繁出現神秘光團，科學家至今未能完全解釋'
+
+
+
+title: "Hessdalen Lights: Norway's 40-Year Unexplained Light Phenomenon"
+description: "UFO/UAP news and case coverage"
 titleEn: 'The Hessdalen Lights: Norway''s 40-Year Unexplained Light Phenomenon'
-descriptionEn: 'Since 1981, mysterious lights have appeared regularly in Norway''s Hessdalen valley, studied by scientists who still cannot fully explain them'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "scientific-phenomenon"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 In late 1981, a small valley called Hessdalen in central Norway began experiencing completely inexplicable light phenomena. These lights appeared frequently at night, and sometimes even during the day. The most unique aspect is that this phenomenon has persisted to this day, making it the only sustained UFO phenomenon globally that scientists have monitored long-term.
 

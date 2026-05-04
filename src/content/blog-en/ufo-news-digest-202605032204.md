@@ -1,12 +1,18 @@
 ---
-title: '🛸 UFO/UAP 快訊 — 5月3日22:04'
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-03"
 titleEn: '🛸 UFO/UAP News Flash — 5月3日22:04'
-description: '🌊 內華達4.9級地震群 Silver Lake 爆發 · 🏛️ Luna 5月13日MKUltra聽證會 · 📂 Bassett分析三股推動UFO披露力量 · 🛸 Serpo任務—UFO界最爭議的故事 · 🔭 火星動物？美軍4英哩UFO掠過太陽'
-descriptionEn: 'UFO/UAP breaking news roundup: Latest developments in UAP disclosure, congressional hearings, and global sightings.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: '2026-05-03T14:04:00Z'
 updatedDate: '2026-05-03T14:04:00Z'
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
 heroImage: '../../assets/blog-placeholder-3.jpg'
+
+
+
 ---
 > 📡 **UFO/UAP Latest News** — Evening Edition, Sunday, May 3, 2026
 > AI-Automated Collection · Focus on Latest Disclosure Developments and Bizarre Sighting Events

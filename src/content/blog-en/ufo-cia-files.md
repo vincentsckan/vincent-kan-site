@@ -1,10 +1,16 @@
 ---
-title: '🛸 CIA嘅UFO檔案 — 中央情報局究竟知道啲乜？'
-description: 'CIA解密咗超過2,700頁UFO相關檔案，揭示冷戰期間情報機構點樣收集同分析UFO報告，部分內容至今仍被遮蔽。'
+
+
+
+title: "🛸 CIA UFO Files — What Did the CIA Really Know?"
+description: "UFO/UAP news and case coverage"
 titleEn: '📂 CIA UFO Files — 50 Years of Declassified Secrets'
-descriptionEn: 'A deep dive into declassified CIA documents on UFOs, including the notorious "CIA UFO file purge," Project Blue Bird, parascience research, and psychic programs.'
+
 pubDate: '2022-09-15'
 heroImage: '../../assets/blog-placeholder-3.jpg'
+
+
+
 ---
 > 📍 **U.S. Central Intelligence Agency**
 > 📅 **1940s — 1970s**

@@ -1,11 +1,17 @@
 ---
-title: '1626年天啟大爆炸：明朝神秘爆炸疑與外星人有關'
-description: '1626年5月，北京城發生神秘大爆炸，死傷過萬，UFO研究者認為可能涉及外星飛行器'
+
+
+
+title: "1626 Tianqi Explosion: Ming Dynasty Mystery Linked to Aliens?"
+description: "UFO/UAP news and case coverage"
 titleEn: '1626 Ming Dynasty Tianqi Explosion: Beijing''s Mysterious Catastrophe'
-descriptionEn: 'In May 1626, a mysterious explosion in Beijing killed over 10,000 people, with UFO researchers suggesting possible extraterrestrial involvement'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "asia"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 On May 30, 1626 (the sixth year of the Tianqi era of the Ming Dynasty), an unprecedented massive explosion occurred near the Wanggongchang gunpowder depot in the southwestern corner of Beijing. But this was no ordinary gunpowder depot explosion—the bizarre phenomena at the scene have left modern UFO researchers utterly baffled.
 

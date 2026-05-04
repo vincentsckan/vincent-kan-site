@@ -1,11 +1,17 @@
 ---
-title: '火箭之父Hermann Oberth：UFO係外星飛行器'
-description: '火箭科學先驅Hermann Oberth晚年公開表示UFO係來自外太空嘅飛行器'
+
+
+
+title: "Rocket Pioneer Hermann Oberth: UFOs Are Extraterrestrial"
+description: "UFO/UAP news and case coverage"
 titleEn: 'Hermann Oberth''s UFO Views: Rocket Pioneer Believed UFOs Were Alien'
-descriptionEn: 'Rocket pioneer Hermann Oberth, father of rocketry, publicly stated later in life that UFOs were extraterrestrial spacecraft'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "scientist"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 Hermann Oberth (1894-1989) is hailed as the father of modern rocket science. In a 1954 interview with *American Weekly*, he stated: "I am convinced that UFOs are real spacecraft from other solar systems, piloted by some form of intelligent beings."
 

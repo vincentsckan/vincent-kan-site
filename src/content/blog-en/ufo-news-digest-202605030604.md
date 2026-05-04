@@ -1,10 +1,16 @@
 ---
-title: "🛸 UFO/UAP 快訊 — 05月03日14:04"
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-03"
 titleEn: '🛸 UFO/UAP News Flash — 05月03日14:04'
-description: "NRO「Sentient」AI被揭曾搜尋UAP後即被關閉、Luna重申非人類智慧體為「跨維度存在」、Sullivan死亡事件再掀波瀾——今日UFO最新動態一次睇晒"
-descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: "2026-05-03T06:04:00.000Z"
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > Whether it's big news or small updates, as long as it's about UFO/UAP, we'll compile it for you right away. Today's news flash brings severalimportant topics: the NRO's secret AI system, a congressman's public revelations, and new details about the mysterious death of a key whistleblower.
 

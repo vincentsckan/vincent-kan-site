@@ -1,10 +1,16 @@
 ---
-title: '🛸 UFO/UAP 快訊 — 5月3日21:03'
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-03"
 titleEn: '🛸 UFO/UAP News Flash — 5月3日21:03'
-description: '🇺🇸 白宮註冊 Aliens.gov 域名・🕯️ 知名UFO研究者 David Wilcock 逝世・🔍 眾議院及FBI調查科學家離奇失蹤死亡案・📜 特朗普UFO解密進展'
-descriptionEn: 'UFO/UAP breaking news roundup: Latest developments in UAP disclosure, congressional hearings, and global sightings.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: '2026-05-03T13:03:00Z'
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > 🔔 **Breaking UFO/UAP News** — Evening of Sunday, May 3, 2026
 > AI-automated collection, organization, and formatting, focusing on the latest authoritative sources

@@ -1,10 +1,16 @@
 ---
-title: '🧠 UAP 科學研究入門 — 從懷疑到實證嘅分析方法'
-description: 'UAP 研究點樣從陰謀論走向主流科學？呢篇文章介紹科學界點樣運用數據同實證方法分析不明空中現象。'
+
+
+
+title: "🧠 Introduction to UAP Science — From Skepticism to Evidence-Based Analysis"
+description: "UFO/UAP news and case coverage"
 titleEn: '🔭 A Scientific Introduction to UFOs — From Stigma to Serious Study'
-descriptionEn: 'After decades of stigma, science is finally taking UFOs seriously. Introduction to UAP scientific research methods, data analysis, and what we''ve learned from credible evidence.'
+
 pubDate: '2022-04-20'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 🧪 **Series**: UAP Scientific Research  
 > **Purpose**: Introduce scientific analysis methods for UAP phenomena  

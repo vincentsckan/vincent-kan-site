@@ -1,10 +1,16 @@
 ---
-title: '🛸 中蘇美UFO較量 — 冷戰時期嘅不明飛行物軍事角力'
-description: '冷戰期間，美國同蘇聯都秘密收集 UFO 情報，雙方都擔心對方用 UFO 做掩護進行偵察。中國亦有大量 UFO 記錄。'
+
+
+
+title: "🛸 US-China-Soviet UFO Competition — Cold War Aerial Mysteries"
+description: "UFO/UAP news and case coverage"
 titleEn: '☢️ UFOs and the Cold War — The Secret History of Nuclear Connection'
-descriptionEn: 'During the Cold War, UFOs appeared at missile bases, nuclear facilities, and military installations worldwide. The nuclear connection is one of the most compelling patterns.'
+
 pubDate: '2022-05-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 🌍 **Special Series**: The Geopolitical Dimensions of UFOs
 > **Coverage**: The UFO military rivalry among the three major powers during the Cold War

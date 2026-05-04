@@ -1,11 +1,17 @@
 ---
-title: '☢️ 核武與UFO嘅驚人連結 — 科研證實嘅秘密歷史'
-description: '從Palomar天文台數據到1967年ICBM集體失靈，科學研究證實核武設施同UFO活動有統計學上嘅顯著關聯'
+
+
+
+title: "☢️ The Stunning Nuclear-UFO Connection — Scientifically Verified Secret History"
+description: "UFO/UAP news and case coverage"
 titleEn: '☢️ The Nuclear Link — Why UFOs Appear at Nuclear Facilities Worldwide'
-descriptionEn: 'UFOs have been reported over nuclear missile silos, power plants, and weapons facilities since the dawn of the atomic age. A comprehensive analysis of the nuclear-UFO connection.'
+
 pubDate: '2026-04-28'
-tags: ['核武', '科研', '解密文件', 'NUCLEAR', '冷門']
+tags: ["UFO", "UAP", "news", "auto-update"]
 heroImage: '../../assets/blog-placeholder-2.jpg'
+
+
+
 ---
 > 🔬 **Special Series**: The Scientific Evidence Dimension of UFOs
 > **Coverage**: Observatory plate data, nuclear missile silo incidents, statistical studies

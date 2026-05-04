@@ -1,11 +1,17 @@
 ---
-title: '1957年RB-47事件：美軍電子戰飛機被UFO追蹤'
-description: '美國空軍RB-47電子偵察機喺南部上空被不明物體追蹤，機上三組設備同時確認'
+
+
+
+title: "1957 RB-47 Incident: USAF Electronic Warfare Plane Tracked by UFO"
+description: "UFO/UAP news and case coverage"
 titleEn: 'The 1957 RB-47 Incident: UFO Tracked by Electronic Warfare Aircraft'
-descriptionEn: 'An RB-47 electronic reconnaissance plane was tracked and outmaneuvered by a UFO over the southern United States, confirmed by three onboard systems'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "military-radar"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 On July 17, 1957, a U.S. Air Force RB-47H electronic reconnaissance aircraft, during a routine training flight over Mississippi and Texas, encountered an unidentified flying object confirmed by all onboard equipment. This case is particularly notable because the RB-47 was the U.S. Air Force's most advanced electronic reconnaissance platform at the time, equipped with numerous sophisticated detection instruments.
 

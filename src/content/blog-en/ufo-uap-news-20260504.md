@@ -1,10 +1,12 @@
 ---
-title: '🛸 Global UFO/UAP News Digest — 2026-05-04'
-description: '·House Oversight releases new UAP disclosure bill draft, requiring Pentagon to declassify all non-human intelligence within 180 days·Brazilian Air Force releases 2025 Amazon UAP radar data showing ano'
+
+title: "🛸 Global UFO/UAP News Digest — 2026-05-04"
+description: "·House Oversight releases new UAP disclosure bill draft, requiring Pentagon to declassify all non-human intelligence within 180 days·Brazilian Air Force releases 2025 Amazon UAP radar data showing ano"
 pubDate: '2026-05-04'
 updatedDate: '2026-05-04T08:00+08:00'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 tags: ['UFO', 'UAP', 'Government Disclosure', 'Congress', 'Brazil', 'Japan', 'Harvard', 'Science']
+
 ---
 > 📡 **Daily UAP News Digest** — 2026-05-04
 > Curated, organized, and formatted by AI, focusing on authoritative sources and major developments.

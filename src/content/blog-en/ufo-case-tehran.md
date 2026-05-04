@@ -1,10 +1,16 @@
 ---
-title: '🛸 德黑蘭F-4戰機UFO對峙 (1976)'
-description: '1976年伊朗空軍兩架F-4戰機升空攔截UFO，導彈系統同通訊全部失靈，係少數有軍方雷達同戰機系統數據嘅經典案例。'
+
+
+
+title: "🛸 Tehran F-4 Jet vs UFO Confrontation (1976)"
+description: "UFO/UAP news and case coverage"
 titleEn: '✈️ The Tehran UFO Incident — Iranian Air Force vs. UFOs (1976)'
-descriptionEn: 'In 1976, two Iranian F-4 Phantom jets engaged a UFO over Tehran. The aircraft lost power and communications when approaching. A classified DIA document confirms the case.'
+
 pubDate: '2022-08-20'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 📍 **Tehran, Iran**
 > 📅 **September 19, 1976**

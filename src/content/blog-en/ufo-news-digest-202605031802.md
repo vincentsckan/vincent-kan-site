@@ -1,11 +1,17 @@
 ---
-title: '🛸 UFO/UAP 快訊 — 5月03日18:03'
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-03"
 titleEn: '🛸 UFO/UAP News Flash — 5月03日18:03'
-description: '🏛️ 前國防官員親口證實：特朗普UFO資訊絕非「空心彈」 · 📡 Kacey Musgraves親述UFO體驗 · 🕵️ 眾議員承諾展示「非人類來源」證據 · 👽 11位名人公開自己嘅UFO奇遇'
-descriptionEn: 'UFO/UAP breaking news roundup: Latest developments in UAP disclosure, congressional hearings, and global sightings.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: '2026-05-03T10:02:00Z'
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 🔔 **UFO/UAP News Flash** — Evening Update, Sunday, May 3, 2026
 > AI-powered real-time collection, compilation, tracking latest developments

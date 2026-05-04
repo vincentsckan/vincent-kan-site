@@ -1,10 +1,16 @@
 ---
-title: '👽 灰人Grey — UAP文化中最經典嘅外星生物形象'
-description: '灰色外星人（Grey）係UFO文化中最常見嘅外星生物形象。佢哋嘅形象係點樣形成嘅？背後有冇真實案例嘅支撐？'
+
+
+
+title: "👽 Grey Aliens — The Most Iconic Alien in UAP Culture"
+description: "UFO/UAP news and case coverage"
 titleEn: '👽 The Greys — The Most Iconic Alien Image in UAP Culture'
-descriptionEn: 'Grey aliens are the most common extraterrestrial image in UFO culture. How did this archetype form? Is there supporting evidence from real cases?'
+
 pubDate: '2023-02-15'
 heroImage: '../../assets/blog-placeholder-4.jpg'
+
+
+
 ---
 > 📚 **UAP Glossary** | 🔍 **Grey Comprehensive Analysis**
 

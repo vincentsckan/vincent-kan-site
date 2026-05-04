@@ -1,10 +1,16 @@
 ---
-title: '🛸 1965年肯薩斯墜毀 — 燃燒碎片雨嘅神秘事件'
-description: '1965年8月，美國肯薩斯州出現大量燃燒碎片從天而降，目擊者仲見到碟形物體墜毀，軍方迅速封鎖現場。'
+
+
+
+title: "🛸 1965 Kansas Crash — The Mysterious Burning Debris Storm"
+description: "UFO/UAP news and case coverage"
 titleEn: '🌾 The Kansas UFO Sightings (2022) — Mass Sighting Over the Plains'
-descriptionEn: 'In 2022, residents across Kansas reported a massive triangular UFO hovering silently. Multiple videos and witness accounts from the American heartland.'
+
 pubDate: '2022-07-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 📍 **Multiple towns in Kansas, USA**
 > 📅 **August 2, 1965**

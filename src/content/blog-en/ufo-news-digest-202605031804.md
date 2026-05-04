@@ -1,10 +1,16 @@
 ---
-title: "🛸 UFO/UAP 快訊 — 05月04日02:04"
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-03"
 titleEn: '🛸 UFO/UAP News Flash — 05月04日02:04'
-description: "特朗普承諾即將公開UFO機密檔案、Gimbal事件仍未解決、NASA工程師神秘死亡、太平洋西北地區火球劃破夜空 — 今日UFO新聞總匯"
-descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: "2026-05-03T18:04:00Z"
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > Trump's at it again! The Pentagon is preparing to release "very interesting" classified UFO files. At the same time, the Gimbal incident remains unsolved, plus a NASA engineer's mysterious death, and a giant fireball appearing over the Pacific Northwest — today's UFO news, all in one go for you!
 

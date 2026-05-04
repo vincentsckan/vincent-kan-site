@@ -1,11 +1,17 @@
 ---
-title: '🛸 全球UFO/UAP新聞摘要 — 5月3日'
-description: '🌊 51區地震群持續引發UFO測試猜測 · 🏛️ Burlison正式要求FBI調查Sullivan死因 · 👩‍🔬 特朗普下令調查科學家失蹤 · 🧠 AARO機密工作坊探索AI與UAP辨識'
+
+
+
+title: "🛸 Global UFO/UAP News Digest — May 3, 2026"
+description: "UFO/UAP news and case coverage"
 titleEn: '🛸 Global UFO/UAP News Roundup — May 3, 2026'
-descriptionEn: '🌊 Area 51 quake swarm fuels testing speculation · 🏛️ Burlison demands FBI probe Sullivan death · 👩‍🔬 Trump orders vanished scientists inquiry · 🧠 AARO workshop explores AI and UAP detection'
+
 pubDate: '2026-05-03'
 updatedDate: '2026-05-03T12:00:00Z'
 heroImage: '../../assets/blog-placeholder-3.jpg'
+
+
+
 ---
 > 📡 **Daily UAP News Digest** — May 3, 2026 (Sunday)
 > AI-automated collection, organization, and formatting, focusing on authoritative sources and key developments

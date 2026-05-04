@@ -1,10 +1,16 @@
 ---
-title: '🧑‍🔬 雅克·瓦萊 — 現代UFO研究嘅科學先驅'
-description: '法裔天文學家Jacques Vallee提出UFO可能唔係外星飛船，而係一種跨維度現象，徹底改變咗UFO研究嘅方向。'
+
+
+
+title: "🧑‍🔬 Jacques Vallée — The Scientific Pioneer of Modern UFO Research"
+description: "UFO/UAP news and case coverage"
 titleEn: '📖 Dr. Jacques Vallée — The Scientist Who Saw UFOs as Something Stranger Than Aliens'
-descriptionEn: 'French astronomer and computer scientist Dr. Jacques Vallée proposed a bold theory: UFOs may not be extraterrestrial spacecraft, but something far more complex.'
+
 pubDate: '2022-10-20'
 heroImage: '../../assets/blog-placeholder-5.jpg'
+
+
+
 ---
 > 📍 **France/USA** | 📅 **1939-present** | 🔍 **Biography, Alternative Theories**
 

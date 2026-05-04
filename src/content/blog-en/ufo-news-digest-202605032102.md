@@ -1,8 +1,14 @@
 ---
-title: "🛸 UFO/UAP 快訊 — 5月4日 05:02"
-description: "Aliens.gov正式註冊！川普下令FBI調查科學家離奇死亡/失蹤案；知名UFO研究者David Wilcock離世終年53歲；國會啟動調查10名核武及太空科學家案件"
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-03"
+description: "UFO/UAP news and case coverage"
 pubDate: "2026-05-03T21:02:00Z"
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > This issue of UFO Express has groundbreaking news: The U.S. government has officially registered the "Aliens.gov" domain, Trump has ordered the FBI to lead an investigation into the series of missing scientists, and renowned UFO researcher David Wilcock has sadly passed away. The UFO world is truly in turmoil!
 

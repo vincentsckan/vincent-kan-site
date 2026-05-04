@@ -1,10 +1,16 @@
 ---
-title: '🛸 薩頓農場UFO槍戰事件 (1955)'
-description: '1955年肯塔基州一個農場家庭聲稱外星生物襲擊農舍，家人用獵槍還擊，美國空軍介入調查。'
+
+
+
+title: "🛸 The Sutton Farm UFO Gunfight (1955)"
+description: "UFO/UAP news and case coverage"
 titleEn: '🏠 The Sutton-Braxton Incident — The Night the Aliens Came to the Farm (WV, 1952)'
-descriptionEn: 'In 1952, the Sutton family in Flatwoods, West Virginia encountered a terrifying being after seeing a fireball crash. The "Flatwoods Monster" became a legend.'
+
 pubDate: '2022-07-10'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 📍 **Hopkinsville, Kentucky, USA**
 > 📅 **August 21, 1955**

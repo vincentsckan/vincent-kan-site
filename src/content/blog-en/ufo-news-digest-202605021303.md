@@ -1,10 +1,16 @@
 ---
-title: "🛸 UFO/UAP 快訊 — 5月2日13:03"
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-02"
 titleEn: '🛸 UFO/UAP News Flash — 5月2日13:03'
-description: "特朗普承諾公開UFO檔案、女議員揚言展示非人類物品、前國防官員澄清唔係流料、退役海軍上將爆亞特蘭蒂斯真係存在 — 本日UFO新聞總匯"
-descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: "2026-05-02T13:03:00Z"
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > This week the UFO community is really buzzing! From Trump to Capitol Hill, from a retired Navy admiral to a former defense official, various parties are all talking about UFO disclosure. Let's take a look at the big news that happened in the last 48 hours.
 

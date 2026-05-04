@@ -1,13 +1,19 @@
 ---
-title: "🛸 UFO/UAP 快訊 — 5月3日17:04"
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-03"
 titleEn: '🛸 UFO/UAP News Flash — 5月3日17:04'
-description: "特朗普今日多篇報導稱五角大樓準備公開「非常有趣」的UFO檔案；前AARO局長柯克派屈克與退役海軍少將加拉德特公開開火；眾議院監督委員會5月13日UAP聽證會即將到來；國防部錯過提交UAP影片最後期限。"
-descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: 2026-05-03T17:04:00.000Z
 updatedDate: 2026-05-03T17:04:00.000Z
 heroImage: ../../assets/blog-placeholder-2.jpg
-tags: ["UFO", "UAP", "news", "自動更新"]
-category: "UFO快訊"
+tags: ["UFO", "UAP", "news", "auto-update"]
+category: "UAP News"
+
+
+
 ---
 > Trump speaks out again, claiming the Pentagon is about to release "very interesting" UFO files, with news spreading across multiple major media outlets. At the same time, the former AARO director and a retired Navy rear admiral publicly clash, escalating the civil war within the UFO community. On the congressional front, the prelude to the May 13 hearing has already begun. Today (May 3) is packed with UFO news—check out all the highlights now!
 

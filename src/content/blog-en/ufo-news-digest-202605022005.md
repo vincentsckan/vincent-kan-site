@@ -1,10 +1,16 @@
 ---
-title: "🛸 UFO/UAP 快訊 — 5月2日 04:05"
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-02"
 titleEn: '🛸 UFO/UAP News Flash — 5月2日'
-description: "美國眾議員質疑海外巨型UAP結構、Jimmy Carter疑似1977年獲外星簡報新細節曝光、三角形UFO夜視鏡影像、匿名吹哨人爆料情報機關深層保密架構"
-descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: "2026-05-02T20:05:00Z"
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > Continuing to track the latest global UFO/UAP developments! Tonight's briefing brings multiple whistleblower revelations, congressional accountability, and sighting videos—a massive information dump. Ready? 🚀
 

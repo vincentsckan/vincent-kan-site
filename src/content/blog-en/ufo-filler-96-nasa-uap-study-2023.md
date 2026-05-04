@@ -1,11 +1,17 @@
 ---
-title: '2023年NASA UAP研究小組：美國太空總署正式研究UAP'
-description: '2023年NASA成立獨立研究小組調查UAP，最終報告建議加強數據收集'
+
+
+
+title: "2023 NASA UAP Study Team: Space Agency Formally Studies UAP"
+description: "UFO/UAP news and case coverage"
 titleEn: '2023 NASA UAP Study: The Space Agency''s Bold Step into UAP Research'
-descriptionEn: 'In 2023, NASA formed an independent study team to investigate UAP, recommending improved data collection'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "government-report"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 In June 2022, NASA announced the formation of an independent UAP (Unidentified Anomalous Phenomena) study team—marking the first time in the space agency's history that it officially ventured into this long-stigmatized field.
 

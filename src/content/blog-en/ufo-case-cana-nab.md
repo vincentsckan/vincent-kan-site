@@ -1,10 +1,16 @@
 ---
-title: '🛸 希爾夫UFO劫持事件 — 警察親歷 (1967)'
-description: '1967年加拿大一名皇家騎警目擊巨大雪茄形UFO，被光束照射後失去知覺，醒來發現衣物以奇怪方式損壞。'
+
+
+
+title: "🛸 The Cana-Nab Abduction — A Police Officer's Firsthand Account (1967)"
+description: "UFO/UAP news and case coverage"
 titleEn: '🛸 The Cana, Nab, and Nab-3 UFO Incidents — AARO''s Investigated Cases'
-descriptionEn: 'Three US military UAP incidents analyzed by AARO, involving radar-confirmed objects demonstrating advanced capabilities. Official case files.'
+
 pubDate: '2022-06-05'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 📍 **Manitoba, Canada, The Pas**
 > 📅 **May 20, 1967**

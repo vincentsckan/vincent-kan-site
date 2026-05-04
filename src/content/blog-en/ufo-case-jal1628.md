@@ -1,10 +1,16 @@
 ---
-title: '🛸 日本航空1628航班UFO事件 (1986)'
-description: '1986年阿拉斯加上空，一架日航貨機被巨型UFO追蹤超過50分鐘，FAA雷達確認，係少數有民航機長詳細報告嘅空中事件。'
+
+
+
+title: "🛸 Japan Airlines Flight 1628 UFO Incident (1986)"
+description: "UFO/UAP news and case coverage"
 titleEn: '🛸 Japan Airlines Flight 1628 — When a 747 Was Followed by a Giant UFO (1986, Alaska)'
-descriptionEn: 'In 1986, a Japanese cargo jet over Alaska was pursued by a massive UFO for nearly an hour. The FAA confirmed the radar data, making it one of the most credible aviation cases.'
+
 pubDate: '2022-09-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 📍 **Alaska, USA - Airspace**
 > 📅 **November 17, 1986**

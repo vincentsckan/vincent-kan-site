@@ -1,11 +1,17 @@
 ---
-title: '1990年上海UFO事件：數百萬人目睹嘅中國UFO浪潮'
-description: '1990年7月，上海同周邊地區數百萬居民同時見到夜空出現巨大神秘光團'
+
+
+
+title: "1990 Shanghai UFO Event: Millions Witness China's UFO Wave"
+description: "UFO/UAP news and case coverage"
 titleEn: '1990 Shanghai UFO Wave: Millions Witnessed Mysterious Lights'
-descriptionEn: 'In July 1990, millions of residents across Shanghai and surrounding areas simultaneously observed a giant mysterious luminous object in the night sky'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "asia"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 On the evening of July 17, 1990, one of the largest UFO sightings in modern Chinese history occurred in Shanghai and its surrounding areas—millions of citizens simultaneously witnessed a giant unidentified flying object emitting red and white light in the night sky.
 

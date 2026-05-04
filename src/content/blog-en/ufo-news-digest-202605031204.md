@@ -1,12 +1,18 @@
 ---
-title: '🛸 UFO/UAP 快訊 — 5月3日20:04'
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-03"
 titleEn: '🛸 UFO/UAP News Flash — 5月3日20:04'
-description: '🇺🇸 特朗普稱五角大樓將釋出「好有趣」UFO檔案 · 🏛️ 眾議員Luna承諾展示「非人類來源」證據 · 🎬 前國防官員稱唔係「nothingburger」 · 🇬🇧 英國Rendlesham Forest謎團再掀討論 · 🏜️ 51區地震群持續 · 👾 萬斯副總統自爆「沉迷」UFO檔案'
-descriptionEn: 'UFO/UAP breaking news roundup: Latest developments in UAP disclosure, congressional hearings, and global sightings.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: '2026-05-03T20:04:00+08:00'
 updatedDate: '2026-05-03T12:04:00Z'
 heroImage: '../../assets/blog-placeholder-5.jpg'
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > 📡 **UFO/UAP Flash Update** — Evening Update, Sunday, May 3, 2026
 > 🚀 Trump UFO Files About to Be Massively Released? Congress Pressures Pentagon to Hand Over Videos!

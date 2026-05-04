@@ -1,10 +1,16 @@
 ---
-title: '🧠 何謂NHI？ — 非人類智能概念全面解構'
-description: 'NHI（Non-Human Intelligence）係UAP研究中最關鍵嘅概念。究竟咩係非人類智能？點解政府由UFO轉用NHI呢個詞？'
+
+
+
+title: "🧠 What is NHI? — A Complete Guide to Non-Human Intelligence"
+description: "UFO/UAP news and case coverage"
 titleEn: '🤔 What Is NHI? Understanding Non-Human Intelligence — The New Frontier in UAP Research'
-descriptionEn: 'NHI (Non-Human Intelligence) is the new official term describing the intelligence behind UAP. A comprehensive look at government terminology and scientific thought on this topic.'
+
 pubDate: '2022-11-01'
 heroImage: '../../assets/blog-placeholder-3.jpg'
+
+
+
 ---
 > 📚 **UAP Glossary** | 📅 **Concept Analysis** | 🔍 **NHI Comprehensive Introduction**
 

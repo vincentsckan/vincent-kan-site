@@ -1,11 +1,17 @@
 ---
-title: '意大利Zanfretta綁架事件：最詳細嘅外星人接觸案之一'
-description: '1978年至1982年間，意大利警衛Zanfretta被反覆綁架，催眠錄音記錄咗詳細嘅外星人描述同飛船內部細節'
+
+
+
+title: "The Zanfretta Abduction: Italy's Most Detailed Alien Encounter"
+description: "UFO/UAP news and case coverage"
 titleEn: 'The Zanfretta Abductions: Italy''s Most Documented Alien Contact'
-descriptionEn: 'Between 1978-1982, Italian night guard Fortunato Zanfretta was repeatedly abducted, with hypnosis tapes recording detailed alien descriptions and ship interiors'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "abduction"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 On the night of December 6, 1978, in the northern Italian city of Marzano, night watchman Fortunato Zanfretta received a strange distress call—but no one spoke on the other end, only eerie breathing sounds. He decided to drive out for a patrol, and that decision changed his life forever.
 

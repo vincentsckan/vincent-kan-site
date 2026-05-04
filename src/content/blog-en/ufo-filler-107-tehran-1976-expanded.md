@@ -1,11 +1,17 @@
 ---
-title: '1976年德克蘭F-4 UFO事件：伊朗空軍戰機被UFO嚇退'
-description: '1976年9月，伊朗空軍F-4戰機被UFO鎖定，機上所有系統失靈'
+
+
+
+title: "1976 Tehran F-4 UFO Incident: Iranian Jets Scared Off by UFO"
+description: "UFO/UAP news and case coverage"
 titleEn: '1976 Tehran UFO: Iranian F-4 Jets Crippled by UFO'
-descriptionEn: 'In September 1976, Iranian Air Force F-4 jets were locked on by a UFO, causing all onboard systems to fail'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "military"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 At dawn on September 19, 1976, an event occurred over the skies of Tehran, Iran, which was recorded by the U.S. Defense Intelligence Agency (DIA) as "the most compelling UFO military encounter in history." Two Iranian Air Force F-4 Phantom fighter jets were ordered to intercept an unidentified object locked on by radar.
 

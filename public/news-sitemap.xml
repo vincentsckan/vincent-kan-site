@@ -2,30 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-20260502-evening-1/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T20:04:26.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 Global UFO/UAP News Digest — 2026-05-02]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605022005/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T20:05:00.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 UFO/UAP News Flash — 5月2日]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605022103/</loc>
     <news:news>
       <news:publication>
@@ -93,7 +69,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-05-03T20:05:09.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 全球UFO/UAP新聞摘要 — 2026-05-03]]></news:title>
+      <news:title><![CDATA[🛸 Global UFO/UAP News Digest — 2026-05-03]]></news:title>
       <news:keywords>UFO,UAP,disclosure,news</news:keywords>
     </news:news>
   </url>
@@ -333,7 +309,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-05-03T20:03:00.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 UFO/UAP 快訊 — 5月4日04:03]]></news:title>
+      <news:title><![CDATA[🛸 UFO/UAP News Digest — 2026-05-03]]></news:title>
       <news:keywords>UFO,UAP,disclosure,news</news:keywords>
     </news:news>
   </url>
@@ -345,7 +321,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-05-03T21:02:00.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 UFO/UAP 快訊 — 5月4日 05:02]]></news:title>
+      <news:title><![CDATA[🛸 UFO/UAP News Digest — 2026-05-03]]></news:title>
       <news:keywords>UFO,UAP,disclosure,news</news:keywords>
     </news:news>
   </url>

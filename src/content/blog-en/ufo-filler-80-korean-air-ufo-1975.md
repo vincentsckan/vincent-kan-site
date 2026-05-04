@@ -1,11 +1,17 @@
 ---
-title: '1975年韓國空軍UFO追蹤事件：戰機升空攔截不明物體'
-description: '1975年10月，韓國空軍雷達發現不明物體，F-5戰鬥機升空攔截但無法接近'
+
+
+
+title: "1975 Korean Air Force UFO: Jets Scrambled to Intercept"
+description: "UFO/UAP news and case coverage"
 titleEn: '1975 Korean Air Force UFO: Fighter Jets Scrambled to Intercept'
-descriptionEn: 'In October 1975, ROK Air Force radar detected an unidentified object over South Korea, with F-5 fighters scrambled but unable to intercept'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "asia"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 In October 1975, an event occurred in South Korea that remains the most famous incident in the country's military UFO history—the South Korean Air Force's radar system detected an unidentified object flying over the capital, Seoul, and the Air Force immediately dispatched F-5E fighter jets to intercept it.
 

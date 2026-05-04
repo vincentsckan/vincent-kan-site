@@ -1,4 +1,7 @@
 ---
+
+
+
 title: "🛸 UFO/UAP News — May 4, Late Morning"
 titleEn: '🛸 UFO/UAP News Digest — May 4, 2026'
 description: "Hearing pre-session briefing · Leaked agenda reveals floor plan · AARO prepared statement · Whistleblower legal team assembled"
@@ -6,6 +9,9 @@ pubDate: 2026-05-04T03:00:00.000Z
 updatedDate: 2026-05-04T03:00:00.000Z
 heroImage: ../../assets/blog-placeholder-2.jpg
 tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 
 > **Hearing pre-session update:** Leaked agenda reveals hearing floor plan and witness seating. AARO has prepared a detailed opening statement. A legal team representing multiple UAP whistleblowers has assembled on Capitol Hill.

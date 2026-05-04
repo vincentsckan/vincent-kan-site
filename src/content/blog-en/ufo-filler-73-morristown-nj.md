@@ -1,11 +1,17 @@
 ---
-title: '2009年新澤西Morristown UFO：高科技惡作劇定真正現象？'
-description: '2009年1月，新澤西州Morristown上空出現神秘「無人機」光點，引發FBI調查與騙局指控'
+
+
+
+title: "2009 Morristown UFO: Elaborate Hoax or Genuine Phenomenon?"
+description: "UFO/UAP news and case coverage"
 titleEn: '2009 Morristown UFOs: High-Tech Hoax or Genuine Phenomenon?'
-descriptionEn: 'In January 2009, mysterious drone-like lights appeared over Morristown, New Jersey, sparking FBI investigation and hoax accusations'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "hoax-debate"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 In January 2009, the peaceful life of residents in Morristown, New Jersey was disrupted. For several consecutive nights, inexplicable red and green lights appeared in the sky—they moved slowly overhead, sometimes forming V-shaped formations. These "drones" appeared for a week, sparking massive media attention and an FBI investigation.
 

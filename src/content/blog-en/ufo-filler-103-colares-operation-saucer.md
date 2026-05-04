@@ -1,11 +1,17 @@
 ---
-title: '1977年巴西ColaresUFO攻勢：居民被光束襲擊，軍方發動捕碟行動'
-description: '1977年巴西Colares島UFO用光束襲擊居民，軍方展開大規模Operation Saucer'
+
+
+
+title: "1977 Colares UFO Attacks: Residents Hit by Beams, Military Launches Operation Saucer"
+description: "UFO/UAP news and case coverage"
 titleEn: '1977 Colares UFO Attacks: Brazil''s Operation Saucer'
-descriptionEn: 'In 1977, UFOs attacked residents of Colares, Brazil with beams of light, prompting a massive military Operation Saucer'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "brazil"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 In 1977, a UFO incident that shocked South America occurred on Colares Island at the mouth of the Amazon River in Brazil—residents were "attacked" by beams of light from UFOs, with multiple people injured, prompting the Brazilian Air Force to launch a large-scale military investigation called "Operation Saucer."
 

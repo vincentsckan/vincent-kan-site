@@ -1,11 +1,17 @@
 ---
-title: '1975年Travis Walton綁架案：亞利桑那州嘅星際迷航'
-description: '1975年11月，伐木工Travis Walton被UFO光束擊中後失蹤五日，引發全美搜尋'
+
+
+
+title: "1975 Travis Walton Abduction: An Arizona Interstellar Journey"
+description: "UFO/UAP news and case coverage"
 titleEn: '1975 Travis Walton Abduction: The Arizona Logger''s Star Trek'
-descriptionEn: 'In November 1975, logger Travis Walton was hit by a UFO beam and vanished for five days, sparking a nationwide search'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "abduction"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 On November 5, 1975, in the Apache-Sitgreaves National Forest, Arizona, a group of lumberjacks were driving back after work when they suddenly saw a disc-shaped object emitting a bright light hovering above the forest. 22-year-old Travis Walton got out of the truck and approached it—then a powerful beam shot out from the craft, blasting him several meters away.
 

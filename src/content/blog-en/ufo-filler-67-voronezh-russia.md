@@ -1,11 +1,17 @@
 ---
-title: '1989年蘇聯Voronezh外星人登陸事件：軍方與科學家共同調查'
-description: '1989年9月，蘇聯Voronezh市有市民目擊外星人降落，KGB與科學家聯合調查'
+
+
+
+title: "1989 Voronezh Alien Landing: Soviet Military Investigates"
+description: "UFO/UAP news and case coverage"
 titleEn: '1989 Voronezh Alien Landing: Soviet Citizens Witness Extraterrestrials'
-descriptionEn: 'In September 1989, multiple witnesses in Voronezh, USSR reported an alien landing with 3-meter tall beings, investigated by KGB and scientists'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "alien-encounter"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 In late September 1989, an event shook the entire nation in the city of Voronezh, Soviet Union — as many as hundreds of people claimed to have seen a giant spaceship land in a city park, with alien beings 3 meters tall emerging from it. Most notably, the official Soviet media TASS and the Academy of Sciences both reported and investigated the incident.
 

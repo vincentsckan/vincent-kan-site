@@ -1,13 +1,19 @@
 ---
-title: "🛸 全球UFO/UAP新聞摘要 — 2026-05-01"
+
+
+
+title: "🛸 Global UFO/UAP News Digest — 2026-05-01"
 titleEn: '🛸 Global UFO/UAP News Digest — 2026-05-01'
-description: "今日UFO/UAP最新消息匯總：美國國會聽證會後續、全球目擊報告、政府檔案解密進展"
-descriptionEn: 'Daily roundup of latest UFO/UAP news including disclosure updates and sightings.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: 2026-05-01T14:58:54Z
 updatedDate: 2026-05-01T14:58:54Z
 author: "UFO News Monitor"
-tags: ["UFO", "UAP", "新聞摘要", "daily", "202605"]
+tags: ["UFO", "UAP", "news", "auto-update"]
 image: "/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg"
+
+
+
 ---
 > **Daily Update:** The latest global UFO/UAP developments, helping you track every step of the disclosure movement. This page updates automatically every day.
 

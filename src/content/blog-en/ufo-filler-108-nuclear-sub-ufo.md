@@ -1,11 +1,17 @@
 ---
-title: 'UFO與核潛艇：深海嘅神秘追蹤者'
-description: '冷戰期間多國核潛艇被UFO喺深海追蹤，部分事件記錄喺軍事檔案中'
+
+
+
+title: "UFOs and Nuclear Submarines: Deep Sea Mystery Trackers"
+description: "UFO/UAP news and case coverage"
 titleEn: 'UFOs and Nuclear Subs: Deep Sea Mysterious Trackers'
-descriptionEn: 'During the Cold War, multiple nuclear submarines were tracked by UFOs underwater, documented in military archives'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "nuclear-connection"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 UFOs don't just appear in the sky—they also dive underwater to track nuclear submarines. During the Cold War, multiple navies reported this phenomenon known as "USO" (Unidentified Submerged Object).
 

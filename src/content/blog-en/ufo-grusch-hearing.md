@@ -1,10 +1,16 @@
 ---
-title: '🛸 戴維·格魯什國會聽證會 — 2023年改變一切嘅證詞'
-description: '2023年7月26日，吹哨人David Grusch喺美國國會作證，聲稱政府擁有非人類智能飛行器同生物遺骸，震撼全球。'
+
+
+
+title: "🔴 LIVE: U.S. Congressional UFO/UAP Hearing"
+description: "UFO/UAP news and case coverage"
 titleEn: '🏛️ The Grusch Hearings — Whistleblower Testimony That Shook Washington (2023)'
-descriptionEn: 'In July 2023, former intelligence official David Grusch testified before the US Congress about secret UAP recovery programs. One of the most significant hearings in UFO history.'
+
 pubDate: '2022-12-15'
 heroImage: '../../assets/blog-placeholder-3.jpg'
+
+
+
 ---
 > 📍 **Washington, D.C., Capitol Hill, USA**
 > 📅 **July 26, 2023**

@@ -1,11 +1,17 @@
 ---
-title: '1946年北歐幽靈火箭：冷戰初期嘅神秘空中現象'
-description: '1946年春夏，瑞典、芬蘭等北歐國家頻繁出現神秘飛行物體，部分被雷達追蹤並墜落'
+
+
+
+title: "1946 Ghost Rockets: Mysterious Aerial Phenomena Over Scandinavia"
+description: "UFO/UAP news and case coverage"
 titleEn: '1946 Ghost Rockets: Early Cold War Aerial Phenomenon Over Scandinavia'
-descriptionEn: 'In spring-summer 1946, thousands of unexplained rocket-like objects were sighted over Scandinavia, some tracked on radar and recovered from lakes'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "early-sightings"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 In the spring of 1946, shortly after the end of World War II, Nordic countries began to see a surge in reports of mysterious flying objects. Swedish residents frequently observed high-speed "rocket-shaped" objects streaking across the sky, emitting green or white light, and some even reported hearing loud explosions. Nordic media dubbed these phenomena "Ghost Rockets" (Spökraketer).
 

@@ -1,10 +1,16 @@
 ---
-title: "🛸 UFO/UAP 快訊 — 05月03日01:04"
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-02"
 titleEn: '🛸 UFO/UAP News Flash — 05月03日01:04'
-description: "Area 51地震群更新、MKUltra聽證前奏、5月天空異常活動預測、UFO迷必看太空冷知識"
-descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: 2026-05-02T17:04:00Z
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > It's time for the late-night UFO news flash! Today is May 2, 2026 (Saturday), and Hong Kong has already entered the early hours of May 3. Even though it's the weekend, the UFO scene hasn't slowed down! Tonight brings multiple updates, along with some astronomical trivia to fuel your UFO cravings! 🛸
 

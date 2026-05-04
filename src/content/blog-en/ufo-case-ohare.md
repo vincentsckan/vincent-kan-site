@@ -1,10 +1,16 @@
 ---
-title: '🛸 奧黑爾機場UFO目擊 — 2006年芝加哥航站樓集體目睹'
-description: '2006 年 11 月 7 日，芝加哥奧黑爾國際機場出現神秘碟形飛行器，聯合航空員工及其他目擊者集體目睹，但 FAA 堅稱雷達冇記錄。'
+
+
+
+title: "🛸 O'Hare Airport UFO — 2006 Terminal Mass Sighting"
+description: "UFO/UAP news and case coverage"
 titleEn: '🛸 The O''Hare UFO Incident — A Disc Hovered Over the Busiest Airport (2006, Chicago)'
-descriptionEn: 'On November 7, 2006, United Airlines employees saw a metallic disc hovering over Gate C17 at O''Hare Airport. The FAA confirmed but offered no explanation.'
+
 pubDate: '2022-04-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 📍 **Case Focus**: Chicago O'Hare International Airport, USA  
 > 📅 **Date of Incident**: November 7, 2006  

@@ -1,10 +1,16 @@
 ---
-title: '🛸 盧比克光點 — 1951年德州天空嘅神秘V形編隊'
-description: '1951年德州盧比克上空出現V形排列嘅神秘光點，三名科學家觀測到，並用相機拍到照片。Project Blue Book無法解釋。'
+
+
+
+title: "🛸 Lubbock Lights — Mysterious V-Shaped Formations Over Texas (1951)"
+description: "UFO/UAP news and case coverage"
 titleEn: '💡 The Lubbock Lights — A Mass Sighting That Shocked America (1951, Texas)'
-descriptionEn: 'In 1951, dozens of residents in Lubbock, Texas saw V-shaped formations of lights streaking across the sky. Photos were taken by university professors.'
+
 pubDate: '2023-05-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 📍 **Lubbock, Texas, USA**
 > 📅 **August 25, 1951**

@@ -1,11 +1,17 @@
 ---
-title: '中國古代UFO記錄：宋朝文獻中的神秘天象'
-description: '中國宋朝古籍中記載了大量疑似UFO嘅天象，包括「飛星入月」等奇異現象'
+
+
+
+title: "Ancient Chinese UFO Records: Mysterious Sky Phenomena in Song Dynasty Texts"
+description: "UFO/UAP news and case coverage"
 titleEn: 'Ancient Chinese UFO Records: Song Dynasty Sky Anomalies'
-descriptionEn: 'Chinese Song Dynasty historical records document numerous sky anomalies resembling modern UFO reports'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "asia"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 Ancient Chinese classical texts contain numerous records similar to modern UFOs, especially during the Song Dynasty (960-1279). Official historical works such as the *Song Shi·Tianwen Zhi* (History of Song: Astronomical Records) and the *Xu Zizhi Tongjian Changbian* (Long Draft of the Continued Comprehensive Mirror for Aid in Government) document a large number of "unusual celestial phenomena"—from "flying stars entering the moon" (a light point flying into the moon) to "red vapor spanning the sky" (red light crossing the sky).
 

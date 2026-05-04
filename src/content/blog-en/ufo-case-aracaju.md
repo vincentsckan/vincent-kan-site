@@ -1,10 +1,16 @@
 ---
-title: '🛸 阿拉卡茹事件 — 巴西軍方UFO追逐戰 (1977)'
-description: '1977年巴西北部發生一系列UFO襲擊事件，數百人報告被神秘光束攻擊，軍方介入調查，仲有軍用相機拍攝到UFO照片。'
+
+
+
+title: "🛸 The Aracaju Incident — Brazilian Military UFO Chase (1977)"
+description: "UFO/UAP news and case coverage"
 titleEn: '🛸 The Aracaju Incident — Brazil Military''s UFO Chase (1977)'
-descriptionEn: 'In 1977, northern Brazil experienced a series of UFO attacks with hundreds reporting mysterious light beams. The military investigated and even captured UFO photos.'
+
 pubDate: '2022-06-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 📍 **Pará State, Brazil, Aracaju**
 > 📅 **1977**

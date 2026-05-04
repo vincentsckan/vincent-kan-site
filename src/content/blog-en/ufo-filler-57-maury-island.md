@@ -1,11 +1,17 @@
 ---
-title: '1947年Maury Island事件：比Roswell更早嘅UFO墜毀疑雲'
-description: '1947年6月，華盛頓州Maury Island據報有UFO爆炸墜落，碎片被神秘黑衣人收走'
+
+
+
+title: "1947 Maury Island: A UFO Crash Before Roswell"
+description: "UFO/UAP news and case coverage"
 titleEn: '1947 Maury Island Incident: The Pre-Roswell UFO Crash'
-descriptionEn: 'In June 1947, a UFO reportedly exploded over Maury Island, Washington, with debris mysteriously collected by men in black before Roswell'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "crash"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 Most people, when talking about the 1947 UFO crash incident, immediately think of Roswell. But just a few days before the Roswell event, another mysterious UFO crash had already occurred on Maury Island in Washington State on the US West Coast—and the truth is even more perplexing.
 

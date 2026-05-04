@@ -1,11 +1,17 @@
 ---
-title: '🛸 全球UFO/UAP新聞摘要 — 2026年5月1日'
-description: '⚡ Burlison正式要求FBI調查Sullivan死亡案 · ODNI吹哨人抹黑醜聞持續發酵 · 三角形UFO核電站入侵記錄曝光 · 白宮加速解密進程'
+
+
+
+title: "🛸 Global UFO/UAP News Digest — May 1, 2026"
+description: "UFO/UAP news and case coverage"
 titleEn: '🛸 Global UFO/UAP News Roundup — May 1, 2026'
-descriptionEn: '⚡ Burlison formally requests FBI investigation into Sullivan death · ODNI whistleblower smear scandal unfolds · Triangular UFO incursions at nuclear sites revealed · White House pushes disclosure'
+
 pubDate: '2026-05-01'
 updatedDate: '2026-05-01'
 heroImage: '../../assets/blog-placeholder-2.jpg'
+
+
+
 ---
 > 📡 **Daily UAP News Digest** — May 1, 2026 (Friday)
 > AI-automated collection, organization, and formatting, focusing on authoritative sources and key developments

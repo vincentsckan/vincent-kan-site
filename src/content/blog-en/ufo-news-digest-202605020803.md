@@ -1,10 +1,16 @@
 ---
-title: '🛸 UFO/UAP 快訊 — 5月2日08:00'
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-02"
 titleEn: '🛸 UFO/UAP News Flash — 5月2日08:00'
-description: 'Jimmy Carter秘密UFO簡報新細節曝光 · Burlison追問海外巨型UAP結構 · 多哈三角形UFO風暴中現身 · 加州夜視三角UFO影片 · 新吹哨人爆料情報界更深層UFO機密 · 海洋深處的USO之謎'
-descriptionEn: 'UFO/UAP breaking news roundup: Latest developments in UAP disclosure, congressional hearings, and global sightings.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: '2026-05-02T08:03:00Z'
-tags: ['UFO', 'UAP', 'news', '自動更新']
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > 📡 **UFO/UAP Express — Saturday, May 2, 2026, 4:00 PM Hong Kong Time**
 > AI-automated curation, focusing on the latest whistleblower revelations, government developments, and sighting reports

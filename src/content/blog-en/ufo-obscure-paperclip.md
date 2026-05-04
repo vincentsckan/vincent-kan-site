@@ -1,11 +1,17 @@
 ---
-title: '🇩🇪 Nazi科學家、冷戰恐慌與UFO — Operation Paperclip嘅秘密'
-description: '1947年UFO恐慌嘅真正源頭可能唔係外星人，而係冷戰、Nazi科學家同美國空軍嘅秘密計劃'
+
+
+
+title: "🇩🇪 Nazi Scientists, Cold War Panic & UFOs — The Secret of Operation Paperclip"
+description: "UFO/UAP news and case coverage"
 titleEn: '📎 Project Paperclip — The Dark Truth Behind UFO Secrecy'
-descriptionEn: 'Project Paperclip brought Nazi scientists to America after WWII. Could this have led to secret technology programs that fuel UFO cover-up theories?'
+
 pubDate: '2026-04-28'
-tags: ['UFO歷史', 'Operation Paperclip', 'Nazi', '冷戰', '冷門']
+tags: ["UFO", "UAP", "news", "auto-update"]
 heroImage: '../../assets/blog-placeholder-3.jpg'
+
+
+
 ---
 You think UFO legends are about aliens visiting Earth? Or the government hiding alien technology? Think again—the origin of this phenomenon might be darker, more political, and directly linked to Nazi Germany during WWII than you ever imagined.
 

@@ -1,4 +1,7 @@
 ---
+
+
+
 title: "🛸 UFO/UAP News — May 4, 20:00"
 titleEn: '🛸 UFO/UAP News Digest — May 4, 2026'
 description: "Area 51 earthquake swarm · 3 U.S. states pass UAP laws · Trump amasses UFO reports · Mars face 2026 · Navy pilot updated report"
@@ -6,6 +9,9 @@ pubDate: 2026-05-04T13:00:00.000Z
 updatedDate: 2026-05-04T13:00:00.000Z
 heroImage: ../../assets/blog-placeholder-2.jpg
 tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 
 > Tonight's highlights: **17 earthquakes near Area 51** spark underground testing theories. Three U.S. states push UAP research laws. **Trump** claims to have gathered many interesting UFO documents. New images of the **Mars Face** emerge. A Navy pilot updates his famous UAP encounter report.

@@ -1,11 +1,17 @@
 ---
-title: 'Blue Book Special Report No. 14：空軍嘅UFO統計分析'
-description: '1955年美國空軍發表史上最大規模UFO統計分析，數據暗示未能解釋案例非隨機'
+
+
+
+title: "Project Blue Book Special Report No. 14: The Air Force Statistical Analysis"
+description: "UFO/UAP news and case coverage"
 titleEn: 'Blue Book Special Report 14: The Air Force Statistical Analysis'
-descriptionEn: 'In 1955, the US Air Force published the largest UFO statistical analysis, with data suggesting unexplained cases were not random'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "government-analysis"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 In 1955, the U.S. Air Force Technical Intelligence Center released a several-hundred-page document titled "Project Blue Book Special Report No. 14." This report was analyzed by scientists at the Battelle Memorial Institute, who examined over 3,200 UFO reports.
 

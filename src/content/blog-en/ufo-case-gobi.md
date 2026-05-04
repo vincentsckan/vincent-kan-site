@@ -1,10 +1,16 @@
 ---
-title: '🛸 戈壁沙漠UFO基地傳聞 — 冷戰秘史'
-description: '冷戰期間流傳蘇聯喺蒙古戈壁沙漠有一座秘密UFO研究基地，仲有美國間諜衛星拍到神秘設施嘅傳聞。'
+
+
+
+title: "🛸 The Gobi Desert UFO Base Legend — Cold War Secret History"
+description: "UFO/UAP news and case coverage"
 titleEn: '🏜️ The Gobi Desert UFO Incident — China''s Most Documented Case'
-descriptionEn: 'China''s Gobi Desert has been the site of numerous UFO encounters. Explore documented cases, government investigation records, and flight radar analysis data.'
+
 pubDate: '2022-09-01'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 📍 **Mongolian Gobi Desert**
 > 📅 **1980s**

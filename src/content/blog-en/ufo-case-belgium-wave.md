@@ -1,10 +1,16 @@
 ---
-title: '🛸 戰機追逐UFO — 比利時UFO浪潮 (1989-1990)'
-description: '1989 年底至 1990 年，比利時上空出現大量三角形 UFO 目擊報告，北約 F-16 戰機曾鎖定目標，成為歐洲最著名嘅 UFO 事件。'
+
+
+
+title: "🛸 Jets Chase UFO — The Belgian UFO Wave (1989-1990)"
+description: "UFO/UAP news and case coverage"
 titleEn: '🛸 The Belgian UFO Wave — NATO Fighters Scrambled (1989-1990)'
-descriptionEn: 'Between 1989 and 1990, thousands of Belgians reported triangular UFOs. The Belgian Air Force scrambled F-16s and radar confirmed objects with impossible maneuverability.'
+
 pubDate: '2022-02-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 📍 **Case Focus**: Nationwide in Belgium
 > 📅 **Date of Occurrence**: November 1989 — April 1990

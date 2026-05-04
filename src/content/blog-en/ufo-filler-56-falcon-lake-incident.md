@@ -1,11 +1,17 @@
 ---
-title: '1967年加拿大Falcon Lake事件：Stefan Michalak被UFO燙傷'
-description: '加拿大機械工程師Stefan Michalak喺Falcon Lake近距離接觸UFO，結果俾灼熱氣體嚴重燙傷'
+
+
+
+title: "1967 Falcon Lake Incident: Stefan Michalak Burned by UFO"
+description: "UFO/UAP news and case coverage"
 titleEn: 'The Falcon Lake Incident: Stefan Michalak Burned by a UFO in Canada'
-descriptionEn: 'In 1967, Canadian mechanical engineer Stefan Michalak had a close encounter with a UFO at Falcon Lake, resulting in severe burns from hot gas'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "physical-evidence"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 On May 20, 1967, Stefan Michalak, a 49-year-old Polish-Canadian mechanical engineer, arrived near Falcon Lake in Manitoba, close to Winnipeg. He was there to prospect for minerals—but he never expected to find something far more unexpected.
 

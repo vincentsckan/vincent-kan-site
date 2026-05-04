@@ -1,11 +1,17 @@
 ---
-title: '英國國防部UFO辦公室：全球最透明嘅政府UFO部門'
-description: '英國國防部設有UFO辦公室處理公眾同軍方報告，於2009年關閉'
+
+
+
+title: "UK Ministry of Defence UFO Desk: The World's Most Transparent Gov't UFO Dept"
+description: "UFO/UAP news and case coverage"
 titleEn: 'UK Ministry of Defence UFO Desk: The Most Transparent Government UFO Office'
-descriptionEn: 'The UK MoD operated a UFO desk handling public and military reports, closed in 2009'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "government-agency"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 Before 2009, the UK Ministry of Defence (MoD) had a dedicated office for handling UFO reports—known as the "UFO Desk." This office was managed by the DI55 branch of the Defence Intelligence Staff and received hundreds of sighting reports each year, including those from military personnel.
 

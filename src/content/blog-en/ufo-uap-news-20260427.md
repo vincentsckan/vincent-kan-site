@@ -1,11 +1,17 @@
 ---
-title: '🛸 全球UFO/UAP新聞摘要 — 2026年4月27日'
-description: '每日精選全球UFO/UAP重點新聞 · 政府披露 · 權威報導 · 研究進展'
+
+
+
+title: "🛸 Global UFO/UAP News Digest — April 27, 2026"
+description: "UFO/UAP news and case coverage"
 titleEn: '🛸 Global UFO/UAP News Roundup — April 27, 2026'
-descriptionEn: 'Daily curated roundup of global UFO/UAP news: government disclosures, authoritative reports, and research progress from around the world.'
+
 pubDate: '2026-04-27'
 updatedDate: '2026-04-27'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 📡 **Daily UAP News Digest** — April 27, 2026 (Monday)
 > Automatically collected, organized, and formatted by AI, focusing on authoritative sources and key developments

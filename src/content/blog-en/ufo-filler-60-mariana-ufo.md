@@ -1,11 +1,17 @@
 ---
-title: '1950年蒙大拿UFO照片：史上第一張彩色UFO照片'
-description: '1950年8月，蒙大拿州一對夫婦拍攝咗被認為係世界上第一張彩色UFO照片'
+
+
+
+title: "1950 Montana UFO Photo: The First Color UFO Photograph"
+description: "UFO/UAP news and case coverage"
 titleEn: 'The Mariana UFO: First Color Photo of a UFO, 1950'
-descriptionEn: 'In August 1950, a Montana couple took what is believed to be the world''s first color photograph of a UFO'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "photography"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 On August 15, 1950, a couple in Great Falls, Montana—Nick Mariana and his secretary (then girlfriend)—were preparing to play mini-golf. But that afternoon, something even stranger happened: they captured what is considered the first color UFO photo in human history.
 

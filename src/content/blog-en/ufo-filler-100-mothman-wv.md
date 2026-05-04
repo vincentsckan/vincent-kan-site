@@ -1,11 +1,17 @@
 ---
-title: '1966-67年Mothman：西維珍尼亞州嘅預言性UFO傳說'
-description: '1966年起西維珍尼亞州出現有翼嘅神秘生物Mothman，預示著災難降臨'
+
+
+
+title: "1966-67 Mothman: West Virginia's Prophetic UFO Legend"
+description: "UFO/UAP news and case coverage"
 titleEn: 'The Mothman Prophecies: West Virginia''s Winged Cryptid and UFO Connection'
-descriptionEn: 'Starting in 1966, the Mothman - a winged creature - appeared in West Virginia, seemingly heralding disaster'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "cryptid"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 Between November 1966 and December 1967, a legendary mysterious creature known as Mothman appeared in the Point Pleasant area of West Virginia. Witnesses described it as a humanoid figure about 2 meters tall, with huge wings and eyes that emitted a red glow.
 

@@ -1,11 +1,17 @@
 ---
-title: '香港九龍城UFO：1990年代多次出現嘅神秘三角形飛行器'
-description: '1990年代，香港多個地區居民報告見到三角形UFO，部分目擊有照片記錄'
+
+
+
+title: "1990s Hong Kong UFO: Mysterious Triangular Craft Over Kowloon"
+description: "UFO/UAP news and case coverage"
 titleEn: 'Hong Kong Triangle UFOs: 1990s Sightings Over Kowloon'
-descriptionEn: 'Throughout the 1990s, Hong Kong residents reported triangular UFOs over multiple districts, with some sightings captured on camera'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "asia"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 Hong Kong—this international metropolis is not only a financial hub but also an active location for UFOs. In the 1990s, residents and tourists in multiple areas of Hong Kong witnessed mysterious triangular aircraft, with some even capturing them on mobile phones or cameras.
 

@@ -1,11 +1,17 @@
 ---
-title: '1973年Pascagoula綁架案：兩工人被灰外星人擄走'
-description: '查爾斯·希克森和卡爾文·帕克在密西西比河畔釣魚時被外星人綁架，留下詳細證詞'
+
+
+
+title: "1973 Pascagoula Abduction: Two Workers Taken by Grey Aliens"
+description: "UFO/UAP news and case coverage"
 titleEn: '1973 Pascagoula Abduction: Two Men Taken by Aliens While Fishing'
-descriptionEn: 'Charles Hickson and Calvin Parker were abducted by aliens while fishing on the Pascagoula River in Mississippi'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "abduction"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 On the evening of October 11, 1973, 45-year-old shipyard worker Charles Hickson and 19-year-old Calvin Parker were fishing by the Pascagoula River in Mississippi, hoping to relax after work. Little did they know, this ordinary dusk would turn into a terrifying experience that changed their lives forever.
 

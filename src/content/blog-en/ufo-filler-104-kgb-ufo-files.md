@@ -1,11 +1,17 @@
 ---
-title: '蘇聯KGB UFO檔案：冷戰時期嘅秘密UFO調查'
-description: '蘇聯KGB擁有大量UFO檔案，涉及導彈基地入侵、空中交戰同回收墜毀物體'
+
+
+
+title: "Soviet KGB UFO Files: Secret Cold War UFO Investigations"
+description: "UFO/UAP news and case coverage"
 titleEn: 'Soviet KGB UFO Files: Cold War Secrets Revealed'
-descriptionEn: 'The Soviet KGB maintained extensive UFO files involving missile base intrusions, aerial battles and crash recoveries'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "government-files"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 After the collapse of the Soviet Union, a large number of former KGB UFO files were exposed. These documents reveal the Soviet Union's high level of attention to UFO phenomena during the Cold War—a country mistakenly believed by the West to have "no UFO problem" actually possessed an extremely rich collection of UFO archives.
 

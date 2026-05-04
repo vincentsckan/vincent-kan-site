@@ -1,11 +1,17 @@
 ---
-title: '1956年英倫雷達大追蹤：英美雷達同步鎖定UFO'
-description: '1956年8月，英國Lakenheath美軍基地雷達與英國空軍雷達共同追蹤一批不明物體'
+
+
+
+title: "1956 UK Radar Chase: US and UK Radars Lock Onto UFO"
+description: "UFO/UAP news and case coverage"
 titleEn: '1956 Lakenheath-Bentwaters Radar Case: US & UK Radars Track UFOs'
-descriptionEn: 'In August 1956, multiple UFOs were simultaneously tracked by US Air Force and RAF radar over eastern England'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "radar"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 On the night of August 13-14, 1956, an event occurred over eastern England that UFO researchers have called "one of the strongest radar evidence cases." Radar at the U.S. Air Force's Lakenheath base in England, along with multiple radar stations of the Royal Air Force (RAF), jointly tracked a group of high-speed unidentified flying objects.
 

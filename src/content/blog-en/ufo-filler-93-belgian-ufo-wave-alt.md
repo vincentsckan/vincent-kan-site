@@ -1,11 +1,17 @@
 ---
-title: '1989-1990年比利時UFO浪潮：三角飛船大戰F-16'
-description: '1989年起比利時出現大規模三角型UFO浪潮，F-16升空攔截，北約雷達鎖定'
+
+
+
+title: "1989-1990 Belgian UFO Wave: Triangular Craft vs F-16s"
+description: "UFO/UAP news and case coverage"
 titleEn: '1989-1990 Belgian UFO Wave: Triangular Craft vs F-16s'
-descriptionEn: 'From November 1989, massive triangular UFOs appeared over Belgium, intercepted by F-16 fighters and tracked by NATO radar'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "belgian-wave"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 From November 1989 to May 1990, Belgium experienced the largest UFO wave in European history. Over 13,500 people registered sighting reports, primarily involving huge triangular flying objects with bright lights at the three corners, flying extremely low and completely silent with no engine noise.
 

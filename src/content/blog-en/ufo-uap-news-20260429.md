@@ -1,11 +1,17 @@
 ---
-title: '🛸 全球UFO/UAP新聞摘要 — 2026年4月29日'
-description: 'Schumer-Rounds提獨立UAP披露法案 · Kirkpatrick-Gallaudet隔空對質 · 冷戰核導彈基地UAP之謎再掀討論'
+
+
+
+title: "🛸 Global UFO/UAP News Digest — April 29, 2026"
+description: "UFO/UAP news and case coverage"
 titleEn: '🛸 Global UFO/UAP News Roundup — April 29, 2026'
-descriptionEn: 'Daily curated roundup of global UFO/UAP news: Schumer-Rounds standalone UAP Disclosure Act · Kirkpatrick-Gallaudet confrontation · Cold War nuclear missile base UAP mystery revisited'
+
 pubDate: '2026-04-29'
 updatedDate: '2026-04-29T12:00+08:00'
 heroImage: '../../assets/blog-placeholder-4.jpg'
+
+
+
 ---
 > 📡 **Daily UAP News Digest** — April 29, 2026 (Wednesday)
 > AI-automated collection, organization, and formatting, focusing on authoritative sources and key developments

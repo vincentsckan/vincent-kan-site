@@ -1,10 +1,16 @@
 ---
-title: '🛸 UFO/UAP 快訊 — 5月3日 19:00'
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-03"
 titleEn: '🛸 UFO/UAP News Flash — '
-description: '特朗普再次預告 UFO 檔案即將公佈 · 國會議員承諾展示「非人類起源」證據 · 5月3日最新 UFO 及 UAP 相關新聞速遞'
-descriptionEn: 'UFO/UAP breaking news roundup: Latest developments in UAP disclosure, congressional hearings, and global sightings.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: '2026-05-03T19:02:00Z'
-tags: ['UFO', 'UAP', 'news', '自動更新']
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > 🛸 **Latest UFO/UAP Flash** — May 3, 2026 (Hong Kong Evening) · More major UFO news continues today! Trump again hints that UFO files will be "released soon," and a congressman even vows to show evidence of "nonhuman origin" — waiting to see the real deal!
 

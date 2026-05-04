@@ -1,9 +1,15 @@
 ---
-title: '🛸 UFO/UAP 快訊 — 5月4日04:03'
-description: '🇺🇸 特朗普稱UFO檔案「非常有趣」即將公佈 · 🏛️ 議長Mike Johnson否決UAP聽證會 · 👩‍🔬 科學家Amy Eskridge死前遭跟蹤威脅 · 🧠 三大力量推動UFO披露'
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-03"
+description: "UFO/UAP news and case coverage"
 pubDate: '2026-05-03T20:03:00Z'
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
 heroImage: '../../assets/blog-placeholder-3.jpg'
+
+
+
 ---
 > 🛸 **UFO News Flash** — May 4, 2026 (Hong Kong Time)  
 > Trump Hints at Imminent UFO File Release! Speaker Refuses Hearing, but Disclosure Momentum Continues

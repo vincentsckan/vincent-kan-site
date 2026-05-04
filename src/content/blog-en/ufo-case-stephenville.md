@@ -1,10 +1,16 @@
 ---
-title: '🛸 史蒂芬維爾UFO事件 — 得州小鎮大規模目擊 (2008)'
-description: '2008年得州史蒂芬維爾鎮出現一系列神秘大型UFO目擊，目擊者包括商人、警察同醫生，圖片同影片廣泛流傳。'
+
+
+
+title: "🛸 Stephenville UFO — Mass Sighting in a Texas Town (2008)"
+description: "UFO/UAP news and case coverage"
 titleEn: '🤠 The Stephenville Sightings — TX Town Faces a UFO Mystery (2008)'
-descriptionEn: 'In January 2008, residents of Stephenville, Texas reported a massive UFO. The FAA and military gave conflicting statements. Over 200 witnesses came forward.'
+
 pubDate: '2022-10-15'
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 > 📍 **Stephenville, Texas, USA**
 > 📅 **January 8, 2008**

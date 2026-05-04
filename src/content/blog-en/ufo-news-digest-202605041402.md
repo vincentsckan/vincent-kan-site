@@ -1,4 +1,7 @@
 ---
+
+
+
 title: "🛸 UFO/UAP News — May 4, 21:00"
 titleEn: '🛸 UFO/UAP News Digest — May 4, 2026'
 description: "Serpo mission declassified review · 7-mile UFO near Sun · Triangular UFOs over Doha · Mars animal remains? · Antarctica face-like formation"
@@ -6,6 +9,9 @@ pubDate: 2026-05-04T14:00:00.000Z
 updatedDate: 2026-05-04T14:00:00.000Z
 heroImage: ../../assets/blog-placeholder-2.jpg
 tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 
 > Tonight's headlines: the legendary **Serpo exchange mission** resurfaces in review. A **7-mile-long object** passes across the Sun, dismissed by NASA as a comet. Triangular UFO formations spotted during a **heavy rainstorm in Doha**. Claims of **animal remains on Mars** spark debate. Antarctica reveals a **reptilian face-like rock formation**.

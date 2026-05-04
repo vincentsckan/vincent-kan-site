@@ -1,11 +1,17 @@
 ---
-title: '🛸 全球UFO/UAP新聞摘要 — 2026年5月2日'
-description: '✈️ 已故空軍軍官涉UFO遺留計劃 · 十一名科學家神秘失蹤白宮介入調查 · AARO主持機密工作坊推動數據標準化 · 🍄蘑菇形UAP新影片 · 🌊51區附近地震群引發猜測'
+
+
+
+title: "🛸 Global UFO/UAP News Digest — May 2, 2026"
+description: "UFO/UAP news and case coverage"
 titleEn: '🛸 Global UFO/UAP News Roundup — May 2, 2026'
-descriptionEn: '✈️ Late AF officer linked to legacy UFO program · 11 scientists vanish · AARO hosts workshop · 🍄Mushroom UAP footage · 🌊Earthquake swarm near Area 51'
+
 pubDate: '2026-05-02'
 updatedDate: '2026-05-02T16:00:00Z'
 heroImage: '../../assets/blog-placeholder-2.jpg'
+
+
+
 ---
 > 📡 **Daily UAP News Digest** — May 2, 2026 (Saturday)
 > AI-automated collection, organization, and formatting, focusing on authoritative sources and key developments

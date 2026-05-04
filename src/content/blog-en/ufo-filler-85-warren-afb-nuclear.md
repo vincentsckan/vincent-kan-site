@@ -1,11 +1,17 @@
 ---
-title: '1975年Warren空軍基地：多個核彈發射井同時被UFO入侵'
-description: '1975年11月，懷俄明州Warren AFB多個導彈發射井被UFO飛越，空軍高度警戒'
+
+
+
+title: "1975 Warren AFB: Multiple Missile Silos Invaded by UFOs"
+description: "UFO/UAP news and case coverage"
 titleEn: '1975 Warren AFB: UFOs Over Multiple Nuclear Missile Silos'
-descriptionEn: 'In November 1975, multiple missile silos at Warren AFB, Wyoming were overflown by UFOs, triggering high-level Air Force alerts'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "nuclear-connection"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 In November 1975, the world's most shocking series of UFO incursions over nuclear weapons bases reached its peak. Warren Air Force Base in Wyoming—one of the U.S. Air Force's largest clusters of nuclear missile silos—reported multiple missile silos being simultaneously overflown by unidentified objects.
 

@@ -1,10 +1,16 @@
 ---
-title: "🛸 UFO/UAP 快訊 — 05月03日05:03"
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-02"
 titleEn: '🛸 UFO/UAP News Flash — 05月03日05:03'
-description: "特朗普話會釋放UFO檔案『你絕對唔會相信』，國會女議員承諾展示非人類來源嘅證據，前國防官員確認今次唔係流料"
-descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: "2026-05-02T21:03:00.000Z"
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > 🔥 The UFO community is really buzzing lately! Trump himself said he would release UFO files, and someone in Congress also said they're ready to show evidence of "nonhuman origin." Here's your update on the latest developments!
 

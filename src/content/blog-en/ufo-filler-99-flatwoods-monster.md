@@ -1,11 +1,17 @@
 ---
-title: '1952年Flatwoods怪物：西維珍尼亞州嘅外星生物遭遇'
-description: '1952年9月，西維珍尼亞州Flatwoods居民見到巨大嘅神秘生物同UFO'
+
+
+
+title: "1952 Flatwoods Monster: West Virginia's Alien Encounter"
+description: "UFO/UAP news and case coverage"
 titleEn: '1952 Flatwoods Monster: West Virginia''s Alien Encounter'
-descriptionEn: 'In September 1952, residents of Flatwoods, West Virginia encountered a giant mysterious creature and UFO'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "humanoid-encounter"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 On September 12, 1952, a group of residents in Flatwoods, West Virginia—including several children—saw a massive fireball streak across the sky and crash into a nearby hill. When they went to investigate, they smelled an extremely pungent chemical odor, like a mix of "sulfur and acetylene."
 

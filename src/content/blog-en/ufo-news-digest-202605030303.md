@@ -1,10 +1,16 @@
 ---
-title: "🛸 UFO/UAP 快訊 — 05月03日11:03"
+
+
+
+title: "🛸 UFO/UAP News Digest — 2026-05-03"
 titleEn: '🛸 UFO/UAP News Flash — 05月03日11:03'
-description: "特朗普準備釋放UFO檔案、Eric Burlison追問海外巨型UAP結構、卡塔爾三角UFO風暴中現身、加州三角形UFO夜視片段曝光"
-descriptionEn: 'UFO/UAP breaking news roundup with latest developments.'
+description: "UFO/UAP news and case coverage"
+
 pubDate: "2026-05-03T03:03:00Z"
-tags: ["UFO", "UAP", "news", "自動更新"]
+tags: ["UFO", "UAP", "news", "auto-update"]
+
+
+
 ---
 > *"We're not joking around this time, this is really going to be made public." — Former President Trump on UFO files*
 

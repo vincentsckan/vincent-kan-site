@@ -1,11 +1,17 @@
 ---
-title: '1980年Cash-Landrum事件：三位婦女被UFO嚴重灼傷'
-description: '1980年12月，德州三位婦女被UFO發射嘅熱能嚴重灼傷，留低永久傷害'
+
+
+
+title: "1980 Cash-Landrum Incident: Three Women Severely Burned by UFO"
+description: "UFO/UAP news and case coverage"
 titleEn: '1980 Cash-Landrum Incident: Three Women Burned by UFO'
-descriptionEn: 'In December 1980, three Texas women were severely burned by thermal energy from a UFO, leaving permanent medical damage'
+
 pubDate: '2026-05-03'
 tags: ["historical-cases", "ufo", "medical-evidence"]
 heroImage: '../../assets/blog-placeholder-1.jpg'
+
+
+
 ---
 On December 29, 1980, Betty Cash, Vickie Landrum, and her 7-year-old grandson Colby were driving home at night when they encountered a life-altering experience—a massive triangular UFO emitting intense light and extreme heat blocked the road ahead.
 
