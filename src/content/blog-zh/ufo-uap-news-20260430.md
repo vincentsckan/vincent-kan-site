@@ -30,7 +30,7 @@ Liberation Times 消息人士稱，Sullivan 以私人企業身份與某美國情
 
 此事同時與近期多名國防科學家接連死亡或失蹤的事件相呼應——據 NewsNation 報導，已有11名美國科學家及國防人物在近期死亡或下落不明，最矚目的包括退役空軍將領 Neil McCasland 在二月底離奇失蹤。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/6iLQ4ETJcPY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BYzjwk1O8Ck" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ![美國空軍標誌](../../assets/blog-placeholder-1.jpg)
 *圖：Matthew Sullivan 曾任職於美國國家空天情報中心（NASIC），其死亡引發國會及FBI關注。*
@@ -60,7 +60,7 @@ Liberation Times 消息人士稱，Sullivan 以私人企業身份與某美國情
 
 這種方法犧牲部分覆蓋率以換取更低假陽性率，在望遠鏡觀測時間日趨昂貴的今天尤具價值。Smith 表示：「透過聚焦生命如何傳播及改造環境，我們可以在不需要完美定義或單一確定信號的情況下搜尋生命。」
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/HX2G5N_kplg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/AZo-Q-FXoXM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ![外星生命搜尋概念圖](../../assets/blog-placeholder-5.jpg)
 *圖：藝術家筆下外星生命的想像——科學家提出透過分析行星群模式而非單一行星來尋找生命。*
@@ -80,7 +80,7 @@ Liberation Times 消息人士稱，Sullivan 以私人企業身份與某美國情
 
 研究人員指出，這項發現有助於解釋為何某些建築物被認為「鬧鬼」，同時也為真實 UAP 事件中目擊者報告的生理異常感受提供了一個需要排除的解釋變量。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/5jR8OqFOmdg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DoyscKtOjsQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ![實驗室研究示意](../../assets/blog-placeholder-2.jpg)
 *圖：次聲波實驗示意——低頻聲波可在人不知情的情況下引發煩躁、焦慮等情緒變化。*

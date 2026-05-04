@@ -28,7 +28,7 @@ Sullivan年僅39歲，於2024年5月12日據報自殺身亡，但死因從未公
 
 Sullivan的死亡與David Grusch有關連——Grusch在Sullivan死前曾接觸他，並協助他準備以吹哨人身份出面。Burlison表示：「Grusch當時正在幫助他作為吹哨人站出來。」
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/6iLQ4ETJcPY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BYzjwk1O8Ck" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ![Matthew Sullivan](../../assets/blog-placeholder-3.jpg)
 
@@ -170,7 +170,7 @@ McCasland曾是 **空軍研究實驗室（AFRL）前指揮官**，在Wright-Patt
 
 ## 🎬 推薦觀看
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1KMyf6VSEI4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/AZo-Q-FXoXM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *The Age of Disclosure 紀錄片預告 — 34名政府官員公開UFO資訊*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Gru2EDJvj9Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

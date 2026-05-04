@@ -27,7 +27,7 @@ Former President Trump stated in an interview that his administration will relea
 
 Trump didn't specify what exactly will be made public, but hinted that the content is quite explosive, including "technology that doesn't seem from this world."
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/hPLHhz7Jwvs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/5P-MMjyVVA8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -37,7 +37,7 @@ A U.S. congresswoman told Newsweek that she is ready to show things of "nonhuman
 
 If it happens, this would be the first time the U.S. government formally presents materials or evidence classified as "nonhuman."
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1PpO8K13Si0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/NJ4JuA2UYL4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -47,7 +47,7 @@ NewsNation reported that a former Department of Defense official clearly stated 
 
 This statement aligns with the stance of several recent former officials, greatly boosting the credibility of the whole matter.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/FjBwP4aAkyM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GtxFzCt1Jns" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -59,15 +59,15 @@ Although this report sounds like science fiction, coming from a retired high-ran
 
 ![UFO News Image](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/2xE7Ph6r_XY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Pqc5tfCgFC8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
 ## ⑤ More Selected UFO-Related Videos
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/k7TRU7aVYoY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7d8sAeFmuZs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IDeR8ysXRhE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/E4urJeP4IYU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

@@ -45,9 +45,9 @@ pubDate: 2026-05-02T23:03:00.000Z
 
 ### 🎥 相關影片
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/z7ix3I5vW-E" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7ICzREGqYHQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/AhT0k3ddEjI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/0eudA6Pb3QM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -65,9 +65,9 @@ pubDate: 2026-05-02T23:03:00.000Z
 
 ### 🎥 相關影片
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1I4YNj2mB-o" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ARY_ni7SVPg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/igH52STQw3A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/-_duWIB0jC8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -79,7 +79,7 @@ NUFORC喺2025年11月發佈咗一份完整嘅實地調查報告：密芝根北�
 
 ### 🎥 相關影片
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/H-9EVNQA_AM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CI-fYo3V94M" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -103,9 +103,9 @@ NUFORC喺2025年11月發佈咗一份完整嘅實地調查報告：密芝根北�
 
 ## 📺 更多精選UFO影片
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/qjnQhmmBEp8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/2Y0z03wB0KU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/sIYjYIBH8t4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7iCNaXWjmJg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

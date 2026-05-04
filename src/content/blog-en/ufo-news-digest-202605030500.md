@@ -18,7 +18,7 @@ U.S. President Donald Trump recently stated publicly that his administration wil
 
 | 📍 *Washington* | 📅 *April 29, 2026* | 🔍 *Policy Disclosure* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/7C_TgE3-cZo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DQdylq-b4Mk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -28,7 +28,7 @@ A NewsNation report quotes a former senior Pentagon official, stating that the U
 
 | 📍 *United States* | 📅 *April 30, 2026* | 🔍 *Authoritative Voice* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/HnVLBVQle1c" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ARY_ni7SVPg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -38,7 +38,7 @@ A Newsweek report indicates that a U.S. congresswoman (reportedly a key figure i
 
 | 📍 *Capitol Hill* | 📅 *April 29, 2026* | 🔍 *Congressional Developments* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/tS6UbI5bRNY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DZP-x4Ko_JI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -54,9 +54,9 @@ An NBC report explores the UFO topic from a philosophical angle — if extraterr
 
 ## 📹 More UFO Video Highlights
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/7Yc_6GRFjsE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7CzsTkmQNeo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/l27D2lPg02s" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/D3VUjUnIHLc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

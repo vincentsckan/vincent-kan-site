@@ -34,7 +34,7 @@ In 1972, Hynek published *The UFO Experience: A Scientific Inquiry*, the first w
 > "UFO research is not pseudoscience. But if a scientist publicly studies UFOs, his career is finished."
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/2RG1BZgZ_ro" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/7LYqfZ70yGY" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

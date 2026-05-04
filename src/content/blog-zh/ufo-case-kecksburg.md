@@ -19,7 +19,7 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 軍方人員迅速趕到並封鎖咗現場。居民見到物體上刻有神秘嘅象形文字。一架平板卡車喺當晚將物體運走。軍方嘅解釋係「流星」或「蘇聯衛星殘骸」，但居民堅稱見到嘅係金屬造嘅人造物體。
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/UyZRZh_1DRM" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/HX_RrO7ZQaU" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 事件由於和電視劇《X檔案》其中一集情節相似而更加著名。卡克斯堡至今每年舉辦UFO節紀念呢次事件。

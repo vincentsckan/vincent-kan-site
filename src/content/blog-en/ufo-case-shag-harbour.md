@@ -20,7 +20,7 @@ The Royal Canadian Mounted Police (RCMP) and the Canadian Coast Guard immediatel
 Records from the Canadian Department of National Defence, the RCMP, and the Department of Transport all mention a "UFO" crash. The Canadian government later declassified related files, making the Shag Harbour incident one of the few UFO cases with **official government records** acknowledging it.
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/gMqBBDiYC9A" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/AffaetLkx2U" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

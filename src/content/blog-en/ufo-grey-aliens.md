@@ -50,7 +50,7 @@ Beyond the Grey, UFO culture includes other alien types:
 *Classic image of the Grey in popular culture*
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/LLTF7tbpQlw" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/-ccCf5hGJxI" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

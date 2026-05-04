@@ -43,9 +43,9 @@ Bassett表示：「如果披露成真，將會係人類歷史上最重要嘅國�
 <details>
 <summary>影片連結</summary>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/8kfnMNkAqqs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3VwzW4CCi9A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/rKbWz8f2U-c" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3VwzW4CCi9A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 </details>
 
@@ -61,7 +61,7 @@ Burlison話佢從政府內外嘅消息來源都收到相關資訊，但暫時未
 
 Burlison強調：「如果我得到確鑿證據，美國人民有權知道。」
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/j6FxKSOqNLI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3S0sxE7KEKs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -76,7 +76,7 @@ Burlison強調：「如果我得到確鑿證據，美國人民有權知道。」
 
 雖然有可能係球狀閃電、無人機或反射效應，但三個物體同步出現、持續可見同有規律運動令到呢個案例備受關注。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/JK24H1QzNs0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/S9pR0gfil_0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -92,9 +92,9 @@ Burlison強調：「如果我得到確鑿證據，美國人民有權知道。」
 
 呢類夜視鏡底下嘅三角形UFO報告正持續增加，引起業界高度關注。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/KD5IeKn5VHk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Pqc5tfCgFC8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/n0M2kPH_MjM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/8SUJTh6Hs-I" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

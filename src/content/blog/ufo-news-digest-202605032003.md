@@ -28,7 +28,7 @@ Longtime UFO disclosure advocate **Stephen Bassett** told the Daily Mail that th
 
 Bassett further noted: "This is no coincidence — since the atomic bombings of Hiroshima and Nagasaki, contact with these non-human entities and their technology has increased dramatically. They have hovered over US and Russian bases and shut down ICBMs."
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/7UJ4uP5y0r0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/HGS09LzpARs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -40,7 +40,7 @@ Although there have been calls within Congress for more UAP hearings, House Spea
 
 Congresswoman Mace has vowed to push for more transparency on UAPs, emphasizing that the public has the right to know what information the government actually possesses. This move reflects that despite resistance at the speaker level, there remains a strong disclosure force within Congress.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/F8SQUdO7T-Y" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/B7oUdXoZnoU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -58,7 +58,7 @@ Phone recordings provided by former British intelligence officer **Franc Milburn
 
 Eskridge's father, a former NASA scientist, has consistently rejected the "suicide" ruling. FBI Director **Kash Patel** previously stated that he is "leading the investigation" into multiple cases of missing and deceased scientists.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/xFtL9bYi4-o" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7mzMRVXts4U" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -74,7 +74,7 @@ His research is based on decades of scientific analysis, witness testimony, and 
 
 Former President Obama also said in a podcast interview earlier this year: "They (aliens) are real, but I haven't seen them." Meanwhile, Vice President **JD Vance** once speculated that UFOs might be "demons" flying around Earth.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/KqQ_PFv3Fyo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/SEKSvVJI9wk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -95,7 +95,7 @@ But researcher **Timothy Hood** points out that this pattern can actually be tra
 
 Author **Nigel Watson** stated: "Many of these cases may be coincidences, but there are indeed some very strange events."
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Efq3yufOpX0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7ICzREGqYHQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

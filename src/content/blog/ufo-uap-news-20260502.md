@@ -156,7 +156,7 @@ War Department officials confirmed to Liberation Times that the White House is c
 
 Luna publicly criticized the War Department's initial "no one responded until we reached out." Investigative journalist **Jeremy Corbell** revealed he has personally viewed most of the UAP videos Luna requested and, along with George Knapp, provided Congress with specific file names and precise locations, including **numerous U.S. Air Force captured materials**.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1KMyf6VSEI4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/AZo-Q-FXoXM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Trailer for the documentary "The Age of Disclosure"*
 
 [🔗 Liberation Times — War Department White House Coordinating Declassification](https://www.liberationtimes.com/home/war-department-says-white-house-coordinating-release-of-never-before-seen-ufo-material)
@@ -178,7 +178,7 @@ This earthquake swarm coincides with **renewed controversy surrounding Area 51**
 
 ![Nevada Desert](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/LSyMDpKzjnI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/9tqs6Z3OQSk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Media compilation regarding the mysterious disappearances and deaths of scientists in 2026*
 
 [🔗 Daily Mail — Area 51 Earthquake Swarm](https://www.dailymail.com/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)

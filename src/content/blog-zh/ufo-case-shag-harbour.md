@@ -21,7 +21,7 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 加拿大國防部、皇家騎警同交通部嘅記錄都提到「UFO」墜落。加拿大政府後來解密咗相關檔案，令沙港事件成為少數有 **政府官方記錄** 承認嘅UFO案件。
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/gMqBBDiYC9A" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/AffaetLkx2U" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

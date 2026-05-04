@@ -25,7 +25,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 呢次事件鞏固咗UAP研究界一個重要發現：部分UAP具備 **「跨介質」** 能力——即係可以由空中直接進入水中，完全冇減速或阻力。已知人類科技目前無法做到呢一點。
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/tGYo5vN3Fys" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/71vDr-3oTlU" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

@@ -21,7 +21,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 | 📍 *華盛頓* | 📅 *2026年4月* | 🔍 *政府披露* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/MmHjHpk7g4A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/D3VUjUnIHLc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -31,7 +31,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 | 📍 *華盛頓* | 📅 *2026年4-5月* | 🔍 *AARO／政府合作* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/0e5DJWI1e10" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CI-fYo3V94M" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -41,7 +41,7 @@ Sky Canada Project 發布咗一份關於加拿大UAP問題嘅重要報告。報�
 
 | 📍 *加拿大* | 📅 *2026年4-5月* | 🔍 *國際UAP報告* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/2FwZRGs6hQ8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/RqptVKs7wbc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -51,7 +51,7 @@ Sky Canada Project 發布咗一份關於加拿大UAP問題嘅重要報告。報�
 
 | 📍 *美國* | 📅 *2026年4月* | 🔍 *名人言論* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/8COaKb1jOBM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/28DZgUjYbmE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -61,7 +61,7 @@ Sky Canada Project 發布咗一份關於加拿大UAP問題嘅重要報告。報�
 
 | 📍 *巴西／美國* | 📅 *2026年* | 🔍 *歷史案件* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/gX_qVjFt9X0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/S9pR0gfil_0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -77,11 +77,11 @@ Sky Canada Project 發布咗一份關於加拿大UAP問題嘅重要報告。報�
 
 ## 📺 精選UFO影片合集
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/_Rq5ky58FR0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7DcctpyFoxw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 *UFO/UAP 2026年最新目擊合集*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/PSWGsXQBwRg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/KiCgBn-Kbho" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 *美國國會UFO聽證會完整紀錄*
 

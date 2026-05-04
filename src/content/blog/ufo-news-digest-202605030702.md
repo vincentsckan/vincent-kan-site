@@ -22,7 +22,7 @@ Trump has intermittently mentioned UFOs over the years—from being asked about 
 
 Some analysts suggest Trump may be responding to the increasing pressure within Congress on UAP issues in recent months, or it could simply be a pre-election strategy—but regardless of the motive, these remarks have once again pushed UFOs onto the mainstream agenda.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/NvP4bKzsX_Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GegAPC_yEUM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -36,7 +36,7 @@ While Trump has talked for a long time without concrete action, this congresswom
 
 > Multiple whistleblowers like David Grusch and Ryan Graves have previously testified before Congress. This congresswoman's promise may indicate readiness for the next step—truly releasing more protected information.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/BGAAh93l4F0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GV4SRQRfDQs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -50,7 +50,7 @@ Occurring during the Christmas period of 1980, US Air Force personnel in Rendles
 
 *The Guardian's* report has sparked discussion again, as new witnesses and documents have surfaced, further confirming that this incident was not a simple misidentification. Rendlesham has become one of the most studied and most controversial cases in UFO research.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dUypHStRJ2Y" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GtxFzCt1Jns" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -64,7 +64,7 @@ This comment follows closely on the statements from Trump and the congresswoman,
 
 The former official's remarks may be preparing the ground for a major disclosure to come. Whether it will be new files or whistleblowers coming forward remains to be seen in the developments ahead.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/lGDFjLJkHXc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GegAPC_yEUM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -72,7 +72,7 @@ The former official's remarks may be preparing the ground for a major disclosure
 
 Here are a few popular UFO videos recommended today:
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ybUXfnOaK3w" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/78K3wVVEP1Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

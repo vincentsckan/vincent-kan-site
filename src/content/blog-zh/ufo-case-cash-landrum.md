@@ -32,7 +32,7 @@ Betty Cash 同 Landrum 家族後來起訴美國政府，要求賠償21.7萬美�
 *Cash-Landrum事件中嘅菱形UFO示意圖*
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/L5hFfPFgPEE" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/3HPh6BJo004" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

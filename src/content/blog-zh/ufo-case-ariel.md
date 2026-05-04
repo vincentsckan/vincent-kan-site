@@ -23,7 +23,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 - 發出心靈感應訊息（「地球正在毀滅」）
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/0utHUrRQW3M" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/I3TBQCqMmB8" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 哈佛大學教授 **John Mack** 親自飛到津巴布韋進行調查，訪問咗大部分學童。佢嘅結論係：「呢啲兒童描述嘅經歷極度一致，我無法用常規解釋說明。」

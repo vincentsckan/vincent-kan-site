@@ -27,10 +27,10 @@ Area 51 長期以來一直係UFO陰謀論嘅核心——早前有2025年報告�
 <summary>📺 相關影片</summary>
 
 **Area 51 地震群報道：**
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/rgc-f6M4dNE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DsiKEBAFmm4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 **Area 51 秘密歷史全面解構：**
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/gXH3CjqSndA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/RqptVKs7wbc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 </details>
 
 ---
@@ -51,10 +51,10 @@ Burlison 係國會UAP監督委員會嘅成員，上月曾經獲得批准訪問 A
 <summary>📺 相關影片</summary>
 
 **Eric Burlison 受訪片段：**
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fLDhVLPC13I" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/E4urJeP4IYU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 **Coulthart 巨型UFO地點分析：**
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ekgQJLL7NOc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ARY_ni7SVPg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 </details>
 
 ---
@@ -73,10 +73,10 @@ Burlison 係國會UAP監督委員會嘅成員，上月曾經獲得批准訪問 A
 <summary>📺 相關影片</summary>
 
 **MKUltra 計劃完整解說：**
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/q5LRk-6d3pI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Ek5Z5adrWSQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 **Frank Olson 死亡之謎：**
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/X0W0YlFZGxw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Abe7RsvoXEs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 </details>
 
 ---
@@ -95,10 +95,10 @@ Reza嘅家人同朋友向 Daily Mail 表示擔心佢嘅失蹤同先進航太研�
 <summary>📺 相關影片</summary>
 
 **科學家離奇失蹤事件整合報道：**
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/8WBFj3JVMkI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/8Ts8NNWNQZU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 **特朗普回應科學家調查：**
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fRZ7f6sGqLE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/NJ4JuA2UYL4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 </details>
 
 ---

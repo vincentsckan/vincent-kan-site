@@ -41,7 +41,7 @@ Kirkpatrick仲話，軍事紅外線鏡頭成日影到引擎熱力痕跡，啲所
 
 ### 📺 相關影片
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/nFMdu9eE1sI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/978heKmAXW0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 <p style="text-align:center;"><em>特朗普：UFO檔案「好有趣」將釋放 — 新聞報導剪輯</em></p>
 
 ---
@@ -60,7 +60,7 @@ Luna去年喺Joe Rogan嘅podcast上面講過，佢親眼見過**「跨維度生�
 
 ### 📺 相關影片
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/mCC4ppHFFf4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BUXgR_Ji1WE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 <p style="text-align:center;"><em>Anna Paulina Luna 討論UAP與非人類智慧</em></p>
 
 ---
@@ -89,7 +89,7 @@ Vance仲喺**Benny Johnson**嘅保守派podcast上話，基於佢嘅基督教信
 
 ### 📺 相關影片
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/T2feJh9U7YQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CwAJHumVPOE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 <p style="text-align:center;"><em>Rendlesham Forest UFO事件全紀錄 — 英國最著名嘅UFO案例</em></p>
 
 ---
@@ -116,12 +116,12 @@ USGS話超過100人匯報感到震動，考慮到嗰區居民主要係**軍方�
 
 ## ⭐ **本日精選影片**
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/nGmD0MPb7SQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DQdylq-b4Mk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 <p style="text-align:center;"><em>UAP披露最新進展：前國防官員獨家專訪</em></p>
 
 ---
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/C_xhjvM2fZs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7mzMRVXts4U" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 <p style="text-align:center;"><em>美國政府UFO檔案：真相仲有幾遠？</em></p>
 
 ---

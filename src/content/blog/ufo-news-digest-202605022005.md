@@ -35,7 +35,7 @@ Meanwhile, **Dr. Steven Greer** (founder of The Disclosure Project) further clai
 
 > ⚠️ None of this has been independently verified, but it reflects ongoing pressure from Congress and the public for UAP transparency.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/U10ZgS2lCYo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/28DZgUjYbmE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -51,7 +51,7 @@ Key points:
 
 Interesting background: Carter himself saw a UFO in 1969 and promised to release UFO data during his 1976 campaign. But shortly after taking office, he seemed to "go silent." This new leak may explain why—he might have learned too much to speak out.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/OA5IsOGOoVg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BUXgR_Ji1WE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -68,7 +68,7 @@ Characteristics:
 
 The witness stated this was **the second time they had seen the same object**—the first time without a camera, the second time they finally captured it. The repeated appearance significantly boosts credibility.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/_oOlSsDUTpY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/78K3wVVEP1Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -95,7 +95,7 @@ A former intelligence officer using the pseudonym "Rhea" revealed details about 
 
 They also proposed an intriguing theory: some phenomena may not be "visitors" but rather **ancient non-human or AI systems** used to monitor or influence Earth's development.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/2mygPnWNS_E" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/MSEoXA3Dq64" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -103,7 +103,7 @@ They also proposed an intriguing theory: some phenomena may not be "visitors" bu
 
 Another analysis article points out that for years, **military submarines have been tracking fast-moving intelligent objects underwater** (USOs — Unidentified Submerged Objects). These phenomena challenge current scientific understanding, and most remain unacknowledged publicly.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/JiNYhRZ8EZ0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/5P-MMjyVVA8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

@@ -19,7 +19,7 @@ But the truth is: **In African indigenous oral traditions, records of "Flame Vis
 
 The person who brought African UFO oral history to the world stage is a Zulu elder, healer (Sangoma), and wisdom keeper—**Credo Vusamazulu Mutwa** (1921–2020).
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/2UOX7t4Ifgc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

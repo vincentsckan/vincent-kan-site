@@ -22,7 +22,7 @@ These photos were sent to the Air Force's Project Blue Book for analysis. Althou
 *The famous Lubbock Lights photograph taken in 1951*
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/3nLxx8ggoY0" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/QyTN-8UPhgI" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

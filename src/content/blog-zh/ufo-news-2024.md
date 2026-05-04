@@ -33,7 +33,7 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 *2024年UAP披露進展*
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/HtUjH1rnheU" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/Jjob5QxgSmI" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

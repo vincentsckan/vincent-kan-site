@@ -38,7 +38,7 @@ Corbell形容：「呢啲文件絕對證實咗美國政府一直有秘密嘅幾�
 > **Jeremy Corbell《Sleeping Dog》紀錄片預告**
 
 > 🎥 **更多影片：**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/bSEGXHWId4s" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/EAGaXqEtaKw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 > **紐約郵報獨家報導Los Alamos UFO文件內幕**
 
 ---
@@ -62,7 +62,7 @@ FBI回應：「我哋正帶頭調查失蹤同死亡科學家之間嘅關聯，�
 David Grusch——2023年國會聽證會上爆出美國擁有UFO同非人類「生物物質」嘅吹哨人——喺一份2022年5月嘅信中亦提到Sullivan嘅死亡，並指控自己收到可信嘅死亡威脅。
 
 > 🎥 **相關影片：**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/qEyx2v99GQQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/37S2YT5sRNo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 > **Matthew Sullivan死因曝光：吹哨人事件全分析**
 
 ---
@@ -84,7 +84,7 @@ David Grusch——2023年國會聽證會上爆出美國擁有UFO同非人類「�
 NSA（國家安全檔案館）喺2025年公開咗超過 **1,200頁MKUltra文件**，詳細記錄咗呢啲實驗。受害者包括罪犯、精神病患者、吸毒者、士兵同普通公民。
 
 > 🎥 **相關影片：**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/w-EK2O5SGXQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/6ijmYsVGOVY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 > **CIA MKUltra心靈控制計劃完整記錄片**
 
 ---
@@ -100,7 +100,7 @@ NSA（國家安全檔案館）喺2025年公開咗超過 **1,200頁MKUltra文件*
 超過100人向USGS報告感受到震動。社交媒體上即刻炸開，網民紛紛開玩笑話「外星人喺地下瞓醒咗」🤣
 
 > 🎥 **相關影片：**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/oFPTBm7DjfA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/-UIoRRy_cXk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 > **51區地震群分析：地下測試定自然現象？**
 
 ---
@@ -129,7 +129,7 @@ UFO研究員 **Timothy Hood** 同作家 **Nigel Watson** 整理咗一系列詭�
 研究者聲稱單喺1960年代就有 **137名UFO調查員離奇死亡**，包括大量可疑嘅「自殺」案。
 
 > 🎥 **相關影片：**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/_LRsZRJ_KlE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/1Fm-0B0Gd9o" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 > **UFO研究人員死亡之謎完整分析**
 
 ---
@@ -150,7 +150,7 @@ Eskridge係 **The Institute for Exotic Science** 嘅聯合創辦人，研究反�
 Eskridge生前多次公開話自己 **唔會自殺**，仲話俾人用「定向能量武器」襲擊過。佢喺2022年6月11日被發現頭部中槍死亡，但官方裁定自殺一直備受質疑。
 
 > 🎥 **相關影片：**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/4-XXFg5vYIQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/14n7X8T_ktY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 > **Amy Eskridge案件深入調查**
 
 ---

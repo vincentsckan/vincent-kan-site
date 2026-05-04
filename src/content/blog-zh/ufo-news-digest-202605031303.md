@@ -30,7 +30,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 呢個域名註冊，令全球UFO社群議論紛紛——究竟 Aliens.gov 會唔會成為官方嘅外星資訊中心？🤔
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/mQvhwOhNeoM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/KiCgBn-Kbho" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -54,7 +54,7 @@ Wilcock 嘅離世喺陰謀論社群中引發激烈討論，尤其是佢嘅死亡
 > **香港撒瑪利亞防止自殺會：2389 2222**
 > **生命熱線：2382 0000**
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ICNd2M5ldGU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/B_jQC8BnHR8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -79,7 +79,7 @@ FBI局長 **Kash Patel** 表示：「我哋會搵出所有關聯，如果有任�
 
 呢一系列案件引發咗大規模嘅陰謀論，有人懷疑係針對知情人士嘅「滅口行動」。不過McCasland嘅太太公開呼籲公眾唔好亂傳謠言，強調佢丈夫喺空軍嘅機密資訊已經係13年前嘅事。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/B-NzNvkIhpM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Abe7RsvoXEs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -93,7 +93,7 @@ FBI局長 **Kash Patel** 表示：「我哋會搵出所有關聯，如果有任�
 
 不過Space.com分析指出，過去多次嘅「解密承諾」最終都令人失望，特朗普嘅呢次行動係真正嘅透明化定係又一個政治姿態，仍然有待觀察。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/B2pBXHMbsF0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DZP-x4Ko_JI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

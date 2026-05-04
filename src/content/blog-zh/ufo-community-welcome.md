@@ -35,7 +35,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 *全球 UFO 愛好者一齊討論*
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/t9UvlV_KRq4" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/1WwGGuQljl4" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ## 🚀 你都可以幫手推廣！

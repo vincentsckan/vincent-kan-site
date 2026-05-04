@@ -22,7 +22,7 @@ heroImage: '../../assets/blog-placeholder-4.jpg'
 
 相關來源：Newsweek、USA Today
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/8JmjkfEgQa0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -32,7 +32,7 @@ heroImage: '../../assets/blog-placeholder-4.jpg'
 
 | 📍 *華盛頓特區* | 📅 *2026年4月29日* | 🔍 *國會聽證* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/3fUMWw7OGY8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/SEKSvVJI9wk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -42,7 +42,7 @@ NewsNation報道，一位前國防部官員回應近期關於UFO資訊釋放嘅�
 
 | 📍 *美國* | 📅 *2026年4月30日* | 🔍 *國防/披露* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/XF8kUyS6Y6o" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7iCNaXWjmJg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -58,7 +58,7 @@ NewsNation報道，一位前國防部官員回應近期關於UFO資訊釋放嘅�
 
 > 雖然多數專家認為好大機會係自然地震，但Area 51嘅神秘色彩加上震源深度，自然令人聯想到唔少UFO傳說。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/5vVfP0uD5oA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DUuxA0zmAK0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -68,7 +68,7 @@ The Free Press刊登一篇專訪，訪問一位美國海軍上將，佢竟然宣
 
 | 📍 *美國* | 📅 *2026年4月28-29日* | 🔍 *爆料/亞特蘭提斯* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/s4xV5GRj4MA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Abe7RsvoXEs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

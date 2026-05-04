@@ -27,8 +27,8 @@ Two days before his death, he posted on X:
 
 **Representative Anna Paulina Luna** posted a tribute on X, calling his death a "tragedy" and quoting John 8:32: "Then you will know the truth, and the truth will set you free."
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/L2Rrnyak4Hk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/nnDGPi2Lx3k" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/-_duWIB0jC8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/HGS09LzpARs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -51,8 +51,8 @@ McCasland's wife publicly called for an end to spreading "misinformation," empha
 
 Trump responded to reporters, saying: "These are very serious matters... Hopefully it's just a coincidence, or whatever you want to call it."
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/5y4Lm3W6GHQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/RB5YTv6NHPc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Fo7CE2XFCpw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DQdylq-b4Mk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -73,7 +73,7 @@ He also revealed: "There's a server containing a **whole batch of these kinds of
 - **Dylan Borland** (Former Air Force Veteran): Saw a **100-foot triangular craft** take off at Langley Air Force Base in 2012, and was retaliated against after coming forward.
 - **Alexandro Wiggins** (Navy): In February 2023, off the coast of Southern California, aboard the USS Jackson, he saw a "self-luminous Tic-Tac shaped object emerge from the ocean, rendezvous with 3 other similar objects, and then accelerate away."
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/u9sFTH15z60" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GV4SRQRfDQs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -91,7 +91,7 @@ Then Trump announced on Truth Social:
 
 **Representative Thomas Massie** poured cold water on the idea, saying: "They've deployed the ultimate distraction weapon... but the Epstein files won't just disappear, not even for aliens."
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/zuI4RjAF1B0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3nlghlpexM8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

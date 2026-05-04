@@ -22,7 +22,7 @@ The event quickly went viral on social media, with one X user joking, "The alien
 
 On a related note, a 2025 report revealed that the Pentagon had **deliberately spread UFO conspiracy theories** to cover up secret weapons programs, even sending Air Force officers to distribute fake flying saucer photos in bars.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/3v7Hstj11LU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3S0sxE7KEKs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -38,7 +38,7 @@ The UFO community on social media speculates the location could be the **circula
 
 Burlison has previously leaked that **President Trump has been fully briefed** on aliens, recovered UFOs since the 1940s, and even that alien-human hybrids live on Earth.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/B-VPm1-Tiig" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7iCNaXWjmJg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -52,7 +52,7 @@ Of particular concern is the death of scientist **Frank Olson**—he fell from a
 
 Tennessee Representative **Tim Burchett** drew parallels between MKUltra and recent scientist disappearances: "They kidnap people, feed them acid, try to erase their memories. Then they go to court and are sued. Then they say the program didn't exist. By 1975, they ordered records destroyed. Later they say, 'It did exist, but it's gone now.' Which lie should we believe?"
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/hWYfa50YcmE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/MSEoXA3Dq64" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

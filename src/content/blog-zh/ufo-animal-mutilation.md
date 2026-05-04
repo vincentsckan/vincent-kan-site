@@ -43,7 +43,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 | 秘密政府計劃 | 陰謀論者 | 冇證據 |
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/GEioQCEv2hE" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/1z7RhItAo8E" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

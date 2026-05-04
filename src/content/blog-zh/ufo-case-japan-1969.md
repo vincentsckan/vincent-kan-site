@@ -19,7 +19,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 *日本九州——1969年UFO目擊地點*
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/0wnW4hLG8fA" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/DOI2NL-tLn0" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

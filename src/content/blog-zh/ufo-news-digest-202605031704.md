@@ -50,7 +50,7 @@ Kirkpatrick 仲話網上流傳嘅外星科技影片多數有平凡嘅解釋，�
 
 Gallaudet 係多位高層吹哨人之一，佢不斷公開呼籲政府對UAP問題更加透明。今次直接挑機 Kirkpatrick，質疑對方嘅可信度同誠信。呢場爭論凸顯咗UFO研究圈內部喺可信度同透明度問題上嘅嚴重分歧。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Vm-mjuqOdds" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DsiKEBAFmm4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *特朗普下令公開UFO檔案——政府仲隱藏緊啲乜？深入分析*
 
 ### 🏛️ 國會動態：5月13日UAP聽證會即將召開
@@ -84,7 +84,7 @@ Luna 上年喺 Joe Rogan 嘅 podcast 中表示，佢見過「跨維度生命體�
 
 ## 🎥 更多影片推薦
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/5FUOuNig3ts" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/D3VUjUnIHLc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *特朗普談UFO檔案：「我哋會公開好多嘢」*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/pVj4Iu4fZNY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

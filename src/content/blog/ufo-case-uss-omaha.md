@@ -24,7 +24,7 @@ In 2021, the Pentagon officially confirmed that this footage was recorded by Nav
 This incident solidified a key finding in UAP research: some UAPs possess **"transmedium"** capability—the ability to transition directly from air into water without any deceleration or resistance. Known human technology cannot currently achieve this.
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/tGYo5vN3Fys" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/71vDr-3oTlU" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

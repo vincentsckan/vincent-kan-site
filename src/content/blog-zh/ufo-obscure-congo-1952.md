@@ -16,7 +16,7 @@ heroImage: '../../assets/blog-placeholder-4.jpg'
 
 呢份CIA解密文件（編號 **0000015463**，共4頁），標題直接叫"Flying Saucers Reported Over Belgian Congo Uranium Mines"，意思係「比屬剛果鈾礦上空嘅飛碟報告」。雖然1984年先經《資訊自由法》（FOIA）解密公開，但內容真係精彩到極。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/5Pr-C4byeNk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ### 目擊細節
 

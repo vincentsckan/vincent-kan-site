@@ -41,7 +41,7 @@ Grusch表示：「我絕對肯定，根據同40多名在職或退休情報官員
 3. 佢哋對人類社會有咩影響？
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/zgJ57Q4rY50" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/3YZyxnQF1_E" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

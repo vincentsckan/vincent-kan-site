@@ -19,7 +19,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 | 📍 *華盛頓* | 📅 *2026年4月29日* | 🔍 *政策披露* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/7C_TgE3-cZo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DQdylq-b4Mk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -29,7 +29,7 @@ NewsNation報導引述一位前國防部高層官員嘅言論，指特朗普政�
 
 | 📍 *美國* | 📅 *2026年4月30日* | 🔍 *權威發聲* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/HnVLBVQle1c" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ARY_ni7SVPg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -39,7 +39,7 @@ Newsweek報導指出，一位美國國會女議員（據悉為推動UAP披露嘅
 
 | 📍 *國會山莊* | 📅 *2026年4月29日* | 🔍 *國會動態* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/tS6UbI5bRNY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DZP-x4Ko_JI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -55,9 +55,9 @@ NBC報導從一個哲學角度探討UFO議題——如果外星智慧生命真�
 
 ## 📹 更多UFO影片精選
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/7Yc_6GRFjsE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7CzsTkmQNeo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/l27D2lPg02s" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/D3VUjUnIHLc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

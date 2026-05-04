@@ -18,7 +18,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 Between November 1989 and April 1990, large-scale unidentified flying object reports occurred over Belgium.
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/K1nv5JjFZDo" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/JP-6aP_3Gwc" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ## Key Event: F-16 Interception

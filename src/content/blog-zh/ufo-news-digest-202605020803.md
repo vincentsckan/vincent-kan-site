@@ -22,7 +22,7 @@ tags: ['UFO', 'UAP', 'news', '自動更新']
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/hSGF6yjJJjc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *CIA局長John Ratcliffe在Fox & Friends警告UAP技術超越美國能力*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1KMyf6VSEI4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/B_jQC8BnHR8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *《The Age of Disclosure》紀錄片預告 — 揭示UAP披露運動全貌*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Gru2EDJvj9Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
@@ -120,7 +120,7 @@ Burlison表示，如果能獲得確鑿證據——無論是物理的、照片的
 
 目擊者上傳了原始無濾鏡版本的影片，以及經過降噪處理的較短版本到YouTube。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1KMyf6VSEI4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/B_jQC8BnHR8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 [🔗 Latest UFO Sightings — 加州夜視三角影片](https://www.latest-ufo-sightings.net/2026/02/video-eyewitness-report-ufo-triangle-captured-on-night-vision-in-northern-california.html)
 

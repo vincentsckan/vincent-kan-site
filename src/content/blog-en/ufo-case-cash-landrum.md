@@ -31,7 +31,7 @@ Betty Cash and the Landrum family later sued the U.S. government, seeking $217,0
 *Illustration of the diamond-shaped UFO in the Cash-Landrum incident*
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/L5hFfPFgPEE" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/3HPh6BJo004" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

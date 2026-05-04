@@ -42,9 +42,9 @@ Bassett said: "If disclosure comes to pass, it will be the most important action
 <details>
 <summary>Video Links</summary>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/8kfnMNkAqqs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3VwzW4CCi9A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/rKbWz8f2U-c" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3VwzW4CCi9A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 </details>
 
@@ -60,7 +60,7 @@ Burlison said he has received information from sources both inside and outside t
 
 Burlison emphasized: "If I get solid evidence, the American people have a right to know."
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/j6FxKSOqNLI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3S0sxE7KEKs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -75,7 +75,7 @@ Key features:
 
 While it could be ball lightning, drones, or reflective effects, the synchronized appearance, sustained visibility, and orderly movement of the three objects have drawn significant attention to this case.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/JK24H1QzNs0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/S9pR0gfil_0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -91,9 +91,9 @@ Key points:
 
 Reports of triangular UFOs seen through night vision are steadily increasing, drawing high interest from the community.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/KD5IeKn5VHk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Pqc5tfCgFC8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/n0M2kPH_MjM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/8SUJTh6Hs-I" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

@@ -23,7 +23,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 Area 51 嘅 UFO 迷注意：美國冷戰時期其實用過故意製造 UFO 傳聞嚟掩蓋秘密武器計劃——包括空軍軍官向酒吧客人派發偽造飛碟照片。呢啲「草根假消息」行動證實咗 Area 51 嘅外星傳說有幾大部分係人造嘅。但係咪全部係假？你又信唔信呢？😅
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/rgc-f6M4dNE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DsiKEBAFmm4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -40,9 +40,9 @@ Area 51 嘅 UFO 迷注意：美國冷戰時期其實用過故意製造 UFO 傳�
 
 呢場聽證會嘅結果可能會為未來嘅 UFO 揭露程序鋪路。如果連 MKUltra 呢班科學家都可以被政府系統性對待，咁 UFO 相關嘅 whistleblower 所受嘅威脅就唔係空穴來風。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/q5LRk-6d3pI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Ek5Z5adrWSQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ekgQJLL7NOc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ARY_ni7SVPg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -63,7 +63,7 @@ ISS會有幾日特別光，如果唔知佢係太空站，好易誤認為UFO。�
 
 ![星空觀測](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/YVfJFvYJMWw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/EXri0KF2oZY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -83,7 +83,7 @@ ISS會有幾日特別光，如果唔知佢係太空站，好易誤認為UFO。�
 
 唔知你有冇遇過類似嘅奇怪發光物體？記住第一時間揾相機，然後跑！（安全第一 😅）
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/gXH3CjqSndA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/RqptVKs7wbc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -104,9 +104,9 @@ UFO界嘅重點開始由「外星人係咪存在」轉向「政府仲隱瞞緊�
 
 ## 📺 更多UFO精選影片
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fLDhVLPC13I" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/E4urJeP4IYU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/8WBFj3JVMkI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/8Ts8NNWNQZU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

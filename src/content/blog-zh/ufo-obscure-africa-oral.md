@@ -20,7 +20,7 @@ heroImage: '../../assets/blog-placeholder-5.jpg'
 
 呢位將非洲UFO口述歷史帶到世界舞台嘅人物，就係祖魯族嘅長老、醫者（Sangoma）、同智慧守護者——**Credo Vusamazulu Mutwa**（1921–2020）。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/2UOX7t4Ifgc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

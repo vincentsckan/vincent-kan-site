@@ -34,7 +34,7 @@ On July 26, 2023, Grusch testified before the U.S. House Oversight Committee. Be
 - **Legislative Progress**: Accelerated UAP disclosure legislation
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/jO5hJsPmsyQ" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/IEPeT-GsX5A" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

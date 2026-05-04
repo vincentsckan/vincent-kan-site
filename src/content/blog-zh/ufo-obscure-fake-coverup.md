@@ -95,5 +95,5 @@ AARO強調，目前仍喺度調查緊呢啲誤導行動係由中央統籌定係�
 > 💡 **睇完有咩感想？** 原來UFO傳說唔一定係政府隱瞞外星人，有時反而係政府特登放流料。下次見到飛碟相，或者可以諗多一層：呢張相會唔會又係邊個秘密武器計畫嘅煙幕？
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/BCYYEL0BROs" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>

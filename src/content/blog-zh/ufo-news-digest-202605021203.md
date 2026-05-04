@@ -28,7 +28,7 @@ Wilcock逝世前兩日在X平台發文：「我不確定聽日會唔會做節目
 
 Wilcock嘅YouTube頻道「Divine Cosmos with David Wilcock」擁有超過**46,000,000次觀看**及**518,000名訂閱者**。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/f0K9BqjBsS0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/B_jQC8BnHR8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *David Wilcock — Divine Cosmos 宇宙學節目*
 
 🔗 [The Independent — David Wilcock obituary](https://www.independent.co.uk/news/world/americas/david-wilcock-ufo-researcher-dead-b2963362.html)
@@ -51,7 +51,7 @@ Wilcock嘅YouTube頻道「Divine Cosmos with David Wilcock」擁有超過**46,00
 
 呢篇報導亦回顧了**Area 51嘅迷思起源**：2025年一份報告揭露五角大樓當年曾經刻意製造UFO陰謀論來掩蓋機密武器計劃，包括在冷戰時期向居民派發飛碟假照片。1989年吹哨人 **Robert Lazar** 聲稱在S-4設施逆向工程外星飛船，更令Area 51成為UFO傳說核心。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/VZQhPBdhNtY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3VwzW4CCi9A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Area 51 外星陰謀全解析*
 
 🔗 [Daily Mail — Earthquake swarm near Area 51](https://www.dailymail.co.uk/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)
@@ -86,7 +86,7 @@ MKUltra旨在開發用於審訊的藥物和程序，包括洗腦和心理折磨�
 
 ![CIA MKUltra 計劃歷史檔案](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/J6sQjypyZQg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/RqptVKs7wbc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *MKUltra 思想控制計劃紀錄片*
 
 🔗 [The Independent — FBI investigates scientists deaths](https://www.independent.co.uk/news/world/americas/crime/scientists-killed-disappeared-fbi-investigation-b2961506.html)
@@ -110,7 +110,7 @@ MKUltra旨在開發用於審訊的藥物和程序，包括洗腦和心理折磨�
 
 Knapp 形容：「那是地獄火導彈撞上那個UFO，然後直接彈開，它繼續飛行。仲有一個服務器入面儲存咗成批呢類影片，國會同公眾都冇權限睇。」
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/2XH4cKXHYeA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/5P-MMjyVVA8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *UFO國會聽證會 Hellfire 導彈射擊UAP片段*
 
 🔗 [The Independent — Aliens.gov domain](https://www.independent.co.uk/news/world/americas/us-politics/aliens-domain-name-trump-ufos-b2941728.html)
@@ -133,7 +133,7 @@ Knapp 形容：「那是地獄火導彈撞上那個UFO，然後直接彈開，�
 
 ![UFO研究員David Wilcock](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Q8DmOQuKIsY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DUuxA0zmAK0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Congressional UFO Hearing — 完整聽證會影片*
 
 ---

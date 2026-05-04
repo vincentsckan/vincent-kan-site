@@ -44,7 +44,7 @@ UAP經常被雷達、光學、紅外線同時鎖定。
 *AEGIS神盾雷達系統曾經追蹤Tic Tac UAP*
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/dP9y3XKhBRY" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/1hObi8hcmdM" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

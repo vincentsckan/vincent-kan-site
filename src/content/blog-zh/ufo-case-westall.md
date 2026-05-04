@@ -19,7 +19,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 超過 **200名學生同教師** 目擊咗呢次事件。軍方人員同著黑色西裝嘅神秘人物迅速抵達學校，要求師生保持沉默。事件被刻意隱瞞長達數十年。
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/FQK9VFZEWmQ" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/8yxg5BCdAHQ" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 直到2000年代，Westall 事件先重新獲得媒體關注。2016年紀錄片《Westall '66》訪問咗當年嘅目擊者，現場講述佢哋嘅經歷。

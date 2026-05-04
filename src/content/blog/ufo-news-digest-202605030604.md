@@ -22,7 +22,7 @@ The most shocking part: the UAP search module of this system existed as early as
 
 *The Verge* described Sentient in 2019 as an "omnivorous" system. The most critical line in the internal emails obtained by The Black Vault via FOIA is: *"Sentient has a specific module to search for UAPs in satellite imagery, but an external client must formally request its activation"*—all replies after that were REDACTED.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/NvP4bKzsX_Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GegAPC_yEUM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -38,7 +38,7 @@ She also made a striking statement:
 
 This stance aligns with the "interdimensional hypothesis" of UFO researchers like Jacques Vallée.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/BGAAh93l4F0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GV4SRQRfDQs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -52,7 +52,7 @@ But the key lies in the timeline: **He had agreed to testify before Congress in 
 
 Then, the congressional hearing lost him. The UAP research community erupted with one question: **Was this really an accident?**
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dUypHStRJ2Y" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GtxFzCt1Jns" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -62,7 +62,7 @@ Then, the congressional hearing lost him. The UAP research community erupted wit
 
 During a thunderstorm over Doha, the capital of Qatar, someone captured **three luminous objects** flying in a triangular formation. The footage sparked heated debate—is it a rare natural phenomenon or an unexplained UFO? Local residents described the three lights moving steadily between lightning flashes, forming a perfect geometric arrangement.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/lGDFjLJkHXc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GegAPC_yEUM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -72,7 +72,7 @@ During a thunderstorm over Doha, the capital of Qatar, someone captured **three 
 
 Physicist **Eric Davis** claims that former President Jimmy Carter received a **secret UFO briefing** about possible extraterrestrial contact in 1977. This new detail reignites the mystery—Carter himself had previously stated he saw a UFO, but this is the first time someone has confirmed he received an official briefing during his White House years.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/LH_h7n9vB7E" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3S0sxE7KEKs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -80,7 +80,7 @@ Physicist **Eric Davis** claims that former President Jimmy Carter received a **
 
 Want to see more? Here's today's recommended YouTube playlist:
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ybUXfnOaK3w" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/78K3wVVEP1Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

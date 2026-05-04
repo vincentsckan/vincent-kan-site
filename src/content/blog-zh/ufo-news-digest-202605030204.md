@@ -28,8 +28,8 @@ Wilcock嘅YouTube頻道 **"Divine Cosmos with David Wilcock"** 累積超過 **4,
 
 **眾議員Anna Paulina Luna** 喺X上發文悼念，形容佢嘅死係「悲劇」，並引用聖經約翰福音8:32：「你哋必曉得真理，真理必叫你得自由。」
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/L2Rrnyak4Hk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/nnDGPi2Lx3k" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/-_duWIB0jC8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/HGS09LzpARs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -52,8 +52,8 @@ McCalsand嘅太太公開呼籲停止散播「錯誤資訊」，強調佢丈夫13
 
 特朗普回應記者時話：「呢啲係好 serious 嘅事⋯⋯希望只係巧合啦，定係你哋叫佢做乜都得。」
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/5y4Lm3W6GHQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/RB5YTv6NHPc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Fo7CE2XFCpw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DQdylq-b4Mk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -74,7 +74,7 @@ McCalsand嘅太太公開呼籲停止散播「錯誤資訊」，強調佢丈夫13
 - **Dylan Borland**（前空軍退伍軍人）：2012年喺Langley空軍基地見到 **100英尺三角形飛行物** 起飛，爆料後被報復打壓
 - **Alexandro Wiggins**（海軍）：2023年2月喺加州南部對開海岸，喺USS Jackson軍艦上見到「自發光Tic-Tac形狀物體從海洋飛出，同另外3個類似物體會合後加速消失」
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/u9sFTH15z60" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GV4SRQRfDQs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -92,7 +92,7 @@ McCalsand嘅太太公開呼籲停止散播「錯誤資訊」，強調佢丈夫13
 
 **眾議員Thomas Massie** 就潑冷水話：「佢哋祭出咗終極嘅注意力轉移武器⋯⋯但Epstein檔案唔會就咁消失，就算係外星人都冇用。」
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/zuI4RjAF1B0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3nlghlpexM8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

@@ -31,7 +31,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 不過特朗普補充話：「我第一任期訪問過啲機師，佢哋話見到你唔會信嘅嘢。」
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/wJ5xnNFjINg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BMnNz5DJKT8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 > **來源：** [Daily Mail - Artemis astronauts' reaction as Trump teases UFO files](https://www.dailymail.co.uk/sciencetech/article-15776933/trump-ufo-files-release-artemis.html)
 
@@ -47,7 +47,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 Area 51一直係UFO陰謀論嘅焦點。2025年有報告指五角大樓當年刻意製造UFO謠言嚟隱藏秘密武器計劃，包括派空軍上校去酒吧派發偽造UFO照片。報告仲披露空軍高層會用「Yankee Blue」呢個虛構UFO逆向工程計劃嚟「整蠱」新上任嘅指揮官 😂
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/XKDxqbYmKio" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DZP-x4Ko_JI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 > **來源：** [Daily Mail - Earthquake swarm near Area 51](https://www.dailymail.co.uk/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)
 
@@ -66,7 +66,7 @@ UFO研究員Grant Lavac透過《資訊自由法》取得NASA內部電郵，揭�
 
 換句話講，NASA當年話GoFast只係「普通漂浮物體」嘅結論，可能係建基於好有限嘅資料上。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/6rWOtrLzAV8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/978heKmAXW0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 > **來源：** [Daily Mail - The truth about NASA's GoFast verdict exposed in emails](https://www.dailymail.co.uk/sciencetech/article-15772117/nasa-secret-emails-gofast-ufo.html)
 
@@ -87,7 +87,7 @@ Eskridge生前創立嘅「Exotic Science研究所」專門研究反重力推進�
 
 FBI局長Kash Patel已經話FBI「帶頭調查」呢啲科學家離奇死亡案。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/p-7cGXQY1Kc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CwAJHumVPOE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 > **來源：** [Daily Mail - Chilling phone calls from UFO-linked scientist expose kidnapping attempt](https://www.dailymail.co.uk/sciencetech/article-15782647/amy-eskridge-ufo-scientist-threats-alabama.html)
 
@@ -107,7 +107,7 @@ FBI局長Kash Patel已經話FBI「帶頭調查」呢啲科學家離奇死亡案�
 
 呢啲案件令好多人懷疑係情報機構為咗掩蓋真相而落手。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/i6e17k8ASvI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/SEKSvVJI9wk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 > **來源：** [Daily Mail - Mysterious deaths of UFO researchers stretch back decades](https://www.dailymail.co.uk/sciencetech/article-15758395/mysterious-ufologist-deaths-ufo-research.html)
 
@@ -133,9 +133,9 @@ Bassett話：「呢件事係人類歷史上任何國家元首可以做嘅最重�
 
 ## 📺 更多推介影片
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/F0YyJBLM4Rw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3nlghlpexM8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1Lwbz7g2rVg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/E4urJeP4IYU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

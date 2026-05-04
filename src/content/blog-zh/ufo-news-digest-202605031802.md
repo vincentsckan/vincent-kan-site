@@ -36,7 +36,7 @@ Mellon特別指出，過去數月「多名掌握秘密的軍方及情報人員�
 
 > 分析：Mellon的發言不代表披露必然發生，但從他的背景及過去在UAP議題上的記錄來看，這可能是近年最可信的一次預告。值得密切關注5月至6月的後續發展。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/BhZAB1FSBps" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/EXri0KF2oZY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🎙️ NewsNation專訪：Christopher Mellon分析UFO披露前景*
 
 ![華盛頓國會山莊](/vincent-kan-site/_astro/blog-placeholder-3.jpg)
@@ -59,7 +59,7 @@ Mellon特別指出，過去數月「多名掌握秘密的軍方及情報人員�
 
 ![Kacey Musgraves表演](/vincent-kan-site/_astro/blog-placeholder-4.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BQCP8nBHJ7A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🎵 Kacey Musgraves及其他名人UFO經歷合集*
 
 ---
@@ -81,7 +81,7 @@ Luna是眾議院監督委員會國家安全小組委員會成員，一直積極�
 
 Luna此前曾批評五角大樓對UFO議題長期「隱瞞真相」（stonewalling），認為公眾有權知道UAP背後的事實。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IWrK1SdpG70" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/NJ4JuA2UYL4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🗣️ 眾議員Luna：美國需要UFO透明度*
 
 ![華盛頓國會](/vincent-kan-site/_astro/blog-placeholder-2.jpg)
@@ -108,17 +108,17 @@ JoBlo網站整理了一份**11位名人UFO目擊清單**，橫跨音樂、電影
 
 ![名人與UFO拼圖](/vincent-kan-site/_astro/blog-placeholder-5.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/w5GvLWQZnoM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/EXri0KF2oZY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🎬 名人公開談論UFO目擊經歷合集*
 
 ---
 
 ## 📡 More to Watch — 其他UFO YouTube精選
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/6B6v2HSS3js" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/WOsruCpciRk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🔴 UFO發現與科學家失蹤：最新分析*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/KfTjSJnUGVQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/SBkMPTargGA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *📋 特朗普政府UFO檔案審查最新進展*
 
 ---

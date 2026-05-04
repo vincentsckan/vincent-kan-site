@@ -29,7 +29,7 @@ Although Aliens.gov currently does not point to any website content, this move i
 
 This domain registration has sparked widespread discussion in the global UFO community — will Aliens.gov become the official extraterrestrial information hub? 🤔
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/mQvhwOhNeoM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/KiCgBn-Kbho" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -53,7 +53,7 @@ Wilcock's death has sparked intense discussion in conspiracy theory circles, esp
 > **The Samaritan Befrienders Hong Kong: 2389 2222**
 > **Lifeline: 2382 0000**
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ICNd2M5ldGU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/B_jQC8BnHR8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -78,7 +78,7 @@ President Trump responded: "Hopefully it's just a coincidence... or whatever you
 
 This series of cases has sparked massive conspiracy theories, with some suspecting a "silencing operation" targeting those in the know. However, McCasland's wife publicly urged the public not to spread rumors, emphasizing that her husband's classified Air Force information was from 13 years ago.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/B-NzNvkIhpM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Abe7RsvoXEs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -92,7 +92,7 @@ Following Trump's February order to declassify all UFO files, in addition to the
 
 However, Space.com analysis points out that many past "declassification promises" have ultimately been disappointing. Whether Trump's action represents genuine transparency or another political gesture remains to be seen.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/B2pBXHMbsF0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DZP-x4Ko_JI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

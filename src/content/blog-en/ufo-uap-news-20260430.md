@@ -29,7 +29,7 @@ Notably, Sullivan's funeral was attended by Major General David Abba, who delive
 
 This incident echoes the recent string of deaths or disappearances of multiple defense scientists. According to NewsNation, 11 U.S. scientists and defense figures have recently died or gone missing, the most prominent being retired Air Force General Neil McCasland, who mysteriously disappeared in late February.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/6iLQ4ETJcPY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BYzjwk1O8Ck" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ![U.S. Air Force Logo](../../assets/blog-placeholder-1.jpg)
 *Image: Matthew Sullivan served at the U.S. National Air and Space Intelligence Center (NASIC); his death has drawn attention from Congress and the FBI.*
@@ -59,7 +59,7 @@ Traditional SETI methods rely on searching for biosignatures like oxygen or meth
 
 This method sacrifices some coverage for a lower false positive rate, which is particularly valuable in an era of increasingly expensive telescope observation time. Smith stated: "By focusing on how life spreads and modifies its environment, we can search for life without needing a perfect definition or a single definitive signal."
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/HX2G5N_kplg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/AZo-Q-FXoXM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ![Conceptual image of searching for alien life](../../assets/blog-placeholder-5.jpg)
 *Image: An artist's impression of alien life—scientists propose finding life by analyzing patterns across planetary groups rather than individual planets.*
@@ -79,7 +79,7 @@ Professor Rodney Schmaltz explained: "If you walk into a supposedly haunted buil
 
 Researchers note that this finding helps explain why certain buildings are considered "haunted" and also provides a variable that needs to be ruled out for the unusual physiological sensations reported by witnesses in real UAP events.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/5jR8OqFOmdg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DoyscKtOjsQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ![Laboratory research illustration](../../assets/blog-placeholder-2.jpg)
 *Image: Illustration of an infrasound experiment—low-frequency sound waves can trigger emotional changes like irritability and anxiety without the person's knowledge.*

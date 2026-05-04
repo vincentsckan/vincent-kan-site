@@ -28,7 +28,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 - **Robertson Panel（1953）**：CIA主導嘅小組建議用貶低手段「處理」UFO報告
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/oPwkCynQINY" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/GlzV2tUAEys" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

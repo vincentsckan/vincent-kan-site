@@ -18,7 +18,7 @@ The Japan Defense Agency (now the Ministry of Defense) acknowledged in an intern
 *Kyushu, Japan — Location of the 1969 UFO Sighting*
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/0wnW4hLG8fA" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/DOI2NL-tLn0" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

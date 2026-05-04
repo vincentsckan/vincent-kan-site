@@ -34,7 +34,7 @@ Mellon specifically noted that the phenomenon of "multiple military and intellig
 
 > Analysis: Mellon's statement does not guarantee disclosure will happen, but given his background and track record on UAP issues, this may be the most credible预告 in recent years. Keep a close watch on developments from May to June.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/BhZAB1FSBps" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/EXri0KF2oZY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🎙️ NewsNation Interview: Christopher Mellon Analyzes UFO Disclosure Prospects*
 
 ![Washington Capitol Hill](/vincent-kan-site/_astro/blog-placeholder-3.jpg)
@@ -57,7 +57,7 @@ Which of your favorite celebrities has seen a UFO? Check out the video compilati
 
 ![Kacey Musgraves Performing](/vincent-kan-site/_astro/blog-placeholder-4.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BQCP8nBHJ7A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🎵 Kacey Musgraves and Other Celebrity UFO Experiences Compilation*
 
 ---
@@ -79,7 +79,7 @@ Luna, a member of the House Oversight Committee's National Security Subcommittee
 
 Luna has previously criticized the Pentagon for "stonewalling" on the UFO issue for years, arguing that the public has the right to know the truth behind UAP.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IWrK1SdpG70" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/NJ4JuA2UYL4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🗣️ Congresswoman Luna: America Needs UFO Transparency*
 
 ![Washington Capitol](/vincent-kan-site/_astro/blog-placeholder-2.jpg)
@@ -106,17 +106,17 @@ Interestingly, many celebrities described the objects as **triangular** or **cig
 
 ![Celebrity UFO Collage](/vincent-kan-site/_astro/blog-placeholder-5.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/w5GvLWQZnoM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/EXri0KF2oZY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🎬 Celebrities Openly Discussing UFO Sighting Experiences Compilation*
 
 ---
 
 ## 📡 More to Watch — Other UFO YouTube Highlights
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/6B6v2HSS3js" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/WOsruCpciRk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🔴 UFO Discoveries and Scientist Disappearances: Latest Analysis*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/KfTjSJnUGVQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/SBkMPTargGA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *📋 Latest Progress on Trump Administration UFO File Review*
 
 ---

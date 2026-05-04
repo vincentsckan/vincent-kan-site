@@ -23,7 +23,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 呢次唔係特朗普第一次講UFO嘢，但佢用咗「things you wouldn't believe」呢種咁強烈嘅措辭，令到好多UFO研究者相信真係有料到。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/aUkQMRYHR5s" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3nlghlpexM8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -33,7 +33,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 《NewsNation》引述一位前國防部官員嘅說話，佢強調特朗普政府承諾嘅UFO信息公開絕對唔係「nothingburger」（即係話唔係雷聲大雨點小嗰種）。呢位前官員嘅評論係回應外界對披露內容可能好有限嘅質疑，佢認為今次嘅披露規模同層次會超出大家預期。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/hhP1tRl8KN4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/SBkMPTargGA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -43,7 +43,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 《Newsweek》報道，一位美國女國會議員公開承諾，佢會展示一啲屬於「非人類起源」（nonhuman origin）嘅物品。呢個講法極具爆炸性，因為如果成事嘅話，將會係美國政府官員首次喺官方場合展示被認為係非人類製造嘅實物。雖然具體細節仲未公布，但呢個消息已經喺UFO社群引起巨大討論。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/AKC7g12jRGE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DsiKEBAFmm4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -53,7 +53,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 《The Free Press》刊登咗一篇極度震撼嘅長文，訪問咗一位退役美國海軍上將。佢聲稱亞特蘭蒂斯（Atlantis）係真實存在嘅文明，而且「外星人已經喺地球」。呢位上將嘅講法引發咗好大爭議，有人認為佢係真係知道內幕先敢咁講，亦有人覺得佢可能係受咗某啲非主流影響。不論如何，一位退役高級軍官公開講呢啲嘢，本身就已經係大新聞。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/01T2FjzVfmI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/AstIkKpV3EE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

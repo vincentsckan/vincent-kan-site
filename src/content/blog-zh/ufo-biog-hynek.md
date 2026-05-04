@@ -35,7 +35,7 @@ Hynek創立咗至今仍然使用嘅分類法：
 > 「UFO研究唔係偽科學。但一個科學家如果公開研究UFO，佢嘅事業就完蛋。」
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/2RG1BZgZ_ro" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/7LYqfZ70yGY" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

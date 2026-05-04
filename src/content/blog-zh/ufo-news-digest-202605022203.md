@@ -23,7 +23,7 @@ Wilcock係UFO披露運動嘅重要人物，其YouTube頻道「Divine Cosmos with
 
 > 呢件事發生喺國會同FBI正調查多名科學家死亡失蹤事件嘅敏感時期，令到陰謀論進一步發酵。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/U_9D9LQnPbY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/2Y0z03wB0KU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -35,7 +35,7 @@ Wilcock係UFO披露運動嘅重要人物，其YouTube頻道「Divine Cosmos with
 
 消息指出，域名註冊係跟進特朗普早前嘅行政命令，要求各政府機構解密所有關於UFO及「不明空中現象」（UAP）嘅檔案。奧巴馬之前都曾經喺podcast訪問中提及宇宙咁大，好大機會存在外星生命。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/8MqjL2j8k1Y" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/2Y0z03wB0KU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -54,7 +54,7 @@ Wilcock係UFO披露運動嘅重要人物，其YouTube頻道「Divine Cosmos with
 
 特朗普回應記者提問時形容呢啲係「好 serious 嘅事」，雖然希望只係巧合，但政府會跟進調查。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/TW_-RfH7Gls" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Ek5Z5adrWSQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -76,7 +76,7 @@ Wilcock係UFO披露運動嘅重要人物，其YouTube頻道「Divine Cosmos with
 | 2022 | 國會50年來首場UFO聽證會 |
 | 2026 | 特朗普下令解密全部UFO檔案 |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/7h_DF8ZShZ8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CwAJHumVPOE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -88,7 +88,7 @@ Wilcock係UFO披露運動嘅重要人物，其YouTube頻道「Divine Cosmos with
 
 退休海軍少將Timothy Gallaudet話：「荷里活幾十年嚟一直幫公眾做緊心理準備。我認為人們可以接受（外星生命存在嘅事實），當然，取決於政府釋放咩資訊。」
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/3pMQ7m2t0B8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/-_duWIB0jC8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

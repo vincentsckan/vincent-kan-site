@@ -18,7 +18,7 @@ On the afternoon of December 9, 1965, residents of Kecksburg, Pennsylvania, hear
 Military personnel quickly arrived and cordoned off the scene. Residents reported seeing mysterious hieroglyphic-like symbols engraved on the object. A flatbed truck transported the object away that night. The military's explanation was a "meteor" or "debris from a Soviet satellite," but residents insisted they had seen a man-made metal object.
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/UyZRZh_1DRM" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/HX_RrO7ZQaU" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 The incident became more famous due to its similarity to a plot in an episode of the TV series *The X-Files*. Kecksburg still holds an annual UFO festival to commemorate the event.

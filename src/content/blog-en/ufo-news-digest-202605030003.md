@@ -18,8 +18,8 @@ Scott Waring discovered a giant UFO, measuring **1.5 miles (about 2.4 km)** long
 
 | 📍 *Moon* | 📅 *April 13, 2026* | 🔍 *Lunar UFO wreckage/parked object* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/4vNc6S1AFI0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dNq8w0E2f9M" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/6zikRBV8DwQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/AstIkKpV3EE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -34,7 +34,7 @@ He emphasizes that Mars is an arid desert environment. If tortoises can survive 
 
 | 📍 *Mars* | 📅 *April 30, 2026* | 🔍 *Traces of life on Mars* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/UrU6jWGSHts" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/8Ts8NNWNQZU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ![Suspected statue on Mars](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
 
@@ -56,7 +56,7 @@ Furthermore, he noticed that the Helioviewer website suddenly "broke" and requir
 
 | 📍 *Sun* | 📅 *April 26, 2026* | 🔍 *Giant UFO/"Comet" controversy* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/LjYF2b-48HY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/4Onoyl6dXVk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -70,7 +70,7 @@ However, Scott Waring believes **these are not ordinary meteors** — because th
 
 | 📍 *Naples, Italy* | 📅 *April 12, 2026* | 🔍 *Slow fireball/suspected UFO* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/QcUN4qGWIMs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/8SUJTh6Hs-I" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -82,7 +82,7 @@ Scott Waring believes this is evidence of an ancient **Reptilian/human hybrid** 
 
 | 📍 *Antarctica* | 📅 *April 14, 2026* | 🔍 *Reptilian ruins* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/x6E5Mp63E1E" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/80kpS7V5f4w" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

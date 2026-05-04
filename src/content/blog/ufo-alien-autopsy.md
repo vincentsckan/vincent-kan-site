@@ -34,7 +34,7 @@ Even as a forgery, this video had a massive influence:
 - Also made people more skeptical of "UFO footage" ever since
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/p3GXysr7XxY" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/b0UNZIcJwhw" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

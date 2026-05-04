@@ -157,7 +157,7 @@ Liberation Times通過《信息自由法》（FOIA）獲得的記錄顯示，**�
 
 Luna公開批評戰爭部初期「沒有人回應，直到我們主動聯繫」。調查記者 **Jeremy Corbell** 透露他本人已直接觀看了大部分Luna要求的UAP影片，並與George Knapp一同向國會提供了具體檔案名稱及精確位置，包括**眾多美國空軍拍攝材料**。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1KMyf6VSEI4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/AZo-Q-FXoXM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *《The Age of Disclosure》紀錄片預告*
 
 [🔗 Liberation Times — 戰爭部白宮協調解密](https://www.liberationtimes.com/home/war-department-says-white-house-coordinating-release-of-never-before-seen-ufo-material)
@@ -179,7 +179,7 @@ Luna公開批評戰爭部初期「沒有人回應，直到我們主動聯繫」�
 
 ![內華達沙漠](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/LSyMDpKzjnI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/9tqs6Z3OQSk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *關於2026年科學家神秘失蹤與死亡的媒體報導合集*
 
 [🔗 Daily Mail — Area 51 Earthquake Swarm](https://www.dailymail.com/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)

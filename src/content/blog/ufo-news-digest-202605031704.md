@@ -49,7 +49,7 @@ A fierce public debate has erupted within the UFO community! Retired Navy Rear A
 
 Gallaudet is one of several high-level whistleblowers who have repeatedly called for greater government transparency on UAP issues. This time, he directly challenged Kirkpatrick, questioning his credibility and integrity. This debate highlights the deep divisions within the UFO research community over issues of credibility and transparency.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Vm-mjuqOdds" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DsiKEBAFmm4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Trump orders release of UFO files—What else is the government hiding? In-depth analysis*
 
 ### 🏛️ Congressional Developments: May 13 UAP Hearing Approaching
@@ -83,7 +83,7 @@ Former President **Obama** also said on a podcast in February that "aliens exist
 
 ## 🎥 More Video Recommendations
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/5FUOuNig3ts" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/D3VUjUnIHLc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Trump on UFO files: "We're going to release a lot of things"*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/pVj4Iu4fZNY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

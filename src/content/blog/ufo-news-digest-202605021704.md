@@ -22,7 +22,7 @@ Geophysicist Stefan Burns analyzed that while it's highly likely natural earthqu
 
 Area 51 UFO fans take note: During the Cold War, the US actually used deliberately manufactured UFO rumors to cover up secret weapons programs—including Air Force officers handing out fake flying saucer photos to bar patrons. These "grassroots disinformation" operations confirmed how much of Area 51's alien lore was man-made. But is it all fake? What do you believe? 😅
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/rgc-f6M4dNE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DsiKEBAFmm4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -39,9 +39,9 @@ Why is this related to UFOs?
 
 The outcome of this hearing could pave the way for future UFO disclosure procedures. If even the scientists of MKUltra could be systematically treated by the government, then the threats faced by UFO-related whistleblowers are not unfounded.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/q5LRk-6d3pI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Ek5Z5adrWSQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ekgQJLL7NOc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ARY_ni7SVPg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -62,7 +62,7 @@ The dark nights around the new moon are the best time to observe anomalous celes
 
 ![Stargazing](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/YVfJFvYJMWw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/EXri0KF2oZY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -82,7 +82,7 @@ This case remains one of Panama's most famous UFO incidents, similar to Brazil's
 
 Have you ever encountered a similar strange glowing object? Remember to grab your camera first, then run! (Safety first! 😅)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/gXH3CjqSndA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/RqptVKs7wbc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -103,9 +103,9 @@ The focus of the UFO community is shifting from "do aliens exist" to "what else 
 
 ## 📺 More Featured UFO Videos
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fLDhVLPC13I" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/E4urJeP4IYU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/8WBFj3JVMkI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/8Ts8NNWNQZU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

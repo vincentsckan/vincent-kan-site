@@ -34,7 +34,7 @@ Or start chatting directly in the comment section below!
 *Global UFO enthusiasts discussing together*
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/t9UvlV_KRq4" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/1WwGGuQljl4" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ## 🚀 You Can Help Promote Too!

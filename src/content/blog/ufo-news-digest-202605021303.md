@@ -22,7 +22,7 @@ Trump mentioned UFO files multiple times during an interview, saying his adminis
 
 This isn't the first time Trump has talked about UFOs, but his use of such strong wording as "things you wouldn't believe" has led many UFO researchers to believe there's real substance.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/aUkQMRYHR5s" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3nlghlpexM8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -32,7 +32,7 @@ This isn't the first time Trump has talked about UFOs, but his use of such stron
 
 *NewsNation* quoted a former Defense Department official who emphasized that the UFO information disclosure promised by the Trump administration is definitely not a "nothingburger" (meaning it's not all bark and no bite). This former official's comment responds to external doubts that the disclosure might be very limited, and they believe the scale and level of this disclosure will exceed expectations.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/hhP1tRl8KN4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/SBkMPTargGA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -42,7 +42,7 @@ This isn't the first time Trump has talked about UFOs, but his use of such stron
 
 *Newsweek* reported that a U.S. congresswoman publicly promised to show items of "nonhuman origin." This statement is extremely explosive because, if it comes to fruition, it would be the first time a U.S. government official has displayed physical objects believed to be non-human-made in an official setting. Although specific details have not yet been released, this news has already sparked huge discussion in the UFO community.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/AKC7g12jRGE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DsiKEBAFmm4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -52,7 +52,7 @@ This isn't the first time Trump has talked about UFOs, but his use of such stron
 
 *The Free Press* published an extremely shocking long-form article, interviewing a retired U.S. Navy admiral. He claims that Atlantis is a real civilization and that "the aliens are already here on Earth." This admiral's statements have sparked significant controversy; some believe he truly knows insider information to dare say such things, while others think he may have been influenced by certain fringe ideas. Regardless, a retired high-ranking military officer publicly saying this is big news in itself.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/01T2FjzVfmI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/AstIkKpV3EE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

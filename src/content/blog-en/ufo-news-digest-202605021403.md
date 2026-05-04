@@ -21,7 +21,7 @@ Former U.S. President Donald Trump recently spoke again about the UFO topic, sta
 
 Related Sources: Newsweek, USA Today
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/8JmjkfEgQa0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -31,7 +31,7 @@ A U.S. congresswoman has publicly promised to present items of "nonhuman origin.
 
 | 📍 *Washington D.C.* | 📅 *April 29, 2026* | 🔍 *Congressional Hearing* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/3fUMWw7OGY8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/SEKSvVJI9wk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -41,7 +41,7 @@ NewsNation reports that a former Pentagon official has responded to recent discu
 
 | 📍 *United States* | 📅 *April 30, 2026* | 🔍 *Defense/Disclosure* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/XF8kUyS6Y6o" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7iCNaXWjmJg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -57,7 +57,7 @@ Social media users quickly joked: "Aliens are shaking the Earth!!"
 
 > While most experts believe it's likely natural earthquakes, Area 51's mystique combined with the shallow depth naturally invites many UFO legends.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/5vVfP0uD5oA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DUuxA0zmAK0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -67,7 +67,7 @@ The Free Press published an exclusive interview with a U.S. Navy admiral who ast
 
 | 📍 *United States* | 📅 *April 28-29, 2026* | 🔍 *Leak/Atlantis* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/s4xV5GRj4MA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Abe7RsvoXEs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

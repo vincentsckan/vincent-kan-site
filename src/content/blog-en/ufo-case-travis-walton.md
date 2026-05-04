@@ -22,7 +22,7 @@ When they returned to the site, Walton had vanished. Police launched a massive s
 **Five days later**, Walton mysteriously appeared near a phone booth, disoriented. He later described being taken aboard an alien spacecraft, where he encountered several small gray aliens. His story was adapted into the classic film **《Fire in the Sky》（1993）**.
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/utcWz6qms0Y" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/8ocIUpdOaZE" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

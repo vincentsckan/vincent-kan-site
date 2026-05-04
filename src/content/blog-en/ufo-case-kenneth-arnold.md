@@ -13,7 +13,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 ## Overview
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/RJ9kz19fViY" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/CkG7JF5P5QI" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 On the afternoon of June 24, 1947, private pilot Kenneth Arnold was flying his CallAir A-2 aircraft toward

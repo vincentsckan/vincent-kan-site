@@ -20,7 +20,7 @@ Secretary of Defense Pete Hegseth provided the latest update on the Pentagon's d
 
 | 📍 *Washington* | 📅 *April 2026* | 🔍 *Government Disclosure* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/MmHjHpk7g4A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/D3VUjUnIHLc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -30,7 +30,7 @@ The Pentagon's All-domain Anomaly Resolution Office (AARO) recently held a priva
 
 | 📍 *Washington* | 📅 *April-May 2026* | 🔍 *AARO / Government Collaboration* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/0e5DJWI1e10" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CI-fYo3V94M" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -40,7 +40,7 @@ The Sky Canada Project released a significant report on Canada's UAP issues. The
 
 | 📍 *Canada* | 📅 *April-May 2026* | 🔍 *International UAP Report* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/2FwZRGs6hQ8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/RqptVKs7wbc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -50,7 +50,7 @@ Former President Barack Obama recently made remarks about extraterrestrial life,
 
 | 📍 *United States* | 📅 *April 2026* | 🔍 *Celebrity Remarks* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/8COaKb1jOBM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/28DZgUjYbmE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -60,7 +60,7 @@ Brazil's most famous UFO case—the Varginha Incident—marks its 30th anniversa
 
 | 📍 *Brazil / United States* | 📅 *2026* | 🔍 *Historical Case* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/gX_qVjFt9X0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/S9pR0gfil_0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -76,11 +76,11 @@ Brazil's most famous UFO case—the Varginha Incident—marks its 30th anniversa
 
 ## 📺 Featured UFO Video Collection
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/_Rq5ky58FR0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7DcctpyFoxw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 *UFO/UAP 2026 Latest Sighting Compilation*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/PSWGsXQBwRg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/KiCgBn-Kbho" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 *Complete Record of US Congressional UFO Hearing*
 

@@ -35,7 +35,7 @@ heroImage: '../../assets/blog-placeholder-5.jpg'
 - 亦令人從此對「UFO影片」抱持更大懷疑
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/p3GXysr7XxY" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/b0UNZIcJwhw" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

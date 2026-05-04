@@ -31,7 +31,7 @@ Trump even mentioned personally interviewing some people who told him they had "
 
 ![Trump with NASA Astronauts](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/WWs1tMjh1Y" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/0eudA6Pb3QM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🇺🇸 Congressman publicly confirms non-human origin existence for the first time — Full news report*
 
 [🔗 Newsmax — Loeb: UFO Releases May Come in Waves](https://www.newsmax.com/newsmax-tv/ufo-physicist-trump/2026/05/02/id/1255001/)
@@ -58,7 +58,7 @@ Luna called this an "unacceptable" delay and did not rule out summoning relevant
 
 ![US Capitol Building (Aerial View)](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Z0ROLUJs7eY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BMnNz5DJKT8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🏛️ Congresswoman Luna discusses UAP video deadline and non-human evidence*
 
 [🔗 NewsNation — Congresswoman promises to address 'nonhuman origin' info](https://www.newsnationnow.com/space/ufo/luna-address-info-nonhuman-origin/)

@@ -37,7 +37,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 科學上嘅矛盾亦係致命傷：超光速旅行嘅可行性、唔同物理定律、生物長途星際旅行嘅存活率等等，都難以用現有科學解釋。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/SdCxiFM5O5Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7CzsTkmQNeo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -57,7 +57,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 | 📍 *Sonoma, California* | 📅 *Dec 28, 2025* | 🔍 *三角形 UFO / 夜視* |
 |---|---|---|
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Jp7N4tUSJYw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/MSEoXA3Dq64" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -73,7 +73,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 | 📍 *Doha, Qatar* | 📅 *Mar 25, 2026* | 🔍 *三角光球 / 雷暴* |
 |---|---|---|
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/EeG6I7LhH5U" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/78K3wVVEP1Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -89,7 +89,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 最引人深思嘅係一個假設：部分現象可能唔係「訪客」，而係**古代非人類或人工智能系統**，用嚟監視或影響地球發展。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/b8m3nPc0amA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/B7oUdXoZnoU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

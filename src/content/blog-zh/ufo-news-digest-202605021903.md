@@ -23,10 +23,10 @@ Pope 由 skeptic （懷疑論者）逐步轉變為 believer（相信者），佢
 
 **相關影片：**
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/mfHznCZXu0M" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Fo7CE2XFCpw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Nick Pope 生前最後受訪：講述佢嘅UFO調查經歷*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/DI51G2Kd3xI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7DcctpyFoxw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Nick Pope 回顧英國國防部UFO檔案*
 
 ---
@@ -39,10 +39,10 @@ Pope 由 skeptic （懷疑論者）逐步轉變為 believer（相信者），佢
 
 **相關影片：**
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/mdRzWovKqAI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DUuxA0zmAK0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *奧巴馬談外星人是否存在*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/C5iGGOsOcLs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BMnNz5DJKT8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *美國總統與UFO披露嘅政治角力*
 
 ---
@@ -60,7 +60,7 @@ Pope 由 skeptic （懷疑論者）逐步轉變為 believer（相信者），佢
 
 **相關影片：**
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/YRfW6pMiVGQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GV4SRQRfDQs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *《The Age of Disclosure》紀錄片預告*
 
 ---
@@ -73,7 +73,7 @@ Pope 由 skeptic （懷疑論者）逐步轉變為 believer（相信者），佢
 
 **相關影片：**
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/rI0XeW5KDmo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/8Ts8NNWNQZU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Goldie Hawn 分享外星人經歷*
 
 ---

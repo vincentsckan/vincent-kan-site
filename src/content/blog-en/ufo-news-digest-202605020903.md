@@ -25,8 +25,8 @@ Burlison admitted he hasn't yet obtained "hard evidence" but is working through 
 Dr. Steven Greer, also present, further alleged that one such object is located in a mountainous area outside Seoul, South Korea, potentially hundreds or even thousands of feet wide, with material so hard that conventional cutting tools are ineffective. Greer insists these are spacecraft and claims similar objects may exist within the US.
 
 > 🎥 **Related Videos:**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/5CbLqy6HFOI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/2TRAV14t3S0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/7d8sAeFmuZs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/S9pR0gfil_0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -44,7 +44,7 @@ These three orbs exhibited the following characteristics:
 While possible explanations include ball lightning, electrical discharge effects, drones, or lens artifacts, the synchronized appearance of three orbs, their sustained visibility, and controlled movement make natural explanations difficult to fully accept.
 
 > 🎥 **Related Video:**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/Mg_vNPVuYhg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/7d8sAeFmuZs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -64,7 +64,7 @@ Witness description:
 The key point is that this was a **second sighting** of the same type of triangular object! The first time, the witness didn't have a camera; the second time, they successfully recorded it. The repeated occurrence significantly reduces the likelihood of misidentification.
 
 > 🎥 **Related Video:**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/Y9zDzN5SXPo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/DZzycwMtCTY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -81,7 +81,7 @@ What troubled them most wasn't a single event, but the **persistent pattern** �
 The leak also mentioned an extreme "onion-like" secrecy system — even the highest classification networks are excluded from certain discussions, with information only transmitted verbally within secure facilities.
 
 > 🎥 **Related Video:**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/jnCby7dFZ4g" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/6zikRBV8DwQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -94,7 +94,7 @@ Physicist Eric Davis recently revealed that former President Jimmy Carter receiv
 Carter himself reported a personal UFO sighting decades ago, witnessing an unidentified flying object while serving as Governor of Georgia. The new details from this leak suggest the briefing was far more in-depth and specific than previously imagined.
 
 > 🎥 **Related Video:**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/6jfFkNBl0Ns" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/8SUJTh6Hs-I" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

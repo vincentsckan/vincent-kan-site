@@ -47,7 +47,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 *2023年係UAP披露嘅分水嶺*
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/RhAylPgl32M" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/HFIOoS7XFN4" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

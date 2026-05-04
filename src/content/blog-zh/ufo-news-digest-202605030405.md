@@ -37,10 +37,10 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 <details>
 <summary>📺 相關影片</summary>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/4eKzY9TF-CI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/4Onoyl6dXVk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Trump UFO Files Update*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/a15AJ0MPQbM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7ICzREGqYHQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Artemis II Astronauts React to Trump UFO Question*
 
 </details>
@@ -62,10 +62,10 @@ Area 51自冷戰時期已經係陰謀論嘅焦點——2025年一份報告更聲
 <details>
 <summary>📺 相關影片</summary>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/hbMEwMjO8J8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Pqc5tfCgFC8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Area 51 Earthquake Swarm Explained*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/tmD3-v9CxnY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DZzycwMtCTY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Area 51: What We Know and Don't Know*
 
 </details>
@@ -87,10 +87,10 @@ NASA小組成員 **Josh Semeter**（波士頓大學太空物理中心主任）�
 <details>
 <summary>📺 相關影片</summary>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/SaRX8N_j--A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/HGS09LzpARs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *GoFast UFO Video Analysis - Full Breakdown*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/yTq_qsYJFmE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7DcctpyFoxw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *NASA Emails Reveal Truth About GoFast Analysis*
 
 </details>
@@ -115,10 +115,10 @@ Bassett形容，如果公開真係發生，將會係「人類史上任何國家�
 <details>
 <summary>📺 相關影片</summary>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/5TfF5qNCv40" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/KiCgBn-Kbho" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Stephen Bassett on the Forces Driving UFO Disclosure*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/0UllwP4Sg_M" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GtxFzCt1Jns" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *UFO Disclosure: What's Really Happening in 2026?*
 
 </details>

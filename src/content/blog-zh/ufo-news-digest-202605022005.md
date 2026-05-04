@@ -36,7 +36,7 @@ Burlison 強調佢本人未有親眼睇過「硬證據」，但正透過國會�
 
 > ⚠️ 以上全部未經獨立驗證，但反映咗國會同民間對UAP透明度嘅持續施壓。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/U10ZgS2lCYo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/28DZgUjYbmE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -52,7 +52,7 @@ Burlison 強調佢本人未有親眼睇過「硬證據」，但正透過國會�
 
 有趣嘅背景：Carter 自己喺1969年就見過UFO，1976年競選時仲承諾公開UFO資料。但上任後冇幾耐似乎就「收咗聲」。新爆料可能解釋咗點解——佢可能知道咗太多嘢之後唔敢再講。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/OA5IsOGOoVg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BUXgR_Ji1WE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -69,7 +69,7 @@ Burlison 強調佢本人未有親眼睇過「硬證據」，但正透過國會�
 
 呢位目擊者話佢**已經係第二次見到同一物體**——第一次冇帶相機，第二次終於拍到。重複出現大大增加咗可信度。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/_oOlSsDUTpY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/78K3wVVEP1Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -96,7 +96,7 @@ Burlison 強調佢本人未有親眼睇過「硬證據」，但正透過國會�
 
 佢仲提出一個有趣推測：部分現象可能唔係「來訪者」，而係**古代非人類或人工智能系統**，用嚟監視或影響地球發展。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/2mygPnWNS_E" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/MSEoXA3Dq64" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -104,7 +104,7 @@ Burlison 強調佢本人未有親眼睇過「硬證據」，但正透過國會�
 
 另一篇分析文章指出，多年來**軍事潛艇一直在追蹤海底快速移動嘅智能物體**（USO — Unidentified Submerged Objects）。呢啲現象挑戰現有科學理解，而且大部分仍然未被公開承認。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/JiNYhRZ8EZ0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/5P-MMjyVVA8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

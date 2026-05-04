@@ -25,11 +25,11 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 影片：
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/7mCScvOm-Pc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Ek5Z5adrWSQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 *特朗普講述UFO檔案最新進展*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/3Pq1HFLYL3Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/SBkMPTargGA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 *AARO 前總監潑冷水：UFO 檔案唔會有乜驚喜*
 
@@ -43,11 +43,11 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 最近呢件事又再引起討論，連帶特朗普承諾嘅檔案 release，令 Gimbal 再度成為焦點。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/_Q-VkS7fu38" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7mzMRVXts4U" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 *經典Gimbal UFO影片重溫*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/oGTkGj_6hLY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7CzsTkmQNeo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 *前軍事飛行員分析Gimbal現象*
 
@@ -73,7 +73,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 不過要注意，到目前為止，FBI 仲未確認呢啲死亡之間有直接關聯。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/QTQkLvPwNxs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/WOsruCpciRk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 *神秘科學家死亡事件深度分析*
 

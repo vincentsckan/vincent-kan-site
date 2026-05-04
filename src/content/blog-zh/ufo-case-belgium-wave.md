@@ -19,7 +19,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 1989 年 11 月至 1990 年 4 月期間，比利時上空出現大規模不明飛行物體報告。
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/K1nv5JjFZDo" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/JP-6aP_3Gwc" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ## 關鍵事件：F-16 攔截

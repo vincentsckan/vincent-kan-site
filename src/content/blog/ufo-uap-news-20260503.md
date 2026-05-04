@@ -32,7 +32,7 @@ But a calm analysis: the USGS has not yet classified the event as anomalous, and
 
 ![Nevada desert and Area 51](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/LSyMDpKzjnI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/9tqs6Z3OQSk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🌊 Media compilation on the Area 51 earthquake swarm and the mysterious disappearance of scientists in 2026*
 
 [🔗 Daily Mail — Unusual earthquake swarm strikes near Area 51](https://www.dailymail.com/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)
@@ -80,7 +80,7 @@ More strikingly, an investigation by the Intelligence Community Inspector Genera
 
 Another key detail: Sullivan's funeral was attended by **Major General David Abba** — former Director of the Office of the Secretary of Defense for Special Access Programs (SAP). In his eulogy, Abba described Sullivan as "the smartest intelligence lieutenant I have ever met," saying he "carried secrets that very few in this country truly understand."
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Z0ROLUJs7eY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/2sznPiuKYG0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *✈️ Eric Burlison discusses Matthew Sullivan's death and the congressional UFO investigation*
 
 [🔗 Daily Mail — Burlison asks FBI to investigate Sullivan death](https://www.dailymail.com/sciencetech/article-15742843/death-air-force-whistleblower-ufo-virginia.html)
@@ -108,7 +108,7 @@ This statement neither fully denies a serial conspiracy nor rules out natural ca
 
 ![NASA scientist and aerospace research](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/KfTjSJnUGVQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DoyscKtOjsQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *👩‍🔬 The mysterious disappearance of 11 scientists — News analysis and White House response*
 
 [🔗 Daily Mail — Missing scientist Monica Reza family speaks out](https://www.dailymail.com/sciencetech/article-15769971/missing-scientist-hiking-nasa-jpl-suspicious-disappearance-monica-reza.html)

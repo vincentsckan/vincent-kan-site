@@ -35,7 +35,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 - **立法推進**：隨即加快UAP披露立法
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/jO5hJsPmsyQ" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/IEPeT-GsX5A" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

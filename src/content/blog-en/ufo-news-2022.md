@@ -35,7 +35,7 @@ heroImage: '../../assets/blog-placeholder-5.jpg'
 *2022 UAP Disclosure Timeline*
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/D1zUxh9njlM" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/8S2OmnWw96M" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

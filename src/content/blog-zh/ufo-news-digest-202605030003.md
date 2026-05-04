@@ -19,8 +19,8 @@ Scott Waring 喺 Apollo 17 嘅 NASA 舊檔案入面發現咗一個巨型 UFO，�
 
 | 📍 *月球* | 📅 *2026年4月13日* | 🔍 *月球UFO殘骸/停泊物體* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/4vNc6S1AFI0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dNq8w0E2f9M" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/6zikRBV8DwQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/AstIkKpV3EE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -35,7 +35,7 @@ Scott Waring 喺 Apollo 17 嘅 NASA 舊檔案入面發現咗一個巨型 UFO，�
 
 | 📍 *火星* | 📅 *2026年4月30日* | 🔍 *火星生命痕跡* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/UrU6jWGSHts" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/8Ts8NNWNQZU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ![火星疑似雕像](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
 
@@ -57,7 +57,7 @@ NASA 將佢標記為「Comet R3 Pan-STARRS (C/2025 R3)」，但 Waring 指出：
 
 | 📍 *太陽* | 📅 *2026年4月26日* | 🔍 *巨型UFO/「彗星」爭議* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/LjYF2b-48HY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/4Onoyl6dXVk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -71,7 +71,7 @@ NASA 將佢標記為「Comet R3 Pan-STARRS (C/2025 R3)」，但 Waring 指出：
 
 | 📍 *拿坡里，意大利* | 📅 *2026年4月12日* | 🔍 *慢速火球/疑似UFO* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/QcUN4qGWIMs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/8SUJTh6Hs-I" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -83,7 +83,7 @@ Scott Waring 認為呢個係 **爬蟲人/人類混種** 嘅古代雕塑證據，
 
 | 📍 *南極* | 📅 *2026年4月14日* | 🔍 *爬蟲人遺蹟* |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/x6E5Mp63E1E" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/80kpS7V5f4w" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

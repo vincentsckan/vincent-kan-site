@@ -40,7 +40,7 @@ Kirkpatrick also said that military infrared cameras often capture engine heat s
 
 ### 📺 Related Video
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/nFMdu9eE1sI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/978heKmAXW0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 <p style="text-align:center;"><em>Trump: UFO Files "Very Interesting" to Be Released — News Report Clip</em></p>
 
 ---
@@ -59,7 +59,7 @@ Meanwhile, a **former defense official** told NewsNation that the promised UFO i
 
 ### 📺 Related Video
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/mCC4ppHFFf4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BUXgR_Ji1WE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 <p style="text-align:center;"><em>Anna Paulina Luna Discusses UAP and Non-Human Intelligence</em></p>
 
 ---
@@ -88,7 +88,7 @@ At the time, US Air Force personnel witnessed strange lights in Rendlesham Fores
 
 ### 📺 Related Video
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/T2feJh9U7YQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CwAJHumVPOE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 <p style="text-align:center;"><em>Rendlesham Forest UFO Incident Full Documentary — The UK's Most Famous UFO Case</em></p>
 
 ---
@@ -115,12 +115,12 @@ Also, Trump previously ordered the release of files on the assassinations of **J
 
 ## ⭐ **Featured Video of the Day**
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/nGmD0MPb7SQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DQdylq-b4Mk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 <p style="text-align:center;"><em>Latest UAP Disclosure Progress: Exclusive Interview with Former Defense Official</em></p>
 
 ---
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/C_xhjvM2fZs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7mzMRVXts4U" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 <p style="text-align:center;"><em>US Government UFO Files: How Far Are We from the Truth?</em></p>
 
 ---

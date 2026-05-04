@@ -17,7 +17,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 特朗普之前都試過喺任內簽署《2023國防授權法》，要求國防部披露UAP相關資訊。而家佢再次提起呢件事，唔少人推測可能真係有新一批檔案準備公開。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/mqJm5fNbQLs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/WOsruCpciRk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -29,7 +29,7 @@ NewsNation報導，一位美國國會女議員公開承諾會正視同處理涉�
 
 呢個發言被認為係繼2023年David Grusch聽證會之後，再一次有國會議員認真對待UAP披露問題嘅信號。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/5LANmPq9Gpk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GegAPC_yEUM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -41,7 +41,7 @@ NewsNation報導，一位美國國會女議員公開承諾會正視同處理涉�
 
 呢篇報導再次證明UFO話題已經進入主流媒體討論範圍，唔再係小眾興趣。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Z6O-GNKTZak" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/80kpS7V5f4w" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -53,7 +53,7 @@ NewsNation報導，一位美國國會女議員公開承諾會正視同處理涉�
 
 當然，呢個係假設性嘅警告，但背後提醒我哋：人類對外星智慧嘅認知可能仲有好大距離。對於UAP披露，呢啲討論促使公眾思考——我哋真係準備好面對真相未？
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/QBF7Nq4JZsQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Fo7CE2XFCpw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

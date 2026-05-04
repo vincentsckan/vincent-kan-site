@@ -26,8 +26,8 @@ Burlison坦言自己仲未掌握「硬證據」，但正透過國會監督渠道
 同場嘅Dr. Steven Greer更進一步爆料，話其中一個物體位於韓國首爾以外嘅山區，體積可能有幾百甚至幾千英尺闊，而且材料堅硬到傳統切割工具都搞唔掂。Greer堅稱呢啲係太空船，仲話類似物體可能美國境內都有。
 
 > 🎥 **相關影片：**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/5CbLqy6HFOI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/2TRAV14t3S0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/7d8sAeFmuZs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/S9pR0gfil_0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -45,7 +45,7 @@ Burlison坦言自己仲未掌握「硬證據」，但正透過國會監督渠道
 雖然可能解釋包括球狀閃電、放電效應、無人機或鏡頭偽影，但三球同步出現、持續可見同受控移動呢啲特徵，令自然解釋難以完全成立。
 
 > 🎥 **相關影片：**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/Mg_vNPVuYhg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/7d8sAeFmuZs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -65,7 +65,7 @@ Burlison坦言自己仲未掌握「硬證據」，但正透過國會監督渠道
 重點係呢個係**第二次目擊**同一款三角形物體！第一次冇帶相機，第二次成功拍低。重複出現令誤認可能性大減。
 
 > 🎥 **相關影片：**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/Y9zDzN5SXPo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/DZzycwMtCTY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -82,7 +82,7 @@ Rhea話自己嘅專業背景涵蓋電光學、激光系統、先進感測器同�
 爆料仲提到極端嘅「洋蔥式」保密制度——即使最高機密網絡都排除喺某啲討論之外，資訊只透過口頭方式喺安全設施內傳遞。
 
 > 🎥 **相關影片：**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/jnCby7dFZ4g" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/6zikRBV8DwQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -95,7 +95,7 @@ Rhea話自己嘅專業背景涵蓋電光學、激光系統、先進感測器同�
 Carter本人幾十年前就曾經報告親眼目擊過UFO，佢喺擔任佐治亞州州長期間見過一個不明飛行物體。呢次新爆料嘅細節揭示，當年嘅簡報可能比外界想象嘅更加深入同具體。
 
 > 🎥 **相關影片：**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/6jfFkNBl0Ns" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/8SUJTh6Hs-I" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

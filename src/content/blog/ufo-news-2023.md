@@ -46,7 +46,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 *2023 was a watershed year for UAP disclosure*
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/RhAylPgl32M" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/HFIOoS7XFN4" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

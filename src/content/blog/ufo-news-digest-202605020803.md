@@ -21,7 +21,7 @@ tags: ['UFO', 'UAP', 'news', '自動更新']
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/hSGF6yjJJjc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *CIA Director John Ratcliffe Warns on Fox & Friends: UAP Technology Surpasses US Capabilities*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1KMyf6VSEI4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/B_jQC8BnHR8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *"The Age of Disclosure" Documentary Trailer — Unveiling the Full Scope of the UAP Disclosure Movement*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Gru2EDJvj9Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
@@ -119,7 +119,7 @@ A witness from **Sonoma, California**, captured footage of a mysterious triangul
 
 The witness uploaded both the raw, unfiltered version and a shorter, noise-reduced version to YouTube.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1KMyf6VSEI4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/B_jQC8BnHR8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 [🔗 Latest UFO Sightings — California Night Vision Triangle Footage](https://www.latest-ufo-sightings.net/2026/02/video-eyewitness-report-ufo-triangle-captured-on-night-vision-in-northern-california.html)
 

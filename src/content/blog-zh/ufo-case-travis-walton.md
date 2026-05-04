@@ -23,7 +23,7 @@ Walton出於好奇落車靠近，突然被一道藍綠色光束擊中，整個�
 **5日後**，Walton離奇出現喺一個電話亭旁邊，神志不清。佢後來描述被帶到外星飛船上，見到多個細小灰色外星人。佢嘅故事被拍攝成經典電影 **《Fire in the Sky》（1993）**。
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/utcWz6qms0Y" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/8ocIUpdOaZE" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

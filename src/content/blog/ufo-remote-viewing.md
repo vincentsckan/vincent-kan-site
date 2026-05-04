@@ -29,7 +29,7 @@ Interestingly, multiple remote viewers claimed to have "detected" using this met
 The CIA released an evaluation report of the Stargate project in 1995, concluding that remote viewing was "not proven to have practical intelligence value," but some viewing results were indeed "inexplicable by random probability."
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/NHT1Vj-mDdQ" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/3ucDfR3xMdQ" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

@@ -33,7 +33,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 ![內華達沙漠與51區](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/LSyMDpKzjnI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/9tqs6Z3OQSk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🌊 關於Area 51地震群及2026年科學家神秘失蹤的媒體報導合集*
 
 [🔗 Daily Mail — Unusual earthquake swarm strikes near Area 51](https://www.dailymail.com/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)
@@ -81,7 +81,7 @@ Liberation Times獨家報導揭露，Sullivan涉嫌曾參與一項**據稱的非
 
 另一關鍵細節：Sullivan的葬禮由 **David Abba 少將**——曾任國防部特別訪問計劃（SAP）中央辦公室主任——親自出席。Abba在悼詞中形容Sullivan是「遇過最聰明的情報中尉」，說他「背負了這個國家極少數人真正理解的秘密」。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Z0ROLUJs7eY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/2sznPiuKYG0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *✈️ Eric Burlison談Matthew Sullivan死因及國會UFO調查*
 
 [🔗 Daily Mail — Burlison asks FBI to investigate Sullivan death](https://www.dailymail.com/sciencetech/article-15742843/death-air-force-whistleblower-ufo-virginia.html)
@@ -109,7 +109,7 @@ Reza是**Mondaloy**——一種用於火箭引擎的高溫鎳基超級合金—�
 
 ![NASA科學家與航空航天研究](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/KfTjSJnUGVQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DoyscKtOjsQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *👩‍🔬 11名科學家神秘失蹤事件 — 新聞分析及白宮回應*
 
 [🔗 Daily Mail — Missing scientist Monica Reza family speaks out](https://www.dailymail.com/sciencetech/article-15769971/missing-scientist-hiking-nasa-jpl-suspicious-disappearance-monica-reza.html)

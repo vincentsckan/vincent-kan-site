@@ -30,7 +30,7 @@ heroImage: '../../assets/blog-placeholder-4.jpg'
 CIA喺1995年發布咗Stargate計劃嘅評估報告，結論係遠距觀測「未被證實有實用情報價值」，但部分觀測結果確實「無法用隨機概率解釋」。
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/NHT1Vj-mDdQ" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/3ucDfR3xMdQ" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

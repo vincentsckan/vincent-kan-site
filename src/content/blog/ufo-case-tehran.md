@@ -29,7 +29,7 @@ In the early hours of September 19, 1976, an extremely bright unidentified objec
 The U.S. Defense Intelligence Agency (DIA) later declassified this report, describing it as "unexplainable," concluding that "the object demonstrated capabilities beyond known technology."
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/edAlAh0XD7s" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/96lo1zaOSL0" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

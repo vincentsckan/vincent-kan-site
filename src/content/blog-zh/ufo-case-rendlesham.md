@@ -19,7 +19,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 1980 年 12 月 26 日凌晨，英國皇家空軍伍德布里奇基地（RAF Woodbridge）嘅美國空軍人員報告，附近嘅倫德爾沙姆森林（Rendlesham Forest）出現神秘亮光。
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/0rGLETvDZu8" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/6Y8wHmLgDks" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 呢次事件被稱為 **「英國嘅羅斯威爾」**，係少數有軍方人員親身接觸、地面有物理痕跡、同埋雷達記錄嘅 UAP 案例。

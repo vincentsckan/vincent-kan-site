@@ -42,7 +42,7 @@ Beyond Hynek's classification, Vallee proposed a more complex system:
 Beyond UFO research, Vallee was also a key figure in the early internet—he was one of the early developers of ARPANET (the precursor to the internet).
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/UziQ3Z4qyRo" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/NhM6q7roy1w" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

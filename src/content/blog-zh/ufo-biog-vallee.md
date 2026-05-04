@@ -43,7 +43,7 @@ Vallee喺1960年代本來係一位備受尊重嘅天文學家。佢同Hynek合�
 除咗UFO研究，Vallee仲係早期互聯網嘅重要人物——佢係ARPANET（互聯網前身）嘅早期開發者之一。
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/UziQ3Z4qyRo" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/NhM6q7roy1w" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

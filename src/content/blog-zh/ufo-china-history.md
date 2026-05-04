@@ -32,7 +32,7 @@ heroImage: '../../assets/blog-placeholder-4.jpg'
 *中國古代繪畫中嘅神秘天空現象*
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/IBmQX3AWx7A" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/4ww6ZZXHdHo" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

@@ -28,7 +28,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 特朗普冇具體講會公開啲乜，但暗示內容相當爆炸性，包括「唔似係呢個世界嘅科技」。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/hPLHhz7Jwvs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/5P-MMjyVVA8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -38,7 +38,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 如果成事，呢次將會係美國政府首次正式出示被歸類為「非人類」嘅物料或證據。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1PpO8K13Si0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/NJ4JuA2UYL4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -48,7 +48,7 @@ NewsNation 報導，一位前國防部官員明確表示今次嘅UFO資訊釋放
 
 呢個講法同近期多位前官員嘅立場一致，令到成件事嘅可信度大大提升。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/FjBwP4aAkyM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GtxFzCt1Jns" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -60,15 +60,15 @@ The Free Press 刊登咗一篇極具爭議性嘅長文，訪問咗一位美國�
 
 ![UFO 快訊圖片](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/2xE7Ph6r_XY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Pqc5tfCgFC8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
 ## ⑤ 更多UFO相關影片精選
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/k7TRU7aVYoY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7d8sAeFmuZs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/IDeR8ysXRhE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/E4urJeP4IYU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

@@ -24,11 +24,11 @@ However, former AARO (All-domain Anomaly Resolution Office) director Sean Kirkpa
 
 Video:
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/7mCScvOm-Pc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Ek5Z5adrWSQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 *Trump discusses the latest progress on UFO files*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/3Pq1HFLYL3Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/SBkMPTargGA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 *Former AARO director pours cold water: UFO files won't have any surprises*
 
@@ -42,11 +42,11 @@ The classic "Gimbal" UFO video captured by the U.S. Navy in 2015 remains unexpla
 
 This incident has recently sparked discussion again, and with Trump's promised file release, the Gimbal is once again in the spotlight.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/_Q-VkS7fu38" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7mzMRVXts4U" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 *Revisiting the classic Gimbal UFO video*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/oGTkGj_6hLY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7CzsTkmQNeo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 *Former military pilot analyzes the Gimbal phenomenon*
 
@@ -72,7 +72,7 @@ One of the deceased is NASA engineer Joshua LeBlanc, and the FBI is investigatin
 
 However, it's worth noting that the FBI has not yet confirmed any direct links between these deaths.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/QTQkLvPwNxs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/WOsruCpciRk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 *In-depth analysis of the mysterious scientist deaths*
 

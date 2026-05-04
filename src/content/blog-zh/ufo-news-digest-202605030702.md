@@ -23,7 +23,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 有分析指出，特朗普可能係回應近月嚟國會內部對UAP問題越嚟越多嘅壓力，或者純粹係選舉前嘅策略——但無論動機係咩，呢啲言論都再次將UFO推上主流議程。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/NvP4bKzsX_Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GegAPC_yEUM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -37,7 +37,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 之前已經有多位吹哨人如David Grusch同Ryan Graves喺國會作證，呢位國會議員嘅承諾可能意味着準備好進行下一步——真正公開更多受保護嘅資訊。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/BGAAh93l4F0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GV4SRQRfDQs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -51,7 +51,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 今次《衞報》嘅報道再次引起討論，因為有新嘅證人同文件浮出水面，進一步印證呢次事件唔係普通嘅誤認。Rendlesham已經成為UFO研究中最多人研究、同時最具爭議嘅案件之一。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dUypHStRJ2Y" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GtxFzCt1Jns" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -65,7 +65,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 前官員嘅呢番話，可能係為即將到來嘅重大披露做準備。而到底係新檔案定係吹哨人出面，就要睇跟住落嚟嘅發展。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/lGDFjLJkHXc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GegAPC_yEUM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -73,7 +73,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 以下係今日推介嘅幾條熱門UFO影片：
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ybUXfnOaK3w" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/78K3wVVEP1Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

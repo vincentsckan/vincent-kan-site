@@ -27,7 +27,7 @@ Sullivan, only 39 years old, reportedly died by suicide on May 12, 2024, but the
 
 Sullivan's death is linked to David Grusch—Grusch had contacted Sullivan before his death and helped him prepare to come forward as a whistleblower. Burlison stated: "Grusch was helping him step forward as a whistleblower."
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/6iLQ4ETJcPY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BYzjwk1O8Ck" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ![Matthew Sullivan](../../assets/blog-placeholder-3.jpg)
 
@@ -169,7 +169,7 @@ The research community is proposing a shift from "Ufology," which focuses on cas
 
 ## 🎬 Recommended Viewing
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/1KMyf6VSEI4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/AZo-Q-FXoXM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *The Age of Disclosure Documentary Trailer — 34 Government Officials Share UFO Information*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Gru2EDJvj9Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

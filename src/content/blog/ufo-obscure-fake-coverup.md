@@ -94,5 +94,5 @@ If you want to see how foreign media reported this, refer to the following artic
 > 💡 **What do you think after reading this?** Turns out, UFO legends aren't always about the government hiding aliens—sometimes, it's the government deliberately spreading false information. Next time you see a flying saucer photo, maybe think twice: could this photo be a smokescreen for some secret weapons program?  
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/CX_Q-EMAVDk" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/BCYYEL0BROs" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>

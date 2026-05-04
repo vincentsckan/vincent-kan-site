@@ -22,7 +22,7 @@ Wilcock was a key figure in the UFO disclosure movement. His YouTube channel, "D
 
 > This incident occurs during a sensitive period when Congress and the FBI are investigating the deaths and disappearances of multiple scientists, further fueling conspiracy theories.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/U_9D9LQnPbY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/2Y0z03wB0KU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -34,7 +34,7 @@ About a month after Trump ordered the declassification of all federal government
 
 Sources indicate the domain registration follows up on Trump's earlier executive order requiring government agencies to declassify all files regarding UFOs and "Unidentified Aerial Phenomena" (UAP). Obama had previously mentioned in a podcast interview that the universe is so vast, there is a high probability of extraterrestrial life.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/8MqjL2j8k1Y" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/2Y0z03wB0KU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -53,7 +53,7 @@ Cases involved include:
 
 Responding to reporters' questions, Trump described these as "very serious matters." While hoping it's just a coincidence, he said the government will follow up with the investigation.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/TW_-RfH7Gls" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Ek5Z5adrWSQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -75,7 +75,7 @@ Key Timeline:
 | 2022 | First Congressional UFO hearing in 50 years |
 | 2026 | Trump orders declassification of all UFO files |
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/7h_DF8ZShZ8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CwAJHumVPOE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -87,7 +87,7 @@ As the government gradually discloses UFO information, how media shapes our imag
 
 Retired Rear Admiral Timothy Gallaudet said: "Hollywood has been psychologically preparing the public for decades. I believe people can accept (the fact of extraterrestrial life), of course, depending on what information the government releases."
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/3pMQ7m2t0B8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/-_duWIB0jC8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

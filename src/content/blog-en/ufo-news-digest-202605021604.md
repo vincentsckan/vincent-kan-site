@@ -26,10 +26,10 @@ Area 51 has long been a focal point of UFO conspiracy theories—a 2025 report e
 <summary>📺 Related Videos</summary>
 
 **Area 51 Earthquake Swarm Report:**
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/rgc-f6M4dNE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DsiKEBAFmm4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 **Full Breakdown of Area 51's Secret History:**
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/gXH3CjqSndA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/RqptVKs7wbc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 </details>
 
 ---
@@ -50,10 +50,10 @@ Social media speculation pointed to a circular building in Yangju, South Korea (
 <summary>📺 Related Videos</summary>
 
 **Eric Burlison Interview Clip:**
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fLDhVLPC13I" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/E4urJeP4IYU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 **Coulthart Giant UFO Location Analysis:**
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ekgQJLL7NOc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ARY_ni7SVPg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 </details>
 
 ---
@@ -72,10 +72,10 @@ Notably, this MKUltra hearing is closely linked to recent **bizarre disappearanc
 <summary>📺 Related Videos</summary>
 
 **Full Explanation of the MKUltra Program:**
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/q5LRk-6d3pI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Ek5Z5adrWSQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 **The Mystery of Frank Olson's Death:**
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/X0W0YlFZGxw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Abe7RsvoXEs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 </details>
 
 ---
@@ -94,10 +94,10 @@ While Reza's case remains unsolved, the coincidence of these scientists' consecu
 <summary>📺 Related Videos</summary>
 
 **Integrated Report on Bizarre Scientist Disappearances:**
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/8WBFj3JVMkI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/8Ts8NNWNQZU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 **Trump Responds to Scientist Investigation:**
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/fRZ7f6sGqLE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/NJ4JuA2UYL4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 </details>
 
 ---

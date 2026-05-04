@@ -51,7 +51,7 @@ Grey嘅形象很大程度上係由媒體塑造嘅：
 *流行文化中Grey嘅經典形象*
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/LLTF7tbpQlw" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/-ccCf5hGJxI" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ---

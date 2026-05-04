@@ -22,10 +22,10 @@ Pope gradually transformed from a skeptic to a believer, and his journey profoun
 
 **Related Videos:**
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/mfHznCZXu0M" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Fo7CE2XFCpw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Nick Pope's last interview: recounting his UFO investigation experiences*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/DI51G2Kd3xI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7DcctpyFoxw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Nick Pope reflects on the UK Ministry of Defence's UFO files*
 
 ---
@@ -38,10 +38,10 @@ The two former presidents are trading fire over the alien issue, possibly linked
 
 **Related Videos:**
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/mdRzWovKqAI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DUuxA0zmAK0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Obama discusses whether aliens exist*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/C5iGGOsOcLs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BMnNz5DJKT8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *The political struggle between U.S. presidents and UFO disclosure*
 
 ---
@@ -59,7 +59,7 @@ The documentary points out that UAPs are not just strange lights in the sky; the
 
 **Related Videos:**
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/YRfW6pMiVGQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GV4SRQRfDQs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Trailer for *The Age of Disclosure* documentary*
 
 ---
@@ -72,7 +72,7 @@ While some may dismiss a Hollywood star's claims, Goldie Hawn has always been a 
 
 **Related Videos:**
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/rI0XeW5KDmo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/8Ts8NNWNQZU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Goldie Hawn shares her alien experience*
 
 ---

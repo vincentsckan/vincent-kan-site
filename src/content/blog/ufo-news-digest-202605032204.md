@@ -28,7 +28,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 ![特朗普與UFO話題](/vincent-kan-site/_astro/blog-placeholder-3.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/5PmHR0QRBHE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BUXgR_Ji1WE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🔴 Trump and UFOs: A history of promises and delays — recap video*
 
 [🔗 AP News — Trump keeps us up in the air with his hints](https://apnews.com/article/trump-ufo-files-release)
@@ -50,7 +50,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 > 💡 分析：呢個「非人類智能」嘅措辭值得留意——唔係講「外星人」（aliens），而係用咗更中立嘅「NHI」呢個term。呢個用語喺2023年David Grusch聽證會後開始廣泛被官方使用，反映緊政府內部已經將UAP問題由「係唔係外星人」提升到「國家安全同科技優勢」嘅層次。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/CAkxh7neSpI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/80kpS7V5f4w" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🏛️ NewsNation report on the Congresswoman's NHI promise*
 
 [🔗 NewsNation — Congresswoman promises to address NHI info](https://www.newsnationnow.com/space/ufo/congresswoman-nonhuman-origin-information/)
@@ -79,7 +79,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 ![科幻風格外星科技想像圖](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/MasFx2nFt-E" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/6zikRBV8DwQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *👽 Dr. Don Donderi discussing extraterrestrial technology and threats*
 
 [🔗 紐約郵報 — Alien tech could destroy us in a microsecond](https://nypost.com/2026/04/06/world-news/intelligent-alien-life-is-out-there-and-its-technology-could-destroy-us-in-a-microsecond-researchers-claim/)
@@ -107,7 +107,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 呢兩篇報導嘅出現，印證咗**UFO話題已經完全擺脫「邊緣題材」標籤**，成為英美主流媒體認真報導嘅議題。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/qB-N7KQ7hX4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/28DZgUjYbmE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🇬🇧 The Guardian discusses UFO transparency under the Trump admin*
 
 [🔗 The Guardian — Never been closer: UFO watchers buoyed](https://www.theguardian.com/world/2026/apr/12/trump-vance-ufo-alien-obsession)
@@ -128,10 +128,10 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 ## 📹 更多相關影片
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/BFSWUEGqSOA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DZzycwMtCTY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Congressional UFO hearings recap 2023-2025 — the full timeline*
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/FKGbqOBaCvo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/AstIkKpV3EE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *The latest on Trump's UAP disclosure executive order*
 
 ---

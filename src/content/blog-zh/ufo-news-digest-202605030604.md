@@ -23,7 +23,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 《The Verge》喺2019年曾形容Sentient為「無所不食」嘅系統。而Black Vault通過FOIA取得嘅內部電郵入面，最關鍵嘅一句就係：*「Sentient has a specific module to search for UAPs in satellite imagery, but an external client must formally request its activation」*——之後嘅回覆全部被REDACTED。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/NvP4bKzsX_Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GegAPC_yEUM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -39,7 +39,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 呢個立場同Jacques Vallée等UFO研究者嘅「跨維度假說」不謀而合。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/BGAAh93l4F0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GV4SRQRfDQs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -53,7 +53,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 然後，國會聽證會冇咗佢。UAP研究界炸開咗一條問題：**呢個真係意外咩？**
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dUypHStRJ2Y" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GtxFzCt1Jns" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -63,7 +63,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 喺卡塔爾首都杜哈嘅一場雷暴期間，有人拍攝到**三個發光體**以三角形編隊飛行。片段引發熱議——到底係罕見嘅自然現象定係未解釋嘅UFO？當地居民形容呢三個光體喺閃電之間穩定移動，形成完美嘅幾何排列。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/lGDFjLJkHXc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GegAPC_yEUM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -73,7 +73,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 物理學家 **Eric Davis** 聲稱，前總統Jimmy Carter喺1977年收到過一份關於可能外星接觸嘅**秘密UFO簡報**。呢個新細節重新點燃咗呢個謎團——Carter本身曾經講過自己見過UFO，但呢次係首次有人證實佢喺白宮時期收到過官方簡報。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/LH_h7n9vB7E" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3S0sxE7KEKs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -81,7 +81,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 想睇更多？以下係今日推介嘅YouTube播放清單：
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/ybUXfnOaK3w" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/78K3wVVEP1Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

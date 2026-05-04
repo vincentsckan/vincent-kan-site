@@ -27,7 +27,7 @@ U.S. Representative **Anna Paulina Luna** posted a tribute on X, calling Wilcock
 
 Wilcock's YouTube channel, "Divine Cosmos with David Wilcock," has over **46,000,000 views** and **518,000 subscribers**.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/f0K9BqjBsS0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/B_jQC8BnHR8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *David Wilcock — Divine Cosmos Cosmology Show*
 
 🔗 [The Independent — David Wilcock obituary](https://www.independent.co.uk/news/world/americas/david-wilcock-ufo-researcher-dead-b2963362.html)
@@ -50,7 +50,7 @@ Online speculation quickly followed, with one X user joking: "Aliens are shaking
 
 The report also revisited the **origins of the Area 51 myth**: A 2025 report revealed that the Pentagon had deliberately manufactured UFO conspiracy theories to cover up classified weapons programs, including distributing fake flying saucer photos to residents during the Cold War. Whistleblower **Robert Lazar**'s 1989 claims of reverse-engineering alien spacecraft at the S-4 facility further cemented Area 51's place at the core of UFO lore.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/VZQhPBdhNtY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3VwzW4CCi9A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Full Analysis of the Area 51 Alien Conspiracy*
 
 🔗 [Daily Mail — Earthquake swarm near Area 51](https://www.dailymail.co.uk/sciencetech/article-15779437/earthquake-swarm-area-51-nevada.html)
@@ -85,7 +85,7 @@ Congressman **Tim Burchett** drew parallels between MKUltra and the current scie
 
 ![CIA MKUltra Program Historical Archive](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/J6sQjypyZQg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/RqptVKs7wbc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *MKUltra Mind Control Program Documentary*
 
 🔗 [The Independent — FBI investigates scientists deaths](https://www.independent.co.uk/news/world/americas/crime/scientists-killed-disappeared-fbi-investigation-b2961506.html)
@@ -109,7 +109,7 @@ Journalist **George Knapp** showed an unprecedented clip at a recent congression
 
 Knapp described it: "That was a Hellfire missile hitting that UFO, and it just bounced right off, and it kept flying. There's also a server full of batches of these videos that Congress and the public don't have access to."
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/2XH4cKXHYeA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/5P-MMjyVVA8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Congressional UFO Hearing — Hellfire Missile Strikes UAP Footage*
 
 🔗 [The Independent — Aliens.gov domain](https://www.independent.co.uk/news/world/americas/us-politics/aliens-domain-name-trump-ufos-b2941728.html)
@@ -132,7 +132,7 @@ Knapp described it: "That was a Hellfire missile hitting that UFO, and it just b
 
 ![UFO Researcher David Wilcock](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Q8DmOQuKIsY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DUuxA0zmAK0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Congressional UFO Hearing — Full Hearing Video*
 
 ---

@@ -18,7 +18,7 @@ On the afternoon of 6 April 1966, students and teachers at Westall Primary Schoo
 Over **200 students and teachers** witnessed the event. Military personnel and mysterious men in black suits quickly arrived at the school, demanding that staff and students remain silent. The incident was deliberately covered up for decades.
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/FQK9VFZEWmQ" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/8yxg5BCdAHQ" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 It wasn't until the 2000s that the Westall incident regained media attention. The 2016 documentary *Westall '66* interviewed witnesses from the time, who recounted their experiences firsthand.

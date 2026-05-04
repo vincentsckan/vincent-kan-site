@@ -23,7 +23,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 順帶一提，2025年有報告爆料話五角大樓當年**故意散播UFO陰謀論**嚟掩蓋秘密武器計劃，仲要派空軍軍官喺酒吧派發偽造嘅飛碟相片。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/3v7Hstj11LU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3S0sxE7KEKs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -39,7 +39,7 @@ Burlison承認佢冇第一手證據，消息來自政府同非政府來源。佢
 
 Burlision之前已經爆料話**特朗普總統已被全面簡報**有關外星人、自1940年代以來回收嘅UFO，甚至仲有外星人-人類混血體生活喺地球上。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/B-VPm1-Tiig" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7iCNaXWjmJg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -53,7 +53,7 @@ Burlision之前已經爆料話**特朗普總統已被全面簡報**有關外星�
 
 田納西州眾議員 **Tim Burchett** 將MKUltra同近期科學家失蹤事件相提並論：「佢哋綁架人，餵佢哋食acid，嘗試消除佢哋嘅記憶。然後佢哋上法庭被告。然後佢哋話呢個計劃唔存在。到1975年，佢哋下令銷毀紀錄。到後來又話『的確存在過，但而家冇咗』。我哋應該信邊個謊言？」
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/hWYfa50YcmE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/MSEoXA3Dq64" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

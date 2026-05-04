@@ -36,7 +36,7 @@ Even Doty himself admits that Project Serpo could very well be an elaborate **ps
 
 Scientific contradictions are also a fatal flaw: the feasibility of faster-than-light travel, differing physical laws, the survival rate of biological beings on long interstellar journeys, etc., are all difficult to explain with current science.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/SdCxiFM5O5Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7CzsTkmQNeo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -56,7 +56,7 @@ The night vision footage is completely unprocessed, preserving the rawest data, 
 | 📍 *Sonoma, California* | 📅 *Dec 28, 2025* | 🔍 *Triangular UFO / Night Vision* |
 |---|---|---|
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Jp7N4tUSJYw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/MSEoXA3Dq64" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -72,7 +72,7 @@ While they could be natural phenomena like ball lightning or ionization effects,
 | 📍 *Doha, Qatar* | 📅 *Mar 25, 2026* | 🔍 *Triangular Orbs / Thunderstorm* |
 |---|---|---|
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/EeG6I7LhH5U" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/78K3wVVEP1Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -88,7 +88,7 @@ Key points:
 
 Most thought-provoking is a hypothesis: some phenomena may not be "visitors," but **ancient non-human or artificial intelligence systems**, used to monitor or influence Earth's development.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/b8m3nPc0amA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/B7oUdXoZnoU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
