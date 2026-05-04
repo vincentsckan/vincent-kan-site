@@ -20,7 +20,7 @@ export const ui = {
     'nav.about': 'About',
     'nav.language': '🌐 Language',
     
-    'home.greeting': 'Vincent Kan',
+    'home.greeting': 'Davis Kan',
     'home.subtitle': 'Tech Enthusiast • UFO/UAP Researcher • AI Player • Hong Konger',
     'home.cta': 'Explore Articles',
     'home.latest': 'Latest UAP News',
@@ -40,7 +40,7 @@ export const ui = {
     'about.skills': 'Skills',
     'about.contact': 'Get in touch',
     
-    'footer.copyright': '© 2026 Vincent Kan. All rights reserved.',
+    'footer.copyright': '© 2026 Davis Kan. All rights reserved.',
     'footer.privacy': 'Privacy-first analytics • No cookies',
     'footer.pages': 'Pages',
     'footer.topics': 'Topics',
@@ -52,7 +52,7 @@ export const ui = {
     'lang.switch': 'Switch to 中文',
     'lang.current': 'English',
     
-    'meta.title': 'Vincent Kan — UFO/UAP Research & News',
+    'meta.title': 'Davis Kan — UFO/UAP Research & News',
     'meta.desc': 'Tech enthusiast • UFO/UAP researcher • AI player • Hong Konger',
     'meta.keywords': 'UFO,UAP,Unidentified Flying Object,alien,extraterrestrial,Hong Kong UFO,disclosure',
     
@@ -68,7 +68,7 @@ export const ui = {
     'nav.about': '關於',
     'nav.language': '🌐 語言',
     
-    'home.greeting': 'Vincent Kan',
+    'home.greeting': 'Davis Kan',
     'home.subtitle': '科技愛好者 • UFO/UAP 研究者 • AI 玩家 • 香港人',
     'home.cta': '瀏覽文章',
     'home.latest': '最新 UAP 新聞',
@@ -88,7 +88,7 @@ export const ui = {
     'about.skills': '技能',
     'about.contact': '聯絡我',
     
-    'footer.copyright': '© 2026 Vincent Kan。保留所有權利。',
+    'footer.copyright': '© 2026 Davis Kan。保留所有權利。',
     'footer.privacy': '私隱優先統計 • 無 Cookies',
     'footer.pages': '頁面',
     'footer.topics': '主題',
@@ -100,7 +100,7 @@ export const ui = {
     'lang.switch': 'Switch to English',
     'lang.current': '繁體中文',
     
-    'meta.title': 'Vincent Kan — UFO/UAP 研究與新聞',
+    'meta.title': 'Davis Kan — UFO/UAP 研究與新聞',
     'meta.desc': '科技愛好者 • UFO/UAP 研究者 • AI 玩家 • 香港人',
     'meta.keywords': 'UFO,UAP,不明飛行物體,外星人,香港UFO,飛碟,外星文明,全球UAP披露,宇宙奧秘',
     
