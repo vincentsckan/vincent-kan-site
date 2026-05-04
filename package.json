@@ -7,9 +7,10 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "node scripts/generate-news-sitemap.cjs && node scripts/generate-faq-schema.cjs && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "generate-sitemaps": "node scripts/generate-news-sitemap.cjs && node scripts/generate-faq-schema.cjs"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.4",
