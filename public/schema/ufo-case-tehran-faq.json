@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happened in the 1976 Tehran UFO incident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On September 19, 1976, two Iranian Air Force F-4 Phantom jets were scrambled to intercept a UFO over Tehran. When approaching the object, all onboard electronics and communications failed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Tehran UFO incident documented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The US Defense Intelligence Agency (DIA) classified the incident in a report. It remains one of the best-documented military UFO encounters in history."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is the Tehran case significant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's significant because it involves military radar confirmation, visual sighting by trained pilots, and documented electromagnetic effects on aircraft systems."
+      }
+    }
+  ]
+}

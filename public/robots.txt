@@ -3,3 +3,5 @@ Allow: /
 
 Sitemap: https://www.disclosurehk.com/sitemap-index.xml
 
+
+Sitemap: https://www.disclosurehk.com/news-sitemap.xml

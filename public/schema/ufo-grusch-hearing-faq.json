@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is David Grusch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "David Grusch is a former US intelligence official and whistleblower who testified before Congress in July 2023. He claimed the US government possesses recovered non-human craft and biological remains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What did David Grusch testify about UFOs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Grusch testified under oath that the US government has operated secret UAP crash retrieval and reverse-engineering programs for decades, and that recovered biological specimens were of non-human origin."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Was the Grusch hearing significant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. It was considered the most significant UFO hearing in decades because it featured a credentialed intelligence official under oath, and bipartisan members of Congress took it seriously."
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What were the Phoenix Lights of 1997?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On March 13, 1997, thousands of people across Arizona and Nevada reported a massive V-shaped craft silently gliding across the night sky. The object was reportedly miles wide."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Did the governor of Arizona see the Phoenix Lights?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Arizona Governor Fife Symington was among the witnesses. He later said: \"I witnessed a massive delta-shaped craft silently moving over the mountains.\""
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Was the Phoenix Lights ever explained?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The US Air Force claimed they were flares dropped during a training exercise, but witnesses and researchers dispute this, noting the flares didn't match the formation or behavior of the reported craft."
+      }
+    }
+  ]
+}

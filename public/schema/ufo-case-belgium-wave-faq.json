@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What was the Belgian UFO wave of 1989-1990?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Between November 1989 and April 1990, thousands of Belgians reported seeing large triangular UFOs silently moving at low altitude. The Belgian Air Force scrambled F-16 fighters to intercept."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Did NATO F-16s confirm the Belgian UFOs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Belgian F-16s locked onto targets using onboard radar, confirming objects that demonstrated impossible acceleration and maneuverability. The data was analyzed by NATO and remains unexplained."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many people saw the Belgian UFOs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An estimated 13,500 people filed official reports, making it one of the most documented mass sightings in European history."
+      }
+    }
+  ]
+}

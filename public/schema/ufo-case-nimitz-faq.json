@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happened in the 2004 USS Nimitz UFO incident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The USS Nimitz Carrier Strike Group encountered a Tic-Tac shaped craft off the coast of California. The object demonstrated technology far beyond human capabilities — dropping from 80,000 ft to sea level instantly, with no visible propulsion system."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Did the Pentagon officially confirm the Nimitz incident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The Pentagon officially released three declassified Navy videos (FLIR, GIMBAL, GOFAST) in 2020 and acknowledged these UAP encounters are real and unexplained."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who were the witnesses in the Nimitz UFO incident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Multiple US Navy fighter pilots (including Commander David Fravor), radar operators on the USS Princeton, and the entire carrier strike group command staff witnessed the event."
+      }
+    }
+  ]
+}
