@@ -1,23 +1,21 @@
 ---
-title: '🛸 全球UFO/UAP新聞摘要 — 5月4日'
-description: '📡 AARO承認UAP展示超人類科技性能 · 📋 前AARO總監Phillips證實非已知系統技術 · 🏛️ 三州通過UAP研究法案 · 🌊 51區地震持續'
-titleEn: '🛸 Global UFO/UAP News Roundup — May 4, 2026'
-descriptionEn: '📡 AARO admits UAP shows capabilities beyond known human systems · 📋 Former AARO director Phillips: "not any known adversary or friendly tech" · 🏛️ Three US states pass UAP research bills · 🌊 Area 51 quake swarm continues'
+title: '🛸 全球UFO/UAP新聞摘要 — 2026年5月4日'
+description: '📡 AARO承認UAP展示超人類科技性能 · 📋 前AARO總監Phillips證實非已知系統技術 · 🛰️ NUFORC揭露1967年冷戰雷達神秘目標 · 🏛️ 白宮協調UAP材料披露'
 pubDate: '2026-05-04T04:00:00Z'
 updatedDate: '2026-05-04T04:00:00Z'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
-> 📡 **全球UAP重點新聞** — 2026年5月4日
+> 📡 **全球UAP重點新聞** — 2026年5月4日（午間更新）
 > AI自動收集整理，聚焦權威來源及時事動態
 
-| 📍 *全球：美國華盛頓DC、內華達51區、新澤西、康涅狄格、佛蒙特* | 📅 *2026年5月4日* | 🔍 *AARO重磅披露、州級UAP立法、地震群持續* |
+| 📍 *全球：美國華盛頓DC、北達科他Fortuna空軍基地、蒙大拿* | 📅 *2026年5月4日* | 🔍 *AARO重磅披露、冷戰雷達新案例、白宮披露協調* |
 
 ---
 
 ## 🏛️ 重磅！AARO承認UAP展現超人類科技性能
 
-**來源：Liberation Times（2026年5月4日）**
+**來源：Liberation Times（2026年5月4日）🔥 今日最新**
 
 **Liberation Times今日發表獨家深度分析文章，揭示五角大樓UFO辦公室（AARO）正面臨根本性矛盾——承認UAP真實存在並展現超越已知人類系統嘅能力，但同時受制於其所屬於嘅情報安全體系。**
 
@@ -40,6 +38,18 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 4. **國會已推動外部審查**：國會早已要求對AARO進行獨立審查，其信譽已經受損——包括攻擊吹哨人、備受爭議嘅國會授權歷史報告，以及關鍵案件處理手法嘅疑問
 
+### 🛸 前AARO總監Phillips再談UAP能力
+
+喺同一篇專訪中，Phillips進一步指出：
+
+AARO處理嘅一系列由**高度合資格觀察員**（包括軍方飛行員同雷達操作員）報告嘅案件中，**UAP展現出嘅性能完全超越所有已知人類飛行器**。佢強調：
+
+> 「我哋確實證明咗嗰啲唔係已知系統，無論係敵方定友好嘅。」
+
+呢個講法極具分量——如果UAP嘅技術唔係美國嘅、唔係俄羅斯或中國嘅、甚至唔係任何已知盟友嘅，咁佢哋究竟係邊個嘅？
+
+Phillips同時解釋咗AARO嘅分類機制：吹哨人提供嘅材料可以被標記為機密，但呢個係基於現有分類指引嘅「衍生分類」，而非AARO自行決定。前空軍地理空間情報專家 **Dylan Borland** 提供俾AARO嘅三張圖紙中，有兩張就係通過呢個機制被分類為機密。
+
 ### 🔮 Trump可以走幾遠？
 
 文章透露，2022年 **參議院情報委員會** 獲得咗與秘密UAP回收及利用任務同計劃相關嘅可驗證資訊，而**好多同委員會接觸嘅吹哨人從未同AARO傾過計**。
@@ -53,6 +63,48 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 > **Christopher Sharp分析AARO、無人機與UFO爭論**
 
 [🔗 Liberation Times全文 — The Pentagon's UFO Office Knows They're Real. But Can It Tell the Truth?](https://www.liberationtimes.com/home/the-pentagons-ufo-office-knows-theyre-real-but-can-it-tell-the-truth)
+
+---
+
+## 🛰️ NUFORC揭露新冷戰雷達案例：1967年Fortuna神秘目標
+
+**來源：NUFORC（2026年5月1日）🔥 今日新收錄**
+
+**美國國家UFO報告中心（NUFORC）今日公布一個前所未聞嘅歷史雷達案例——1967年春季，北達科他州Fortuna空軍基地嘅780雷達中隊追蹤到一個時速約5,000英里嘅不明目標。**
+
+### 案例背景
+
+2026年4月12日，NUFORC收到一位退休空軍雷達維修技術員嘅報告。佢1965年入伍，服役4年後喺通用汽車擔任工程師42年，現年80歲，居於密歇根州。
+
+### 事發經過
+
+1967年春季某日凌晨，當時喺Fortuna AFS值班嘅技術員正同其他士兵打啤牌，突然接到Minot空軍基地嘅電話。雷達操作員Lenny Kemp接聽後，望住雷達螢幕大叫：「**呢啲乜嘢嚟㗎？！**」
+
+雷達顯示一個**以跳躍方式橫越螢幕**嘅目標——唔似一般飛機沿住穩定路線移動，而係每次12秒掃描週期後出現喺完全唔同位置。目標以**北-西北方向**移動。
+
+### 關鍵細節
+
+- **雷達型號**：AN/FPS-35（天線直徑128英尺）及AN/FPS-26測高雷達
+- **偵測範圍**：200-250英里
+- **速度估計**：約5,000英里/小時（Mach 6.5以上）
+- **回報中隊**：780th Radar Squadron, SAGE系統一部分
+- **同期關聯**：同一時間段Minot同Malmstrom空軍基地嘅核導彈發射井曾被UFO關閉
+
+### 事後調查
+
+事發後一到兩日，**Malmstrom空軍基地**派出調查小組，直接話佢哋「乜都冇見到」。但當日值班嘅所有士兵都知道自己親眼見到咗異常現象。
+
+NUFORC資深調查員 **Jim Clarkson**（40年經驗）親自跟進呢個案例，經過詳細電郵同電話溝通後，確認報告人描述一致、可信。
+
+> 「我最近睇咗啲關於Minot同Malmstrom空軍基地導彈發射井喺同一時間段被UFO關閉嘅影片。呢啲一定有關連。而家我知道點解當年啲調查員咁大壓力要我哋收聲。」
+
+![冷戰時期FPS-35雷達](/vincent-kan-site/_astro/blog-placeholder-1.Cpq2bb23.jpg)
+
+> 🎥 **冷戰雷達與UFO：**
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/hSGF6yjJJjc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> **蘑菇形UFO瞬間加速片段與冷戰雷達記錄對比**
+
+[🔗 NUFORC — A New Historical Radar Case Surfaces](https://nuforc.org/fortuna-radar-case/)
 
 ---
 
@@ -79,48 +131,6 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 ---
 
-## 🕵️ AARO前總監Phillips：UAP展現超越敵我技術範疇
-
-**來源：Liberation Times（2026年5月4日）**
-
-喺同一篇專訪中，前AARO總監 **Tim Phillips** 作出咗更多爆炸性陳述：
-
-Phillips指出AARO曾經處理一系列由**高度合資格觀察員**（包括軍方飛行員同雷達操作員）報告嘅案件，**UAP展現出嘅性能完全超越所有已知人類飛行器**。佢強調：
-
-> 「我哋能夠確實證明嗰啲唔係已知系統，無論係敵方定友好嘅。」
-
-呢個講法極具分量——如果UAP嘅技術唔係美國嘅、唔係俄羅斯或中國嘅、甚至唔係任何已知盟友嘅，咁佢哋究竟係邊個嘅？
-
-Phillips同時解釋咗AARO嘅分類機制：吹哨人提供嘅材料可以被標記為機密，但呢個係基於現有分類指引嘅「衍生分類」，而非AARO自行決定。前空軍地理空間情報專家 **Dylan Borland** 提供俾AARO嘅三張圖紙中，有兩張就係通過呢個機制被分類為機密。
-
-> 🎥 **分析：**
-> <div class="video-embed"><iframe src="https://www.youtube.com/embed/hSGF6yjJJjc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-> **蘑菇形UFO瞬間加速片段與冷戰雷達記錄對比**
-
-[🔗 Liberation Times全文 — 同上](https://www.liberationtimes.com/home/the-pentagons-ufo-office-knows-theyre-real-but-can-it-tell-the-truth)
-
----
-
-## 🌊 AARO機密工作坊：用AI對抗UAP誤判
-
-**來源：The Debrief（2026年）**
-
-五角大樓AARO正低調推動UAP分析技術革新。根據2025年8月喺華盛頓特區舉辦嘅機密工作坊報告，AARO計劃引入 **人工智能** 嚟大規模標準化同識別UAP數據。
-
-工作坊由 **Associated Universities, Inc. (AUI)** 主辦，參與者包括政府機構、學術界同民間研究組織代表。呢標誌住AARO與**獨立民間研究團體**合作嘅突破性轉變。
-
-**關鍵討論點：**
-- AI可以協助大規模UAP報告錄入、聚類同模式檢測
-- 但AI同時可能引入偏見、放大惡作劇或產生不準確結果
-- 建議採用 **人機混合模型**，保留人類監督
-- **私隱保護** 被列為優先事項
-
-David Grusch之前透露，部分UAP相關「秘密」難以披露，係因為佢哋被埋藏喺數百萬份例行報告之中——AI可能係解開呢個混亂嘅關鍵。
-
-[🔗 The Debrief — AARO Hosts Private Workshop with Civilian Researchers](https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/)
-
----
-
 ## 🌊 歐洲NATO無人機危機：俄羅斯混合戰與UFO論述嘅碰撞
 
 **來源：Liberation Times（2026年2月-4月）**
@@ -137,18 +147,12 @@ Milburn認為，如果UFO社群要令公眾認真對待真正嘅異常現象，�
 
 >「真正嘅異常UAP由國防情報（Defence Intelligence）調查——正如2000年嘅Condign報告。但網上啲人太快將所有嘢標籤為『外星人』。」
 
+> 🎥 **無人機 vs UAP分析：**
+> <div class="video-embed"><iframe src="https://www.youtube.com/embed/_NA_VsBAGMk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> **俄羅斯無人機入侵歐洲基地分析**
+
 [🔗 Liberation Times — Russia, Drones, and the UFO Narrative](https://www.liberationtimes.com/home/russia-drones-and-the-ufo-narrative)
 [🔗 Liberation Times — Evidence, Drones and the UFO Debate](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate)
-
----
-
-## 🔬 科學研究進展：前AARO總監談Oumuamua與星際天體
-
-雖然規模細啲，但值得一提嘅係科學界對星際天體嘅持續關注。前AARO總監Tim Phillips喺訪談中提到，政府研究能力嘅限制——當面對跨部門同跨學科問題（如UAP）時，現有官僚體系往往難以有效應對。
-
-另一方面，科學界對 **Oumuamua（2017年）** 同 **Borisov彗星（2019年）** 嘅分析持續進行。哈佛大學天文學家 **Avi Loeb** 領導嘅伽利略計劃繼續搜尋星際物體嘅異常特徵，為UAP研究提供咗科學框架內嘅討論空間。
-
-![星際物體科學研究](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
 
 ---
 
@@ -156,25 +160,24 @@ Milburn認為，如果UFO社群要令公眾認真對待真正嘅異常現象，�
 
 | 事件 | 狀態 | 關鍵人物/機構 |
 |------|------|--------------|
-| 📡 AARO承認UAP超越人類技術 | 🔴 **重磅披露** 🔥 | Tim Phillips, Jon Kosloski, AARO |
+| 📡 AARO承認UAP超越人類技術 | 🔴 **今日重磅** 🔥 | Tim Phillips, Jon Kosloski, AARO |
+| 🛰️ NUFORC揭露1967冷戰雷達案例 | ✅ **新收錄** | NUFORC, Jim Clarkson |
 | 🏛️ 三州UAP研究法案 | ✅ 新澤西已生效；CT、VT審議中 | 新澤西州議會, UConn, Vermont |
-| 🧠 AARO引入AI分析UAP | 📄 機密工作坊報告 | AARO, AUI, David Grusch |
+| 🏛️ 白宮協調披露UAP材料 | ⏳ 進行中 | 白宮, AARO |
 | 🌊 歐洲無人機=俄羅斯混合戰 | ✅ MI6確認歸因 | Franc Milburn, MI6, UK MoD |
-| 🏛️ 白宮協調UAP材料披露 | ⏳ 進行中 | Anna Paulina Luna, Pete Hegseth |
 
 ---
 
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 2em;">
 
 *🤖 本文章由AI自動收集整理*
-*🕐 更新時間：2026-05-04 04:00 UTC*
-*📋 來源：Liberation Times, UAPCheck, The Debrief 等權威媒體*
+*🕐 更新時間：2026-05-04 04:00 UTC（午間更新：加入NUFORC冷戰雷達新案例）*
+*📋 來源：Liberation Times, NUFORC, UAPCheck, The Debrief 等權威媒體*
 
 **來源連結：**
 - [Liberation Times — The Pentagon's UFO Office Knows They're Real](https://www.liberationtimes.com/home/the-pentagons-ufo-office-knows-theyre-real-but-can-it-tell-the-truth)
+- [NUFORC — A New Historical Radar Case Surfaces](https://nuforc.org/fortuna-radar-case/)
 - [UAPCheck — Three U.S. States Stride into the UFO Arena](https://www.uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/)
-- [Liberation Times — Russia, Drones, and the UFO Narrative](https://www.liberationtimes.com/home/russia-drones-and-the-ufo-narrative)
 - [Liberation Times — Evidence, Drones and the UFO Debate](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate)
-- [The Debrief — AARO Hosts Private Workshop with Civilian Researchers](https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/)
 
 </div>
