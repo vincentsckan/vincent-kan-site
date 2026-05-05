@@ -1,114 +1,156 @@
 ---
-title: "🛸 UFO/UAP 快訊 — 5月5日 凌晨時分"
-description: "國會議員Burchett警告：科學家失蹤案可能係美國本土所為、UFO舉報者面臨生命威脅新證詞曝光、死線逼近特朗普回應唔似陰謀、及Matthew Sullivan死前未能作證嘅離奇事件"
-pubDate: "2026-05-04T19:02:00Z"
-tags: ["UFO", "UAP", "news", "自動更新"]
+title: '🛸 全球UFO/UAP新聞摘要 — 2026年5月5日'
+description: '五角大樓UFO辦公室承認存在真實異常現象 · AARO前主任洩露驚人性能細節 · 三個美國州自行立法研究UAP'
+titleEn: '🛸 Global UFO/UAP News Roundup — May 5, 2026'
+descriptionEn: 'Pentagon UFO office admits real anomalies exist · Ex-AARO director reveals astonishing performance details · Three US states pass own UAP research laws'
+pubDate: '2026-05-05'
+updatedDate: '2026-05-05'
+heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
-
-> 今晚嘅UFO快訊繼續重磅！國會議員Tim Burchett話失蹤科學家可能係美國本土陰謀、UFO舉報者面臨死亡威脅嘅新證據曝光、特朗普對調查嘅最新回應引起關注，仲有Air Force情報官Matthew Sullivan離世前無法作證嘅神秘事件——即管逐條睇！
-
-![UFO 快訊](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
-
----
-
-## 📰 本日頭條
-
-### 1️⃣ 國會議員Burchett警告：科學家失蹤案可能係「MKUltra 2.0」
-
-田納西州眾議員Tim Burchett向Daily Mail發出驚人警告：如果真係有一場針對美國科學界嘅陰謀，佢擔心源頭可能唔係外國勢力，而係**美國本土**！
-
-Burchett直接將呢單嘢同冷戰時期CIA嘅MKUltra精神控制計劃相提並論：「佢哋綁架人、餵人食迷幻藥、嘗試抹除記憶……然後上法庭話計劃唔存在。到1975年，佢哋銷毀大量紀錄，之後先認衰話『以前存在過但已經冇咗』——到底我哋應該信邊句謊言？」
-
-特朗普總統4月16日曾經回應話：「我希望只係隨機事件，但我哋會喺一個半星期內知道答案。」而Burchett就嘲諷話，最終匯報畀特朗普嘅只係情報官僚，而「佢哋從來唔係講真話嘅人」。
-
-Burchett仲用咗個黑幫餐廳嘅比喻：如果你懷疑主廚出賣餐廳秘方，你唔會直接郁主廚，而係會打幾個洗碗工嚟傳達訊息。呢班科學家就係「洗碗工」，真正嘅「主廚」仲喺背後。
-
-| 📍 *美國華盛頓/多州* | 📅 *2026年5月* | 🔍 *國會調查* |
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/YZ5XG8bw_5Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+> 📡 **Daily UAP News Digest** — May 5, 2026 (Tuesday)
+> Automatically collected, organized, and formatted by AI, focusing on authoritative sources and key developments
 
 ---
 
-### 2️⃣ UFO舉報者面臨生命威脅：作證後遭全面報復
+| 📍 *美國·華盛頓特區* | 📅 *2026年5月4日* | 🔍 *政府披露*
 
-調查記者Jeremy Corbell 警告，近年UFO舉報者正面臨前所未有嘅威脅。佢嘅新電影《Sleeping Dog》記錄咗幾個核心案例，其中空軍老兵Dylan Borland嘅經歷最令人心寒。
+## 🏛️ Government Disclosures & Congressional Updates
 
-Borland 2025年喺國會作證，話佢喺Langley空軍基地服役期間，見過一架100英尺長嘅三角形飛行器，表面仲流動住「金色熔岩等離子體流體」。飛行器懸停無聲，然後瞬間加速到民航機高度。
+### 五角大樓UFO辦公室承認「它們是真的」——但能否說出真相？
+**來源：** Liberation Times（2026年5月4日）
 
-作證之後，Borland話佢同屋企人遭受咗從未經歷過嘅騷擾：「我唔知道未來會點，因為美國政府內部嘅派系似乎公開咁、知情咁去掩蓋呢件事。」佢更指控有人偽造文件、以佢名義製作虛假情報，以及操縱佢嘅安全審查。
+在一篇重磅調查報導中，Liberation Times 揭示了五角大樓轄下 All-domain Anomaly Resolution Office（AARO）的深層矛盾。AARO 主任 Dr. Jon Kosloski 日前在媒體圓桌會上形容 UAP 為「真正奇特」（really peculiar）和「令人費解」（perplexing）。
 
-最令人震驚嘅係，佢接受ODNI（國家情報總監辦公室）聽證後，有ODNI員工指控佢「宣誓下說謊」，但嗰啲指控嘅內容，Borland話根本冇講過做過。
+但其前任主任 Tim Phillips 在接受 Liberation Times 獨家專訪時透露了更驚人的細節：AARO 曾遭遇一些展現出「任何已知人類系統都無法做到的驚人性能」的案例。Phillips 明確表示：「我們能夠確鑿證明那不是已知的敵方或友方系統。」
 
-| 📍 *美國 Virginia* | 📅 *2025-2026年* | 🔍 *舉報者證詞* |
+報導進一步揭露了一項結構性矛盾：AARO 雖然確認了無法解釋的異常現象，但該辦公室本身植根於情報與安全體系——其前身 AOIMSG 隸屬於 War Department 的情報與安全副部長辦公室（OUSDI&S），該部門的職責包括反情報、內部威脅政策，以及對 Special Access Programs（SAP）的安全監督。
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Wy20eLtpPqM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+這意味著吹哨人被要求將敏感 UAP 資料提交到一個本來就是為保護和封鎖機密而設計的系統中。多位吹哨人表示不信任 AARO，並轉而向參議院情報委員會提供資訊。
 
----
+更關鍵的是，據兩名消息人士透露，特朗普政府正在考慮承認美國擁有回收的「非地球飛行器」，前提是其他國家也擁有類似飛行器。這一決定若最終落實，將是歷史上最重大的UFO披露之一。
 
-### 3️⃣ 空軍情報官Matthew Sullivan：作證前離奇死亡
-
-另一個令人不安嘅案例係39歲嘅前空軍情報官Matthew Sullivan。佢原定喺2024年嘅UFO舉報者聽證會上作證，但突然離世，永遠無法講出佢知道嘅秘密。
-
-Corbell話：「佢嘅死有太多可疑之處，FBI同國會都已經介入調查。」Sullivan生前嘅工作涉及軍事情報同先進科技計劃。雖然官方冇公布完整嘅死因細節，但聯邦調查員介入呢點本身就已經引起巨大關注。
-
-Borland話佢選擇作證係因為公眾安全受到威脅：「我同其他直接了解非人類情報計劃同飛行器嘅人，遭到咗旨在打壓或恐嚇我哋嘅罪行同令人不安嘅行動。國會需要知道呢啲係真嘅，佢哋至少被誤導，最差嘅情況係被蓄意欺騙。」
-
-| 📍 *美國 Virginia* | 📅 *2024年* | 🔍 *離世之謎* |
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/_8cOR7_kB5I" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+[🔗 全文閱讀](https://www.liberationtimes.com/home/the-pentagons-ufo-office-knows-theyre-real-but-can-it-tell-the-truth)
 
 ---
 
-### 4️⃣ Immaculate Constellation：秘密UAP數據收集計劃
+### 三個美國州自行立法研究UFO——聯邦行動太慢
+**來源：** UAP Check（2026年4月17日）
 
-2025年5月，Matthew Brown挺身而出，聲稱存在一個名為「Immaculate Constellation」嘅秘密計劃，專門收集機密UAP數據。Brown曾喺國防部同國務院擔任高級顧問角色。
+由於聯邦層面的披露進展未如理想，美國三個州——**新澤西州、康涅狄格州和佛蒙特州**——已自行立法要求對UFO進行正式研究。
 
-佢話自己作證之後經歷咗極度不安嘅事件：「最恐怖嘅包括我瞓緊覺嗰陣屋企被人爆竊、情報人員滲入我嘅社交網絡、以及嘗試抹黑UAP舉報者嘅證詞。」
+- **新澤西州**（Assembly Bill 5712）：已於2026年1月12日成為法律。法案撥款每年 **250萬美元** 用於設立「UAP研究中心」，將由一所公立高等教育機構管理。
+- **康涅狄格州**（Raised Bill No. 5422）：要求康涅狄格大學進行UAP研究，並將與包括MUFON在內的民間組織合作，報告須於2027年7月1日前提交。
+- **佛蒙特州**（Bill H.654）：提議設立「佛蒙特空域安全與異常現象專案組」，由10名成員組成，包括航太專家、雷達傳感器專家等。Scientific Coalition for UAP Studies（SCU）將提供技術支援。
 
-Jeremy Corbell話同數百名自稱知曉UFO相關計劃嘅人傾過，但正式作證嘅寥寥可數。佢警告，而家嘅打壓唔止係物理上，網絡上嘅協調造謠攻擊同樣令人擔憂。
+這三個州的立法行動標誌著美國地方政府在UFO問題上的重大突破，顯示出對聯邦進度不滿的強烈訊號。
 
-| 📍 *美國* | 📅 *2025-2026年* | 🔍 *秘密計劃* |
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/L-mmKLSI9UI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-
----
-
-### 5️⃣ 特朗普回應：死線逼近但暫未見關聯
-
-特朗普早前要求就科學家死亡同失蹤案作出調查，死線即將到來。但喺白宮橢圓形辦公室，特朗普話目前睇唔到呢啲案件之間有明顯關聯。
-
-「部分個案我哋睇過，係好令人傷心嘅案件。有人係病逝、有人係自殺離世、有啲係其他原因。到目前為止，我哋發現之間冇太大關聯。」
-
-但Burchett反駁話，調查嘅人本身就係情報界嘅官僚，根本唔會畀總統知道真相。白宮副新聞秘書Anna Kelly只係話：「白宮繼續跨機構協調調查，為美國人民提供透明度。」
-
-| 📍 *美國白宮* | 📅 *2026年5月* | 🔍 *總統回應* |
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/pKJd8lWNhMA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
-
-![UFO Whistleblower](/vincent-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+[🔗 全文閱讀](https://uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/)
 
 ---
 
-## 📌 重點總結
-
-今晚嘅新聞幾條主線全部圍繞住美國政府內部嘅UFO透明度之爭：
-
-| 重點 | 詳情 |
-|------|------|
-| 🔥 **Burchett警告** | 科學家失蹤可能係US本土陰謀，似MKUltra 2.0 |
-| 🔥 **舉報者遭打壓** | Borland、Brown等作證後經歷入侵、偽造文件、安全審查被操控 |
-| 🔥 **Sullivan離世** | 空軍情報官作證前死亡，FBI介入調查 |
-| 🔥 **特朗普回應** | 死線逼近，但總統話目前睇唔到關聯 |
-| 🔥 **Immaculate Constellation** | 秘密UAP數據收集計劃曝光 |
-
-一件事好清楚：無論你信定唔信UFO，越來越多有份量嘅人——包括國會議員、前情報官員、空軍老兵——都企出嚟講同一件事。而講真話嘅代價，正如Corbell話齋：「for many of them, the cost is everything.」
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Gru2EDJvj9Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
-### 🔗 來源連結
+| 📍 *歐洲·北約前沿* | 📅 *2026年4月10日* | 🔍 *核設施與無人機*
 
-- [Daily Mail: Tim Burchett warns of MKUltra-style plot](https://www.dailymail.co.uk/sciencetech/article-15763361/missing-scientists-probe-tim-burchett-trump.html)
-- [Daily Mail: UFO whistleblowers issue chilling warning](https://www.dailymail.co.uk/sciencetech/article-15773223/ufo-whistleblowers-warning-air-force-death.html)
-- [Daily Mail: Amy Eskridge UFO scientist threats](https://www.dailymail.co.uk/sciencetech/article-15782647/amy-eskridge-ufo-scientist-threats-alabama.html)
-- [Daily Mail: Mysterious deaths of UFO researchers](https://www.dailymail.co.uk/sciencetech/article-15758395/mysterious-ufologist-deaths-ufo-research.html)
-- [Daily Mail: Three key forces driving UFO disclosure](https://www.dailymail.co.uk/sciencetech/article-15762125/trump-ufo-disclosure-bassett-files.html)
+## 🏭 Nuclear Facilities & Security
+
+### 歐洲無人機入侵危機——UFO辯論中的真真假假
+**來源：** Liberation Times（2026年4月10日）
+
+Christopher Sharp 發表長篇分析，指出北約歐洲國家正面臨嚴重的無人機入侵危機——波羅的海、北海、黑海、大西洋、北極和英倫海峽均出現大規模不明無人機活動。
+
+報導質疑UFO社群內部存在確認偏誤（confirmation bias），指出去年11月在英國 RAF Lakenheath 基地引發熱議的所謂「UFO與核武關聯」事件，經詳細調查後證實實為俄羅斯無人機活動。
+
+Sharp 強調：「如果我們希望公眾認真對待真正的異常現象報告，我們就需要在事件涉及無人機時應用同樣的證據標準和智識嚴謹性。」他同時揭露了一艘俄羅斯間諜船在波羅的海以無人機攻擊法國航空母艦的事件。
+
+[🔗 全文閱讀](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate)
+[🔗 詳細研究論文](https://static1.squarespace.com/static/610434e4588db6073a08618b/t/69d93c4d22615340a381f55e/1775844483251/Russian+Hybrid+Ops+Part+TWO_+Baltic+Spy+Ship+Drone+Targets+Carrier_2026.04.08+New+Version.pdf)
+
+---
+
+| 📍 *美國·參議院情報委員會* | 📅 *2022年至今* | 🔍 *懸案*
+
+## ❓ Cold Cases & Mysterious Events
+
+### 參議院情報委員會2022年已獲取UAP回收任務機密資訊
+**來源：** Liberation Times（2026年5月4日）
+
+Liberation Times 在報導中披露了一個震撼性細節：參議院情報委員會早在 **2022年** 就已獲得關於秘密UAP回收與逆向工程的「可驗證資訊」。多位與該委員會接觸過的吹哨人至今從未與 AARO 對話——因為他們根本不相信這個機構。
+
+報導還指出，如果特朗普決定推動披露，曾任該委員會代理主席和副主席的 **Marco Rubio**（現任國家安全顧問）將是關鍵人物。消息人士透露，最終可能承認美國擁有回收的「非地球飛行器」，但基於這些飛行器逆向工程所得的技術可能仍會保密，以免洩漏國家安全機密。
+
+[🔗 全文閱讀](https://www.liberationtimes.com/home/the-pentagons-ufo-office-knows-theyre-real-but-can-it-tell-the-truth)
+
+---
+
+| 📍 *全球·北約·美國* | 📅 *2026年4-5月* | 🔍 *國際動態*
+
+## 🌍 International Developments
+
+### 北約歐洲國家無人機威脅升級——從UFO到混合作戰
+**來源：** Liberation Times（2026年4月10日）
+
+Christopher Sharp 的詳細分析揭示，歐洲北約國家正面臨俄羅斯混合戰爭的新形態威脅，包括從船舶發射無人機攻擊軍事目標。
+
+與此同時，三州自行立法（見上文）表明美國國內對UFO問題的處理正在從聯邦層面下沉到州層面——這在全球範圍內是前所未有的趨勢。
+
+歐洲方面，UAP Check 在2026年3月20日「歐洲UAP日」的報告指出：**一年內歐洲錄得5,000宗UFO目擊報告**，但目前仍沒有歐盟層面的統一追蹤系統。
+
+[🔗 UAP Check — 歐洲UAP日報告](https://uapcheck.com/news/)
+[🔗 俄羅斯混合戰論文全文](https://mega.nz/file/PRUmmAQL#lLlXClpMxm9HxvA6_96KepcBCHieh4S1pvJuGQi0Q7I)
+
+---
+
+| 📍 *科研前沿* | 📅 *2026年5月* | 🔍 *科學研究*
+
+## 🔬 Scientific Research Progress
+
+### AARO前主任：真實異常性能「超越任何已知人類系統」
+**來源：** Liberation Times（2026年5月4日）
+
+AARO 前任主任 Tim Phillips 的訪問提供了目前最權威的官方表態之一：UAP 展現出地球上任何已知技術都無法解釋的性能。Phillips 強調這些並非敵對國家的秘密技術——因為「我們能夠確鑿證明那不是已知系統」。
+
+這與 Kosloski 主任在媒體圓桌會上所述一致：仍然存在他憑物理學和工程學背景也無法解釋的「真正異常現象」。
+
+科學界與政府之間的資訊障礙仍然是最大問題。AARO 2024年年度報告中公開表示「沒有數據表明美國曾捕獲或逆向工程UAP」，但這一聲明必須放在AARO的分類系統背景下理解：如果捕獲證據由其他機構控制或受到現有保密指引保護，AARO根本無法公開承認。
+
+[🔗 全文閱讀](https://www.liberationtimes.com/home/the-pentagons-ufo-office-knows-theyre-real-but-can-it-tell-the-truth)
+[🔗 AARO 2024年度報告](https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
+
+---
+
+![UAP研究與披露](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+
+---
+
+## 📌 Summary & Outlook
+
+本週的UAP新聞呈現出兩條平行發展的主線：
+
+1. **官方層面**：AARO 前後兩任主任的表述越來越明確——真實異常現象確實存在，且無法用任何人類已知技術解釋。特朗普政府正在權衡是否公開承認回收了非地球飛行器。
+2. **基層行動**：由於聯邦披露進度緩慢，新澤西、康涅狄格和佛蒙特三州已自行立法研究UFO，這是前所未有的地方政府行動。
+
+與此同時，歐洲無人機威脅的實際情況提醒UFO社群要保持證據標準——並非每個天空中的不明物體都是外星人。
+
+最值得關注的仍然是 **參議院情報委員會2022年獲取的回收任務資訊**——如果這些資訊最終被公開，很可能成為UFO披露史上最大的里程碑事件。
+
+### 重點閱讀推薦
+
+| 文章 | 來源 | 日期 |
+|------|------|------|
+| [五角大樓UFO辦公室——它們是真的，但能否說出真相？](https://www.liberationtimes.com/home/the-pentagons-ufo-office-knows-theyre-real-but-can-it-tell-the-truth) | Liberation Times | 5月4日 |
+| [三個美國州自行立法進入UFO領域](https://uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/) | UAP Check | 4月17日 |
+| [證據、無人機與UFO辯論](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate) | Liberation Times | 4月10日 |
+
+---
+
+<div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 2em;">
+
+*🤖 This article was automatically collected and organized by AI*
+*🕐 Updated: 2026-05-05 12:00 HKT*
+*📋 Sources: Liberation Times, UAP Check, and other authoritative media*
+*🔍 Coverage: Government disclosures, state legislative actions, drone incursions, scientific research*
+
+</div>
