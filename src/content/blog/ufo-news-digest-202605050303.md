@@ -89,7 +89,7 @@ Wilcock離世前兩日曾經發文：「我仲未確定聽日會唔會開show。
 
 ---
 
-![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO illustration](../../assets/blog-placeholder-3.jpg)
 
 ## 💬 小編點評
 

@@ -116,7 +116,7 @@ Burlison強調佢暫時仲未親眼睇到「硬證據」，但正透過國會監
 
 ## 📸 圖片專區
 
-![UFO相關插圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO相關插圖](../../assets/blog-placeholder-1.jpg)
 
 ---
 

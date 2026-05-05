@@ -27,7 +27,7 @@ tags: ['UFO', 'UAP', 'news', '自動更新']
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Gru2EDJvj9Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Liberation Times — In-depth Discussion on Evidence, Drones, and the UFO Debate*
 
-![UAP Overview Image](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UAP Overview Image](../../assets/blog-placeholder-2.jpg)
 
 ---
 
@@ -95,7 +95,7 @@ Around 7 PM on March 25, 2026, three glowing orbs appeared over **Doha, Qatar**,
 
 **Why it stands out:** The simultaneous appearance of three orbs, sustained visibility, and controlled movement — these characteristics make natural explanations difficult to fully accept.
 
-![UFO over Doha](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO over Doha](../../assets/blog-placeholder-3.jpg)
 
 [🔗 Latest UFO Sightings — Doha Triangle UFO](https://www.latest-ufo-sightings.net/2026/03/triangle-ufo-formation-spooted-during-thunderstorm-over-doha-march-25-2026.html)
 

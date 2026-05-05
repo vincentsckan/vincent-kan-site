@@ -63,7 +63,7 @@ Reddit 社群再度翻炒2023年轟動一時嘅拉斯維加斯「Tall Whites」�
 
 警察到場時bodycam全程記錄，令呢件事成為近代最完整紀錄嘅高奇異度事件之一。
 
-![拉斯維加斯巨人外星人事件](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![拉斯維加斯巨人外星人事件](../../assets/blog-placeholder-3.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/8g0r8z7vpIM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 

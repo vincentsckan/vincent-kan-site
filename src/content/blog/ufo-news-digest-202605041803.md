@@ -79,7 +79,7 @@ UFO歷史學家Nigel Watson表示：「好多案件可能係巧合，但確實�
 
 ---
 
-![UFO研究](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO研究](../../assets/blog-placeholder-1.jpg)
 
 ## 🔮 小編分析
 

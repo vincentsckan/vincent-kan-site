@@ -92,7 +92,7 @@ UFO熱潮返晒嚟荷里活——史蒂芬史匹堡新電影《Disclosure Day》
 
 ---
 
-![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO illustration](../../assets/blog-placeholder-1.jpg)
 
 ---
 

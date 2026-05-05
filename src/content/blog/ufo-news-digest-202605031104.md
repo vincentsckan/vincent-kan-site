@@ -29,7 +29,7 @@ This commentary aligns with statements from the Trump White House. On April 29, 
 
 Trump even mentioned personally interviewing some people who told him they had "seen things you wouldn't believe."
 
-![Trump with NASA Astronauts](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![Trump with NASA Astronauts](../../assets/blog-placeholder-1.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/0eudA6Pb3QM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🇺🇸 Congressman publicly confirms non-human origin existence for the first time — Full news report*

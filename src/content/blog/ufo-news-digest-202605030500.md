@@ -48,7 +48,7 @@ An NBC report explores the UFO topic from a philosophical angle — if extraterr
 
 | 📍 *Global* | 📅 *April 2026* | 🔍 *Scientific Discussion* |
 
-![UFO Concept Image](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO Concept Image](../../assets/blog-placeholder-3.jpg)
 
 ---
 

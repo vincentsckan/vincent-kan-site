@@ -96,7 +96,7 @@ FBI 局長 **Kash Patel** 表示佢哋正「牽頭努力尋找呢啲事件之間
 
 AARO 嘅 2024 年首份報告揭露咗數百宗新 UAP 事件，但 **冇發現任何證據證明美國政府曾確認外星科技**。不過第二份報告就快出爐，大家密切留意！
 
-![UFO 碟形物體](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO 碟形物體](../../assets/blog-placeholder-2.jpg)
 
 ---
 

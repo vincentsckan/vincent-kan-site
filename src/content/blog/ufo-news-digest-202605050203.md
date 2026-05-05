@@ -168,7 +168,7 @@ Scott Waring用Google地圖喺南極發現咗一張 **爬蟲人臉** 嘅地形�
 
 ---
 
-![UFO目擊概念圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO目擊概念圖](../../assets/blog-placeholder-1.jpg)
 
 ---
 

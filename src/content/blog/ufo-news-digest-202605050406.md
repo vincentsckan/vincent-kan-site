@@ -95,7 +95,7 @@ Doty本人亦承認Project Serpo可能係冷戰時期精心設計嘅心理戰—
 
 ## 📸 今日精選圖片
 
-![UAP概念插圖](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UAP概念插圖](../../assets/blog-placeholder-2.jpg)
 
 ---
 

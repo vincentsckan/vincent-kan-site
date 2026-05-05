@@ -50,7 +50,7 @@ AARO 的前身 AOIMSG 隸屬於 War Department 情報與安全副部長辦公室
 
 報導還披露了一個震撼性歷史記錄：**參議院情報委員會早在2022年就已獲得關於秘密UAP回收與逆向工程任務的「可驗證資訊」**——多位與委員會接觸過的吹哨人至今從未與 AARO 對話，因為他們不信任這個機構。
 
-![AARO與五角大樓](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![AARO與五角大樓](../../assets/blog-placeholder-1.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Gru2EDJvj9Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
@@ -93,7 +93,7 @@ NUFORC 調查員 Jim Clarkson（擁有40年經驗）經深入核實後指出，�
 
 報導全文附有雷達站照片及詳細調查記錄。
 
-![NUFORC歷史雷達案](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![NUFORC歷史雷達案](../../assets/blog-placeholder-3.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/5H5YMLE6dKo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 

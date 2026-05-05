@@ -83,7 +83,7 @@ MKUltra aimed to develop drugs and procedures for interrogation, including brain
 
 Congressman **Tim Burchett** drew parallels between MKUltra and the current scientist disappearances: "They kidnap people, feed them hallucinogens, try to erase their memories. They get taken to court, and then they claim it never happened."
 
-![CIA MKUltra Program Historical Archive](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![CIA MKUltra Program Historical Archive](../../assets/blog-placeholder-2.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/RqptVKs7wbc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *MKUltra Mind Control Program Documentary*

@@ -10,7 +10,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 Welcome to a new episode of the UFO/UAP Flash Briefing! Today, we have multiple key stories, from the highest-level political figures speaking out to civilian footage—all with substance. Let's dive in!
 
-![UFO Night Sky](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO Night Sky](../../assets/blog-placeholder-2.jpg)
 
 ---
 

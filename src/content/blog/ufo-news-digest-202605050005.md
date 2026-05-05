@@ -7,7 +7,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 每日密集式 UFO/UAP 新聞追蹤 🌍 今日重點：特朗普政府解密UFO檔案嘅進展、科學界討論外星人可能已經知道我哋存在、以及如果正式接觸來臨嘅話人類會點應對。
 
-![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO illustration](../../assets/blog-placeholder-1.jpg)
 
 ---
 

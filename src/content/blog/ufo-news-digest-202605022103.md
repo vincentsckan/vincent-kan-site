@@ -57,7 +57,7 @@ The Free Press published a highly controversial long-form article interviewing a
 
 Although this report sounds like science fiction, coming from a retired high-ranking Navy officer, it has caused a huge stir in the UFO community.
 
-![UFO News Image](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO News Image](../../assets/blog-placeholder-2.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Pqc5tfCgFC8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 

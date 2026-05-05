@@ -129,7 +129,7 @@ Bassett話：「呢件事係人類歷史上任何國家元首可以做嘅最重�
 
 ---
 
-![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO illustration](../../assets/blog-placeholder-1.jpg)
 
 ## 📺 更多推介影片
 

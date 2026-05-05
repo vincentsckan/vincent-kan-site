@@ -7,7 +7,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 今朝嘅UFO快訊有啲癲！火星疑似有生物？NASA太陽衛星拍到超巨型UFO？南極仲發現咗爬蟲類面孔？加埋Serpo計劃嘅外星人交換計劃內幕——即管逐條同你分析！
 
-![UFO 快訊](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO 快訊](../../assets/blog-placeholder-3.jpg)
 
 ---
 

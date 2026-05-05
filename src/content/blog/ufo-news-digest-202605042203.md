@@ -7,7 +7,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 地球日日都有新鮮UFO新聞，無論大大小小，我哋通通同你收集晒！今日嘅新聞特別豐富——從太陽附近嘅巨型UFO到月球表面嘅外星飛船，從厄瓜多爾嘅光體到意大利嘅神秘火球，仲有經典Project Serpo嘅深入分析，保證過癮！
 
-![UFO 太陽](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 太陽](../../assets/blog-placeholder-1.jpg)
 
 ---
 

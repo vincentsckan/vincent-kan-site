@@ -90,11 +90,11 @@ These objects repeatedly appeared over their 40-acre forested land, each time la
 
 ## 📸 Image Highlights
 
-![NUFORC Fortuna Radar Case](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![NUFORC Fortuna Radar Case](../../assets/blog-placeholder-1.jpg)
 
 *NUFORC's released 1967 Fortuna AFS radar UFO case, part of the Cold War SAGE system*
 
-![Area 51 Earthquake](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![Area 51 Earthquake](../../assets/blog-placeholder-2.jpg)
 
 *Earthquake swarm near Area 51 sparks underground test speculation*
 

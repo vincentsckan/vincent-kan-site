@@ -135,7 +135,7 @@ The technician later saw online reports of the **UFO shutdown of nuclear missile
 
 > "Now I know why those interrogators were putting so much pressure on us back then." — Retired technician
 
-![Cold War era FPS-35 giant radar](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![Cold War era FPS-35 giant radar](../../assets/blog-placeholder-1.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/hSGF6yjJJjc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *⏳ Analogy between a mushroom-shaped UFO instant acceleration clip and Cold War radar records*

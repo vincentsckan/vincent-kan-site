@@ -27,7 +27,7 @@ Liberation Times learned from sources that Sullivan was directly involved in the
 
 Before his death, Sullivan had been contacted by UAP whistleblower and retired Air Force Major **David Grusch**. Grusch was deeply distressed upon hearing of Sullivan's death. Burlison revealed: "Grusch was helping him come forward as a whistleblower."
 
-![US Air Force Logo](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![US Air Force Logo](../../assets/blog-placeholder-1.jpg)
 
 During his service, Sullivan held positions in multiple high-level agencies, including the **National Air and Space Intelligence Center (NASIC)**, the **National Security Agency (NSA)**, and the **Air Force Intelligence Directorate**. He was deployed to U.S. Central Command and Indo-Pacific Command, and his obituary indicates he was awarded the **Bronze Star Medal** for valor during Operation Enduring Freedom.
 
@@ -135,7 +135,7 @@ The records, provided by the Nuclear Regulatory Commission (NRC), consist of rep
 
 **Most intense incident:** On September 26, 2022, 8 drones invaded the plant's airspace for approximately **2 hours and 45 minutes**. On October 3, 2022, another multi-drone incident lasted 2 hours and 8 minutes, with **three being quadcopters and a fourth, larger one being triangular and seemingly equipped with a large spotlight**. The drones displayed red, green, and white lights, with at least one carrying a blue light.
 
-![Nuclear Plant Security Monitoring](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![Nuclear Plant Security Monitoring](../../assets/blog-placeholder-3.jpg)
 
 The Columbia Generating Station in Washington State recorded persistent drone activity from November 2022 to February 2023, including some very large drones — one estimated to be **8 to 10 feet (about 2.4 to 3 meters) in diameter**, with red and white flashing lights.
 

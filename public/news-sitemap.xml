@@ -110,18 +110,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605031802/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T10:02:00.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 UFO/UAP News Flash — 5月03日18:03]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605031804/</loc>
     <news:news>
       <news:publication>
@@ -214,6 +202,30 @@
       </news:publication>
       <news:publication_date>2026-05-04T06:00:00.000Z</news:publication_date>
       <news:title><![CDATA[🛸 UFO/UAP News Digest — May 4, 2026]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-20260504-evening-1/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T20:05:04.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 Global UFO/UAP News Digest — 2026-05-04]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-20260504-evening/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T16:05:25.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 Global UFO/UAP News Digest — 2026-05-04]]></news:title>
       <news:keywords>UFO,UAP,disclosure,news</news:keywords>
     </news:news>
   </url>
@@ -395,6 +407,258 @@
       <news:publication_date>2026-05-04T14:00:00.000Z</news:publication_date>
       <news:title><![CDATA[🛸 UFO/UAP News Digest — May 4, 2026]]></news:title>
       <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605041504/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T15:04:00.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP News Flash — May 4, 23:04]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605041703/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T17:03:00.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP News Flash — May 5, 01:03]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605041803/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T18:03:00.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP News Flash — May 4, 18:03]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605042003/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T20:03:00.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP News Flash — May 4, 20:03]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605042103/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T21:03:00.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP News Flash — May 5, 05:03]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605042203/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T22:03:00.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP News Flash — May 5, 06:03]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605042306/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T23:06:00.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP News Flash — May 5, 07:06]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-20260505-afternoon/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T08:05:54.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 全球UFO/UAP新聞摘要 — 2026-05-05]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-20260505-morning-1/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T04:04:40.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 全球UFO/UAP新聞摘要 — 2026-05-05]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-20260505-morning/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T00:06:34.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 Global UFO/UAP News Digest — 2026-05-05]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605050005/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T00:05:00.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP News Flash — May 5, 08:05]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605050103/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T01:03:00.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP News Flash — May 5, 09:03]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605050203/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T02:03:00.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP News Flash — May 5, 10:03]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605050303/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T03:03:00.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP News Flash — May 5, 11:03]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605050406/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T04:06:00.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP 快訊 — 05月05日12:06]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605050503/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T05:03:50.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP 快訊 — 05月05日13:03]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605050603/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T06:03:00.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP 快訊 — 05月05日14:03]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605050704/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T07:04:00.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP 快訊 — 05月05日15:04]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605050802/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T08:02:00.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP 快訊 — 5月5日16:02]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605050904/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T09:04:00.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO/UAP 快訊 — 05月05日17:04]]></news:title>
+      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-breaking-202605042218/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T22:18:00.000Z</news:publication_date>
+      <news:title><![CDATA[🚨 BREAKING: AARO Director Admits UAP ]]></news:title>
+      <news:keywords>UFO,UAP,breaking news,disclosure</news:keywords>
     </news:news>
   </url>
   <url>

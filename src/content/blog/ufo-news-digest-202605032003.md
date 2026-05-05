@@ -105,7 +105,7 @@ Author **Nigel Watson** stated: "Many of these cases may be coincidences, but th
 
 Seismic activity continues to be recorded in Nevada, just a few miles from Area 51. While primarily considered natural earthquakes, some analysts suggest the possibility of secret testing cannot be ruled out.
 
-![Area 51](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![Area 51](../../assets/blog-placeholder-2.jpg)
 
 ---
 

@@ -7,7 +7,7 @@ pubDate: 2026-05-02T16:05:29Z
 updatedDate: 2026-05-02T16:05:29Z
 author: "UFO News Monitor"
 tags: ["UFO", "UAP", "新聞摘要", "daily", "202605"]
-image: "/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg"
+image: "../../assets/blog-placeholder-1.jpg"
 ---
 > **Daily Update:** The latest global UFO/UAP developments, helping you track every step of the disclosure movement. This page is updated automatically every day.
 

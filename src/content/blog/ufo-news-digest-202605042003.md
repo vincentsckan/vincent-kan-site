@@ -87,7 +87,7 @@ Eskridge生前同爸爸共同創立「The Institute for Exotic Science」，研�
 
 ## 📸 今日圖片
 
-![UFO神秘死亡模式](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO神秘死亡模式](../../assets/blog-placeholder-1.jpg)
 
 > 圖片說明：自1947年以嚟，多位UFO研究人員喺可疑情況下神秘死亡，FBI正調查近年案件之間嘅關聯。
 

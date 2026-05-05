@@ -107,7 +107,7 @@ Another analysis article points out that for years, **military submarines have b
 
 ---
 
-![UFO Night Sky Concept](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO Night Sky Concept](../../assets/blog-placeholder-3.jpg)
 
 ---
 

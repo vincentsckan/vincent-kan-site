@@ -7,7 +7,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 今晚嘅UFO快訊豐富到爆燈！特朗普話UFO文件「好快就會公開」，科學家綁架陰謀錄音流出，仲有數十年黎嘅UFO研究員神秘死亡模式首度被媒體整理曝光，仲有經典嘅Serpo外星交換計劃再被翻炒，即管睇下有咩料！
 
-![UFO 快訊](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 快訊](../../assets/blog-placeholder-1.jpg)
 
 ---
 

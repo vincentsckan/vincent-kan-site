@@ -107,7 +107,7 @@ McCasland嘅太太就去咗社交媒體駁斥網上陰謀論，話老公根本�
 
 由1951年《The Day the Earth Stood Still》到史匹堡嘅《第三類接觸》(1977)、《E.T.》(1982)，再到《天煞—地球反擊戰》(1996)，以至2025年紀錄片《The Age of Disclosure》，荷里活嘅外星人敘事不斷演變，由最初嘅善意警告，到侵略恐懼，再到而家嘅政府隱瞞主題。
 
-![UFO文化](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO文化](../../assets/blog-placeholder-1.jpg)
 
 <details>
 <summary>📺 相關影片</summary>

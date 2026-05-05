@@ -29,7 +29,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 呢個消息同之前Trump喺Turning Point USA活動嘅發言一脈相承，顯示UFO檔案公開的確係進行中。
 
-![Trump同UFO相關報導](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![Trump同UFO相關報導](../../assets/blog-placeholder-3.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ZTkGkRhtCYI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 

@@ -8,7 +8,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 ---
 > It's time for our hourly UFO news flash! Today we bring you the most talked-about UFO/UAP news recently, including an in-depth analysis of the viral Project Serpo, new night vision footage of a triangular UFO in California, and mysterious triangular orbs during a thunderstorm in Doha, Qatar!
 
-![UFO Night Sky](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO Night Sky](../../assets/blog-placeholder-1.jpg)
 
 ---
 
@@ -98,7 +98,7 @@ Most thought-provoking is a hypothesis: some phenomena may not be "visitors," bu
 - **1971 Spanish Soldier Incident**: Spanish soldiers reportedly fired at a tall humanoid being, with a UFO allegedly landing near a radar base, followed by multiple injuries and a sealed investigation
 - **Anomalous Underwater Movements**: Military submarines have tracked fast, intelligent underwater objects (USOs) for decades, still unexplained
 
-![Observing Night Sky](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![Observing Night Sky](../../assets/blog-placeholder-2.jpg)
 
 ---
 

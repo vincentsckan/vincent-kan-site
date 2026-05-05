@@ -20,7 +20,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 呢條消息喺選舉集會同多個訪問中反覆出現，被視為Trump政府UFO披露政策嘅最新風向標。Trump喺鳳凰城嘅集會上更加大力推銷呢個訊息，話「非常快」就會有第一批檔案出爐。
 
-![Trump UFO檔案披露](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![Trump UFO檔案披露](../../assets/blog-placeholder-2.jpg)
 
 ### 相關影片
 

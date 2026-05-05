@@ -10,7 +10,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 ---
 
-![UFO Flash News](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO Flash News](../../assets/blog-placeholder-1.jpg)
 
 ## 🔥 Today's Top News
 
@@ -72,7 +72,7 @@ Brazil's most famous UFO case—the Varginha Incident—marks its 30th anniversa
 - **Global UFO Historical Archive Center**: The largest UFO archive center in North America has officially opened its new facility
 - **New Memoir from Former Counterintelligence Officer**: A memoir titled *Imminent* reveals insider perspectives on UFOs
 
-![UFO Data](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO Data](../../assets/blog-placeholder-2.jpg)
 
 ## 📺 Featured UFO Video Collection
 

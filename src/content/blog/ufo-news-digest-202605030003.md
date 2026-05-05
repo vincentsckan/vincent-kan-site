@@ -36,7 +36,7 @@ He emphasizes that Mars is an arid desert environment. If tortoises can survive 
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/8Ts8NNWNQZU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-![Suspected statue on Mars](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![Suspected statue on Mars](../../assets/blog-placeholder-2.jpg)
 
 ---
 

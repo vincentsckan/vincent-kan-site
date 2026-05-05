@@ -116,7 +116,7 @@ FBI 局長 Kash Patel 話：「如果有任何聯繫指向邪惡行為或陰謀�
 
 ---
 
-![UFO 快訊](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 快訊](../../assets/blog-placeholder-1.jpg)
 
 ## 🎯 今日總結
 
