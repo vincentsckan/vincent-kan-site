@@ -22,8 +22,8 @@ const { title, description, image = FallbackImage } = Astro.props;
 const metaTitle = lang === 'en' ? `${title} — ${SITE_TITLE}` : `${title} - 香港UFO/UAP資訊站`;
 const metaDesc = lang === 'en' ? description : description;
 const metaKeywords = lang === 'en' 
-  ? 'UFO,UAP,Unidentified Flying Object,alien,extraterrestrial,UFO research,disclosure'
-  : 'UFO,UAP,不明飛行物體,外星人,香港UFO,飛碟,外星文明,全球UAP披露,宇宙奧秘';
+  ? 'UFO,UAP,Unidentified Flying Object,alien,extraterrestrial,UFO research,disclosure,UFO news,UFO sightings,non-human intelligence,NHI,UAP disclosure,government cover-up,tic-tac UFO,Nimitz UFO,Grusch hearings,Phoenix Lights'
+  : 'UFO,UAP,不明飛行物體,外星人,香港UFO,飛碟,外星文明,全球UAP披露,宇宙奧秘,不明空中現象,飛碟事件,外星文明證據,UFO目擊';
 ---
 
 <!-- Global Metadata -->
@@ -55,6 +55,8 @@ const metaKeywords = lang === 'en'
 <meta name="title" content={metaTitle} />
 <meta name="description" content={metaDesc} />
 <meta name="keywords" content={metaKeywords} />
+<!-- REPLACE with actual Google Search Console verification code -->
+<meta name="google-site-verification" content="YOUR_VERIFICATION_CODE_HERE" />
 <meta name="author" content="Davis Kan" />
 <meta name="robots" content="index, follow" />
 
@@ -76,7 +78,11 @@ const metaKeywords = lang === 'en'
 <meta property="og:url" content={Astro.url} />
 <meta property="og:title" content={metaTitle} />
 <meta property="og:description" content={metaDesc} />
+<meta property="og:locale" content={lang === 'en' ? 'en_US' : 'zh_HK'} />
+<meta property="og:site_name" content="DisclosureHK — UFO/UAP Research & News" />
 <meta property="og:image" content={new URL(image.src, Astro.url)} />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
@@ -110,11 +116,26 @@ const metaKeywords = lang === 'en'
   }
 })} />
 
-<!-- Google tag (gtag.js) for analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<!-- Google tag (gtag.js) for analytics → REPLACE G-XXXXXXXXXX WITH YOUR GA4 ID -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L2NG13NMVL"></script>
 <script is:inline>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-XXXXXXXXXX');
+  gtag('config', 'G-L2NG13NMVL');
 </script>
+
+<!-- Organization + SocialProfile JSON-LD for Google Knowledge Panel -->
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "DisclosureHK",
+  "url": Astro.site,
+  "description": "Bilingual (English/Chinese) UFO/UAP research, news, and analysis site covering global sightings, government disclosure, and non-human intelligence.",
+  "foundingDate": "2022",
+  "sameAs": [
+    "https://x.com/disclosurehk",
+    "https://x.com/vincentk666",
+    "https://www.disclosurehk.com"
+  ]
+})} />
