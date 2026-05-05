@@ -74,7 +74,7 @@ The Free Press刊登一篇專訪，訪問一位美國海軍上將，佢竟然宣
 
 ## 📊 重點摘要
 
-![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![UFO illustration](/blog-placeholder-4.jpg)
 
 **本週UFO圈五大焦點：**
 - ✅ 特朗普承諾公開UFO檔案，稱「極不尋常」

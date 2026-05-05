@@ -29,7 +29,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 呢個消息同之前Trump喺Turning Point USA活動嘅發言一脈相承，顯示UFO檔案公開的確係進行中。
 
-![Trump同UFO相關報導](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![Trump同UFO相關報導](/blog-placeholder-3.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ZTkGkRhtCYI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
@@ -41,7 +41,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 報導指出，雖然外界對UFO檔案嘅具體內容仲有好多猜測，但Trump團隊似乎係認真緊嘅，唔係得個講字。呢啲文件可能包括五角大樓AARO（全域異常解決辦公室）收集嘅數據同分析報告。
 
-![USA Today報導截圖](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![USA Today報導截圖](/blog-placeholder-4.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/eYhzXO1pgoQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
@@ -77,7 +77,7 @@ Loeb近年仲搞緊「伽利略計劃」（Galileo Project），用高精度望�
 
 不過今次唔同嘅地方係，唔止Trump自己講，五角大樓方面都有回應，而且Fortune、USA Today、New York Post、The Hill呢啲主流媒體都有報導，唔係得小道消息。所以呢次嘅可信度明顯高過之前。
 
-![社交媒體討論UFO](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![社交媒體討論UFO](/blog-placeholder-5.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/wDstM55rSLM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 

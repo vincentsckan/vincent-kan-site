@@ -14,7 +14,7 @@ tags: ["UFO", "UAP", "news", "auto-update"]
 ---
 > This week the UFO community is really buzzing! From Trump to Capitol Hill, from a retired Navy admiral to a former defense official, various parties are all talking about UFO disclosure. Let's take a look at the big news that happened in the last 48 hours.
 
-![UFO News](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO News](/blog-placeholder-1.jpg)
 
 ---
 

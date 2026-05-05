@@ -111,7 +111,7 @@ Pentagon 已經 miss 咗 Luna 設定嘅截止日期，至今一份影片都冇�
 
 > 如果真係有外星人，佢哋應該好忙，因為地球日日都有咁多UFO新聞 😅
 
-![UFO新聞插圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO新聞插圖](/blog-placeholder-1.jpg)
 
 ---
 

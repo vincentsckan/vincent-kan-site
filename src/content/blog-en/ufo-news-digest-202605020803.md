@@ -33,7 +33,7 @@ tags: ["UFO", "UAP", "news", "auto-update"]
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Gru2EDJvj9Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Liberation Times — In-depth Discussion on Evidence, Drones, and the UFO Debate*
 
-![UAP Overview Image](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UAP Overview Image](/blog-placeholder-2.jpg)
 
 ---
 
@@ -101,7 +101,7 @@ Around 7 PM on March 25, 2026, three glowing orbs appeared over **Doha, Qatar**,
 
 **Why it stands out:** The simultaneous appearance of three orbs, sustained visibility, and controlled movement — these characteristics make natural explanations difficult to fully accept.
 
-![UFO over Doha](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO over Doha](/blog-placeholder-3.jpg)
 
 [🔗 Latest UFO Sightings — Doha Triangle UFO](https://www.latest-ufo-sightings.net/2026/03/triangle-ufo-formation-spooted-during-thunderstorm-over-doha-march-25-2026.html)
 
@@ -154,7 +154,7 @@ Rhea specifically proposed a hypothesis: some UAPs may not be "visitors" in the 
 
 Importantly, Rhea repeatedly emphasized uncertainty and urged readers not to take the account as definitive fact.
 
-![Deep Secrecy Icon](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![Deep Secrecy Icon](/blog-placeholder-4.jpg)
 
 [🔗 Latest UFO Sightings — Full Rhea Whistleblower Report](https://www.latest-ufo-sightings.net/2026/01/another-whistleblower-claims-deeper-layers-of-ufo-secrecy-inside-intelligence-agencies.html)
 

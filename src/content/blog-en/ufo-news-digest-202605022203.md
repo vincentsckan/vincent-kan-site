@@ -97,7 +97,7 @@ Retired Rear Admiral Timothy Gallaudet said: "Hollywood has been psychologically
 
 ---
 
-![UFO](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO](/blog-placeholder-2.jpg)
 
 > **Editor's Note:** This week's UFO news has been a real whirlwind — from David Wilcock's sudden death, to the White House officially registering Aliens.gov, to the FBI investigating the deaths of scientists, everything is thought-provoking. Do you think these events are connected? Or is it all just coincidence? Let us know in the comments! 👇
 

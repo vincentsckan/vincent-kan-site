@@ -132,7 +132,7 @@ Bassett described that if disclosure truly happens, it would be "the single most
 
 ## 📸 Featured Image of the Day
 
-![Area 51 Satellite Image](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![Area 51 Satellite Image](/blog-placeholder-3.jpg)
 *Area 51 in the Nevada desert—one of the world's most mysterious military bases, long associated with UFO conspiracy theories*
 
 ---

@@ -110,7 +110,7 @@ NASA 尚未正式回應，但據《太空網》報導，機構內部正積極討
 
 ---
 
-![UFO 檔案解密](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![UFO 檔案解密](/blog-placeholder-4.jpg)
 
 ---
 

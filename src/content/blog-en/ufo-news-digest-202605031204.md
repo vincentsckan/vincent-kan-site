@@ -133,7 +133,7 @@ Also, Trump previously ordered the release of files on the assassinations of **J
 
 > 💡 **Summary:** Today's biggest news is Trump once again hinting that UFO files are about to be released, plus Congresswoman Luna's promise to show evidence of "nonhuman origin," and Vice President Vance joining the discussion. Although a former official poured cold water, the possibility of disclosure seems higher than ever! And with Hollywood blockbusters and former President Obama's comments, the UFO topic has clearly entered mainstream culture.
 
-![UFO/UAP News](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![UFO/UAP News](/blog-placeholder-5.jpg)
 
 ---
 

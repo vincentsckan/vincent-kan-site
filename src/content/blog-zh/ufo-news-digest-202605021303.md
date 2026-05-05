@@ -9,7 +9,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 呢個星期 UFO 圈真係好熱鬧！從特朗普到國會山莊，從退役海軍上將到前國防官員，各方人馬都喺度講UFO披露。等我哋睇睇呢48小時發生咗啲咩大新聞。
 
-![UFO 新聞](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 新聞](/blog-placeholder-1.jpg)
 
 ---
 

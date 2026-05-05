@@ -104,7 +104,7 @@ Carter himself reported a personal UFO sighting decades ago, witnessing an unide
 
 ---
 
-![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO illustration](/blog-placeholder-1.jpg)
 
 ---
 

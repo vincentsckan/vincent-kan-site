@@ -116,7 +116,7 @@ Today's UFO news is developing on multiple fronts:
 
 > If aliens really exist, they must be very busy, given all the UFO news on Earth every day 😅
 
-![UFO News Illustration](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO News Illustration](/blog-placeholder-1.jpg)
 
 ---
 

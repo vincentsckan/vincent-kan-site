@@ -14,7 +14,7 @@ tags: ["UFO", "UAP", "news", "auto-update"]
 ---
 > It's time for the late-night UFO news flash! Today is May 2, 2026 (Saturday), and Hong Kong has already entered the early hours of May 3. Even though it's the weekend, the UFO scene hasn't slowed down! Tonight brings multiple updates, along with some astronomical trivia to fuel your UFO cravings! 🛸
 
-![UFO Night Sky Concept](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO Night Sky Concept](/blog-placeholder-2.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ The ISS will be particularly bright for a few days. If you don't know it's a spa
 **May 31 — New Moon**
 The dark nights around the new moon are the best time to observe anomalous celestial phenomena (including UFOs). Remember to bring friends along to serve as witnesses!
 
-![Stargazing](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![Stargazing](/blog-placeholder-3.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/EXri0KF2oZY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 

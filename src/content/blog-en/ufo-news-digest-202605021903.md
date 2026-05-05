@@ -94,7 +94,7 @@ New York Times columnist Ross Douthat recently published a commentary titled "4 
 
 This article reflects a shift in mainstream media's attitude toward the UFO issue — from past ridicule and marginalization to serious discussion.
 
-![UFO-related image](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO-related image](/blog-placeholder-1.jpg)
 
 ---
 

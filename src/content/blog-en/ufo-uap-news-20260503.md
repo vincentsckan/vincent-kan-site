@@ -36,7 +36,7 @@ While earthquake swarms are not unheard of in Nevada — the state lies within t
 
 But a calm analysis: the USGS has not yet classified the event as anomalous, and the area has recorded natural earthquake swarms in the past. Nevertheless, Florida Congresswoman **Anna Paulina Luna** has publicly demanded the Pentagon provide information on **anomalous activity near Area 51**.
 
-![Nevada desert and Area 51](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
+![Nevada desert and Area 51](/blog-placeholder-4.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/9tqs6Z3OQSk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🌊 Media compilation on the Area 51 earthquake swarm and the mysterious disappearance of scientists in 2026*
@@ -64,7 +64,7 @@ The most comprehensive of the three, it proposes creating a **"Vermont Airspace 
 
 > "This is exactly the kind of open, ongoing work the federal government should have been doing since 1947." — UAPCheck
 
-![Map of three states with UAP legislation](/vincent-kan-site/_astro/blog-placeholder-2.BAPKxQv-.jpg)
+![Map of three states with UAP legislation](/blog-placeholder-2.jpg)
 
 [🔗 UAPCheck — Three U.S. States Stride into the UFO Arena](https://www.uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/)
 
@@ -112,7 +112,7 @@ In April 2026, **President Trump** announced his administration would investigat
 
 This statement neither fully denies a serial conspiracy nor rules out natural causes, leaving significant room for speculation. The investigation is ongoing.
 
-![NASA scientist and aerospace research](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+![NASA scientist and aerospace research](/blog-placeholder-5.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/DoyscKtOjsQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *👩‍🔬 The mysterious disappearance of 11 scientists — News analysis and White House response*
@@ -141,7 +141,7 @@ The technician later saw online reports of the **UFO shutdown of nuclear missile
 
 > "Now I know why those interrogators were putting so much pressure on us back then." — Retired technician
 
-![Cold War era FPS-35 giant radar](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![Cold War era FPS-35 giant radar](/blog-placeholder-1.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/hSGF6yjJJjc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *⏳ Analogy between a mushroom-shaped UFO instant acceleration clip and Cold War radar records*

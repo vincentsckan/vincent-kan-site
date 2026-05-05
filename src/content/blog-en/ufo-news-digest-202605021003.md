@@ -92,7 +92,7 @@ And when the Roswell incident occurred in 1947, the U.S. Air Force's **509th Bom
 
 **Even more interesting:** The Japanese UFO research community has always been very interested in this event, sending multiple teams to Roswell for on-site investigations. Japanese television networks (including NHK and TBS) have produced several documentaries about the Roswell Incident, interviewing key witnesses from that time. It can be said that the Roswell Incident is a **"classic UFO case of mutual interest between the US and Japan"**.
 
-![Historical photo of the Roswell Incident](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![Historical photo of the Roswell Incident](/blog-placeholder-4.jpg)
 
 **And there's a Chinese connection:** Rumors surrounding the Roswell Incident suggest that the extraterrestrial materials collected by the Air Force included a type of **"memory metal"** — a special alloy that can "remember" its original shape. Interestingly, this type of technology was further developed by **Chinese-American scientists** in the 1990s, with applications in **space exploration** and **medical stents**. Although there is no direct evidence proving these technologies came from reverse engineering, this coincidence fascinates many people.
 

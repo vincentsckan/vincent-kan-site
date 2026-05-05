@@ -9,7 +9,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 無論大新聞定小消息，只要關乎UFO/UAP，我哋都會第一時間為你整理。今日嘅快訊帶嚟幾個重磅話題：NRO秘密AI系統、國會議員公開爆料、同埋一位關鍵吹哨人離奇死亡嘅新細節。
 
-![UFO概念圖](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO概念圖](/blog-placeholder-2.jpg)
 
 ---
 

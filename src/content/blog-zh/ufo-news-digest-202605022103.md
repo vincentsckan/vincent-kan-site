@@ -58,7 +58,7 @@ The Free Press 刊登咗一篇極具爭議性嘅長文，訪問咗一位美國�
 
 呢篇報導雖然聽落似科幻小說，但出自一位退役海軍高層之口，喺UFO圈引起咗極大迴響。
 
-![UFO 快訊圖片](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO 快訊圖片](/blog-placeholder-2.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Pqc5tfCgFC8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 

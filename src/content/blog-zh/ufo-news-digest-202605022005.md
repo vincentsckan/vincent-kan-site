@@ -108,7 +108,7 @@ Burlison 強調佢本人未有親眼睇過「硬證據」，但正透過國會�
 
 ---
 
-![UFO夜空概念圖](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO夜空概念圖](/blog-placeholder-3.jpg)
 
 ---
 

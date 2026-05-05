@@ -89,7 +89,7 @@ Pope 由 skeptic （懷疑論者）逐步轉變為 believer（相信者），佢
 
 呢篇文反映咗主流媒體對UFO議題嘅態度正喺度轉變——由以往嘅嘲笑、邊緣化，到而家認真討論。
 
-![UFO相關圖片](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO相關圖片](/blog-placeholder-1.jpg)
 
 ---
 

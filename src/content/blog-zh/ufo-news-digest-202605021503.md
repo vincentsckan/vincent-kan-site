@@ -69,7 +69,7 @@ Burchett警告事件可能係**美國內部操作**，類似當年MKUltra嘅手�
 
 Eric Burlison喺X上寫道：「我哋正同中國、俄羅斯、伊朗喺核技術、先進武器同太空領域競爭。與此同時，我哋嘅頂尖科學家不斷消失。呢件事完全符合外國行動嘅特徵。」
 
-![UFO新聞配圖](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO新聞配圖](/blog-placeholder-3.jpg)
 
 ---
 

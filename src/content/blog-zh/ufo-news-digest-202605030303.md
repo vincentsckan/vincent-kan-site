@@ -11,7 +11,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 歡迎收聽新一期UFO/UAP快訊！今日多條重點消息，由最高級別嘅政治人物發聲到民間錄像，全部都有料到。開片！
 
-![UFO夜空](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO夜空](/blog-placeholder-2.jpg)
 
 ---
 

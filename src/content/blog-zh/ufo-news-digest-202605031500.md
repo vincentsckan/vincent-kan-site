@@ -9,7 +9,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 又係我哋嘅 hourly UFO 快訊時間！今日為大家帶嚟近期最有話題性嘅 UFO/UAP 消息，包括轟動網絡嘅 Project Serpo 深入分析、美國加州三角形 UFO 夜視新片，同埋卡塔爾多哈雷暴中嘅神秘三角光球！
 
-![UFO 夜空](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 夜空](/blog-placeholder-1.jpg)
 
 ---
 
@@ -99,7 +99,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 - **西班牙士兵1971事件**：西班牙士兵曾向一名高大類人生物開火，據稱 UFO 降落喺雷達基地附近，隨後多人受傷，調查被密封
 - **海底異常移動**：軍方潛艇追蹤到快速、智能嘅水下物體（USO）數十年，至今未能解釋
 
-![觀察夜空](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![觀察夜空](/blog-placeholder-2.jpg)
 
 ---
 

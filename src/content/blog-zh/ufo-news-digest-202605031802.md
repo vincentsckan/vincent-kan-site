@@ -39,7 +39,7 @@ Mellon特別指出，過去數月「多名掌握秘密的軍方及情報人員�
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/EXri0KF2oZY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🎙️ NewsNation專訪：Christopher Mellon分析UFO披露前景*
 
-![華盛頓國會山莊](/vincent-kan-site/_astro/blog-placeholder-3.jpg)
+
 
 ---
 
@@ -57,7 +57,7 @@ Mellon特別指出，過去數月「多名掌握秘密的軍方及情報人員�
 
 你最鍾意嘅名人邊個見過UFO？下面有影片整理！👇
 
-![Kacey Musgraves表演](/vincent-kan-site/_astro/blog-placeholder-4.jpg)
+
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/BQCP8nBHJ7A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🎵 Kacey Musgraves及其他名人UFO經歷合集*
@@ -84,7 +84,7 @@ Luna此前曾批評五角大樓對UFO議題長期「隱瞞真相」（stonewalli
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/NJ4JuA2UYL4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🗣️ 眾議員Luna：美國需要UFO透明度*
 
-![華盛頓國會](/vincent-kan-site/_astro/blog-placeholder-2.jpg)
+
 
 ---
 
@@ -106,7 +106,7 @@ JoBlo網站整理了一份**11位名人UFO目擊清單**，橫跨音樂、電影
 
 有趣嘅係，多位名人都描述目擊物體呈**三角形**或**雪茄形**，同軍方吹哨人David Grusch描述的UAP特徵不謀而合。
 
-![名人與UFO拼圖](/vincent-kan-site/_astro/blog-placeholder-5.jpg)
+
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/EXri0KF2oZY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🎬 名人公開談論UFO目擊經歷合集*

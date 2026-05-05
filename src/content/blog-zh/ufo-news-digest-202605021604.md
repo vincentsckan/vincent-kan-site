@@ -109,7 +109,7 @@ Reza嘅家人同朋友向 Daily Mail 表示擔心佢嘅失蹤同先進航太研�
 
 直至2013年，CIA解密文件先至正式確認 Area 51 只係用嚟測試 U-2 偵察機同 A-12 超音速偵察機嘅基地，同外星人完全無關。不過，Robert Lazar 喺1989年嘅爆料已經令 Area 51 嘅外星傳說深入民心，去到今日都仲有人相信！😅
 
-![UFO 概念圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 概念圖](/blog-placeholder-1.jpg)
 
 ---
 

@@ -31,7 +31,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 不過冷靜分析：USGS尚未將事件分類為異常，而該地區過往確有自然地震群記錄。儘管如此，佛羅里達州眾議員 **Anna Paulina Luna** 仍在社交媒體公開要求五角大樓交代**51區附近的異常活動**。
 
-![內華達沙漠與51區](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
+![內華達沙漠與51區](/blog-placeholder-4.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/9tqs6Z3OQSk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🌊 關於Area 51地震群及2026年科學家神秘失蹤的媒體報導合集*
@@ -59,7 +59,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 > 「這正是聯邦政府自1947年以來一直應該公開、持續進行的工作。」 — UAPCheck
 
-![三州UAP立法地圖](/vincent-kan-site/_astro/blog-placeholder-2.BAPKxQv-.jpg)
+![三州UAP立法地圖](/blog-placeholder-2.jpg)
 
 [🔗 UAPCheck — Three U.S. States Stride into the UFO Arena](https://www.uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/)
 
@@ -107,7 +107,7 @@ Reza是**Mondaloy**——一種用於火箭引擎的高溫鎳基超級合金—�
 
 這番表述既沒有完全否認連環陰謀，亦沒有排除自然原因，留下極大想像空間。調查仍在進行中。
 
-![NASA科學家與航空航天研究](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+![NASA科學家與航空航天研究](/blog-placeholder-5.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/DoyscKtOjsQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *👩‍🔬 11名科學家神秘失蹤事件 — 新聞分析及白宮回應*
@@ -136,7 +136,7 @@ Reza是**Mondaloy**——一種用於火箭引擎的高溫鎳基超級合金—�
 
 > 「現在我知道為甚麼那些審問人員當時給我們那麼大壓力了。」 — 退休技術員
 
-![冷戰時期FPS-35巨型雷達](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![冷戰時期FPS-35巨型雷達](/blog-placeholder-1.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/hSGF6yjJJjc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *⏳ 蘑菇形UFO瞬間加速片段與冷戰雷達記錄的類比*

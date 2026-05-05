@@ -102,7 +102,7 @@ UFO作家Nigel Watson話：「好多呢啲案件可能係巧合，但有啲真�
 - 2025年國安檔案館公開咗超過1,200頁MKUltra文件
 - 白宮正調查多宗科學家人間蒸發及死亡個案
 
-![UFO 新聞圖片](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 新聞圖片](/blog-placeholder-1.jpg)
 
 ---
 

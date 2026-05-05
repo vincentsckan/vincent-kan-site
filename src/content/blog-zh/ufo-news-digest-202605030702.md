@@ -9,7 +9,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 又嚟到UFO快訊時間！雖然係星期日，但ＵＦＯ世界永遠唔會放假。今日帶嚟幾個重磅消息：美國前總統再提UFO檔案、國會女將逼爆機密、仲有英國最經典嘅UFO案件再次成為焦點。坐穩啦！
 
-![UFO概念圖](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![UFO概念圖](/blog-placeholder-4.jpg)
 
 ---
 

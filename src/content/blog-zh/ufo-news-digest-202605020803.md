@@ -28,7 +28,7 @@ tags: ['UFO', 'UAP', 'news', '自動更新']
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Gru2EDJvj9Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Liberation Times — 證據、無人機與UFO辯論深度探討*
 
-![UAP概述圖](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UAP概述圖](/blog-placeholder-2.jpg)
 
 ---
 
@@ -96,7 +96,7 @@ Burlison表示，如果能獲得確鑿證據——無論是物理的、照片的
 
 **為何突出：** 三個球體同步出現、持續可見、有控制移動——這些特徵使天然解釋難以完全成立。
 
-![多哈上空UFO](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![多哈上空UFO](/blog-placeholder-3.jpg)
 
 [🔗 Latest UFO Sightings — 多哈三角形UFO](https://www.latest-ufo-sightings.net/2026/03/triangle-ufo-formation-spooted-during-thunderstorm-over-doha-march-25-2026.html)
 
@@ -149,7 +149,7 @@ Rhea特別提出了一個假設：某些UAP可能不是傳統意義上的「訪�
 
 重要的是，Rhea反覆強調不確定性，並呼籲讀者不要將其視為確鑿的事實。
 
-![深層機密圖示](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![深層機密圖示](/blog-placeholder-4.jpg)
 
 [🔗 Latest UFO Sightings — Rhea吹哨人爆料全文](https://www.latest-ufo-sightings.net/2026/01/another-whistleblower-claims-deeper-layers-of-ufo-secrecy-inside-intelligence-agencies.html)
 

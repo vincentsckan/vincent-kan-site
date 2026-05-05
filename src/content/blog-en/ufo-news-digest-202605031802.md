@@ -43,7 +43,7 @@ Mellon specifically noted that the phenomenon of "multiple military and intellig
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/EXri0KF2oZY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🎙️ NewsNation Interview: Christopher Mellon Analyzes UFO Disclosure Prospects*
 
-![Washington Capitol Hill](/vincent-kan-site/_astro/blog-placeholder-3.jpg)
+
 
 ---
 
@@ -61,7 +61,7 @@ With celebrities like **John Travolta, Mick Jagger, Elvis Presley, William Shatn
 
 Which of your favorite celebrities has seen a UFO? Check out the video compilation below! 👇
 
-![Kacey Musgraves Performing](/vincent-kan-site/_astro/blog-placeholder-4.jpg)
+
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/BQCP8nBHJ7A" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🎵 Kacey Musgraves and Other Celebrity UFO Experiences Compilation*
@@ -88,7 +88,7 @@ Luna has previously criticized the Pentagon for "stonewalling" on the UFO issue 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/NJ4JuA2UYL4" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🗣️ Congresswoman Luna: America Needs UFO Transparency*
 
-![Washington Capitol](/vincent-kan-site/_astro/blog-placeholder-2.jpg)
+
 
 ---
 
@@ -110,7 +110,7 @@ JoBlo has compiled a **list of 11 celebrity UFO sightings**, spanning music, fil
 
 Interestingly, many celebrities described the objects as **triangular** or **cigar-shaped**, matching the UAP characteristics described by military whistleblower David Grusch.
 
-![Celebrity UFO Collage](/vincent-kan-site/_astro/blog-placeholder-5.jpg)
+
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/EXri0KF2oZY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🎬 Celebrities Openly Discussing UFO Sighting Experiences Compilation*

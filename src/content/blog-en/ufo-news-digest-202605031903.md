@@ -70,7 +70,7 @@ This isn't a real UFO report, but there's UFO-related news in the gaming world! 
 | 📍 *Gaming World* | 📅 *May 2026* | 🔍 *Popular Culture*
 |---|---|---|
 
-![UFO Game and News](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO Game and News](/blog-placeholder-2.jpg)
 
 ---
 

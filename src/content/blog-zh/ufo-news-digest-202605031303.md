@@ -108,7 +108,7 @@ FBI局長 **Kash Patel** 表示：「我哋會搵出所有關聯，如果有任�
 | 🔍 FBI調查10名科學家失蹤 | ⭐⭐⭐⭐⭐ | The Independent / Newsweek |
 | 📜 特朗普UFO解密令後續 | ⭐⭐⭐⭐ | Space.com |
 
-![UFO 新聞圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 新聞圖](/blog-placeholder-1.jpg)
 
 **密切留意嘅下一步發展：**
 1. Aliens.gov 網站幾時正式上線？內容會係乜？

@@ -30,7 +30,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 有意思嘅係，2025年有報告指出五角大樓當年其實係特登製造UFO傳聞嚟掩蓋秘密武器計劃，包括派空軍上校喺酒吧派發偽造UFO相片等操作。Area 51由冷戰時期U-2偵察機測試場演變成今日嘅外星人傳說聖地，真係充滿戲劇性。
 
-![Area 51衛星圖片](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![Area 51衛星圖片](/blog-placeholder-2.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/K0K7Q4rQ9Mg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
@@ -46,7 +46,7 @@ Burchett 將事件比喻為冷戰時期CIA嘅MKUltra洗腦計劃：「佢哋綁�
 
 FBI局長 Kash Patel 話局方正「牽頭調查」。不過Burchett對華盛頓情報官員會向總統講真話表示懷疑：「我同個紮住丸子頭嘅小官僚開會，佢話『總統係按需知情的』⋯⋯咁樣嘅訊息真係令人心寒。」
 
-![Tim Burchett 眾議員](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![Tim Burchett 眾議員](/blog-placeholder-1.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/6HWWqVJqXis" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 

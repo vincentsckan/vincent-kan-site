@@ -84,7 +84,7 @@ MKUltra旨在開發用於審訊的藥物和程序，包括洗腦和心理折磨�
 
 國會議員 **Tim Burchett** 將MKUltra與目前的科學家失蹤事件相提並論：「佢哋綁架人，灌佢哋食迷幻藥，試圖清除佢哋嘅記憶。佢哋被告上法庭，然後聲稱呢件事從來冇發生過。」
 
-![CIA MKUltra 計劃歷史檔案](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![CIA MKUltra 計劃歷史檔案](/blog-placeholder-2.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/RqptVKs7wbc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *MKUltra 思想控制計劃紀錄片*
@@ -131,7 +131,7 @@ Knapp 形容：「那是地獄火導彈撞上那個UFO，然後直接彈開，�
 
 ---
 
-![UFO研究員David Wilcock](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![UFO研究員David Wilcock](/blog-placeholder-5.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/DUuxA0zmAK0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Congressional UFO Hearing — 完整聽證會影片*

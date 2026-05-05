@@ -109,7 +109,7 @@ FBI局長Kash Patel表示：「如果有任何行為導致不法行為或陰謀�
 
 ---
 
-![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO illustration](/blog-placeholder-1.jpg)
 
 ---
 

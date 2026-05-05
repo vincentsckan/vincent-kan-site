@@ -37,7 +37,7 @@ Many residents shared their experiences on social media:
 
 Nevada is the third most seismically active state in the US, after California and Alaska. While the earthquakes are primarily natural, considering the earlier conspiracy theories sparked by the **earthquake swarm near Area 51**, this large-scale swarm is sure to reignite interest within the UFO community.
 
-![Nevada Silver Lake Earthquake Map](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
+![Nevada Silver Lake Earthquake Map](/blog-placeholder-4.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/LSyMDpKzjnI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🌊 Analysis of the Nevada Earthquake Swarm — Secrets Behind the Crustal Tearing*
@@ -97,7 +97,7 @@ Trump stated this February: "I will direct the Secretary of War and other releva
 
 The public is still waiting for concrete action.
 
-![UFO Disclosure Concept Image](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO Disclosure Concept Image](/blog-placeholder-1.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/7tLRW4I3GxM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *📂 Trump UFO File Disclosure — Bassett Interview and Analysis of the Three Driving Forces*
@@ -167,7 +167,7 @@ Waring captured a massive disc-shaped object, **7-10 miles (approx. 11-16 km) lo
 
 Waring discovered a "thin human/reptilian hybrid species face" on Google Maps of Antarctica.
 
-![NASA Mars Photo Showing Suspected Animal and Statues](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+![NASA Mars Photo Showing Suspected Animal and Statues](/blog-placeholder-5.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/NLNjrQ5UPmk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🔭 UFO Sightings Daily — Mars Discovery, Giant Solar UFO, and Antarctic Anomaly*

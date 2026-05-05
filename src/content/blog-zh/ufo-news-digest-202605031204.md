@@ -128,7 +128,7 @@ USGS話超過100人匯報感到震動，考慮到嗰區居民主要係**軍方�
 
 > 💡 **總結：** 今日最大新聞係特朗普再度放風話UFO檔案即將釋放，加上國會Luna承諾展示「非人類來源」證據，副總統Vance都加入討論。雖然前官員潑冷水，但披露嘅可能性似乎比以往任何時候都高！而且荷里活大片、前總統奧巴馬嘅發言都顯示UFO話題已經滲入主流文化。
 
-![UFO/UAP新聞](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![UFO/UAP新聞](/blog-placeholder-5.jpg)
 
 ---
 

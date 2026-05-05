@@ -59,7 +59,7 @@ NewsNation報導，一位美國國會女議員公開承諾會正視同處理涉�
 
 ## 📸 今日焦點圖片
 
-![UFO/UAP新聞概念圖](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO/UAP新聞概念圖](/blog-placeholder-3.jpg)
 
 ---
 

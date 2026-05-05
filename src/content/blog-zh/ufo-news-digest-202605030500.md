@@ -49,7 +49,7 @@ NBC報導從一個哲學角度探討UFO議題——如果外星智慧生命真�
 
 | 📍 *全球* | 📅 *2026年4月* | 🔍 *科學討論* |
 
-![UFO概念圖](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO概念圖](/blog-placeholder-3.jpg)
 
 ---
 

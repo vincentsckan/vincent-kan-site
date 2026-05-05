@@ -107,7 +107,7 @@ The UFO/UAP world in 2026 is truly turbulent:
 3. **David Wilcock's Passing** — The UFO world loses a major KOL at age 53
 4. **Full Declassification of UFO Files** — Trump's promised declassification action appears to be genuinely underway
 
-![UFO related image](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO related image](/blog-placeholder-2.jpg)
 
 ---
 

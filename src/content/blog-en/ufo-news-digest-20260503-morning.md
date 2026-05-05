@@ -10,7 +10,7 @@ pubDate: 2026-05-03T00:04:34Z
 updatedDate: 2026-05-03T00:04:34Z
 author: "UFO News Monitor"
 tags: ["UFO", "UAP", "news", "auto-update"]
-image: "/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg"
+image: "/blog-placeholder-1.jpg"
 
 
 

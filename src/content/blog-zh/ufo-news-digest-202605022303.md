@@ -91,11 +91,11 @@ NUFORC喺2025年11月發佈咗一份完整嘅實地調查報告：密芝根北�
 
 ## 📸 圖片精選
 
-![NUFORC Fortuna Radar Case](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![NUFORC Fortuna Radar Case](/blog-placeholder-1.jpg)
 
 *NUFORC公開嘅1967年Fortuna AFS雷達UFO個案，係冷戰SAGE系統嘅一部分*
 
-![Area 51 Earthquake](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![Area 51 Earthquake](/blog-placeholder-2.jpg)
 
 *Area 51附近嘅地震群引發地下測試疑雲*
 

@@ -113,7 +113,7 @@ Many major UFO-related news stories have broken in the past few hours:
 | 🔍 FBI investigates 10 scientists missing | ⭐⭐⭐⭐⭐ | The Independent / Newsweek |
 | 📜 Aftermath of Trump's UFO declassification order | ⭐⭐⭐⭐ | Space.com |
 
-![UFO News Image](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO News Image](/blog-placeholder-1.jpg)
 
 **Key Developments to Watch:**
 1. When will the Aliens.gov website officially launch? What will its content be?

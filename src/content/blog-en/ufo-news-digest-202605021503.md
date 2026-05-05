@@ -74,7 +74,7 @@ Burchett warned the events could be **an internal U.S. operation**, similar to M
 
 Eric Burlison wrote on X: "We are competing with China, Russia, and Iran in nuclear technology, advanced weapons, and space. Meanwhile, our top scientists keep disappearing. This perfectly fits the characteristics of a foreign operation."
 
-![UFO News Image](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO News Image](/blog-placeholder-3.jpg)
 
 ---
 

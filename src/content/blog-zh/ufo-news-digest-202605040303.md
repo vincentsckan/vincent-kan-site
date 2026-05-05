@@ -93,7 +93,7 @@ NUFORC最近仲推出咗多項新內容：
 
 ## 📸 今日焦點圖片
 
-![UFO目擊概念圖](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO目擊概念圖](/blog-placeholder-2.jpg)
 
 ---
 

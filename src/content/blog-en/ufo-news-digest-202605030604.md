@@ -14,7 +14,7 @@ tags: ["UFO", "UAP", "news", "auto-update"]
 ---
 > Whether it's big news or small updates, as long as it's about UFO/UAP, we'll compile it for you right away. Today's news flash brings severalimportant topics: the NRO's secret AI system, a congressman's public revelations, and new details about the mysterious death of a key whistleblower.
 
-![UFO concept image](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO concept image](/blog-placeholder-2.jpg)
 
 ---
 

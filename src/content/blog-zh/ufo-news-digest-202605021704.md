@@ -9,7 +9,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 又到咗深夜UFO快訊時間！今日係2026年5月2日（星期六），香港已經踏入5月3日凌晨。雖然係週末，但UFO界嘅動態依然冇停過！今晚帶嚟多個更新消息，同埋天文冷知識撐住你嘅UFO癮！🛸
 
-![UFO夜空概念圖](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO夜空概念圖](/blog-placeholder-2.jpg)
 
 ---
 
@@ -61,7 +61,7 @@ ISS會有幾日特別光，如果唔知佢係太空站，好易誤認為UFO。�
 **5月31日 — 新月**
 新月前後嘅暗夜係觀測異常天象（包括UFO）嘅最佳時機。記得帶多啲朋友一齊睇，互相做證人！
 
-![星空觀測](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![星空觀測](/blog-placeholder-3.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/EXri0KF2oZY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 

@@ -32,7 +32,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 Nevada是全國第三活躍地震州，僅次於加州及阿拉斯加。雖然地震以自然因素為主，但考慮到早前**51區附近地震群**引發的陰謀論熱潮，這次大規模地震群勢必再次引發UFO社群關注。
 
-![內華達Silver Lake地震分布圖](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
+![內華達Silver Lake地震分布圖](/blog-placeholder-4.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/LSyMDpKzjnI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🌊 Nevada地震群分析 — 地殼撕裂背後的秘密*
@@ -92,7 +92,7 @@ Bassett認為最令人憂慮的是全球衝突風險不斷升級。在國際緊�
 
 目前公眾仍在等待具體行動。
 
-![UFO披露概念圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO披露概念圖](/blog-placeholder-1.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/7tLRW4I3GxM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *📂 Trump UFO檔案披露 — Bassett專訪及三股推動力分析*
@@ -162,7 +162,7 @@ Waring捕捉到一個**長達7-10英哩（約11-16公里）**的巨大圓盤狀�
 
 Waring在南極Google地圖上發現了一個「瘦削的人類/爬蟲族混合物種面孔」。
 
-![NASA火星照片疑似動物及雕像](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+![NASA火星照片疑似動物及雕像](/blog-placeholder-5.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/NLNjrQ5UPmk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🔭 UFO Sightings Daily — 火星發現、太陽巨型UFO及南極異常*

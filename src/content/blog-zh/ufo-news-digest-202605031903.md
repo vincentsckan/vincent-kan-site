@@ -65,7 +65,7 @@ WSLS 報導，特朗普喺多個場合不斷暗示 UFO 檔案即將公開，但�
 | 📍 *遊戲界* | 📅 *2026年5月* | 🔍 *流行文化*
 |---|---|---|
 
-![UFO 遊戲與新聞](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO 遊戲與新聞](/blog-placeholder-2.jpg)
 
 ---
 

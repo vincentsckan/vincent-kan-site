@@ -127,7 +127,7 @@ Bassett形容，如果公開真係發生，將會係「人類史上任何國家�
 
 ## 📸 今日精選圖片
 
-![Area 51衛星圖](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![Area 51衛星圖](/blog-placeholder-3.jpg)
 *內華達沙漠中嘅Area 51——全球最神秘嘅軍事基地之一，長期同UFO陰謀論聯繫在一起*
 
 ---

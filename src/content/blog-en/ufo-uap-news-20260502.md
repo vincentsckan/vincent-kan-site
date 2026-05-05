@@ -33,7 +33,7 @@ Liberation Times learned from sources that Sullivan was directly involved in the
 
 Before his death, Sullivan had been contacted by UAP whistleblower and retired Air Force Major **David Grusch**. Grusch was deeply distressed upon hearing of Sullivan's death. Burlison revealed: "Grusch was helping him come forward as a whistleblower."
 
-![US Air Force Logo](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![US Air Force Logo](/blog-placeholder-1.jpg)
 
 During his service, Sullivan held positions in multiple high-level agencies, including the **National Air and Space Intelligence Center (NASIC)**, the **National Security Agency (NSA)**, and the **Air Force Intelligence Directorate**. He was deployed to U.S. Central Command and Indo-Pacific Command, and his obituary indicates he was awarded the **Bronze Star Medal** for valor during Operation Enduring Freedom.
 
@@ -61,7 +61,7 @@ The Debrief's analysis is more restrained, noting that while media outlets link 
 
 The most prominent case remains **Major General Neil McCasland**. McCasland was the former commander of the Air Force Research Laboratory (AFRL), stationed at Wright-Patterson Air Force Base — the hub of the highest level of U.S. aerospace research. After retiring, he participated in Blink-182 singer Tom DeLonge's UAP-related work, laying the groundwork for the modern congressional UAP disclosure movement. Search efforts continue since his disappearance from the Albuquerque suburbs in late February.
 
-![Missing Scientists Investigation](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![Missing Scientists Investigation](/blog-placeholder-5.jpg)
 
 [🔗 The Debrief — Are Scientists Disappearing?](https://thedebrief.org/are-scientists-with-knowledge-of-u-s-secrets-disappearing-the-facts-tell-a-different-story/)
 [🔗 Liberation Times — McCasland Disappearance Case](https://www.liberationtimes.com/home/the-missing-general-neil-mccasland-ufo-claims-and-an-unfolding-mystery)
@@ -141,7 +141,7 @@ The records, provided by the Nuclear Regulatory Commission (NRC), consist of rep
 
 **Most intense incident:** On September 26, 2022, 8 drones invaded the plant's airspace for approximately **2 hours and 45 minutes**. On October 3, 2022, another multi-drone incident lasted 2 hours and 8 minutes, with **three being quadcopters and a fourth, larger one being triangular and seemingly equipped with a large spotlight**. The drones displayed red, green, and white lights, with at least one carrying a blue light.
 
-![Nuclear Plant Security Monitoring](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![Nuclear Plant Security Monitoring](/blog-placeholder-3.jpg)
 
 The Columbia Generating Station in Washington State recorded persistent drone activity from November 2022 to February 2023, including some very large drones — one estimated to be **8 to 10 feet (about 2.4 to 3 meters) in diameter**, with red and white flashing lights.
 
@@ -182,7 +182,7 @@ Over a hundred people reported feeling the shaking to the U.S. Geological Survey
 
 This earthquake swarm coincides with **renewed controversy surrounding Area 51** — following a 2025 report revealing that the U.S. Department of Defense had deliberately manufactured UFO conspiracy theories, including distributing fake flying saucer photos to residents during the Cold War to conceal classified weapons testing projects.
 
-![Nevada Desert](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
+![Nevada Desert](/blog-placeholder-4.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/9tqs6Z3OQSk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Media compilation regarding the mysterious disappearances and deaths of scientists in 2026*
@@ -206,7 +206,7 @@ The family stated that government officials have indicated they are investigatin
 
 In April 2026, **President Trump** announced his administration would investigate the cases of Reza and at least **10 to 12** other missing or deceased American scientists, most of whom held high-level secrets in defense, nuclear, and aerospace fields. As of April 30, Trump said he had been briefed on the investigations: "Some of them are very tragic cases, people were sick, some took their own lives... sometimes there are connections between cases... but so far we haven't found much of a connection."
 
-![NASA Scientist](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+![NASA Scientist](/blog-placeholder-5.jpg)
 
 [🔗 Daily Mail — Missing Scientist Monica Reza Family Speaks Out](https://www.dailymail.com/sciencetech/article-15769971/missing-scientist-hiking-nasa-jpl-suspicious-disappearance-monica-reza.html)
 

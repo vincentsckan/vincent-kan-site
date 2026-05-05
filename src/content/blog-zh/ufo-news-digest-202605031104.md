@@ -30,7 +30,7 @@ Loeb表示，首批公開的內容很可能以**更多影片證據**為主，隨
 
 特朗普甚至提到他親自採訪過一些人，對方告訴他「見過你唔會相信嘅嘢」。
 
-![特朗普與NASA宇航員](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![特朗普與NASA宇航員](/blog-placeholder-1.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/0eudA6Pb3QM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🇺🇸 國會議員首次公開確認非人類起源存在 — 完整新聞報導*
@@ -57,7 +57,7 @@ Luna直斥這是「不可接受」的拖延，並不排除傳召相關官員及�
 - 她批評AARO辦事不透明，反而阻礙了真正的披露進程
 - 部分觀察人士認為，這是國會採取**更強硬手段**的信號
 
-![美國國會大廈（空照圖）](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
+![美國國會大廈（空照圖）](/blog-placeholder-4.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/BMnNz5DJKT8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🏛️ Congresswoman Luna 談UAP影片死線及非人類證據*
@@ -115,7 +115,7 @@ Luna直斥這是「不可接受」的拖延，並不排除傳召相關官員及�
 
 文章恰巧在Luna炮轟五角大樓及特朗普承諾釋出UFO檔案的背景下刊出，時機耐人尋味。
 
-![Rendlesham Forest的神秘三角形飛行器](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+![Rendlesham Forest的神秘三角形飛行器](/blog-placeholder-5.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/hSGF6yjJJjc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🌲 Rendlesham Forest 30年後 — 目擊者親述及不可解釋的細節*

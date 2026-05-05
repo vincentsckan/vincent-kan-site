@@ -104,7 +104,7 @@ Defense One 報導，五角大樓確認 AARO（全域異常解決辦公室）喺
 
 ---
 
-![UFO 檔案解密](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO 檔案解密](/blog-placeholder-2.jpg)
 
 ---
 

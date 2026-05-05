@@ -99,7 +99,7 @@ Carter本人幾十年前就曾經報告親眼目擊過UFO，佢喺擔任佐治�
 
 ---
 
-![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO illustration](/blog-placeholder-1.jpg)
 
 ---
 

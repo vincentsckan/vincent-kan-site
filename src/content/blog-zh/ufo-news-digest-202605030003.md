@@ -37,7 +37,7 @@ Scott Waring 喺 Apollo 17 嘅 NASA 舊檔案入面發現咗一個巨型 UFO，�
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/8Ts8NNWNQZU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-![火星疑似雕像](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![火星疑似雕像](/blog-placeholder-2.jpg)
 
 ---
 

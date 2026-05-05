@@ -92,7 +92,7 @@ Wilcock係UFO披露運動嘅重要人物，其YouTube頻道「Divine Cosmos with
 
 ---
 
-![UFO](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO](/blog-placeholder-2.jpg)
 
 > **小編有感：** 呢個星期嘅UFO新聞真係一鑊泡 — 由David Wilcock突然離世、到白宮正式註冊Aliens.gov、再到FBI調查科學家死亡事件，樣樣都令人深思。你覺得呢啲事件之間有冇關聯？定係一切都只係巧合？留言話畀我哋知！👇
 

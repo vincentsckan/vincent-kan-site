@@ -11,7 +11,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 ---
 
-![UFO 快訊](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 快訊](/blog-placeholder-1.jpg)
 
 ## 🔥 今日重點新聞
 
@@ -73,7 +73,7 @@ Sky Canada Project 發布咗一份關於加拿大UAP問題嘅重要報告。報�
 - **全球UFO歷史檔案中心**：北美最大嘅UFO檔案中心新設施正式開放
 - **前反間諜官員新回憶錄**：名為《Imminent》嘅回憶錄揭示咗UFO業內人士觀點
 
-![UFO 資料](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO 資料](/blog-placeholder-2.jpg)
 
 ## 📺 精選UFO影片合集
 

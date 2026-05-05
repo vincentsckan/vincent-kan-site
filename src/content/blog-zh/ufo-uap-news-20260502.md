@@ -28,7 +28,7 @@ Liberation Times從消息來源獲悉，Sullivan涉嫌直接參與該遺留計�
 
 Sullivan在去世前已被UAP吹哨人、退役空軍少校 **David Grusch** 接觸過。Grusch聽到Sullivan的死訊後極度悲痛。Burlison透露：「Grusch正在協助他作為吹哨人站出來。」
 
-![美國空軍標誌](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![美國空軍標誌](/blog-placeholder-1.jpg)
 
 Sullivan服役期間曾在多個高層機構任職，包括**國家空中及太空情報中心（NASIC）**、**國家安全局（NSA）**及**空軍情報局**。他曾被派往美國中央司令部及印太司令部，其訃聞顯示他曾因在持久自由行動中的英勇表現獲頒**銅星勛章**。
 
@@ -56,7 +56,7 @@ The Debrief的分析則較為克制，指出雖然媒體將這些事件串聯成
 
 其中最引人注目的個案仍是 **Neil McCasland 少將**。McCasland 曾是空軍研究實驗室（AFRL）司令，駐守 Wright-Patterson空軍基地——美國最高級別航空航天研究的中樞。他退役後參與了 Blink-182 歌手 Tom DeLonge 的UAP相關工作，為現代國會UAP披露運動奠定了基礎。自2月底從阿爾伯克基郊區失蹤後，搜索行動仍在繼續。
 
-![失蹤科學家調查](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![失蹤科學家調查](/blog-placeholder-5.jpg)
 
 [🔗 The Debrief — Are Scientists Disappearing?](https://thedebrief.org/are-scientists-with-knowledge-of-u-s-secrets-disappearing-the-facts-tell-a-different-story/)
 [🔗 Liberation Times — McCasland失蹤案](https://www.liberationtimes.com/home/the-missing-general-neil-mccasland-ufo-claims-and-an-unfolding-mystery)
@@ -136,7 +136,7 @@ Liberation Times通過《信息自由法》（FOIA）獲得的記錄顯示，**�
 
 **最密集事件：** 2022年9月26日，8架無人機入侵電站空域，持續約**2小時45分鐘**。2022年10月3日，另一宗多無人機事件持續了2小時8分鐘，其中**三架為四軸飛行器，第四架體積更大、呈三角狀、似乎裝有大型探照燈**。無人機顯示紅、綠、白三色燈光，至少一架帶有藍燈。
 
-![核電站安全監控](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![核電站安全監控](/blog-placeholder-3.jpg)
 
 華盛頓州的 Columbia Generating Station 記錄了從2022年11月至2023年2月的持續無人機活動，包括一些體積巨大的無人機——其中一架估計直徑達**8至10呎（約2.4至3米）**，帶有紅白閃爍燈光。
 
@@ -177,7 +177,7 @@ Luna公開批評戰爭部初期「沒有人回應，直到我們主動聯繫」�
 
 這次地震群適逢 **51區相關爭議再度升溫**——此前一份2025年的報告揭露，美國國防部曾刻意製造UFO陰謀論，包括在冷戰時期分發偽造飛碟照片予居民，以掩飾機密武器測試項目。
 
-![內華達沙漠](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
+![內華達沙漠](/blog-placeholder-4.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/9tqs6Z3OQSk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *關於2026年科學家神秘失蹤與死亡的媒體報導合集*
@@ -201,7 +201,7 @@ Reza的家屬直言：「我知道這遠不止她失足跌下懸崖或被路人�
 
 2026年4月，**特朗普總統**宣布其政府將對Reza及至少**10至12名**其他失蹤或死亡的美國科學家展開調查，這些科學家大多掌握國防、核能和航空航天領域的高級機密。截至4月30日，特朗普表示已聽取調查情況簡報：「其中一些是非常悲慘的個案，有人患病，有人自尋短見……有時案件之間確實有關聯……但至今我們發現關聯不大。」
 
-![NASA科學家](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+![NASA科學家](/blog-placeholder-5.jpg)
 
 [🔗 Daily Mail — Missing Scientist Monica Reza Family Speaks Out](https://www.dailymail.com/sciencetech/article-15769971/missing-scientist-hiking-nasa-jpl-suspicious-disappearance-monica-reza.html)
 

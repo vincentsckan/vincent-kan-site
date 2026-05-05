@@ -114,7 +114,7 @@ Back in the 1980s, Air Force officers would hand out fake UFO photos to patrons 
 
 It wasn't until 2013 that declassified CIA documents officially confirmed Area 51 was only used for testing the U-2 reconnaissance plane and the A-12 supersonic spy plane, with no connection to aliens. However, Robert Lazar's 1989 revelations had already cemented Area 51's alien lore in the public mind, and some still believe it today! 😅
 
-![UFO Concept Image](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO Concept Image](/blog-placeholder-1.jpg)
 
 ---
 

@@ -9,7 +9,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 嘩！今日嘅UFO新聞量嚇死人😱 **著名UFO研究員David Wilcock吞槍自殺**、**FBI正式調查科學家連環死傷失蹤案**、國會聽證會上公開**Hellfire導彈打中UFO彈開**嘅震撼片段，仲有白宮真係註冊咗**Aliens.gov**呢個域名！由細到大講到UFO都冇咁多新聞同一時間爆發過！
 
-![UFO](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![UFO](/blog-placeholder-5.jpg)
 
 ---
 

@@ -54,7 +54,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 > <div class="video-embed"><iframe src="https://www.youtube.com/embed/HGwyXJzseIs" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 > **UAP披露最新動態深入討論**
 
-![特朗普與UFO檔案](/vincent-kan-site/_astro/blog-placeholder-3.Cpq2bb23.jpg)
+![特朗普與UFO檔案](/blog-placeholder-3.jpg)
 
 ---
 
@@ -92,7 +92,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 > <div class="video-embed"><iframe src="https://www.youtube.com/embed/hSGF6yjJJjc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 > **Pentagon公開UFO影片回顧**
 
-![Guardian記者UFO之旅](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+![Guardian記者UFO之旅](/blog-placeholder-5.jpg)
 
 ---
 
