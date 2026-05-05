@@ -1,146 +1,184 @@
 ---
 title: '🛸 全球UFO/UAP新聞摘要 — 2026年5月5日'
-description: '五角大樓UFO辦公室承認存在真實異常現象 · AARO前主任洩露驚人性能細節 · 三個美國州自行立法研究UAP'
+description: '五角大樓AARO承認真正異常存在 · 前主任詳述驚人性能細節 · NUFORC曝光1967年Fortuna雷達高速UFO案 · 參議院情報委員會2022年已獲取回收任務資訊'
 titleEn: '🛸 Global UFO/UAP News Roundup — May 5, 2026'
-descriptionEn: 'Pentagon UFO office admits real anomalies exist · Ex-AARO director reveals astonishing performance details · Three US states pass own UAP research laws'
+descriptionEn: 'Pentagon AARO admits true anomalies exist · Ex-director details astonishing performance capabilities · NUFORC reveals 1967 Fortuna radar high-speed UFO case · Senate Intel Committee received recovery mission info in 2022'
 pubDate: '2026-05-05'
 updatedDate: '2026-05-05'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
-> 📡 **Daily UAP News Digest** — May 5, 2026 (Tuesday)
-> Automatically collected, organized, and formatted by AI, focusing on authoritative sources and key developments
+
+> 📡 **每日UAP新聞摘要** — 2026年5月5日（星期二）
+> 由AI自動收集、整理，聚焦權威來源與關鍵動態
 
 ---
 
-| 📍 *美國·華盛頓特區* | 📅 *2026年5月4日* | 🔍 *政府披露*
+| 📍 *美國·華盛頓特區* | 📅 *2026年5月4日* | 🔍 *政府披露與問責*
 
-## 🏛️ Government Disclosures & Congressional Updates
+## 🏛️ 政府披露與國會動態
 
-### 五角大樓UFO辦公室承認「它們是真的」——但能否說出真相？
-**來源：** Liberation Times（2026年5月4日）
+### 五角大樓UFO辦公室知道「它們是真的」——但能否說出真相？
+**來源：** Liberation Times（Christopher Sharp，2026年5月4日）
 
-在一篇重磅調查報導中，Liberation Times 揭示了五角大樓轄下 All-domain Anomaly Resolution Office（AARO）的深層矛盾。AARO 主任 Dr. Jon Kosloski 日前在媒體圓桌會上形容 UAP 為「真正奇特」（really peculiar）和「令人費解」（perplexing）。
+Liberation Times 昨日刊出一篇重磅調查報導，深入剖析五角大樓轄下 All-domain Anomaly Resolution Office（AARO）的核心矛盾。
 
-但其前任主任 Tim Phillips 在接受 Liberation Times 獨家專訪時透露了更驚人的細節：AARO 曾遭遇一些展現出「任何已知人類系統都無法做到的驚人性能」的案例。Phillips 明確表示：「我們能夠確鑿證明那不是已知的敵方或友方系統。」
+AARO 主任 Dr. Jon Kosloski 在2026年4月舉行的媒體圓桌會上公開表示，部分 UAP 現象「真正奇特」（really peculiar）和「令人費解」（perplexing），即使以他的物理學與工程學背景，加上情報界的經驗，也無法解釋。
 
-報導進一步揭露了一項結構性矛盾：AARO 雖然確認了無法解釋的異常現象，但該辦公室本身植根於情報與安全體系——其前身 AOIMSG 隸屬於 War Department 的情報與安全副部長辦公室（OUSDI&S），該部門的職責包括反情報、內部威脅政策，以及對 Special Access Programs（SAP）的安全監督。
+更為關鍵的是，其前任主任 **Tim Phillips** 在 Liberation Times 的獨家專訪中透露了更令人震驚的細節：
 
-這意味著吹哨人被要求將敏感 UAP 資料提交到一個本來就是為保護和封鎖機密而設計的系統中。多位吹哨人表示不信任 AARO，並轉而向參議院情報委員會提供資訊。
+> 「我們遇到過一些案件，由高度合格的觀測者報告，他們目擊了真正驚人的性能——沒有任何已知的人類系統能夠做到的表現。」
 
-更關鍵的是，據兩名消息人士透露，特朗普政府正在考慮承認美國擁有回收的「非地球飛行器」，前提是其他國家也擁有類似飛行器。這一決定若最終落實，將是歷史上最重大的UFO披露之一。
+Phillips 進一步確認：「我們能夠確鑿證明那不是已知的敵方或友方系統。」
 
-[🔗 全文閱讀](https://www.liberationtimes.com/home/the-pentagons-ufo-office-knows-theyre-real-but-can-it-tell-the-truth)
+然而，報導揭示了一個結構性矛盾：AARO 雖然承認了真實的異常現象，但該辦公室根植於一個「既是調查者、又是保密者」的情報安全體系。
 
----
+**AARO的雙重身份問題：**
 
-### 三個美國州自行立法研究UFO——聯邦行動太慢
-**來源：** UAP Check（2026年4月17日）
+AARO 的前身 AOIMSG 隸屬於 War Department 情報與安全副部長辦公室（OUSDI&S）——而這個部門的職責正好包括反情報、內部威脅政策，以及對 Special Access Programs（SAP）的安全監督。換句話說，當吹哨人被要求向 AARO 提交敏感資訊時，他們實際上是把資訊交給了一個專門設計來保護和限制機密訪問的系統。
 
-由於聯邦層面的披露進展未如理想，美國三個州——**新澤西州、康涅狄格州和佛蒙特州**——已自行立法要求對UFO進行正式研究。
+吹哨人 Dylan Borland 的案例說明了這一點：他向 AARO 提交了三張圖紙，其中兩張隨後被按照現行保密指引標記為機密。
 
-- **新澤西州**（Assembly Bill 5712）：已於2026年1月12日成為法律。法案撥款每年 **250萬美元** 用於設立「UAP研究中心」，將由一所公立高等教育機構管理。
-- **康涅狄格州**（Raised Bill No. 5422）：要求康涅狄格大學進行UAP研究，並將與包括MUFON在內的民間組織合作，報告須於2027年7月1日前提交。
-- **佛蒙特州**（Bill H.654）：提議設立「佛蒙特空域安全與異常現象專案組」，由10名成員組成，包括航太專家、雷達傳感器專家等。Scientific Coalition for UAP Studies（SCU）將提供技術支援。
+**特朗普政府的披露前景：**
 
-這三個州的立法行動標誌著美國地方政府在UFO問題上的重大突破，顯示出對聯邦進度不滿的強烈訊號。
+報導引述兩名消息人士，指特朗普政府的披露考量已進入實質階段：
+- 可能承認美國擁有回收的「非地球飛行器」
+- 前提是其他國家也擁有類似飛行器
+- 目的在於增加逆向工程資源——據稱各國正處於一場「技術利用競賽」
+- 但逆向工程所得的技術細節可能不會公開
 
-[🔗 全文閱讀](https://uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/)
+關鍵人物 **Marco Rubio**（現國家安全顧問，前參議院情報委員會代理主席）被認為是推動披露的核心橋樑。
 
----
+報導還披露了一個震撼性歷史記錄：**參議院情報委員會早在2022年就已獲得關於秘密UAP回收與逆向工程任務的「可驗證資訊」**——多位與委員會接觸過的吹哨人至今從未與 AARO 對話，因為他們不信任這個機構。
+
+![AARO與五角大樓](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Gru2EDJvj9Q" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
+[🔗 Liberation Times 全文](https://www.liberationtimes.com/home/the-pentagons-ufo-office-knows-theyre-real-but-can-it-tell-the-truth)
+
 ---
 
-| 📍 *歐洲·北約前沿* | 📅 *2026年4月10日* | 🔍 *核設施與無人機*
+| 📍 *美國·北達科他州/蒙大拿州邊境* | 📅 *1967年春季* | 🔍 *歷史雷達案例*
 
-## 🏭 Nuclear Facilities & Security
+## 🛡️ 冷戰時期UAP事件
 
-### 歐洲無人機入侵危機——UFO辯論中的真真假假
+### NUFORC曝光新歷史雷達案：Fortuna AFS 春季1967年高速UFO
+**來源：** NUFORC（2026年5月1日發布）
+
+NUFORC（國家UFO報告中心）於5月1日發布了一個此前從未被記載的冷戰時期UFO雷達案例。
+
+**事件概要：**
+
+2026年4月12日，NUFORC接到一位退休美國空軍雷達維修技術員的報告——他在1967年春季服役於北達科他州 Fortuna 空軍基地（Fortuna AFS）時，親身經歷了一次雷達捕捉到極高速不明物體的事件。
+
+該基地是 SAGE（半自動地面環境防空系統）網絡的一部分，裝備有 AN/FPS-35 搜索雷達（天線直徑達128英尺）和 AN/FPS-26 測高雷達。
+
+**目擊者描述：**
+
+當時年約21歲的技術員正在值夜班與同僚打牌，突然接到 Minot AFB 的電話通知。雷達操作員 Lenny Kemp 查看螢幕後驚呼「那是什麼？！」——一個不明目標以跳躍方式橫跨雷達螢幕，速度估計高達 **每小時5,000英里**（約8,047公里/小時）。
+
+這位技術員立即跑到測高雷達嘗試鎖定目標，但無論如何也無法捕捉——因為物體移動速度太快，雷達每12秒的掃描週期根本跟不上。
+
+**事後壓制：**
+
+最令目擊者印象深刻的是事後的處理方式。次日，一群來自 **AFOSI（空軍特別調查辦公室）** 的官員抵達基地，對所有人進行了「審訊」（目擊者強調這不是「訪談」而是「審訊」），強硬要求所有人不得談論所見之事。
+
+AFOSI 官員甚至直接告訴他們：「你們什麼也沒看見。」這與 Malmstrom AFB 和 Minot AFB 在同期發生的 UFO 導致核飛彈關閉事件的處理方式如出一轍。
+
+**歷史關聯：**
+
+NUFORC 調查員 Jim Clarkson（擁有40年經驗）經深入核實後指出，此事件可能與以下兩個已知歷史事件相關：
+- **1967年3月5日**：Minot AFB 雷達追蹤到一個不明目標降臨飛彈陣地，地面打擊小組目擊到一枚金屬碟形物體，環繞明亮閃爍燈光
+- **1967年3月16日（Malmstrom AFB）**：著名的「Echo Flight」事件，多枚 Minuteman I 核飛彈在 UFO 出現期間相繼關閉
+
+報導全文附有雷達站照片及詳細調查記錄。
+
+![NUFORC歷史雷達案](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/5H5YMLE6dKo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
+
+[🔗 NUFORC 全文閱讀](https://nuforc.org/fortuna-radar-case/)
+[🔗 NICAP：Minot AFB 1967年3月5日事件](https://www.nicap.org/reports/670305minot_report.htm)
+
+---
+
+| 📍 *全球·北約* | 📅 *2026年4-5月* | 🔍 *無人機與混合作戰*
+
+## 🏭 核設施安全與無人機威脅
+
+### 證據、無人機與UFO辯論——歐洲北約面臨的真正威脅
 **來源：** Liberation Times（2026年4月10日）
 
-Christopher Sharp 發表長篇分析，指出北約歐洲國家正面臨嚴重的無人機入侵危機——波羅的海、北海、黑海、大西洋、北極和英倫海峽均出現大規模不明無人機活動。
+Christopher Sharp 發表了長篇分析警告UFO社群注意確認偏誤的風險。他指出，去年11月在英國 RAF Lakenheath 基地引發熱議的所謂「UFO與核武關聯」事件，經詳細調查後已確認實為俄羅斯無人機活動。
 
-報導質疑UFO社群內部存在確認偏誤（confirmation bias），指出去年11月在英國 RAF Lakenheath 基地引發熱議的所謂「UFO與核武關聯」事件，經詳細調查後證實實為俄羅斯無人機活動。
+與此同時，歐洲北約國家正面臨前所未有的不明無人機入侵——波羅的海、北海、黑海、大西洋、北極和英倫海峽均出現大規模活動。一名俄羅斯間諜船在波羅的海以無人機攻擊法國航空母艦的事件尤其令人關注。
 
-Sharp 強調：「如果我們希望公眾認真對待真正的異常現象報告，我們就需要在事件涉及無人機時應用同樣的證據標準和智識嚴謹性。」他同時揭露了一艘俄羅斯間諜船在波羅的海以無人機攻擊法國航空母艦的事件。
+Sharp 的結論明確：「如果我們希望公眾認真對待真正的異常現象報告，我們就需要在事件涉及無人機時應用同樣的證據標準。」
 
 [🔗 全文閱讀](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate)
-[🔗 詳細研究論文](https://static1.squarespace.com/static/610434e4588db6073a08618b/t/69d93c4d22615340a381f55e/1775844483251/Russian+Hybrid+Ops+Part+TWO_+Baltic+Spy+Ship+Drone+Targets+Carrier_2026.04.08+New+Version.pdf)
 
 ---
 
-| 📍 *美國·參議院情報委員會* | 📅 *2022年至今* | 🔍 *懸案*
+| 📍 *美國·新澤西/康涅狄格/佛蒙特* | 📅 *2026年* | 🔍 *州級立法*
 
-## ❓ Cold Cases & Mysterious Events
+## 🌍 國際與地方政府動態
 
-### 參議院情報委員會2022年已獲取UAP回收任務機密資訊
-**來源：** Liberation Times（2026年5月4日）
+### 三個美國州自行立法研究UFO——聯邦進度太慢
+**來源：** UAP Check（2026年4月17日）
 
-Liberation Times 在報導中披露了一個震撼性細節：參議院情報委員會早在 **2022年** 就已獲得關於秘密UAP回收與逆向工程的「可驗證資訊」。多位與該委員會接觸過的吹哨人至今從未與 AARO 對話——因為他們根本不相信這個機構。
+由於聯邦層面披露進展緩慢，三個美國州已自行採取行動：
 
-報導還指出，如果特朗普決定推動披露，曾任該委員會代理主席和副主席的 **Marco Rubio**（現任國家安全顧問）將是關鍵人物。消息人士透露，最終可能承認美國擁有回收的「非地球飛行器」，但基於這些飛行器逆向工程所得的技術可能仍會保密，以免洩漏國家安全機密。
+- **新澤西州**（Assembly Bill 5712）：已2026年1月12日成為法律，每年撥款 **250萬美元** 設立UAP研究中心
+- **康涅狄格州**（Raised Bill No. 5422）：要求康涅狄格大學進行UAP研究，與MUFON等民間組織合作
+- **佛蒙特州**（Bill H.654）：提議設立「佛蒙特空域安全與異常現象專案組」
+
+這是美國歷史上首次有州級政府從立法層面正式介入UAP研究。
+
+[🔗 UAP Check 全文](https://uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/)
+
+### 新歷史文獻：War Department 披露白宮正協調發布前所未見的UFO材料
+**來源：** Liberation Times（2026年4月14日）
+
+War Department 官員向 Liberation Times 證實，AARO 正與白宮及聯邦機構合作，準備發布前所未見的UAP材料。這是首次有官方明確承認正在準備大規模UFO資訊披露。
+
+[🔗 全文閱讀](https://www.liberationtimes.com/home/war-department-says-white-house-coordinating-release-of-never-before-seen-ufo-material)
+
+---
+
+| 📍 *美國·參議院·白宮* | 📅 *2022年至今* | 🔍 *幕後政治*
+
+## 🔍 幕後政治與吹哨人
+
+### 2022年參議院情報委員會已掌握UAP回收任務資訊
+**來源：** Liberation Times 獨家報導
+
+Liberation Times 披露的這一訊息可能是近期最重要的披露線索之一：參議院情報委員會早在 **2022年** 就已獲得關於秘密UAP回收與逆向工程任務的「可驗證資訊」。多位與委員會接觸過的吹哨人至今從未與 AARO 對話——因為他們根本不相信這個機構。
+
+報導指出，曾任該委員會代理主席和副主席的 **Marco Rubio**（現任國家安全顧問）是推動披露的關鍵人物。如果特朗普決定推動披露，Rubio將是最重要的內部推動者。
+
+消息人士透露，公開承認美國擁有非地球飛行器、但對逆向工程技術保密，是目前最有可能的披露路徑。
 
 [🔗 全文閱讀](https://www.liberationtimes.com/home/the-pentagons-ufo-office-knows-theyre-real-but-can-it-tell-the-truth)
 
 ---
 
-| 📍 *全球·北約·美國* | 📅 *2026年4-5月* | 🔍 *國際動態*
+## 📌 本日重點總結
 
-## 🌍 International Developments
+今天的UAP新聞關鍵動向：
 
-### 北約歐洲國家無人機威脅升級——從UFO到混合作戰
-**來源：** Liberation Times（2026年4月10日）
+1. **AARO前主任 Tim Phillips 明確表態**：UAP展現出任何已知人類系統無法達到的性能，非敵對國家技術
+2. **NUFORC發布1967年Fortuna雷達案**：5,000 mph高速目標，AFOSI次日上門壓制，與Minot/Malmstrom核飛彈關閉事件相關聯
+3. **參議院情報委員會2022年已獲取回收任務資訊**：但多位吹哨人跳過AARO直接與委員會溝通
+4. **War Department證實白宮正協調發布前所未見UAP材料**
+5. **三個美國州自行立法研究UFO**：州級行動史無前例
 
-Christopher Sharp 的詳細分析揭示，歐洲北約國家正面臨俄羅斯混合戰爭的新形態威脅，包括從船舶發射無人機攻擊軍事目標。
-
-與此同時，三州自行立法（見上文）表明美國國內對UFO問題的處理正在從聯邦層面下沉到州層面——這在全球範圍內是前所未有的趨勢。
-
-歐洲方面，UAP Check 在2026年3月20日「歐洲UAP日」的報告指出：**一年內歐洲錄得5,000宗UFO目擊報告**，但目前仍沒有歐盟層面的統一追蹤系統。
-
-[🔗 UAP Check — 歐洲UAP日報告](https://uapcheck.com/news/)
-[🔗 俄羅斯混合戰論文全文](https://mega.nz/file/PRUmmAQL#lLlXClpMxm9HxvA6_96KepcBCHieh4S1pvJuGQi0Q7I)
-
----
-
-| 📍 *科研前沿* | 📅 *2026年5月* | 🔍 *科學研究*
-
-## 🔬 Scientific Research Progress
-
-### AARO前主任：真實異常性能「超越任何已知人類系統」
-**來源：** Liberation Times（2026年5月4日）
-
-AARO 前任主任 Tim Phillips 的訪問提供了目前最權威的官方表態之一：UAP 展現出地球上任何已知技術都無法解釋的性能。Phillips 強調這些並非敵對國家的秘密技術——因為「我們能夠確鑿證明那不是已知系統」。
-
-這與 Kosloski 主任在媒體圓桌會上所述一致：仍然存在他憑物理學和工程學背景也無法解釋的「真正異常現象」。
-
-科學界與政府之間的資訊障礙仍然是最大問題。AARO 2024年年度報告中公開表示「沒有數據表明美國曾捕獲或逆向工程UAP」，但這一聲明必須放在AARO的分類系統背景下理解：如果捕獲證據由其他機構控制或受到現有保密指引保護，AARO根本無法公開承認。
-
-[🔗 全文閱讀](https://www.liberationtimes.com/home/the-pentagons-ufo-office-knows-theyre-real-but-can-it-tell-the-truth)
-[🔗 AARO 2024年度報告](https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
-
----
-
-![UAP研究與披露](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
-
----
-
-## 📌 Summary & Outlook
-
-本週的UAP新聞呈現出兩條平行發展的主線：
-
-1. **官方層面**：AARO 前後兩任主任的表述越來越明確——真實異常現象確實存在，且無法用任何人類已知技術解釋。特朗普政府正在權衡是否公開承認回收了非地球飛行器。
-2. **基層行動**：由於聯邦披露進度緩慢，新澤西、康涅狄格和佛蒙特三州已自行立法研究UFO，這是前所未有的地方政府行動。
-
-與此同時，歐洲無人機威脅的實際情況提醒UFO社群要保持證據標準——並非每個天空中的不明物體都是外星人。
-
-最值得關注的仍然是 **參議院情報委員會2022年獲取的回收任務資訊**——如果這些資訊最終被公開，很可能成為UFO披露史上最大的里程碑事件。
-
-### 重點閱讀推薦
+### 重點閱讀
 
 | 文章 | 來源 | 日期 |
 |------|------|------|
 | [五角大樓UFO辦公室——它們是真的，但能否說出真相？](https://www.liberationtimes.com/home/the-pentagons-ufo-office-knows-theyre-real-but-can-it-tell-the-truth) | Liberation Times | 5月4日 |
+| [NUFORC Fortuna雷達歷史案例](https://nuforc.org/fortuna-radar-case/) | NUFORC | 5月1日 |
+| [War Department確認白宮協調發布UFO材料](https://www.liberationtimes.com/home/war-department-says-white-house-coordinating-release-of-never-before-seen-ufo-material) | Liberation Times | 4月14日 |
 | [三個美國州自行立法進入UFO領域](https://uapcheck.com/news/id/3350/three-us-states-stride-into-the-ufo-arena/) | UAP Check | 4月17日 |
 | [證據、無人機與UFO辯論](https://www.liberationtimes.com/home/evidence-drones-and-the-ufo-debate) | Liberation Times | 4月10日 |
 
@@ -148,9 +186,9 @@ AARO 前任主任 Tim Phillips 的訪問提供了目前最權威的官方表態�
 
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 2em;">
 
-*🤖 This article was automatically collected and organized by AI*
-*🕐 Updated: 2026-05-05 12:00 HKT*
-*📋 Sources: Liberation Times, UAP Check, and other authoritative media*
-*🔍 Coverage: Government disclosures, state legislative actions, drone incursions, scientific research*
+*🤖 本文由AI自動收集整理*
+*🕐 更新時間：2026-05-05 12:00 HKT*
+*📋 來源：Liberation Times, NUFORC, UAP Check 及其他權威媒體*
+*🔍 涵蓋：政府披露、歷史雷達案例、州級立法、吹哨人動態、無人機威脅*
 
 </div>

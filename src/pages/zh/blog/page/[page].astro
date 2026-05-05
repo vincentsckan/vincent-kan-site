@@ -39,9 +39,9 @@ const hasNext = currentPage < totalPages;
 <html lang="zh-HK">
 	<head>
 		<BaseHead title={"文章 ・第" + currentPage + "頁 · " + SITE_TITLE} description={SITE_DESCRIPTION} />
-		<link rel="canonical" href={`https://vincentsckan.github.io/vincent-kan-site/zh/blog/page/${currentPage}/`} />
-		{hasPrev && <link rel="prev" href={`/vincent-kan-site/zh/blog/page/${currentPage - 1}/`} />}
-		{hasNext && <link rel="next" href={`/vincent-kan-site/zh/blog/page/${currentPage + 1}/`} />}
+		<link rel="canonical" href={`https://disclosurehk.com/zh/blog/page/${currentPage}/`} />
+		{hasPrev && <link rel="prev" href={`/zh/blog/page/${currentPage - 1}/`} />}
+		{hasNext && <link rel="next" href={`/zh/blog/page/${currentPage + 1}/`} />}
 		<style>
 			.blog-wrap { max-width: 700px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
 			.page-hd { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 1.5rem; margin-top: 0; }
@@ -97,7 +97,7 @@ const hasNext = currentPage < totalPages;
 					<>
 						<div class="feed">
 							{posts.map(p => (
-								<a href={`/vincent-kan-site/zh/blog/${p.id}/`} class="feed-item">
+								<a href={`/zh/blog/${p.id}/`} class="feed-item">
 									<div class="feed-icon">{p.id.startsWith('ufo-') ? '🛸' : '📝'}</div>
 									<div class="feed-body">
 										<div class="feed-meta">
@@ -115,13 +115,13 @@ const hasNext = currentPage < totalPages;
 						{totalPages > 1 && (
 							<nav class="pagination">
 								{hasPrev ? (
-									<a href={currentPage === 2 ? '/vincent-kan-site/zh/blog/' : `/vincent-kan-site/zh/blog/page/${currentPage - 1}/`} class="page-btn">← 上一頁</a>
+									<a href={currentPage === 2 ? '/zh/blog/' : `/zh/blog/page/${currentPage - 1}/`} class="page-btn">← 上一頁</a>
 								) : (
 									<span class="page-btn disabled">← 上一頁</span>
 								)}
 								<span class="page-info">{currentPage} / {totalPages}</span>
 								{hasNext ? (
-									<a href={`/vincent-kan-site/zh/blog/page/${currentPage + 1}/`} class="page-btn">下一頁 →</a>
+									<a href={`/zh/blog/page/${currentPage + 1}/`} class="page-btn">下一頁 →</a>
 								) : (
 									<span class="page-btn disabled">下一頁 →</span>
 								)}
