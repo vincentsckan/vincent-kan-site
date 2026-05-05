@@ -90,7 +90,7 @@ NewsNation亦跟進報導特朗普聲稱UFO文件「好快就會出爐」。Trum
 
 ## 📸 精選圖片
 
-![UFO 目擊概念圖](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO 目擊概念圖](../../assets/blog-placeholder-3.jpg)
 
 ---
 

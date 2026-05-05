@@ -2,54 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-20260503-evening-1/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T20:05:09.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 Global UFO/UAP News Digest — 2026-05-03]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605031903/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T19:02:00.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 UFO/UAP News Flash — ]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605032003/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T20:03:00.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 UFO/UAP News Digest — 2026-05-03]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605032102/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T21:02:00.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 UFO/UAP News Digest — 2026-05-03]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605032302/</loc>
     <news:news>
       <news:publication>
@@ -539,18 +491,6 @@
       <news:publication_date>2026-05-04T22:18:00.000Z</news:publication_date>
       <news:title><![CDATA[🚨 BREAKING: AARO Director Admits UAP ]]></news:title>
       <news:keywords>UFO,UAP,breaking news,disclosure</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-hearing-live-20260503-1900/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T19:00:54.000Z</news:publication_date>
-      <news:title><![CDATA[🔴 LIVE: U.S. Congressional UFO/UAP Hearing]]></news:title>
-      <news:keywords>UFO,UAP,congressional hearing,disclosure</news:keywords>
     </news:news>
   </url>
   <url>

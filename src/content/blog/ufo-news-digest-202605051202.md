@@ -61,7 +61,7 @@ UCLA天體物理學家 Benjamin Zuckerman 發表咗一篇顛覆性嘅新研究�
 - 多個新嘅SETI項目正喺開發中
 - 民間UFO研究組織嘅數據收集方法越嚟越科學化
 
-![UFO觀察研究](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO觀察研究](../../assets/blog-placeholder-3.jpg)
 
 ---
 
