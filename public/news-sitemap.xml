@@ -169,28 +169,4 @@
       <news:keywords>UFO,UAP,disclosure,news</news:keywords>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-breaking-202605042218/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-04T22:18:00.000Z</news:publication_date>
-      <news:title><![CDATA[🚨 BREAKING: AARO Director Admits UAP ]]></news:title>
-      <news:keywords>UFO,UAP,breaking news,disclosure</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-hearing-live-20260504-2207/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-04T22:07:16.000Z</news:publication_date>
-      <news:title><![CDATA[🔴 LIVE: U.S. Congressional UFO/UAP Hearing]]></news:title>
-      <news:keywords>UFO,UAP,congressional hearing,disclosure</news:keywords>
-    </news:news>
-  </url>
 </urlset>
