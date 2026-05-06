@@ -96,7 +96,7 @@ AARO局長喺參議院聽證會上則辯護話：「我哋發現嘅係『非常�
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/MpxLzQm1G_M" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-![UFO Illustration](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO Illustration](../../assets/blog-placeholder-1.jpg)
 
 ---
 

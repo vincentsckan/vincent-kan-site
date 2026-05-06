@@ -103,7 +103,7 @@ Fox News引述UFO專家話，有神秘飛行器喺美國軍事管制空域內展
 
 ## 📸 今日圖片
 
-![UFO/外星文明概念圖](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO/外星文明概念圖](../../assets/blog-placeholder-1.jpg)
 
 > *「我覺得呢個話題對你哋嚟講好吸引」——特朗普喺鳳凰城Turning Point USA活動上對群眾講*
 

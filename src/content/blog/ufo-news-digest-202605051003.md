@@ -7,7 +7,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 🛸 **今日UFO快訊！** 5月5日，UFO界繼續有大量話題：經典嘅Project Serpo（澤塔雙星交換計劃）再有深入分析、眾議員Eric Burlison追問海外巨型UAP結構、卡塔爾Doha暴風雨期間出現三角形UFO編隊、Jimmy Carter 1977年機密UFO簡報再爆新料、北加州夜視鏡拍到三角形UFO等。一齊嚟睇今日嘅UFO重點新聞！
 
-![UFO News](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO News](../../assets/blog-placeholder-1.jpg)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 今日UFO新聞非常豐富！由州政府立法、聯邦公開文件、宗教衝擊，到冷戰雷達解密同軍事科技承認，全部有料到！🛸
 
-![UFO Banner](/ufo-banner-blog.png)
+<img src="/ufo-banner-blog.png" alt="UFO Banner" class="blog-banner-inline" />
 
 ---
 

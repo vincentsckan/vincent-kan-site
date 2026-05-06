@@ -8,7 +8,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 ---
 > It's time for another UFO News Flash! Even though it's Sunday, the UFO world never takes a day off. Today we bring several major stories: a former US president brings up UFO files again, a congresswoman pressures for classified information, and the UK's most classic UFO case is back in the spotlight. Buckle up!
 
-![UFO concept image](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![UFO concept image](../../assets/blog-placeholder-1.jpg)
 
 ---
 

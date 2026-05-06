@@ -36,7 +36,7 @@ Kirkpatrick係物理學家兼前情報官員，佢話特朗普嘅承諾只係「
 
 Kirkpatrick仲解釋，現代美軍嘅紅外線相機經常會捕捉到噴射引擎嘅熱能尾跡，呢啲就係點解會有咁多「高速藥丸形物體」嘅影片流出。
 
-![UFO新聞配圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO新聞配圖](../../assets/blog-placeholder-1.jpg)
 
 ---
 

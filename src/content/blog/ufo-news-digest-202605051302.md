@@ -7,7 +7,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 今日嘅UFO快訊好重磅！幾單大新聞一齊爆出：UFO吹哨人Lue Elizondo嚴重車禍、11位科學家離奇死亡或失蹤、火星相疑似有生物痕跡、巨型UFO飛過太陽NASA竟然話係彗星？全部有片有真相！
 
-![UFO觀察研究](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO觀察研究](../../assets/blog-placeholder-1.jpg)
 
 ---
 

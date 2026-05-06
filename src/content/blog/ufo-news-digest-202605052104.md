@@ -47,7 +47,7 @@ USA Herald今日報導，一名Televangelist（電視佈道家）發出嘅UFO警
 
 呢個觀點同副總統JD Vance先前嘅表態有相似之處——Vance曾話佢認為UFO可能係「屬靈領域嘅實體」而唔係物理外星人。呢種宗教界同政界對UFO現象嘅「靈性解讀」正喺美國形成一個新嘅討論熱潮。
 
-![UFO與宗教討論](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO與宗教討論](../../assets/blog-placeholder-1.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/3t27pNBBlkM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *電視佈道家UFO警告片段分析*

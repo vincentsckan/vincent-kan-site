@@ -98,7 +98,7 @@ Vance同時提到，佢身為基督徒，相信報告中提到嘅UAP目擊事件
 
 ## 📸 精選圖片
 
-![UFO/UAP 新聞圖片](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO/UAP 新聞圖片](../../assets/blog-placeholder-1.jpg)
 
 ---
 

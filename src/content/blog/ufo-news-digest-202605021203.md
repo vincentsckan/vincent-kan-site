@@ -130,7 +130,7 @@ Knapp described it: "That was a Hellfire missile hitting that UFO, and it just b
 
 ---
 
-![UFO Researcher David Wilcock](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![UFO Researcher David Wilcock](../../assets/blog-placeholder-1.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/DUuxA0zmAK0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Congressional UFO Hearing — Full Hearing Video*

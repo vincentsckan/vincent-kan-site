@@ -149,7 +149,7 @@ NASA 官方將呢個物體標示為 「Comet R3 pan-starrs」（C/2025 R3）。�
 
 ---
 
-![UFO 目擊新聞](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![UFO 目擊新聞](../../assets/blog-placeholder-1.jpg)
 
 ---
 

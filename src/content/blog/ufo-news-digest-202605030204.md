@@ -8,7 +8,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 ---
 > Wow! The amount of UFO news today is mind-blowing 😱 **Famous UFO researcher David Wilcock dies by self-inflicted gunshot**, **FBI officially investigates series of scientist deaths, injuries, and disappearances**, a shocking clip of a **Hellfire missile hitting a UFO and bouncing off** was shown at a congressional hearing, and the White House actually registered the domain **Aliens.gov**! In all my years following UFOs, there's never been this much news breaking at once!
 
-![UFO](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![UFO](../../assets/blog-placeholder-1.jpg)
 
 ---
 

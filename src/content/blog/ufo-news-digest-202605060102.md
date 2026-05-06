@@ -109,7 +109,7 @@ ABC News Live嘅「50州50週」系列最近聚焦內華達州——NUFORC紀錄
 - [NewsNation — Ben Hansen TROY21 Case Update](https://www.youtube.com/watch?v=6nuro6AKH9o)
 - [NUFORC — Recent Investigation Reports](https://nuforc.org/recent-investigation-reports/)
 
-![UFO Radar](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO Radar](../../assets/blog-placeholder-1.jpg)
 
 ---
 

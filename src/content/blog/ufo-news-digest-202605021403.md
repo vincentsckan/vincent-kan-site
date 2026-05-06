@@ -73,7 +73,7 @@ The Free Press published an exclusive interview with a U.S. Navy admiral who ast
 
 ## 📊 Key Summary
 
-![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![UFO illustration](../../assets/blog-placeholder-1.jpg)
 
 **This Week's Top 5 UFO Highlights:**
 - ✅ Trump promises to release UFO files, calling them "extremely unusual"

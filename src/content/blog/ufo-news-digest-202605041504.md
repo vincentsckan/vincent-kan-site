@@ -82,7 +82,7 @@ Reddit 社群再度翻炒2023年轟動一時嘅拉斯維加斯「Tall Whites」�
 3. **AATIP** (2017年曝光) — 引發現代UFO討論嘅關鍵項目
 4. **AARO** (2022年至今) — 而家嘅官方UFO調查辦公室
 
-![Project Blue Book歷史照片](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![Project Blue Book歷史照片](../../assets/blog-placeholder-1.jpg)
 
 ---
 

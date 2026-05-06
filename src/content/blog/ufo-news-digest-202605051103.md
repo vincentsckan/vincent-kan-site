@@ -72,7 +72,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 UFO Sightings Daily嘅 **Scott Waring** 聲稱喺NASA Helioviewer衛星影像中，捕捉到一個 **7-10英里大** 嘅碟形物體飛過太陽。NASA叫佢做彗星 C/2025 R3（Comet R3 Pan-STARRS），但Waring指出呢個物體幾乎冇彗尾，喺太陽極端輻射下應該有明顯彗尾，所以佢斷定呢個係UFO。
 
-![太陽附近巨型物體](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![太陽附近巨型物體](../../assets/blog-placeholder-1.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/1-WPPoSfN2M" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 

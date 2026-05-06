@@ -92,7 +92,7 @@ Liberation Times 深入分析指出，AARO 雖然表面上推進了官方立場�
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/vf7xWQ72T0o" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *國會 UAP 聽證會完整紀錄*
 
-![UFO 新聞快訊](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 新聞快訊](../../assets/blog-placeholder-1.jpg)
 
 ---
 

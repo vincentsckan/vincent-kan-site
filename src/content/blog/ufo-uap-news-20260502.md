@@ -55,7 +55,7 @@ The Debrief's analysis is more restrained, noting that while media outlets link 
 
 The most prominent case remains **Major General Neil McCasland**. McCasland was the former commander of the Air Force Research Laboratory (AFRL), stationed at Wright-Patterson Air Force Base — the hub of the highest level of U.S. aerospace research. After retiring, he participated in Blink-182 singer Tom DeLonge's UAP-related work, laying the groundwork for the modern congressional UAP disclosure movement. Search efforts continue since his disappearance from the Albuquerque suburbs in late February.
 
-![Missing Scientists Investigation](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![Missing Scientists Investigation](../../assets/blog-placeholder-1.jpg)
 
 [🔗 The Debrief — Are Scientists Disappearing?](https://thedebrief.org/are-scientists-with-knowledge-of-u-s-secrets-disappearing-the-facts-tell-a-different-story/)
 [🔗 Liberation Times — McCasland Disappearance Case](https://www.liberationtimes.com/home/the-missing-general-neil-mccasland-ufo-claims-and-an-unfolding-mystery)

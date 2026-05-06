@@ -33,7 +33,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 去年秋天，小組聽取咗現役同退役軍人嘅證詞，其中一名高級海軍軍官話自己2023年喺加州海岸附近見到一個發光嘅「Tic Tac」形狀物體從海面彈出，仲同另外三個類似物體連成一線，瞬間加速消失。
 
-![UFO/UAP相關新聞](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO/UAP相關新聞](../../assets/blog-placeholder-1.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/di7tCtWARfc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *PBS NewsHour — 科學家用數學方法拆解UFO影片*
@@ -79,7 +79,7 @@ AARO（全領域異常解決辦公室）嘅2024年初步報告已經揭示咗數
 
 呢啲「無法解釋」嘅案例正正係推動全球UFO研究嘅核心動力。
 
-![天文愛好者仰望夜空](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![天文愛好者仰望夜空](../../assets/blog-placeholder-1.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/lS7GvQmB0Ms" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *德國之聲 — 全球UFO目擊現象分析*

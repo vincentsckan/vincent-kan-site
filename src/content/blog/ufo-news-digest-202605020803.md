@@ -148,7 +148,7 @@ Rhea specifically proposed a hypothesis: some UAPs may not be "visitors" in the 
 
 Importantly, Rhea repeatedly emphasized uncertainty and urged readers not to take the account as definitive fact.
 
-![Deep Secrecy Icon](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![Deep Secrecy Icon](../../assets/blog-placeholder-1.jpg)
 
 [🔗 Latest UFO Sightings — Full Rhea Whistleblower Report](https://www.latest-ufo-sightings.net/2026/01/another-whistleblower-claims-deeper-layers-of-ufo-secrecy-inside-intelligence-agencies.html)
 

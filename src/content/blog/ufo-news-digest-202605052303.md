@@ -74,7 +74,7 @@ Tony Merkel 更加話呢個揭露係一場「大騙局」（great deception）�
 
 4. **宗教vs外星人** — 呢個會係人類史上最大嘅哲學衝擊：如果外星生命存在，《聖經》要點樣重新解讀？定係呢個本身就係聖經預言嘅一部分？
 
-![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO illustration](../../assets/blog-placeholder-1.jpg)
 
 ---
 
