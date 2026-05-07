@@ -3,6 +3,7 @@ import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Comments from '../components/Comments.astro';
+import ShareButtons from '../components/ShareButtons.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
@@ -170,16 +171,7 @@ const displayLang = isEn ? 'en' : 'zh-HK';
 						<hr />
 					</div>
 					<slot />
-					<div class="share-section">
-						<hr />
-						<p class="share-label">📤 分享呢篇文章</p>
-						<div class="share-buttons">
-							<a href="https://twitter.com/intent/tweet?text={encodeURIComponent(displayTitle)}&url={encodeURIComponent(Astro.url)}" target="_blank" rel="noopener" class="share-btn twitter">𝕏 Twitter</a>
-							<a href="https://www.facebook.com/sharer/sharer.php?u={encodeURIComponent(Astro.url)}" target="_blank" rel="noopener" class="share-btn facebook">📘 Facebook</a>
-							<a href="https://wa.me/?text={encodeURIComponent(displayTitle + ' ' + Astro.url)}" target="_blank" rel="noopener" class="share-btn whatsapp">📱 WhatsApp</a>
-							<a href="https://t.me/share/url?url={encodeURIComponent(Astro.url)}&text={encodeURIComponent(displayTitle)}" target="_blank" rel="noopener" class="share-btn telegram">✈️ Telegram</a>
-						</div>
-					</div>
+					<ShareButtons title={displayTitle} description={displayDescription} url={Astro.url} />
 				</div>
 			</article>
 			<Comments />
