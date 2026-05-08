@@ -127,8 +127,12 @@ const welcomeEN = {
         background: #000;
         flex-shrink: 0;
       }
+      .live-embed-container .iframe-wrap {
+        position: absolute;
+        top: -32%; left: -32%;
+        width: 164%; height: 164%;
+      }
       .live-embed-container iframe {
-        position: absolute; top: 0; left: 0;
         width: 100%; height: 100%;
       }
       .live-embed-overlay {
@@ -465,7 +469,9 @@ const welcomeEN = {
         {liveStream.active && liveStream.videoId && (
           <div class="home-live-section">
             <div class="live-embed-container">
+              <div class="iframe-wrap">
               <iframe src={`https://www.youtube.com/embed/${liveStream.videoId}?autoplay=1&rel=0`} frameborder="0" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe>
+              </div>
               <div class="live-embed-overlay">
                 <span class="live-badge-inline"><span class="live-dot-inline"></span> 🔴 LIVE</span>
                 <span class="live-embed-title">{liveStream.title || (lang === 'en' ? 'UFO/UAP Hearing Live' : 'UFO/UAP聽證會直播')}</span>
