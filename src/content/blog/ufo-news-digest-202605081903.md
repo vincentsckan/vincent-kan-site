@@ -7,7 +7,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 重大消息！美國特朗普政府喺2026年5月8日正式公開首批UFO解密檔案，總共162份文件、相片同影片一次過曝光！總統特朗普親自喺Truth Social宣布：「人民自己可以判斷『到底發生咩事』！」仲話「Have Fun and Enjoy！」🎉
 
-![UFO檔案解密](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO檔案解密](../../assets/blog-placeholder-1.jpg)
 
 ---
 

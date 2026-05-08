@@ -26,7 +26,7 @@ Washington Post報導指，這次檔案釋出是美國政府在UFO透明度議�
 | 📍 *月球軌道* | 📅 *1972年12月* | 🔍 *歷史解密*
 CBS News獨家報導，1972年阿波羅17號任務期間，太空人目睹了神秘物體和光芒。一名機組成員形容：「看起來像國慶日煙火（Looks like the Fourth of July）」。這些紀錄隨今次檔案釋出首次曝光，成為太空UFO研究的重要資料。
 
-![阿波羅任務檔案](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![阿波羅任務檔案](../../assets/blog-placeholder-2.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/JOQnX3iCjRo" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
@@ -59,7 +59,7 @@ CBS News獨家報導，1972年阿波羅17號任務期間，太空人目睹了神
 - ✅ 大量歷史照片及文件曝光
 - ✅ CBS、NBC、Washington Post等主流媒體同步報導
 
-![UFO檔案](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO檔案](../../assets/blog-placeholder-3.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/_t-dIJWGRUE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 

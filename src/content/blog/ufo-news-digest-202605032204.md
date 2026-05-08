@@ -26,7 +26,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 特朗普自上任以來多次承諾公開UFO檔案，今年4月更正式簽署行政命令要求戰爭部開始審查同釋放相關文件。但到目前為止，**實際公開嘅文件數量仍然極少**，令UFO社群開始感到不耐煩。
 
-![特朗普與UFO話題](/vincent-kan-site/_astro/blog-placeholder-3.jpg)
+![特朗普與UFO話題](../../assets/blog-placeholder-3.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/BUXgR_Ji1WE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🔴 Trump and UFOs: A history of promises and delays — recap video*
@@ -77,7 +77,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 而特朗普隨後宣布開始審查同釋放政府外星生命檔案，更令呢個話題持續發酵。
 
-![科幻風格外星科技想像圖](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+![科幻風格外星科技想像圖](../../assets/blog-placeholder-5.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/6zikRBV8DwQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *👽 Dr. Don Donderi discussing extraterrestrial technology and threats*

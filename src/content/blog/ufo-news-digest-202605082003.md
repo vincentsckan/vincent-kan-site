@@ -147,7 +147,7 @@ NASA局長 **Jared Isaacman**（前億萬富翁太空人）亦讚揚：「特朗
 
 ## 📸 精選圖片
 
-![UFO檔案解密——月球表面拍攝到嘅不明物體](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO檔案解密——月球表面拍攝到嘅不明物體](../../assets/blog-placeholder-3.jpg)
 
 > 以上為Apollo 12任務期間從月面拍攝到嘅太空不明光點，係最新解密檔案中嘅重點內容之一。
 

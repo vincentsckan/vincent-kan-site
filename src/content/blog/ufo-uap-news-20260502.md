@@ -176,7 +176,7 @@ Over a hundred people reported feeling the shaking to the U.S. Geological Survey
 
 This earthquake swarm coincides with **renewed controversy surrounding Area 51** — following a 2025 report revealing that the U.S. Department of Defense had deliberately manufactured UFO conspiracy theories, including distributing fake flying saucer photos to residents during the Cold War to conceal classified weapons testing projects.
 
-![Nevada Desert](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
+![Nevada Desert](../../assets/blog-placeholder-4.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/9tqs6Z3OQSk" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *Media compilation regarding the mysterious disappearances and deaths of scientists in 2026*
@@ -200,7 +200,7 @@ The family stated that government officials have indicated they are investigatin
 
 In April 2026, **President Trump** announced his administration would investigate the cases of Reza and at least **10 to 12** other missing or deceased American scientists, most of whom held high-level secrets in defense, nuclear, and aerospace fields. As of April 30, Trump said he had been briefed on the investigations: "Some of them are very tragic cases, people were sick, some took their own lives... sometimes there are connections between cases... but so far we haven't found much of a connection."
 
-![NASA Scientist](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+![NASA Scientist](../../assets/blog-placeholder-5.jpg)
 
 [🔗 Daily Mail — Missing Scientist Monica Reza Family Speaks Out](https://www.dailymail.com/sciencetech/article-15769971/missing-scientist-hiking-nasa-jpl-suspicious-disappearance-monica-reza.html)
 

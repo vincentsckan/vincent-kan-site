@@ -7,7 +7,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 香港時間5月9日凌晨，美國特朗普政府正式兌現承諾——首批162份UFO/UAP解密檔案上載到戰爭部官網！總統特朗普喺Truth Social話：「人民可以自己決定『到底發生咩事？』Have Fun and Enjoy！」🎉
 
-![UFO檔案解密](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO檔案解密](../../assets/blog-placeholder-2.jpg)
 
 ---
 

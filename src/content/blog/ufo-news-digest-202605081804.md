@@ -34,7 +34,7 @@ FBI局長 Kash Patel 亦發聲：「FBI好榮幸與特朗普總統一齊，喺�
 
 **國會議員 Tim Burchett 嘅反應最勁爆：** 「記住，聯邦之前話呢啲文件唔存在，而特朗普對抗咗深層政府。第一批好大，但同之後嚟緊嘅相比只係冰山一角。我會話『Holy Crap』就快嚟！」
 
-![UFO解密文件圖片](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO解密文件圖片](../../assets/blog-placeholder-1.jpg)
 *📜 特朗普政府公佈嘅UFO檔案截圖*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/5ALSoqK6KOA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
@@ -55,7 +55,7 @@ FBI局長 Kash Patel 亦發聲：「FBI好榮幸與特朗普總統一齊，喺�
 
 最令人毛骨悚然嘅係，文件仲話 **墜毀嘅飛碟殘骸至少被回收過三次**，包括一種「極堅硬嘅未知金屬」，裡面含有「數以千計15微米金屬球體」，表面仲有微隕石撞擊痕跡。
 
-![FBI機密文件](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![FBI機密文件](../../assets/blog-placeholder-2.jpg)
 *📋 FBI 1966年機密備忘錄掃描件*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/hxE4RJDGKBQ" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
@@ -69,7 +69,7 @@ FBI局長 Kash Patel 亦發聲：「FBI好榮幸與特朗普總統一齊，喺�
 
 一個發光體好似 **「八芒星」** 咁喺夜空飛過，仲有唔對稱嘅「手臂」不斷變形。鏡頭放大之後，見到呢個物體做出急劇動作、突然改變方向、重複消失再出現。官方備註話「僅供參考，不應被解讀為物體本質或來源嘅證據」。
 
-![八芒星UFO](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![八芒星UFO](../../assets/blog-placeholder-3.jpg)
 *✨ 美軍紅外線拍攝嘅八芒星變形UFO*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/1sSJM4z70iE" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
@@ -94,7 +94,7 @@ FBI局長 Kash Patel 亦發聲：「FBI好榮幸與特朗普總統一齊，喺�
 
 > 「佢哋真係高速飛走，直衝向啲星星。」
 
-![阿波羅月球UFO](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![阿波羅月球UFO](../../assets/blog-placeholder-4.jpg)
 *🌕 阿波羅17號從月球表面拍攝嘅UFO照片（圈出位置）*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/mT7hYF3RS5M" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
@@ -116,7 +116,7 @@ FBI局長 Kash Patel 亦發聲：「FBI好榮幸與特朗普總統一齊，喺�
 
 一位直升機副駕駛仲見到一個球體突然從編隊中「彈出」高速飛走。
 
-![追擊戰鬥機嘅球體](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![追擊戰鬥機嘅球體](../../assets/blog-placeholder-5.jpg)
 *🔴 FBI報告中描繪嘅超熱球體UFO追擊戰機事件*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/phsr9-CnFTY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

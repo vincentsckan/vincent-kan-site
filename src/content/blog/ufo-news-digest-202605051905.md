@@ -33,7 +33,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 去年秋天，小組聽取咗現役同退役軍人嘅證詞，其中一名高級海軍軍官話自己2023年喺加州海岸附近見到一個發光嘅「Tic Tac」形狀物體從海面彈出，仲同另外三個類似物體連成一線，瞬間加速消失。
 
-![UFO/UAP相關新聞](/vincent-kan-site/_astro/blog-placeholder-2.1WQRLJGH_ZDDr3q.webp)
+![UFO/UAP相關新聞](../../assets/blog-placeholder-2.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/di7tCtWARfc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *PBS NewsHour — 科學家用數學方法拆解UFO影片*

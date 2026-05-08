@@ -56,7 +56,7 @@ Luna called this an "unacceptable" delay and did not rule out summoning relevant
 - She criticized AARO for being opaque, thereby hindering the true disclosure process
 - Some observers believe this signals Congress adopting **a tougher stance**
 
-![US Capitol Building (Aerial View)](/vincent-kan-site/_astro/blog-placeholder-4.gLBdjEDe.jpg)
+![US Capitol Building (Aerial View)](../../assets/blog-placeholder-4.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/BMnNz5DJKT8" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🏛️ Congresswoman Luna discusses UAP video deadline and non-human evidence*
@@ -114,7 +114,7 @@ The *Guardian* article specifically notes that although nearly 46 years have pas
 
 The article's publication coinciding with Luna's criticism of the Pentagon and Trump's promise to release UFO files makes its timing intriguing.
 
-![Mysterious Triangular Craft in Rendlesham Forest](/vincent-kan-site/_astro/blog-placeholder-5.CB3Xi-gp.jpg)
+![Mysterious Triangular Craft in Rendlesham Forest](../../assets/blog-placeholder-5.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/hSGF6yjJJjc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 *🌲 Rendlesham Forest 30 Years Later — Witnesses Speak and Unexplainable Details*
