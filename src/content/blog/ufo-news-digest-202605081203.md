@@ -141,7 +141,7 @@ Serpo 計劃（又稱 Project Crystal Knight）係UFO界其中一個最神奇嘅
 
 ---
 
-![UFO 插圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 插圖](../../assets/blog-placeholder-1.jpg)
 
 ---
 

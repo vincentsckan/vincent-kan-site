@@ -67,7 +67,7 @@ UCLA天體物理學家 Benjamin Zuckerman 喺《天文物理期刊》（The Astr
 
 ### 📸 今日圖片
 
-![UFO概念圖](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO概念圖](../../assets/blog-placeholder-3.jpg)
 
 ---
 

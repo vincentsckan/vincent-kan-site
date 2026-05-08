@@ -102,7 +102,7 @@ Blink-182主唱Tom DeLonge曾聲稱McCasland幫佢嘅「To The Stars Inc.」公�
 
 ## 📸 今日精選圖片
 
-![UFO研究示意圖](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO研究示意圖](../../assets/blog-placeholder-3.jpg)
 
 ---
 

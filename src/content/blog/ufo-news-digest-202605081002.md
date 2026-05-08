@@ -65,7 +65,7 @@ McCasland 嘅妻子 Susan Wilkerson 向911表示，佢唔認為丈夫被謀殺�
 
 Grusch 預測：**未來60至90日內**，UFO披露將會達到一個「轉捩點」。
 
-![失蹤空軍將領 McCasland](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![失蹤空軍將領 McCasland](../../assets/blog-placeholder-1.jpg)
 *🔍 退役少將 William Neil McCasland，2月27日離奇失蹤*
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Q3BpTZXmDns" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
@@ -114,7 +114,7 @@ Golembeske 形容呢次係「前所未有」嘅舉動：「一個現任美國總
 
 有趣嘅係，白宮喺3月18日註冊咗 **aliens.gov** 域名，而呢個網址最近開始出現 SSL 錯誤——意味住個伺服器已經著咗，只係未有公開內容。可能正喺度建設緊！
 
-![aliens.gov 截圖](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![aliens.gov 截圖](../../assets/blog-placeholder-2.jpg)
 *🌐 aliens.gov 域名已被註冊，SSL錯誤顯示伺服器正在運作中*
 
 ---

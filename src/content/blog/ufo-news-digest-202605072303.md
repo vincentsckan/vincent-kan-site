@@ -157,7 +157,7 @@ NUFORC 最近獲 **ABC News Live** 嘅「50 states in 50 weeks」系列邀請，
 
 ---
 
-![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO illustration](../../assets/blog-placeholder-2.jpg)
 
 ### 🔗 來源連結
 - [NUFORC — Fortuna Radar Case](https://nuforc.org/fortuna-radar-case/)

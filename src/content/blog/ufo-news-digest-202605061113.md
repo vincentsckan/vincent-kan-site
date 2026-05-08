@@ -80,7 +80,7 @@ UAP Check 仲報導咗一個趨勢：UFO 研究正從傳統嘅「ufology」（�
 
 ## 📸 圖片
 
-![UFO 目擊示意圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 目擊示意圖](../../assets/blog-placeholder-1.jpg)
 
 ---
 

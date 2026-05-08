@@ -92,7 +92,7 @@ Yahoo News 深入分析美國人對外星人嘅獨特癡迷：
 - 🔬 科學家從費米悖論出發解釋外星通訊嘅困難
 - 🇺🇸 美國人對外星生命嘅關注度創歷史新高
 
-![UFO觀測](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO觀測](../../assets/blog-placeholder-1.jpg)
 
 ---
 

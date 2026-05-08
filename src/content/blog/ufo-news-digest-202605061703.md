@@ -129,7 +129,7 @@ Doty本人甚至承認，Serpo計劃可能係冷戰時期一場精心設計的�
 
 ## 📸 本日精選圖片
 
-![UFO 目擊概念圖](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO 目擊概念圖](../../assets/blog-placeholder-3.jpg)
 
 *示意圖：三角UFO編隊（類似多哈目擊事件嘅描述）*
 

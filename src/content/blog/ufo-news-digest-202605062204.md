@@ -55,7 +55,7 @@ Reddit 用戶指出，Tyson 今次嘅文章同佢以往嘅立場好唔同，顯�
 
 > 📰 來源：[NYT - The Alien Files: Trump's UFO Disclosure](https://www.nytimes.com/2026/05/06/opinion/alien-files-trump-release.html)（需解付費牆）、[Reddit r/UFOs](https://www.reddit.com/r/UFOs/comments/1t5mkrc/new_york_times_neil_degrasse_tyson_writes_a/)
 
-![Neil deGrasse Tyson](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![Neil deGrasse Tyson](../../assets/blog-placeholder-3.jpg)
 
 ---
 
@@ -115,7 +115,7 @@ Forensic 分析顯示，文件上嘅「MAJIC」機密印章同 Bill Moore 擁有
 
 > 📰 來源：[Reddit r/UAP - New research MJ-12 likely counterfeit](https://www.reddit.com/r/UAP/comments/1t0uy55/new_research_majestic_12_mj12_documents_likely/)
 
-![MJ-12文件研究](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![MJ-12文件研究](../../assets/blog-placeholder-2.jpg)
 
 ---
 

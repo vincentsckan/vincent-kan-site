@@ -31,7 +31,7 @@ tags: ["UFO", "UAP", "news", "自動更新", "特朗普解密", "重磅"]
 
 戰爭部長Pete Hegseth發表聲明，話政府致力於帶來「前所未有的透明度」。議員們表示今次只係第一批檔案，未來仲會有更多公開，但暫時未有具體時間表。
 
-![Apollo 12月球表面照片顯示不明光點](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![Apollo 12月球表面照片顯示不明光點](../../assets/blog-placeholder-4.jpg)
 
 ---
 

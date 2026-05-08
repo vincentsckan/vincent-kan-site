@@ -65,7 +65,7 @@ Latest UFO Sightings 網站最新文章深入探討咗 Project Serpo（又稱 Pr
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/URDBQvObtHc" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-![Project Serpo](/vincent-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![Project Serpo](../../assets/blog-placeholder-2.jpg)
 
 ---
 

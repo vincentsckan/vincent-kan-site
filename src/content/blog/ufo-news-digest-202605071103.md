@@ -88,7 +88,7 @@ NUFORC 仲有一單超詭異嘅案件：2025年9月至10月期間，Michigan 北
 
 ---
 
-![UFO 雷達屏幕](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 雷達屏幕](../../assets/blog-placeholder-1.jpg)
 
 *圖片說明：雷達屏幕顯示不明飛行物體信號示意圖*
 

@@ -79,7 +79,7 @@ Scott C. Waring 再下一城，喺NASA最新火星照片中發現多個可疑結
 
 ## 📸 本日精選圖片
 
-![UFO/UAP 新聞集合](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO/UAP 新聞集合](../../assets/blog-placeholder-3.jpg)
 
 ---
 

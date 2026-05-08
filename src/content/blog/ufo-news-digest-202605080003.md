@@ -69,7 +69,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 ---
 
-![UFO夜空](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO夜空](../../assets/blog-placeholder-3.jpg)
 
 ## 📺 更多 UFO 影片推薦
 

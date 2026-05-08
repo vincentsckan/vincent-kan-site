@@ -7,7 +7,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 今日 UFO/UAP 界相當熱鬧！由特朗普的UFO檔案披露暗示、FBI確認即將公開檔案、到Joe Rogan質疑披露動機、再到牧師們爆出軍方秘密簡報，多條重磅新聞同時爆發，即刻為你逐條拆解！
 
-![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO illustration](../../assets/blog-placeholder-1.jpg)
 
 ---
 
@@ -110,7 +110,7 @@ Fox News報導咗Rogan嘅言論，引起廣泛討論。Rogan嘅觀點同前AARO�
 
 **Vincent嘅睇法：** 今日真係大豐收！咁多條新聞同時爆發，好少見。尤其係牧師爆料軍方簡報嗰單，如果屬實，真係好大件事。不過都要保持批判思維，特別係Rogan提出嘅質疑——喺戰爭時期推UFO披露，動機真係值得思考。你覺得呢？
 
-![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO illustration](../../assets/blog-placeholder-3.jpg)
 
 ---
 

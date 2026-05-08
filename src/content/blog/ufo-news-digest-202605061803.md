@@ -47,7 +47,7 @@ Luna 更指美國政府可能已對相關技術進行逆向工程，但透過「
 
 就連 Doty 本人亦承認，Serpo 計劃可能是冷戰時期針對蘇聯的心理戰——讓蘇聯相信美國擁有外星盟友。
 
-![Serpo概念圖](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![Serpo概念圖](../../assets/blog-placeholder-2.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/I8BISxoMYkM" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 

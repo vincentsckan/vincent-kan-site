@@ -11,7 +11,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 ## ⭐ 本日頭條：Serpo任務 — 美國同外星人嘅「交換計劃」？
 
-![Serpo任務概念圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![Serpo任務概念圖](../../assets/blog-placeholder-1.jpg)
 
 最近一篇詳盡報導重新審視咗UFO界其中一個最有爭議嘅傳說——**Project Serpo（亦稱Project Crystal Knight）**。呢個故事由前空軍特別調查處（AFOSI）探員 Richard Doty 提出，聲稱美國曾經同一個來自 **Zeta Reticuli（網罟座ζ星）** 嘅外星文明進行咗星際交換計劃。
 

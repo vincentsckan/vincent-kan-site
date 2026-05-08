@@ -72,7 +72,7 @@ Wilcock係UFO披露運動（Disclosure Movement）嘅重要人物，經常亮相
 
 眾議院政府改革監督委員會嘅「聯邦機密解密專案小組」舉行咗UAP聽證會，由Anna Paulina Luna主持。會上播出從未公開嘅片段，顯示2024年10月30日也門對開海域，一枚Hellfire導彈擊中一個「球體或不明物體」，但導彈竟然直接彈開，物體繼續飛行。
 
-![聽證會影片截圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![聽證會影片截圖](../../assets/blog-placeholder-1.jpg)
 
 吹哨人證詞重點：
 - 前空軍Jeffrey Nuccetelli：2003-2005年間喺范登堡空軍基地經歷5次不明事件

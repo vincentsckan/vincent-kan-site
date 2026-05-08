@@ -81,7 +81,7 @@ Obama 亦喺最近一次訪問中重申「政府冇收埋外星人證據」，�
 
 ---
 
-![UFO 新聞插圖](/vincent-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 新聞插圖](../../assets/blog-placeholder-1.jpg)
 
 ---
 

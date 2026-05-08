@@ -56,7 +56,7 @@ UFO研究員**Scott C. Waring**喺NASA最新火星照片中，聲稱發現咗幾
 
 Waring認為陸龜係沙漠動物，火星又係乾旱環境，所以火星有生命係合理嘅推測。而面孔雕像則係古代火星文明留下嘅遺跡。
 
-![火星發現疑似動物](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![火星發現疑似動物](../../assets/blog-placeholder-1.jpg)
 
 ---
 
@@ -108,7 +108,7 @@ NASA官方將呢個物體標記為**「Comet R3 Pan-STARRS（C/2025 R3）」**�
 
 Google地圖坐標**79°56'17.82"S 81°45'55.59"W**，Waring發現一個類似**爬蟲類/人類混種外星人**嘅面孔。佢認為呢個係爬蟲類外星人喺幾千年前已經成功進行混種計劃嘅證據。
 
-![南極爬蟲類面孔](/vincent-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![南極爬蟲類面孔](../../assets/blog-placeholder-2.jpg)
 
 ---
 

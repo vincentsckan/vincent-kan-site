@@ -27,7 +27,7 @@ Kosloski在接受媒體圓桌會議時形容UAP為「真的非常古怪」（rea
 
 這意味著美國政府最高層的UFO調查機構已經得出結論：確實存在無法用人類現有技術解釋的異常現象。
 
-![AARO五角大樓UFO辦公室](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![AARO五角大樓UFO辦公室](../../assets/blog-placeholder-1.jpg)
 
 ⭐ **相關影片：**
 
@@ -74,7 +74,7 @@ Liberation Times的深度調查同時揭露了AARO更深層的結構性問題。
 
 這起事件與同期發生的Minot和Malmstrom空軍基地導彈發射井被UFO關閉事件存在驚人關聯，NUFORC調查員Jim Clarkson（擁有40年經驗）已確認該目擊者的可信度。
 
-![1967年冷戰雷達站舊照](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![1967年冷戰雷達站舊照](../../assets/blog-placeholder-2.jpg)
 
 ⭐ **相關影片：**
 
@@ -98,7 +98,7 @@ Liberation Times此前獨家報導（4月14日），一名戰爭部官員向該�
 
 > 📰 來源：[Liberation Times - War Department White House UFO material](https://www.liberationtimes.com/home/war-department-says-white-house-coordinating-release-of-never-before-seen-ufo-material)
 
-![白宮UFO公開協調](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![白宮UFO公開協調](../../assets/blog-placeholder-4.jpg)
 
 ---
 

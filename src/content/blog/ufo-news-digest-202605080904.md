@@ -132,7 +132,7 @@ Golembeske 估計以下經典案件好大機會被確認：Roswell（1947）、T
 
 ## 📸 今日精選圖片
 
-![UFO披露浪潮 — 美國政府檔案即將公開](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![UFO披露浪潮 — 美國政府檔案即將公開](../../assets/blog-placeholder-3.jpg)
 
 ---
 

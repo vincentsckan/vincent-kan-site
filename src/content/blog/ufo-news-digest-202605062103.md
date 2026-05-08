@@ -57,7 +57,7 @@ Burlison強調自己未有「硬證據」，但正透過國會監督渠道追查
 
 雖然有可能係球狀閃電、等離子效應或者無人機，但要三個同步出現仲要維持咁耐，都真係好罕見！
 
-![UFO 快訊插圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 快訊插圖](../../assets/blog-placeholder-1.jpg)
 
 ---
 

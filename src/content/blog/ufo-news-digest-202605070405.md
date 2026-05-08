@@ -94,7 +94,7 @@ NUFORC自上次更新後再新增929宗目擊報告，橫跨近期事件至1960�
 
 今日嘅UFO新聞以**歷史檔案解封**為主題——1967年Fortuna雷達案件嘅曝光，再次印證冷戰時期UFO同核設施之間嘅神秘關聯。加上Tic-Tac UAP案件持續有FOIA數據支撐、NUFORC每月更新近千宗新報告，UAP議題正以「滴水穿石」嘅方式累積可靠證據。
 
-![UFO 新聞插圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 新聞插圖](../../assets/blog-placeholder-1.jpg)
 
 > 無論你信唔信有外星人，好肯定嘅係：越嚟越多人見到奇怪嘢，而且越嚟越多人願意走出來講。
 

@@ -7,7 +7,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 最新UFO/UAP資訊整合，由 Liberation Times、UFO Sightings Daily 等權威來源編譯。本日重點：白宮正準備公開從未曝光嘅UAP資料，AARO 前局長確認有無法解釋嘅異常現象，同時核電站上空出現神秘三角型物體。
 
-![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO illustration](../../assets/blog-placeholder-1.jpg)
 
 ---
 

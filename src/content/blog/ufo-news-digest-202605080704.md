@@ -94,7 +94,7 @@ GreekReporter 報導咗一系列**希臘歷史上被遺忘嘅UFO目擊事件**�
 
 ---
 
-![UFO概念圖](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![UFO概念圖](../../assets/blog-placeholder-5.jpg)
 
 ## 📊 今日焦點總結
 

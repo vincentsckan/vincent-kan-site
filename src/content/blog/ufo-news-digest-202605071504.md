@@ -81,7 +81,7 @@ Space.com嘅報導指出，2025年雖然冇畀到最終答案，但UFO研究者�
 
 特朗普2月曾表示會解密所有UFO相關檔案，而家呢個承諾似乎逐步兌現緊。
 
-![UFO 新聞配圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 新聞配圖](../../assets/blog-placeholder-1.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/0BmXZg5cZUg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 

@@ -95,7 +95,7 @@ FBI局長Kash Patel星期二喺播客節目中證實首批UFO機密文件已經�
 
 > **📌 總結：** Project Serpo嘅傳說雖然證據薄弱，但係佢融合咗Roswell、政府秘密、外星外交同冷戰陰謀，係UFO文化中不可或缺嘅一頁。同時FBI文件披露、國會限期影片同1971年西班牙事件都話畀我哋知——UFO披露嘅浪潮，即使有啲故事係神話，但核心真相正一步一步走近我哋！
 
-![UFO神秘信號](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![UFO神秘信號](../../assets/blog-placeholder-5.jpg)
 
 ## 🔗 來源連結
 - [Latest UFO Sightings: The Serpo Mission](https://www.latest-ufo-sightings.net/2026/05/the-serpo-mission-inside-one-of-the-most-controversial-ufo-conspiracy-stories-ever-told.html)

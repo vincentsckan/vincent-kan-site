@@ -7,7 +7,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 今日凌晨有連串震撼性UFO消息爆發！國會議員Tim Burchett喺Joe Rogan節目爆料話佢收到五角大樓秘密UFO簡報；David Grusch爆出一位失蹤空軍將軍原來係UFO揭露嘅關鍵「敵對證人」；仲有宗教領袖獲情報官員警告，話UFO揭露可能會顛覆聖經信仰！呢期資訊量極大，準備好未？🚀
 
-![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO illustration](../../assets/blog-placeholder-2.jpg)
 
 ---
 

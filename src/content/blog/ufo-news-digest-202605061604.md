@@ -7,7 +7,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 呢期嘅UFO新聞焦點離唔開美國政府嘅披露進展、國會聽證會嘅新證詞，同埋UAP研究界嘅持續追尋。雖然未有「石破天驚」嘅外星人現身，但各條戰線都喺度推進緊，一齊睇睇最新動態！
 
-![UFO新聞精選](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO新聞精選](../../assets/blog-placeholder-1.jpg)
 
 ---
 

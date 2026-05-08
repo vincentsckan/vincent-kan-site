@@ -36,7 +36,7 @@ FBI局長Kash Patel喺Sean Hannity嘅podcast上話：「特朗普建立咗跨部
 
 仲記得上年嗰班喺白宮拎住「愛潑斯坦文件Phase 1」嘅MAGA網紅嗎？佢哋當時興高采烈，點知發現入面根本冇新料。而家輪到UFO文件，網紅Rogan O'Hanley（DC Draino）就喺X上話：「好開心報告大家，我*唔會*幫手公開UFO文件。」仲話：「如果有人遞本binder俾我，我會由佢跌落地。」
 
-![MAGA influencers holding Epstein binder](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![MAGA influencers holding Epstein binder](../../assets/blog-placeholder-3.jpg)
 
 ---
 

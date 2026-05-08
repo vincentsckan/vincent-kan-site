@@ -79,7 +79,7 @@ Waring回應批評者：「我睇咗成千上萬張火星相，如果只係隨�
 ### 🌏 亞洲地區
 UFO目擊報告喺亞洲地區亦持續增加，包括日本、菲律賓等地都有新報告提交到MUFON。
 
-![UFO目擊圖](/vincent-kan-site/_astro/blog-placeholder-4.Bx0Zcyzv.jpg)
+![UFO目擊圖](../../assets/blog-placeholder-4.jpg)
 
 ⭐ **相關影片：**
 

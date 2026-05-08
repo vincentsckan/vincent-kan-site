@@ -48,7 +48,7 @@ Liberation Times 引述消息來源指，2022年參議院情報委員會曾收�
 
 [🔗 全文閱讀](https://www.liberationtimes.com/home/the-pentagons-ufo-office-knows-theyre-real-but-can-it-tell-the-truth)
 
-![AARO 五角大樓](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![AARO 五角大樓](../../assets/blog-placeholder-5.jpg)
 
 ---
 

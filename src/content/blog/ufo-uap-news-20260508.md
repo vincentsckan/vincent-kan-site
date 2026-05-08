@@ -20,7 +20,7 @@ NUFORC調查員Jim Clarkson擁有40年經驗，經過詳細核實後確認該證
 
 此案例再次印證了冷戰時期美國核導彈設施與UFO活動之間的神秘聯繫，為UAP研究提供了寶貴的歷史資料。
 
-![1960年代雷達站示意圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![1960年代雷達站示意圖](../../assets/blog-placeholder-1.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/5Fy5tyqR-Qw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
@@ -38,7 +38,7 @@ NUFORC調查員Jim Clarkson擁有40年經驗，經過詳細核實後確認該證
 
 這個案例與多年來全球各地反覆出現的「黑色三角UFO」報告高度一致，但如此巨大的尺寸（足球場大小）則較為罕見。
 
-![黑色三角UFO示意圖](/vincent-kan-site/_astro/blog-placeholder-3.Bx0Zcyzv.jpg)
+![黑色三角UFO示意圖](../../assets/blog-placeholder-3.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/6YfC4kRMA_E" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
@@ -56,7 +56,7 @@ NUFORC調查員Jim Clarkson擁有40年經驗，經過詳細核實後確認該證
 
 當地的航空交通管制（ATC）也識別到這個物體，但只含糊地形容它像「一群氣球」，不願意進一步說明。目擊者強調以他12年的航空經驗，這絕對不是任何已知的飛行器。
 
-![淚滴形UFO示意圖](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![淚滴形UFO示意圖](../../assets/blog-placeholder-5.jpg)
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/tU2R7JDgD9E" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 

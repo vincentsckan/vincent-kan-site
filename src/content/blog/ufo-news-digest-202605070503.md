@@ -7,7 +7,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 今日 UFO/UAP 新聞多多！從眾議院議員追問海外巨型物體，到 Project Serpo 嘅傳奇故事，再到中東同加州嘅最新目擊報告，內容豐富到你睇唔晒！
 
-![UFO 目擊示意圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 目擊示意圖](../../assets/blog-placeholder-1.jpg)
 
 ---
 
@@ -98,7 +98,7 @@ Project Serpo（又名Project Crystal Knight）係由前空軍調查員 Richard 
 
 ---
 
-![UFO 夜空](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO 夜空](../../assets/blog-placeholder-2.jpg)
 
 ## 📊 今日總結
 

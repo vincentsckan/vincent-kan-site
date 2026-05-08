@@ -84,7 +84,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 ### 5. 🇺🇸 1964年 — 索科羅事件 (Socorro Incident)
 新墨西哥州警察Zamora見到一個蛋形UFO著陸，地面留下燒焦痕跡同四腳支架印。係少數有**物理痕跡證據**嘅UFO案件之一。
 
-![火星發現](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![火星發現](../../assets/blog-placeholder-2.jpg)
 
 ⭐ **相關影片：**
 

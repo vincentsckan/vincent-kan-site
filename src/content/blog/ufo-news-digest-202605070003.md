@@ -32,7 +32,7 @@ Waring 指出，如果真的是彗星，在距離太陽如此近的位置應該�
 
 > 📰 來源：[UFO Sightings Daily - 7 Mile UFO Past Sun](https://www.ufosightingsdaily.com/2026/04/7-mile-ufo-shots-past-sun-nasa-calls-it.html)
 
-![巨型UFO掠過太陽示意](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![巨型UFO掠過太陽示意](../../assets/blog-placeholder-1.jpg)
 
 ---
 
@@ -100,7 +100,7 @@ Waring 指出，陸龜作為沙漠動物，在火星的乾旱環境中存在具�
 
 > 📰 來源：[UFO Sightings Daily - Animal Found On Mars](https://www.ufosightingsdaily.com/2026/04/animal-found-on-mars-in-recent-nasa.html)
 
-![火星照片中的不尋常特徵](/vincent-kan-site/_astro/blog-placeholder-5.Bx0Zcyzv.jpg)
+![火星照片中的不尋常特徵](../../assets/blog-placeholder-5.jpg)
 
 ---
 

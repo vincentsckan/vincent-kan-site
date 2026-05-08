@@ -82,7 +82,7 @@ Bassett話如果披露真正發生，將會係「人類歷史上任何國家元�
 
 > **總結：** 🤯 今日真係UFO界嘅大日子！FBI局長親口確認檔案已提交、知名爆料人話60-90日內會到臨界點、國會持續施壓46段影片、宗教領袖準備應對信仰衝擊——2026年5月嘅UFO披露進展，比過去80年加埋仲要刺激！
 
-![UFO快訊圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO快訊圖](../../assets/blog-placeholder-1.jpg)
 
 ## 🔗 來源連結
 - [Daily Mail: UFO disclosure to come in days as first batch of files is sent for public release](https://www.dailymail.co.uk/sciencetech/article-15795091/ufo-disclosure-kash-patel-files.html)

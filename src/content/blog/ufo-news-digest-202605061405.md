@@ -30,7 +30,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 《The Economic Times》等傳媒引述消息，話華盛頓冇否認呢件事。多位牧師嘅證詞互相印證，仲有前情報界官員暗中參與。
 
-![牧師被簡報UFO披露](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![牧師被簡報UFO披露](../../assets/blog-placeholder-2.jpg)
 
 **相關影片：**
 

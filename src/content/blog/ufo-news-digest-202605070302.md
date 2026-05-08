@@ -7,7 +7,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 最新UFO/UAP消息嚟到！今日重點係特朗普確認UFO檔案即將公開、眾議院領袖承認機密簡報超出預期，仲有教會牧師竟然被提前簡報UFO披露計劃。加上經典嘅Project Serpo外星人交換計劃深入分析，以及多哈三角形UFO目擊報告！
 
-![UFO news](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO news](../../assets/blog-placeholder-1.jpg)
 
 ---
 

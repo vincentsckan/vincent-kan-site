@@ -103,7 +103,7 @@ Yahoo Entertainment 深入報導咗紀錄片《The Age of Disclosure》，呢套
 
 ---
 
-![UFO 目擊概念圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 目擊概念圖](../../assets/blog-placeholder-1.jpg)
 
 ---
 

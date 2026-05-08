@@ -102,7 +102,7 @@ Corbell仲披露同一區域有其他離奇遭遇：一隻Navy軍艦被極強光
 
 如果以上全部屬實，**UFO全面公開可能唔再係「會唔會」，而係「幾時」嘅問題**。
 
-![UFO illustration](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO illustration](../../assets/blog-placeholder-1.jpg)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["UFO", "UAP", "news", "自動更新"]
 
 > 哇！今日晨咁早就有超級多UFO新料！FBI局長親口話UFO檔案好快放出，情報人員秘密約見牧師叫佢哋準備會眾面對披露，前國家情報總監Clapper確認51區有UFO活動，Pentagon仲靜靜雞公開咗佢哋嘅UAP數據手冊——呢鋪真係越揭越多嘢！
 
-![UFO 目擊示意圖](/vincent-kan-site/_astro/blog-placeholder-2.Bx0Zcyzv.jpg)
+![UFO 目擊示意圖](../../assets/blog-placeholder-2.jpg)
 
 ---
 

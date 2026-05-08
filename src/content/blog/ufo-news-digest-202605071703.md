@@ -81,7 +81,7 @@ NUFORC指出，雖然最常報告嘅UAP形狀係球體、三角形同圓盤，�
 
 ---
 
-![UFO 雷達追蹤示意圖](/vincent-kan-site/_astro/blog-placeholder-1.Bx0Zcyzv.jpg)
+![UFO 雷達追蹤示意圖](../../assets/blog-placeholder-1.jpg)
 
 ## 📊 今日總結
 
