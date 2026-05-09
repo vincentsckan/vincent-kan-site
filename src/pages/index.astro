@@ -595,14 +595,12 @@ const welcomeEN = {
           </style>
           <div class="ticker-label"><span class="ticker-dot"></span> LIVE</div>
           <div class="ticker-scroll">
-            <div class="ticker-track">
-              {
-                (tickerItems.length > 0 
-                  ? tickerItems.concat(tickerItems).map(i => 
-                    '<span class="ticker-item"><span class="ticker-sep">✦</span> <a href="' + i.link + '" target="_blank" rel="noopener">' + i.title.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;') + '</a></span>'
-                  ).join('')
-                  : '<span class="ticker-item"><span class="ticker-sep">✦</span> No live headlines... loading</span>')
-              }
+            <div class="ticker-track" set:html={tickerItems.length > 0 
+              ? tickerItems.concat(tickerItems).map(i => 
+                '<span class="ticker-item"><span class="ticker-sep">✦</span> <a href="' + i.link + '" target="_blank" rel="noopener">' + i.title.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;') + '</a></span>'
+              ).join('')
+              : '<span class="ticker-item"><span class="ticker-sep">✦</span> No live headlines... loading</span>'
+            }>
             </div>
           </div>
         </div>
