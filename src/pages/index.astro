@@ -6,6 +6,7 @@ import FormattedDate from '../components/FormattedDate.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import { getCollection } from 'astro:content';
 import { useTranslations, getLangFromUrl } from '../i18n';
+import { TRAFFIC_STRATEGY } from 'astro:content';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
@@ -18,10 +19,21 @@ try {
   liveStream = JSON.parse(liveData);
 } catch {}
 
-const posts = (await getCollection('blog-en')).sort(
+const allPosts = (await getCollection('blog-en')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+
+// Pin the War Department PURSUE breaking post to top of homepage for prominence
+const pinnedSlug = 'ufo-breaking-202605082220';
+const pinned = allPosts.find(p => p.id === pinnedSlug);
+let posts = allPosts.filter(p => p.id !== pinnedSlug);
+if (pinned) { posts = [pinned, ...posts]; }
 const uapPosts = posts.filter(p => p.id.startsWith('ufo-')).slice(0, 6);
+// Ensure pinned post stays first even after filter+slice
+if (pinned && uapPosts[0]?.id !== pinnedSlug) {
+  const idx = uapPosts.findIndex(p => p.id === pinnedSlug);
+  if (idx > 0) { const item = uapPosts.splice(idx, 1)[0]; uapPosts.unshift(item); }
+}
 const otherPosts = posts.filter(p => !p.id.startsWith('ufo-')).slice(0, 4);
 const latestUAP = uapPosts[0];
 const featuredUAP = uapPosts.slice(1, 4);
@@ -186,6 +198,19 @@ const welcomeEN = {
       .breaking-label { font-family:'SF Mono',monospace; font-size:0.68rem; color:#ef4444; font-weight:600; letter-spacing:0.05em; flex-shrink:0; }
       .breaking-title { font-size:0.85rem; font-weight:500; flex:1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
       .breaking-arrow { flex-shrink:0; font-size:0.75rem; color:var(--text-muted); }
+      .breaking-mega {
+        border-color: rgba(239,68,68,0.4) !important;
+        background: rgba(239,68,68,0.08) !important;
+        padding: 0.85rem 1.1rem !important;
+      }
+      .breaking-mega .breaking-label {
+        font-size: 0.72rem !important;
+        color: #ff6666 !important;
+      }
+      .breaking-mega .breaking-title {
+        font-size: 0.9rem !important;
+        font-weight: 600 !important;
+      }
 
       .featured {
         display: grid; grid-template-columns: 1.4fr 1fr; gap: 1rem;
@@ -482,9 +507,9 @@ const welcomeEN = {
 
         <!-- BREAKING -->
         {latestUAP && (
-          <a href={`/blog/${latestUAP.id}/`} class="breaking">
+          <a href={`/blog/${latestUAP.id}/`} class={`breaking ${latestUAP.id === pinnedSlug ? 'breaking-mega' : ''}`}>
             <span class="breaking-dot"></span>
-            <span class="breaking-label">{lang === 'en' ? 'BREAKING' : '突發'}</span>
+            <span class="breaking-label">{lang === 'en' ? '🔴 BREAKING' : '🔴 突發'}</span>
             <span class="breaking-title">{latestUAP.data.titleEn || latestUAP.data.title}</span>
             <span class="breaking-arrow">→</span>
           </a>
