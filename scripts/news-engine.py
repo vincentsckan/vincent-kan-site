@@ -157,14 +157,12 @@ def build_and_deploy():
                 return False
     return True
 
-def create_breaking_post(item, now):
+def create_breaking_post(item, now, idx=0):
     """Create a mini breaking news post"""
     title = html.unescape(item["title"]).replace('"', "'").strip()
     link = item["link"]
     pub = now.strftime("%Y-%m-%dT%H:%M:%SZ")
-    # Unique slug per post — include index to avoid collision
-    idx_val = all_major.index(item) if item in all_major else 0
-    slug = f"ufo-alert-{now.strftime('%Y%m%d%H%M%S')}-{idx_val}"
+    slug = f"ufo-alert-{now.strftime('%Y%m%d%H%M%S')}-{idx}"
     
     # Extract description text
     desc_text = re.sub(r'<[^>]+>', '', item.get("desc", ""))[:300]
@@ -277,8 +275,8 @@ def main():
             log(f"     → {html.unescape(m['title'])[:80]}")
         
         # Create breaking posts
-        for item in all_major[:3]:
-            create_breaking_post(item, now)
+        for idx, item in enumerate(all_major[:3]):
+            create_breaking_post(item, now, idx)
         
         # Create combined digest if 3+ major stories
         if len(all_major) >= 3:
