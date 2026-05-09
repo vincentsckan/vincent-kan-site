@@ -162,7 +162,9 @@ def create_breaking_post(item, now):
     title = html.unescape(item["title"]).replace('"', "'").strip()
     link = item["link"]
     pub = now.strftime("%Y-%m-%dT%H:%M:%SZ")
-    slug = f"ufo-alert-{now.strftime('%Y%m%d%H%M%S')}"
+    # Unique slug per post — include index to avoid collision
+    idx_val = all_major.index(item) if item in all_major else 0
+    slug = f"ufo-alert-{now.strftime('%Y%m%d%H%M%S')}-{idx_val}"
     
     # Extract description text
     desc_text = re.sub(r'<[^>]+>', '', item.get("desc", ""))[:300]

@@ -7,10 +7,10 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "node scripts/generate-news-sitemap.cjs && node scripts/generate-faq-schema.cjs && astro build",
+    "build": "node scripts/generate-news-sitemap.cjs && node scripts/generate-faq-schema.cjs && python3 scripts/generate-ticker.py && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "generate-sitemaps": "node scripts/generate-news-sitemap.cjs && node scripts/generate-faq-schema.cjs"
+    "generate-sitemaps": "node scripts/generate-news-sitemap.cjs && node scripts/generate-faq-schema.cjs && python3 scripts/generate-ticker.py"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.4",

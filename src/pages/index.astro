@@ -505,6 +505,105 @@ const welcomeEN = {
           </div>
         )}
 
+        <!-- REAL-TIME NEWS TICKER (from RSS) -->
+        <div id="live-ticker" class="ticker-section">
+          <style>
+            .ticker-section {
+              background: rgba(0,229,255,0.03);
+              border: 1px solid rgba(0,229,255,0.1);
+              border-radius: var(--radius-sm);
+              padding: 0.4rem 0.8rem;
+              margin-bottom: 1rem;
+              display: flex;
+              align-items: stretch;
+              gap: 0;
+              animation: slideUp 0.5s ease both;
+              overflow: hidden;
+              min-height: 32px;
+            }
+            .ticker-label {
+              flex-shrink: 0;
+              display: flex;
+              align-items: center;
+              gap: 0.4rem;
+              padding-right: 0.8rem;
+              border-right: 1px solid rgba(0,229,255,0.15);
+              font-size: 0.65rem;
+              font-family: 'SF Mono', monospace;
+              font-weight: 600;
+              color: var(--neon-cyan);
+              letter-spacing: 0.08em;
+            }
+            .ticker-label .ticker-dot {
+              width: 6px; height: 6px;
+              background: var(--neon-cyan);
+              border-radius: 50%;
+              animation: pulseDot 1.5s infinite;
+              flex-shrink: 0;
+            }
+            .ticker-scroll {
+              flex: 1;
+              overflow: hidden;
+              position: relative;
+              min-width: 0;
+            }
+            .ticker-track {
+              display: flex;
+              gap: 2.5rem;
+              white-space: nowrap;
+              animation: tickerScroll 30s linear infinite;
+              width: max-content;
+              padding: 0 1rem;
+            }
+            .ticker-item {
+              display: inline-flex;
+              align-items: center;
+              gap: 0.5rem;
+              font-size: 0.75rem;
+              color: var(--text-secondary);
+              flex-shrink: 0;
+            }
+            .ticker-item a {
+              color: var(--text-primary);
+              text-decoration: none;
+              font-weight: 500;
+            }
+            .ticker-item a:hover {
+              color: var(--neon-cyan);
+            }
+            .ticker-item .ticker-sep {
+              color: rgba(0,229,255,0.2);
+              font-size: 0.5rem;
+            }
+            @keyframes tickerScroll {
+              0% { transform: translateX(0); }
+              100% { transform: translateX(-50%); }
+            }
+            @media(max-width: 600px) {
+              .ticker-section { flex-direction: column; gap: 0.3rem; padding: 0.4rem 0.6rem; }
+              .ticker-label { border-right: none; border-bottom: 1px solid rgba(0,229,255,0.1); padding-bottom: 0.3rem; padding-right: 0; }
+            }
+          </style>
+          <div class="ticker-label"><span class="ticker-dot"></span> LIVE</div>
+          <div class="ticker-scroll">
+            <div class="ticker-track" id="tickerTrack">
+              <script>
+                (async function(){
+                  try {
+                    const r = await fetch('/data/ticker.json');
+                    const d = await r.json();
+                    if (!d.items || !d.items.length) return;
+                    const items = d.items.map(i => '<span class="ticker-item"><span class="ticker-sep">✦</span> <a href="' + i.link + '" target="_blank" rel="noopener">' + i.title.replace(/</g,'&lt;').replace(/>/g,'&gt;') + '</a></span>').join('');
+                    // Double it for seamless loop
+                    document.getElementById('tickerTrack').innerHTML = items + items;
+                  } catch(e) {}
+                })();
+              </script>
+              <span class="ticker-item"><span class="ticker-sep">✦</span> Loading latest headlines...</span>
+            </div>
+          </div>
+        </div>
+
         <!-- BREAKING -->
         {latestUAP && (
           <a href={`/blog/${latestUAP.id}/`} class={`breaking ${latestUAP.id === pinnedSlug ? 'breaking-mega' : ''}`}>
