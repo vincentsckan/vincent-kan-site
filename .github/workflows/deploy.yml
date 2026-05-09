@@ -3,6 +3,8 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [master]
+  schedule:
+    - cron: '0 */4 * * *'  # Every 4 hours — auto rebuild UFO news
   workflow_dispatch:
 
 permissions:
