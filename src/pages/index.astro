@@ -19,6 +19,14 @@ try {
   liveStream = JSON.parse(liveData);
 } catch {}
 
+// Load real-time ticker data
+let tickerItems = [];
+try {
+  const fs = await import('node:fs');
+  const tickerData = fs.readFileSync('./src/data/ticker.json', 'utf8');
+  tickerItems = JSON.parse(tickerData).items || [];
+} catch {}
+
 const allPosts = (await getCollection('blog-en')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
@@ -505,7 +513,7 @@ const welcomeEN = {
           </div>
         )}
 
-        <!-- REAL-TIME NEWS TICKER (from RSS) -->
+        <!-- REAL-TIME NEWS TICKER (embedded at build time) -->
         <div id="live-ticker" class="ticker-section">
           <style>
             .ticker-section {
@@ -551,10 +559,11 @@ const welcomeEN = {
               display: flex;
               gap: 2.5rem;
               white-space: nowrap;
-              animation: tickerScroll 30s linear infinite;
+              animation: tickerScroll 40s linear infinite;
               width: max-content;
               padding: 0 1rem;
             }
+            .ticker-track:hover { animation-play-state: paused; }
             .ticker-item {
               display: inline-flex;
               align-items: center;
@@ -586,20 +595,14 @@ const welcomeEN = {
           </style>
           <div class="ticker-label"><span class="ticker-dot"></span> LIVE</div>
           <div class="ticker-scroll">
-            <div class="ticker-track" id="tickerTrack">
-              <script>
-                (async function(){
-                  try {
-                    const r = await fetch('/data/ticker.json');
-                    const d = await r.json();
-                    if (!d.items || !d.items.length) return;
-                    const items = d.items.map(i => '<span class="ticker-item"><span class="ticker-sep">✦</span> <a href="' + i.link + '" target="_blank" rel="noopener">' + i.title.replace(/</g,'&lt;').replace(/>/g,'&gt;') + '</a></span>').join('');
-                    // Double it for seamless loop
-                    document.getElementById('tickerTrack').innerHTML = items + items;
-                  } catch(e) {}
-                })();
-              </script>
-              <span class="ticker-item"><span class="ticker-sep">✦</span> Loading latest headlines...</span>
+            <div class="ticker-track">
+              {
+                (tickerItems.length > 0 
+                  ? tickerItems.concat(tickerItems).map(i => 
+                    '<span class="ticker-item"><span class="ticker-sep">✦</span> <a href="' + i.link + '" target="_blank" rel="noopener">' + i.title.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;') + '</a></span>'
+                  ).join('')
+                  : '<span class="ticker-item"><span class="ticker-sep">✦</span> No live headlines... loading</span>')
+              }
             </div>
           </div>
         </div>
