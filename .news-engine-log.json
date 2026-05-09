@@ -5,5 +5,12 @@
     "major": 182,
     "total_seen": 454,
     "deployed": true
+  },
+  {
+    "ts": "2026-05-09T14:13:48.383143+00:00",
+    "new": 3,
+    "major": 0,
+    "total_seen": 457,
+    "deployed": true
   }
 ]
