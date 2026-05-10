@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 The Roswell Incident — The Most Famous UFO Crash Case (1947)"
+descriptionEn: "📍 Case Focus: Roswell, New Mexico, USA 📅 Date of Incident: July 1947 🔍 Category: Crash Incident / Allegations of Government Cover-Up Incident Overview…"
+titleEn: "🛸 The Roswell Incident — The Crash That Started Modern UFO Culture (1947)"
 description: "UFO/UAP news and case coverage"
-titleEn: '🛸 The Roswell Incident — The Crash That Started Modern UFO Culture (1947)'
-
-pubDate: '2022-01-01'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-01-01"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Case Focus**: Roswell, New Mexico, USA  
 > 📅 **Date of Incident**: July 1947  
 > 🔍 **Category**: Crash Incident / Allegations of Government Cover-Up  

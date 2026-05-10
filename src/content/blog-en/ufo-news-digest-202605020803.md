@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 UFO/UAP News Flash — 5月2日08:00'
+descriptionEn: "📡 UFO/UAP Express — Saturday, May 2, 2026, 4:00 PM Hong Kong Time AI-automated curation, focusing on the latest whistleblower revelations, government…"
+titleEn: "🛸 UFO/UAP News Flash — 5月2日08:00"
 description: "UFO/UAP news and case coverage"
-
-pubDate: '2026-05-02T08:03:00Z'
+pubDate: "2026-05-02T08:03:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > 📡 **UFO/UAP Express — Saturday, May 2, 2026, 4:00 PM Hong Kong Time**
 > AI-automated curation, focusing on the latest whistleblower revelations, government developments, and sighting reports
 

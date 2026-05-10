@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 Phoenix Lights — The Largest Mass Sighting in History (1997)"
+descriptionEn: "📍 Case Focus: Phoenix, Arizona, USA 📅 Date: March 13, 1997 🔍 Category: Mass Sighting / Controversial Government Response Overview"
+titleEn: "\ud83d\udca1 The Phoenix Lights \u2014 One of History''''s Largest Mass UFO Sightings (1997)"
 description: "UFO/UAP news and case coverage"
-titleEn: '💡 The Phoenix Lights — One of History''s Largest Mass UFO Sightings (1997)'
-
-pubDate: '2022-02-01'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-02-01"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Case Focus**: Phoenix, Arizona, USA
 > 📅 **Date**: March 13, 1997
 > 🔍 **Category**: Mass Sighting / Controversial Government Response

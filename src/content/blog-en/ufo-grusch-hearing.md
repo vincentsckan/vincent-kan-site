@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🔴 LIVE: U.S. Congressional UFO/UAP Hearing"
+descriptionEn: "📍 Washington, D.C., Capitol Hill, USA 📅 July 26, 2023 🔍 Congressional Hearing, Whistleblower, Historic Moment Who is Grusch? David Charles Grusch is a…"
+titleEn: "🏛️ The Grusch Hearings — Whistleblower Testimony That Shook Washington (2023)"
 description: "UFO/UAP news and case coverage"
-titleEn: '🏛️ The Grusch Hearings — Whistleblower Testimony That Shook Washington (2023)'
-
-pubDate: '2022-12-15'
-heroImage: '../../assets/blog-placeholder-3.jpg'
-
-
-
+pubDate: "2022-12-15"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
+
 > 📍 **Washington, D.C., Capitol Hill, USA**
 > 📅 **July 26, 2023**
 > 🔍 **Congressional Hearing, Whistleblower, Historic Moment**

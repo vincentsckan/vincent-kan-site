@@ -1,11 +1,13 @@
 ---
-title: '🛸 Global UFO/UAP News Digest — 2026-05-08'
-description: '·House Oversight UAP hearing reveals government concealment evidence·Brazilian Air Force declassifies hundreds of UFO sighting reports·Japan Defense Ministry establishes dedicated UAP investigation te'
-pubDate: '2026-05-08'
-updatedDate: '2026-05-08T08:00+08:00'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-tags: ['UFO', 'UAP', 'Government Disclosure', 'Congressional Hearing', 'Brazil', 'Japan', 'AARO', 'Scientific Research', 'Breaking News']
+title: "🛸 Global UFO/UAP News Digest — 2026-05-08"
+descriptionEn: "📡 Daily UAP News Digest — 2026-05-08 Curated, organized, and formatted by AI, focusing on authoritative sources and major developments. US Congressional…"
+description: "UFO/UAP news coverage: 🛸 Global UFO/UAP News Digest — 2026-05-08"
+pubDate: "2026-05-08"
+updatedDate: "2026-05-08T08:00+08:00"
+heroImage: "../../assets/blog-placeholder-1.jpg"
+tags: ["UFO", "UAP", "Government Disclosure", "Congressional Hearing", "Brazil", "Japan", "AARO", "Scientific Research", "Breaking News"]
 ---
+
 > 📡 **Daily UAP News Digest** — 2026-05-08
 > Curated, organized, and formatted by AI, focusing on authoritative sources and major developments.
 

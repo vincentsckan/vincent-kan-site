@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "👽 Grey Aliens — The Most Iconic Alien in UAP Culture"
+descriptionEn: "📚 UAP Glossary 🔍 Grey Comprehensive Analysis Typical Characteristics of the Grey The Grey alien is a core symbol of modern UFO culture: - Height:…"
+titleEn: "👽 The Greys — The Most Iconic Alien Image in UAP Culture"
 description: "UFO/UAP news and case coverage"
-titleEn: '👽 The Greys — The Most Iconic Alien Image in UAP Culture'
-
-pubDate: '2023-02-15'
-heroImage: '../../assets/blog-placeholder-4.jpg'
-
-
-
+pubDate: "2023-02-15"
+heroImage: "../../assets/blog-placeholder-4.jpg"
 ---
+
 > 📚 **UAP Glossary** | 🔍 **Grey Comprehensive Analysis**
 
 ## Typical Characteristics of the Grey

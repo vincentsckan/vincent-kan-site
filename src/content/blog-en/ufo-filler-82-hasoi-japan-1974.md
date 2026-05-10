@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1974 Hasoi, Japan: Residents Witness Alien Encounter"
+descriptionEn: "In November 1974, an incident occurred in the remote village of Hasoi, Fukuoka Prefecture, Japan, that remains a topic of fascination among Japanese UFO…"
+titleEn: "1974 Hasoi Incident: Japan''''s UFO and Humanoid Encounter"
 description: "UFO/UAP news and case coverage"
-titleEn: '1974 Hasoi Incident: Japan''s UFO and Humanoid Encounter'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "asia"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 In November 1974, an incident occurred in the remote village of Hasoi, Fukuoka Prefecture, Japan, that remains a topic of fascination among Japanese UFO researchers to this day. Multiple local residents simultaneously witnessed a UFO landing and observed small humanoid figures moving on the ground.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

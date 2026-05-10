@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1976 Allagash Abductions: Four Painters Abducted by Aliens"
+descriptionEn: "In August 1976, four young men from Massachusetts—Jack Weiner, Jim Weiner, Charlie Foltz, and Chuck Rak—set out on a canoe trip to the Allagash Wilderness…"
+titleEn: "The Allagash Abductions: Four Men Abducted While Camping in Maine"
 description: "UFO/UAP news and case coverage"
-titleEn: 'The Allagash Abductions: Four Men Abducted While Camping in Maine'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "abduction"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 In August 1976, four young men from Massachusetts—Jack Weiner, Jim Weiner, Charlie Foltz, and Chuck Rak—set out on a canoe trip to the Allagash Wilderness in Maine. These four guys in their early twenties never imagined this wilderness adventure would turn into a terrifying experience.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

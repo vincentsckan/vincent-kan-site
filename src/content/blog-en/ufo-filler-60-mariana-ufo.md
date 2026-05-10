@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1950 Montana UFO Photo: The First Color UFO Photograph"
+descriptionEn: "On August 15, 1950, a couple in Great Falls, Montana—Nick Mariana and his secretary (then girlfriend)—were preparing to play mini-golf. But that afternoon,…"
+titleEn: "The Mariana UFO: First Color Photo of a UFO, 1950"
 description: "UFO/UAP news and case coverage"
-titleEn: 'The Mariana UFO: First Color Photo of a UFO, 1950'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "photography"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 On August 15, 1950, a couple in Great Falls, Montana—Nick Mariana and his secretary (then girlfriend)—were preparing to play mini-golf. But that afternoon, something even stranger happened: they captured what is considered the first color UFO photo in human history.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

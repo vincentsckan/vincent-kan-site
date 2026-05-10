@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 CIA UFO Files — What Did the CIA Really Know?"
+descriptionEn: "Central Intelligence Agency \ud83d\udcc5 1940s \u2014 1970s \ud83d\udd0d Intelligence Files, Government Concealment The Central Intelligence Agency''''s (CIA) role in UFO research has\u2026"
+titleEn: "📂 CIA UFO Files — 50 Years of Declassified Secrets"
 description: "UFO/UAP news and case coverage"
-titleEn: '📂 CIA UFO Files — 50 Years of Declassified Secrets'
-
-pubDate: '2022-09-15'
-heroImage: '../../assets/blog-placeholder-3.jpg'
-
-
-
+pubDate: "2022-09-15"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
+
 > 📍 **U.S. Central Intelligence Agency**
 > 📅 **1940s — 1970s**
 > 🔍 **Intelligence Files, Government Concealment**

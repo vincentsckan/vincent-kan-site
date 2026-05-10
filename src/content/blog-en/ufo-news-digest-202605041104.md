@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News — May 4, 18:00"
-titleEn: '🛸 UFO/UAP News Digest — May 4, 2026'
+descriptionEn: "Steven Greer launches a new CE-5 contact initiative. Pentagon officials reportedly divided over how to handle increasing UAP pressure. NASA commissions a…"
+titleEn: "🛸 UFO/UAP News Digest — May 4, 2026"
 description: "Dr. Steven Greer new CE-5 initiative · Pentagon internal UAP debate heats up · NASA new study on UAP optics"
-pubDate: 2026-05-04T10:00:00.000Z
-updatedDate: 2026-05-04T10:00:00.000Z
-heroImage: ../../assets/blog-placeholder-2.jpg
+pubDate: "2026-05-04T10:00:00.000Z"
+updatedDate: "2026-05-04T10:00:00.000Z"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
 
 > **Dr. Steven Greer** launches a new CE-5 contact initiative. Pentagon officials reportedly divided over how to handle increasing UAP pressure. NASA commissions a new optics-based study for UAP detection.

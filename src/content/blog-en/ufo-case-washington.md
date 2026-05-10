@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 USAF Radar Mass UFO Tracking (1952)"
+descriptionEn: "📍 Washington, D.C., USA 📅 July 1952 🔍 Radar Confirmation, Large-Scale Event Schematic diagram of UFO radar echoes over Washington, D.C., in 1952 Between…"
+titleEn: "💫 The Washington Nationals UFO Incident — UFOs Over the Capital (1952)"
 description: "UFO/UAP news and case coverage"
-titleEn: '💫 The Washington Nationals UFO Incident — UFOs Over the Capital (1952)'
-
-pubDate: '2022-08-01'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-08-01"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Washington, D.C., USA**
 > 📅 **July 1952**
 > 🔍 **Radar Confirmation, Large-Scale Event**

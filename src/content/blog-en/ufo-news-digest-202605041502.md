@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News — May 4, 22:00"
-titleEn: '🛸 UFO/UAP News Digest — May 4, 2026'
+descriptionEn: "Tonights top stories: Newly-released phone calls from anti-gravity scientist Amy Eskridge reveal a thwarted kidnapping attempt at the airport. Veteran\u2026''s\u2026"
+titleEn: "🛸 UFO/UAP News Digest — May 4, 2026"
 description: "Amy Eskridge phone calls reveal kidnapping attempt · Stephen Bassett on 3 forces driving disclosure · UFO researcher deaths traced back to 1947"
-pubDate: 2026-05-04T14:00:00.000Z
-updatedDate: 2026-05-04T14:00:00.000Z
-heroImage: ../../assets/blog-placeholder-2.jpg
+pubDate: "2026-05-04T14:00:00.000Z"
+updatedDate: "2026-05-04T14:00:00.000Z"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
 
 > Tonight's top stories: Newly-released phone calls from anti-gravity scientist **Amy Eskridge** reveal a thwarted kidnapping attempt at the airport. Veteran disclosure advocate **Stephen Bassett** analyzes three forces converging to push UFO disclosure forward. Daily Mail traces a chilling pattern of UFO researcher deaths back to 1947.

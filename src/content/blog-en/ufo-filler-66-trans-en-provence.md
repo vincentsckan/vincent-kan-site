@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1981 Trans-en-Provence: The Only Government-Investigated UFO Trace"
+descriptionEn: "On January 8, 1981, a UFO incident occurred in the small town of Trans-en-Provence in southern France, an event that even the French government had to take…"
+titleEn: "1981 Trans-en-Provence: The Government-Investigated Physical Trace Case"
 description: "UFO/UAP news and case coverage"
-titleEn: '1981 Trans-en-Provence: The Government-Investigated Physical Trace Case'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "government-investigation"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 On January 8, 1981, a UFO incident occurred in the small town of Trans-en-Provence in southern France, an event that even the French government had to take seriously. Farmer Renato Nicolaï witnessed a flying object landing on his farm, and the French government's UFO investigation agency GEPAN (later renamed SEPRA) officially opened a case, conducting scientific analysis over many years.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

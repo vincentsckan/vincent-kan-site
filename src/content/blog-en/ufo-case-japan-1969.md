@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 1969 Japan UFO — Mysterious Orbs Over Kyushu"
+descriptionEn: "📍 Fukuoka Prefecture, Japan 📅 1969 🔍 Intercepted by Self-Defense Forces, Asian Classic In 1969, a giant mysterious glowing orb appeared over Fukuoka, Japan,…"
+titleEn: "🗿 The Japan UFO Incident (1969) — A Detailed Case Analysis"
 description: "UFO/UAP news and case coverage"
-titleEn: '🗿 The Japan UFO Incident (1969) — A Detailed Case Analysis'
-
-pubDate: '2023-04-15'
-heroImage: '../../assets/blog-placeholder-3.jpg'
-
-
-
+pubDate: "2023-04-15"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
+
 > 📍 **Fukuoka Prefecture, Japan**
 > 📅 **1969**
 > 🔍 **Intercepted by Self-Defense Forces, Asian Classic**

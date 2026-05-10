@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 Tehran F-4 Jet vs UFO Confrontation (1976)"
+descriptionEn: "📍 Tehran, Iran 📅 September 19, 1976 🔍 Military engagement, system failure, U.S. Department of Defense records In the early hours of September 19, 1976, an…"
+titleEn: "✈️ The Tehran UFO Incident — Iranian Air Force vs. UFOs (1976)"
 description: "UFO/UAP news and case coverage"
-titleEn: '✈️ The Tehran UFO Incident — Iranian Air Force vs. UFOs (1976)'
-
-pubDate: '2022-08-20'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-08-20"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Tehran, Iran**
 > 📅 **September 19, 1976**
 > 🔍 **Military engagement, system failure, U.S. Department of Defense records**

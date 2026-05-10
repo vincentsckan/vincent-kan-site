@@ -1,6 +1,7 @@
 ---
 title: "🛸 UFO/UAP News Flash — May 5, 11:03"
-titleEn: '🛸 UFO/UAP News Flash — May 5, 11:03'
+descriptionEn: "Trump UFO files, scientist deaths, David Wilcock, missing general \ud83c\uddfa\ud83c\uddf8 Trump UFO File Release Trump: Pentagon preparing to release \\\"never-before-seen\\\" material."
+titleEn: "🛸 UFO/UAP News Flash — May 5, 11:03"
 description: "Trump mentions UFO files to be released again | FBI investigating scientist deaths | UFO researcher David Wilcock passes away | Missing general linked to UFOs"
 pubDate: "2026-05-05T03:03:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]

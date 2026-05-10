@@ -1,7 +1,8 @@
 ---
-title: '🛸 UFO/UAP News Flash — May 5, 07:06'
-titleEn: '🛸 UFO/UAP News Flash — May 5, 07:06'
-description: "Trump says Pentagon preparing to release never-before-seen UFO files; David Wilcock dies by suicide; Aliens.gov domain registered; FBI investigating scientist deaths"
+title: "🛸 UFO/UAP News Flash — May 5, 07:06"
+descriptionEn: "Time for todays UFO news flash! Todays headlines are quite heavy: Trump says the Pentagon is preparing to release never-before-seen UFO files,…"
+titleEn: "🛸 UFO/UAP News Flash — May 5, 07:06"
+description: "Trump says Pentagon preparing to release never-before-seen UFO files; David Wilcock dies by suicide; Aliens.gov domain registered; FBI investigating…"
 pubDate: "2026-05-04T23:06:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
 ---

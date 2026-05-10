@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1975 Korean Air Force UFO: Jets Scrambled to Intercept"
+descriptionEn: "In October 1975, an event occurred in South Korea that remains the most famous incident in the country''''s military UFO history\u2014the South Korean Air\u2026"
+titleEn: "1975 Korean Air Force UFO: Fighter Jets Scrambled to Intercept"
 description: "UFO/UAP news and case coverage"
-titleEn: '1975 Korean Air Force UFO: Fighter Jets Scrambled to Intercept'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "asia"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 In October 1975, an event occurred in South Korea that remains the most famous incident in the country's military UFO history—the South Korean Air Force's radar system detected an unidentified object flying over the capital, Seoul, and the Air Force immediately dispatched F-5E fighter jets to intercept it.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

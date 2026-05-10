@@ -1,8 +1,9 @@
 ---
 title: "🛸 UFO/UAP News Flash — May 5, 17:04"
-titleEn: '🛸 UFO/UAP 快訊 — 05月05日17:04'
+descriptionEn: "Daily UFO/UAP News \u2014 ''''2026-05-05T09:04:00.000Z'''' \ud83d\udcf0 Today''''s Headlines - \\\"Trump previews very interesting UFO files; FBI investigates scientist\u2026"
+titleEn: "🛸 UFO/UAP 快訊 — 05月05日17:04"
 description: "Trump previews very interesting UFO files; FBI investigates scientist disappearances; Hellfire missile hits UFO; White House registers Aliens.gov"
-pubDate: '2026-05-05T09:04:00.000Z'
+pubDate: "2026-05-05T09:04:00.000Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
 ---
 

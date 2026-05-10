@@ -1,11 +1,13 @@
 ---
-title: '🛸 Global UFO/UAP News Digest — 2026-05-05'
-description: '·House Oversight Committee holds UAP hearing with former official testimony·Brazilian Air Force releases new UAP radar data from Amazon region·Japan SDF publishes annual UAP report documenting 31 inci'
-pubDate: '2026-05-05'
-updatedDate: '2026-05-05T08:00+08:00'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-tags: ['UFO', 'UAP', 'Government Disclosure', 'Congress Hearing', 'Brazil UAP', 'Japan UAP', 'Scientific Study', 'Breaking News']
+title: "🛸 Global UFO/UAP News Digest — 2026-05-05"
+descriptionEn: "📡 Daily UAP News Digest — 2026-05-05 Curated, organized, and formatted by AI, focusing on authoritative sources and major developments. US Congressional UAP…"
+description: "UFO/UAP news coverage: 🛸 Global UFO/UAP News Digest — 2026-05-05"
+pubDate: "2026-05-05"
+updatedDate: "2026-05-05T08:00+08:00"
+heroImage: "../../assets/blog-placeholder-1.jpg"
+tags: ["UFO", "UAP", "Government Disclosure", "Congress Hearing", "Brazil UAP", "Japan UAP", "Scientific Study", "Breaking News"]
 ---
+
 > 📡 **Daily UAP News Digest** — 2026-05-05
 > Curated, organized, and formatted by AI, focusing on authoritative sources and major developments.
 

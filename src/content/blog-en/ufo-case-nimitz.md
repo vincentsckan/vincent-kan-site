@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 Nimitz Carrier Strike Group UFO — The Pentagon-Confirmed Case (2004)"
+descriptionEn: "📍 Case Focus: Pacific Ocean, USS Nimitz Carrier Strike Group 📅 Date: November 14, 2004 🔍 Category: Military Encounter / Radar + Visual + Infrared Triple…"
+titleEn: "🛸 The USS Nimitz UFO Incident — Pentagon Confirmed (2004)"
 description: "UFO/UAP news and case coverage"
-titleEn: '🛸 The USS Nimitz UFO Incident — Pentagon Confirmed (2004)'
-
-pubDate: '2022-03-01'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-03-01"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Case Focus**: Pacific Ocean, USS Nimitz Carrier Strike Group
 > 📅 **Date**: November 14, 2004
 > 🔍 **Category**: Military Encounter / Radar + Visual + Infrared Triple Confirmation

@@ -1,14 +1,13 @@
 ---
-
-title: '☭ Soviet Soldier "Petrification" — The Strangest UFO Encounter of the 1980s'
+title: "''\u262d Soviet Soldier \\\""
+descriptionEn: "If this KGB file is real, then this is an extremely dangerous case. — Anonymous official comment in a declassified CIA document Under the shadow of the…"
+titleEn: "🪨 The Soviet Petrified Alien Case — A Cold War Mystery from the USSR"
 description: "UFO/UAP news and case coverage"
-titleEn: '🪨 The Soviet Petrified Alien Case — A Cold War Mystery from the USSR'
-
-pubDate: '2026-04-28'
+pubDate: "2026-04-28"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
 ---
+
 > **"If this KGB file is real, then this is an extremely dangerous case."** — Anonymous official comment in a declassified CIA document
 
 Under the shadow of the Cold War, a military exercise suddenly turned into a real-life sci-fi horror film. In the late 1980s, during a secret Soviet military exercise, 23 soldiers turned into **stone pillars** in just a few seconds. Yes, you read that right—**petrification**—like the Greek myth of Medusa, except this time the "culprit" might have been visitors from outer space.

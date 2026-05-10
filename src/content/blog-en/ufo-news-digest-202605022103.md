@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 UFO/UAP News Flash — 05月03日05:03'
+descriptionEn: "\ud83d\udd25 The UFO community is really buzzing lately! Trump himself said he would release UFO files, and someone in Congress also said they''''re ready to show\u2026"
+titleEn: "🛸 UFO/UAP News Flash — 05月03日05:03"
 description: "UFO/UAP news and case coverage"
-
 pubDate: "2026-05-02T21:03:00.000Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > 🔥 The UFO community is really buzzing lately! Trump himself said he would release UFO files, and someone in Congress also said they're ready to show evidence of "nonhuman origin." Here's your update on the latest developments!
 
 ---

@@ -1,8 +1,9 @@
 ---
 title: "🛸 UFO/UAP News Flash — May 4, 20:03"
-titleEn: '🛸 UFO/UAP News Flash — May 4, 20:03'
+descriptionEn: "May 4, 2026: Trump hints UFO files; Artemis astronauts react; scientist kidnapping plot. \ud83d\udcf0 Trump Hints UFO Files Trump: \\\"I think we''''ll release as much as\u2026"
+titleEn: "🛸 UFO/UAP News Flash — May 4, 20:03"
 description: "Trump UFO files about to be released? Disclosure advocate analyzes three driving forces; Amy Eskridge case reveals shocking kidnapping plot"
-pubDate: 2026-05-04T20:03:00Z
+pubDate: "2026-05-04T20:03:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
 ---
 

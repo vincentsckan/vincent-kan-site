@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-03"
-titleEn: '🛸 UFO/UAP News Flash — 05月04日00:04'
+descriptionEn: "No matter the size of the UFO news, weve got you covered! — Welcome to the latest edition of the UFO/UAP Express, helping you quickly grasp the latest…"
+titleEn: "🛸 UFO/UAP News Flash — 05月04日00:04"
 description: "UFO/UAP news and case coverage"
-
-pubDate: 2026-05-03T16:04:00.000Z
+pubDate: "2026-05-03T16:04:00.000Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > "No matter the size of the UFO news, we've got you covered!" — Welcome to the latest edition of the UFO/UAP Express, helping you quickly grasp the latest global developments on unidentified flying objects.
 
 ---

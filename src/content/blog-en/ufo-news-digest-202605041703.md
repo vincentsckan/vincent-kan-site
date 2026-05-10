@@ -1,6 +1,7 @@
 ---
 title: "🛸 UFO/UAP News Flash — May 5, 01:03"
-titleEn: '🛸 UFO/UAP News Flash — May 5, 01:03'
+descriptionEn: "A subject of great importance, involving phenomena far beyond the boundaries of then-current scientific knowledge… — James E. McDonald, 1968 ⭐ 1967…"
+titleEn: "🛸 UFO/UAP News Flash — May 5, 01:03"
 description: "NUFORC releases new 1967 Fortuna radar station high-speed unknown object case | Nevada UFO hotspot feature | US Air Force nuclear missile base UFO connections"
 pubDate: "2026-05-04T17:03:00.000Z"
 tags: ["UFO", "UAP", "news", "auto-update"]

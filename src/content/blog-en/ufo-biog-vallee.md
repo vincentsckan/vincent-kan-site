@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🧑‍🔬 Jacques Vallée — The Scientific Pioneer of Modern UFO Research"
+descriptionEn: "📍 France/USA 📅 1939-present 🔍 Biography, Alternative Theories Jacques Vallee is a French-American astronomer, computer scientist, and UFO research pioneer."
+titleEn: "📖 Dr. Jacques Vallée — The Scientist Who Saw UFOs as Something Stranger Than Aliens"
 description: "UFO/UAP news and case coverage"
-titleEn: '📖 Dr. Jacques Vallée — The Scientist Who Saw UFOs as Something Stranger Than Aliens'
-
-pubDate: '2022-10-20'
-heroImage: '../../assets/blog-placeholder-5.jpg'
-
-
-
+pubDate: "2022-10-20"
+heroImage: "../../assets/blog-placeholder-5.jpg"
 ---
+
 > 📍 **France/USA** | 📅 **1939-present** | 🔍 **Biography, Alternative Theories**
 
 **Jacques Vallee** is a French-American astronomer, computer scientist, and UFO research pioneer. His status in the UFO field is second only to Hynek, but his views are more challenging to mainstream understanding.

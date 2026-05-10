@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 UFO/UAP News Flash — 5月2日19:03'
+descriptionEn: "All major UFO news, gathered in one place! Several major stories are shaking the UFO world today \u2014 Nick Pope''''s passing shocks the globe, Trump and Obama\u2026"
+titleEn: "🛸 UFO/UAP News Flash — 5月2日19:03"
 description: "UFO/UAP news and case coverage"
-
 pubDate: "2026-05-02T19:03:00.000Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > All major UFO news, gathered in one place! Several major stories are shaking the UFO world today — Nick Pope's passing shocks the globe, Trump and Obama clash over the alien question, and the documentary *The Age of Disclosure* sparks heated debate.
 
 | 📍 *Global* | 📅 *April-May 2026* | 🔍 *News Roundup* |

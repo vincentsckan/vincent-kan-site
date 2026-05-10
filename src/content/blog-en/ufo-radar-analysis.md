@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🧠 Radar Characteristics of UAP — How Military Radar Detects UFOs"
+descriptionEn: "📚 UAP Scientific Research 🔍 Radar Principles Radar Signal Characteristics of UAP According to data from AARO and UAPTF, the radar characteristics of UAP…"
+titleEn: "\ud83d\udce1 UFO Radar Analysis \u2014 How Experts Track Objects That Shouldn''''t Exist"
 description: "UFO/UAP news and case coverage"
-titleEn: '📡 UFO Radar Analysis — How Experts Track Objects That Shouldn''t Exist'
-
-pubDate: '2023-05-01'
-heroImage: '../../assets/blog-placeholder-5.jpg'
-
-
-
+pubDate: "2023-05-01"
+heroImage: "../../assets/blog-placeholder-5.jpg"
 ---
+
 > 📚 **UAP Scientific Research** | 🔍 **Radar Principles**
 
 ## Radar Signal Characteristics of UAP

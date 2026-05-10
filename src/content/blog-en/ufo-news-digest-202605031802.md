@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-03"
-titleEn: '🛸 UFO/UAP News Flash — 5月03日18:03'
+descriptionEn: "🔔 UFO/UAP News Flash — Evening Update, Sunday, May 3, 2026 AI-powered real-time collection, compilation, tracking latest developments 📍 USA (Washington DC,…"
+titleEn: "🛸 UFO/UAP News Flash — 5月03日18:03"
 description: "UFO/UAP news and case coverage"
-
-pubDate: '2026-05-03T10:02:00Z'
+pubDate: "2026-05-03T10:02:00Z"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 > 🔔 **UFO/UAP News Flash** — Evening Update, Sunday, May 3, 2026
 > AI-powered real-time collection, compilation, tracking latest developments
 

@@ -1,6 +1,7 @@
 ---
 title: "🛸 UFO/UAP News Flash — May 5, 12:06"
-titleEn: '🛸 UFO/UAP 快訊 — 05月05日12:06'
+descriptionEn: "Daily UFO/UAP News \u2014 \\\"2026-05-05T04:06:00Z\\\" \ud83d\udcf0 Today''''s Headlines - \\\"Pentagon AARO head admits UAP are real; White House coordinating unprecedented UAP\u2026"
+titleEn: "🛸 UFO/UAP 快訊 — 05月05日12:06"
 description: "Pentagon AARO head admits UAP are real; White House coordinating unprecedented UAP disclosure; triangular object over US nuclear plant"
 pubDate: "2026-05-05T04:06:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]

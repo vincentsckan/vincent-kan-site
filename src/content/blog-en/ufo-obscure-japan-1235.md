@@ -1,18 +1,13 @@
 ---
-
-
-
-title: "🇯🇵 1235 Japan's Official UFO Investigation — The First State-Level Inquiry in History"
+title: "\\\"\ud83c\uddef\ud83c\uddf5 1235 Japan''"
+descriptionEn: "You think the first official human investigation of UFOs was the 1947 Roswell incident? In 1235 AD, during the late Southern Song Dynasty and the\u2026'You\u2026"
+titleEn: "⛩️ The 1235 Japan UFO Incident — A Medieval Sighting in Samurai Era"
 description: "UFO/UAP news and case coverage"
-titleEn: '⛩️ The 1235 Japan UFO Incident — A Medieval Sighting in Samurai Era'
-
-pubDate: '2026-04-28'
+pubDate: "2026-04-28"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-heroImage: '../../assets/blog-placeholder-2.jpg'
-
-
-
 ---
+
 You think the first official human investigation of UFOs was the 1947 Roswell incident? Wrong.
 
 In **1235 AD**, during the late Southern Song Dynasty and the mid-Kamakura period in Japan, the Shogun regent **Fujiwara no Yoritsune (Kujō Yoritsune)** had already ordered an official "unidentified flying object investigation." This event predates Roswell by a full **712 years** and is the **first documented national-level UFO investigation in human history**.

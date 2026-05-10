@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1973 Pascagoula Abduction: Two Workers Taken by Grey Aliens"
+descriptionEn: "On the evening of October 11, 1973, 45-year-old shipyard worker Charles Hickson and 19-year-old Calvin Parker were fishing by the Pascagoula River in…"
+titleEn: "1973 Pascagoula Abduction: Two Men Taken by Aliens While Fishing"
 description: "UFO/UAP news and case coverage"
-titleEn: '1973 Pascagoula Abduction: Two Men Taken by Aliens While Fishing'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "abduction"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 On the evening of October 11, 1973, 45-year-old shipyard worker Charles Hickson and 19-year-old Calvin Parker were fishing by the Pascagoula River in Mississippi, hoping to relax after work. Little did they know, this ordinary dusk would turn into a terrifying experience that changed their lives forever.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

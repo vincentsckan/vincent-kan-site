@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "UFOs and Nuclear Submarines: Deep Sea Mystery Trackers"
+descriptionEn: "UFOs dont just appear in the sky—they also dive underwater to track nuclear submarines. During the Cold War, multiple navies reported this phenomenon…"
+titleEn: "UFOs and Nuclear Subs: Deep Sea Mysterious Trackers"
 description: "UFO/UAP news and case coverage"
-titleEn: 'UFOs and Nuclear Subs: Deep Sea Mysterious Trackers'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "nuclear-connection"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 UFOs don't just appear in the sky—they also dive underwater to track nuclear submarines. During the Cold War, multiple navies reported this phenomenon known as "USO" (Unidentified Submerged Object).
 
 The most famous cases include: in the 1960s, a Soviet nuclear submarine in the Atlantic was pursued by a brightly glowing underwater object at speeds exceeding 40 knots; in the 1970s, during the U.S. Navy's "Gulf Breeze" sighting, a UFO descended from the sky into the water and then tracked a submarine.

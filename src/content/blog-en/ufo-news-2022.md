@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 2022 Global UFO News Review — The Year of Disclosure"
+descriptionEn: "📅 2022 Year in Review 🔍 Annual Summary 2022 UAP Milestones January - U.S. intelligence agencies mandated by law to release more UAP data - Japan Air…"
+titleEn: "📰 UFO News 2022 — A Year of Milestones in UAP Disclosure"
 description: "UFO/UAP news and case coverage"
-titleEn: '📰 UFO News 2022 — A Year of Milestones in UAP Disclosure'
-
-pubDate: '2023-03-01'
-heroImage: '../../assets/blog-placeholder-5.jpg'
-
-
-
+pubDate: "2023-03-01"
+heroImage: "../../assets/blog-placeholder-5.jpg"
 ---
+
 > 📅 **2022 Year in Review** | 🔍 **Annual Summary**
 
 ## 2022 UAP Milestones

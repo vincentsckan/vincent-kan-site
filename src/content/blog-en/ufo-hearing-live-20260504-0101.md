@@ -1,17 +1,11 @@
 ---
-
-
-
 title: "🔴 LIVE: U.S. Congressional UFO/UAP Hearing"
+descriptionEn: "🔴 LIVE: 美國國會UFO/UAP聽證會直播 📡 以下係美國政府UFO/UAP聽證會嘅YouTube現場直播"
+titleEn: "🔴 LIVE: U.S. Congressional UFO/UAP Hearing"
 description: "UFO/UAP news and case coverage"
-titleEn: '🔴 LIVE: U.S. Congressional UFO/UAP Hearing'
-
-pubDate: '2026-05-04T01:01:41Z'
+pubDate: "2026-05-04T01:01:41Z"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["ufo", "uap", "hearing", "live", "breaking"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
 
 # 🔴 LIVE: 美國國會UFO/UAP聽證會直播

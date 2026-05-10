@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "Matsu Islands UFO: Mysterious Sightings at a Frontline Military Post"
+descriptionEn: "The frontline islands of Matsu and Kinmen in the Taiwan Strait are not only Cold War-era military outposts but also one of Asia''''s UFO hotspot regions. Due\u2026"
+titleEn: "Matsu Islands UFO Incidents: Military Sightings in the Taiwan Strait"
 description: "UFO/UAP news and case coverage"
-titleEn: 'Matsu Islands UFO Incidents: Military Sightings in the Taiwan Strait'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "asia"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 The frontline islands of Matsu and Kinmen in the Taiwan Strait are not only Cold War-era military outposts but also one of Asia's UFO hotspot regions. Due to the long-term military presence on these islands, the credibility of sighting reports is particularly high.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

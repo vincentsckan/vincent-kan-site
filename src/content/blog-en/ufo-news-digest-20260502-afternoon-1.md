@@ -1,20 +1,14 @@
 ---
-
-
-
 title: "🛸 Global UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 Global UFO/UAP News Digest — 2026-05-02'
+descriptionEn: "Daily Update: Latest developments in the global UFO/UAP community, helping you track every step of the disclosure movement. This page updates automatically…"
+titleEn: "🛸 Global UFO/UAP News Digest — 2026-05-02"
 description: "UFO/UAP news and case coverage"
-
-pubDate: 2026-05-02T12:05:26Z
-updatedDate: 2026-05-02T12:05:26Z
-author: "UFO News Monitor"
+pubDate: "2026-05-02T12:05:26Z"
+updatedDate: "2026-05-02T12:05:26Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-image: "/blog-placeholder-1.jpg"
-
-
-
+author: "UFO News Monitor"
 ---
+
 > **Daily Update:** Latest developments in the global UFO/UAP community, helping you track every step of the disclosure movement. This page updates automatically every day.
 
 ## 📰 Today's Top News

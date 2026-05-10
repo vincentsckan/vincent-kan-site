@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1971 Delphos, Kansas: UFO Landing Leaves Mysterious Ring"
+descriptionEn: "On the evening of November 2, 1971, at a rural farm near Delphos, Kansas, 16-year-old Ronald Johnson was tending to his sheep. When he saw an object…"
+titleEn: "The 1971 Delphos Ring: Physical Trace Case from Kansas"
 description: "UFO/UAP news and case coverage"
-titleEn: 'The 1971 Delphos Ring: Physical Trace Case from Kansas'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "physical-evidence"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 On the evening of November 2, 1971, at a rural farm near Delphos, Kansas, 16-year-old Ronald Johnson was tending to his sheep. When he saw an object emitting intense, colorful light land in a nearby field, he feared something was wrong with his eyes. But the result was—an inexplicable physical trace left at the scene, becoming one of the most famous "physical trace" cases in UFO research history.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

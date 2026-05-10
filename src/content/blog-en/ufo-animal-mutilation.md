@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 Animal Mutilations — An FBI-Investigated UFO Mystery Spanning 50 Years"
+descriptionEn: "📍 Western United States, Canada, Puerto Rico 📅 1967 — Present 🔍 Animal Mutilation, FBI Investigation, UFO Connection What is Animal Mutilation? Animal…"
+titleEn: "🐄 Animal Mutilations — The Unsolved Mystery Linking UFOs and Livestock Deaths"
 description: "UFO/UAP news and case coverage"
-titleEn: '🐄 Animal Mutilations — The Unsolved Mystery Linking UFOs and Livestock Deaths'
-
-pubDate: '2023-01-05'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2023-01-05"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Western United States, Canada, Puerto Rico**
 > 📅 **1967 — Present**
 > 🔍 **Animal Mutilation, FBI Investigation, UFO Connection**

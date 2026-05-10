@@ -1,19 +1,14 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-03"
-titleEn: '🛸 UFO/UAP News Flash — 05月03日19:04'
+descriptionEn: "📡 UFO/UAP Flash Update — May 3, 2026 (Sunday) 7:00 PM Update AI-automated collection, focus: Trump UFO file release progress, Luna promises to show…"
+titleEn: "🛸 UFO/UAP News Flash — 05月03日19:04"
 description: "UFO/UAP news and case coverage"
-
-pubDate: '2026-05-03T11:04:00Z'
-updatedDate: '2026-05-03T11:04:00Z'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+pubDate: "2026-05-03T11:04:00Z"
+updatedDate: "2026-05-03T11:04:00Z"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > 📡 **UFO/UAP Flash Update** — May 3, 2026 (Sunday) 7:00 PM Update
 > AI-automated collection, focus: Trump UFO file release progress, Luna promises to show non-human evidence, whistleblower shocking testimony
 

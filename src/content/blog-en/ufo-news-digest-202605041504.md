@@ -1,7 +1,8 @@
 ---
 title: "🛸 UFO/UAP News Flash — May 4, 23:04"
-titleEn: '🛸 UFO/UAP News Flash — May 4, 23:04'
-description: "Trump hints UFO files coming soon, Guardian journalist travels to US to chase UFOs, NY Post says alien tech could destroy Earth instantly, Las Vegas giant alien event revisited"
+descriptionEn: "UFO/UAP News — Automatically updated daily! 📰 Trump UFO File Developments 📍 USA 📅 May 3-4, 2026 🔍 Government Disclosure Trump hints at new UFO files being…"
+titleEn: "🛸 UFO/UAP News Flash — May 4, 23:04"
+description: "Trump hints UFO files coming soon, Guardian journalist travels to US to chase UFOs, NY Post says alien tech could destroy Earth instantly, Las Vegas giant…"
 pubDate: "2026-05-04T15:04:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
 ---

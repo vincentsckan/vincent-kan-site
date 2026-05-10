@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1975 Taiwan UFO: Air Force Radar Locks On, Reports to Central Gov"
+descriptionEn: "In April 1975, a UFO military standoff incident occurred in Taiwan that remains classified to this day\u2014Taiwan''''s Air Force radar station detected an\u2026"
+titleEn: "1975 Taiwan UFO Incident: Military Radar Lock Over ROC Air Base"
 description: "UFO/UAP news and case coverage"
-titleEn: '1975 Taiwan UFO Incident: Military Radar Lock Over ROC Air Base'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "asia"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 In April 1975, a UFO military standoff incident occurred in Taiwan that remains classified to this day—Taiwan's Air Force radar station detected an unidentified object flying over a certain air force base in the south. Senior military officials urgently activated emergency procedures, and there were even reports of preparations to open fire and shoot it down.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

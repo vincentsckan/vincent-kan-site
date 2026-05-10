@@ -1,19 +1,14 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-03"
-titleEn: '🛸 UFO/UAP News Flash — 5月3日20:04'
+descriptionEn: "📡 UFO/UAP Flash Update — Evening Update, Sunday, May 3, 2026 🚀 Trump UFO Files About to Be Massively Released? Congress Pressures Pentagon to Hand Over…"
+titleEn: "🛸 UFO/UAP News Flash — 5月3日20:04"
 description: "UFO/UAP news and case coverage"
-
-pubDate: '2026-05-03T20:04:00+08:00'
-updatedDate: '2026-05-03T12:04:00Z'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+pubDate: "2026-05-03T20:04:00+08:00"
+updatedDate: "2026-05-03T12:04:00Z"
+heroImage: "../../assets/blog-placeholder-5.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > 📡 **UFO/UAP Flash Update** — Evening Update, Sunday, May 3, 2026
 > 🚀 Trump UFO Files About to Be Massively Released? Congress Pressures Pentagon to Hand Over Videos!
 

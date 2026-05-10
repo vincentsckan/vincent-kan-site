@@ -1,6 +1,7 @@
 ---
 title: "🛸 UFO/UAP News Flash — May 5, 05:03"
-titleEn: '🛸 UFO/UAP News Flash — May 5, 05:03'
+descriptionEn: "Project Serpo, triangular UFO, Doha orbs, giant overseas structure 1️⃣ Project Serpo 📍 Zeta Reticuli 🔍 Analysis Deep dive into the alien exchange program.…"
+titleEn: "🛸 UFO/UAP News Flash — May 5, 05:03"
 description: "Serpo mission declassified, triangular UFO night vision footage, mysterious orbs during Doha thunderstorm, Congressman questions overseas giant UAP structure"
 pubDate: "2026-05-04T21:03:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]

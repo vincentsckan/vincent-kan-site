@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 Chinese UFO History — From Ancient Skies to Modern Sightings"
+descriptionEn: "\ud83d\udccd Across China \ud83d\udcc5 Ancient \u2014 Modern \ud83d\udd0d Asian UFO History Ancient Chinese UFO Records China''''s records of unidentified flying objects date back very early: -\u2026"
+titleEn: "🏮 UFOs in Chinese History — From Ancient Silk Scrolls to Modern Encounters"
 description: "UFO/UAP news and case coverage"
-titleEn: '🏮 UFOs in Chinese History — From Ancient Silk Scrolls to Modern Encounters'
-
-pubDate: '2023-04-20'
-heroImage: '../../assets/blog-placeholder-4.jpg'
-
-
-
+pubDate: "2023-04-20"
+heroImage: "../../assets/blog-placeholder-4.jpg"
 ---
+
 > 📍 **Across China** | 📅 **Ancient — Modern** | 🔍 **Asian UFO History**
 
 ## Ancient Chinese UFO Records

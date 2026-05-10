@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 2023 Global UFO News Review — The Year of Grusch"
+descriptionEn: "📅 2023 Year in Review 🔍 Annual Summary 2023 UAP Milestones January - NASA officially launches the UAP research team - AARO releases monthly UAP reporting…"
+titleEn: "📰 UFO News 2023 — The Biggest Year for UFO Disclosure"
 description: "UFO/UAP news and case coverage"
-titleEn: '📰 UFO News 2023 — The Biggest Year for UFO Disclosure'
-
-pubDate: '2023-03-15'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2023-03-15"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📅 **2023 Year in Review** | 🔍 **Annual Summary**
 
 ## 2023 UAP Milestones

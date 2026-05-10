@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 UFO/UAP News Flash — 5月2日09:03'
+descriptionEn: "Latest UFO/UAP News Roundup! This edition includes Congressman Eric Burlison continuing to press for updates on the massive overseas UAP structure, a…"
+titleEn: "🛸 UFO/UAP News Flash — 5月2日09:03"
 description: "UFO/UAP news and case coverage"
-
-pubDate: 2026-05-02T09:03:00.000Z
+pubDate: "2026-05-02T09:03:00.000Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > Latest UFO/UAP News Roundup! This edition includes Congressman Eric Burlison continuing to press for updates on the massive overseas UAP structure, a triangular UFO formation spotted during a thunderstorm in Doha, a triangular UFO captured on night vision in Sonoma, California, and an anonymous whistleblower revealing deeper UFO secrecy structures within intelligence agencies.
 
 ---

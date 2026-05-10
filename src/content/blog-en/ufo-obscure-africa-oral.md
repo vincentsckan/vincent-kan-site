@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "🌍 Alien Visitors in Zulu Oral Traditions — Forgotten Indigenous Accounts"
+descriptionEn: "📍 South Africa 📅 Oral Traditions from Centuries Ago 🔍 Indigenous UFO Legends 🔥 You Think UFOs Started in the 20th Century? African Ancestors Saw Them Long…"
+titleEn: "\ud83c\udf0d Oral Traditions and UFOs \u2014 Africa''''s Forgotten Encounters"
 description: "UFO/UAP news and case coverage"
-titleEn: '🌍 Oral Traditions and UFOs — Africa''s Forgotten Encounters'
-
-pubDate: '2026-04-28'
+pubDate: "2026-04-28"
+heroImage: "../../assets/blog-placeholder-5.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-heroImage: '../../assets/blog-placeholder-5.jpg'
-
-
-
 ---
+
 | 📍 *South Africa* | 📅 *Oral Traditions from Centuries Ago* | 🔍 *Indigenous UFO Legends* |
 
 ---

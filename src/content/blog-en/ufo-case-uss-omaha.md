@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 USS Omaha UAP Incident (2019)"
+descriptionEn: "📍 Pacific Ocean, USS Omaha (US Navy) 📅 2019 🔍 Officially Confirmed, Transmedium UAP In 2019, crew members of the US Navy littoral combat ship USS Omaha…"
+titleEn: "\ud83c\udf0a The USS Omaha Incident \u2014 US Navy''''s Swarming UFO Encounter (2019)"
 description: "UFO/UAP news and case coverage"
-titleEn: '🌊 The USS Omaha Incident — US Navy''s Swarming UFO Encounter (2019)'
-
-pubDate: '2022-12-01'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-12-01"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Pacific Ocean, USS Omaha (US Navy)**
 > 📅 **2019**
 > 🔍 **Officially Confirmed, Transmedium UAP**

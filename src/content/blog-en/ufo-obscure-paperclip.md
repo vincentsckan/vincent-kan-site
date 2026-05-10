@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "🇩🇪 Nazi Scientists, Cold War Panic & UFOs — The Secret of Operation Paperclip"
+descriptionEn: "You think UFO legends are about aliens visiting Earth? Or the government hiding alien technology? Think again—the origin of this phenomenon might be darker,…"
+titleEn: "📎 Project Paperclip — The Dark Truth Behind UFO Secrecy"
 description: "UFO/UAP news and case coverage"
-titleEn: '📎 Project Paperclip — The Dark Truth Behind UFO Secrecy'
-
-pubDate: '2026-04-28'
+pubDate: "2026-04-28"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-heroImage: '../../assets/blog-placeholder-3.jpg'
-
-
-
 ---
+
 You think UFO legends are about aliens visiting Earth? Or the government hiding alien technology? Think again—the origin of this phenomenon might be darker, more political, and directly linked to Nazi Germany during WWII than you ever imagined.
 
 In 1947, the Roswell incident shocked the world, and UFOs became a part of pop culture. But few know that months before Roswell, the U.S. Air Force had already launched a secret project to study "flying saucers"—not because they feared aliens, but because they feared a more tangible enemy: **the Soviet Union, using secret weapons developed by Nazi scientists.**

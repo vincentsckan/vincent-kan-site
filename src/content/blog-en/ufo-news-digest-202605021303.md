@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 UFO/UAP News Flash — 5月2日13:03'
+descriptionEn: "This week the UFO community is really buzzing! From Trump to Capitol Hill, from a retired Navy admiral to a former defense official, various parties are all…"
+titleEn: "🛸 UFO/UAP News Flash — 5月2日13:03"
 description: "UFO/UAP news and case coverage"
-
 pubDate: "2026-05-02T13:03:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > This week the UFO community is really buzzing! From Trump to Capitol Hill, from a retired Navy admiral to a former defense official, various parties are all talking about UFO disclosure. Let's take a look at the big news that happened in the last 48 hours.
 
 ![UFO News](/blog-placeholder-1.jpg)

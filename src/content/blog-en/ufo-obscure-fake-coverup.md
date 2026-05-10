@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "🎭 Government Staged UFOs — AARO Report Exposes 40-Year Military Misinformation"
+descriptionEn: "📍 Location: Area 51, Rachel (Nevada), USA 📅 Period: 1980s — 2023 🔍 Category: Government Misinformation / Declassified Reports You thought the US government…"
+titleEn: "🎭 The Fake Cover-Up Theory — Did the Government Fabricate UFO Secrecy?"
 description: "UFO/UAP news and case coverage"
-titleEn: '🎭 The Fake Cover-Up Theory — Did the Government Fabricate UFO Secrecy?'
-
-pubDate: '2026-04-28'
+pubDate: "2026-04-28"
+heroImage: "../../assets/blog-placeholder-4.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-heroImage: '../../assets/blog-placeholder-4.jpg'
-
-
-
 ---
+
 > 📍 **Location**: Area 51, Rachel (Nevada), USA  
 > 📅 **Period**: 1980s — 2023  
 > 🔍 **Category**: Government Misinformation / Declassified Reports  

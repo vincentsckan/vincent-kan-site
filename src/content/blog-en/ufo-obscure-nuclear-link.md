@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "☢️ The Stunning Nuclear-UFO Connection — Scientifically Verified Secret History"
+descriptionEn: "🔬 Special Series: The Scientific Evidence Dimension of UFOs Coverage: Observatory plate data, nuclear missile silo incidents, statistical studies Is there a…"
+titleEn: "☢️ The Nuclear Link — Why UFOs Appear at Nuclear Facilities Worldwide"
 description: "UFO/UAP news and case coverage"
-titleEn: '☢️ The Nuclear Link — Why UFOs Appear at Nuclear Facilities Worldwide'
-
-pubDate: '2026-04-28'
+pubDate: "2026-04-28"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-heroImage: '../../assets/blog-placeholder-2.jpg'
-
-
-
 ---
+
 > 🔬 **Special Series**: The Scientific Evidence Dimension of UFOs
 > **Coverage**: Observatory plate data, nuclear missile silo incidents, statistical studies
 

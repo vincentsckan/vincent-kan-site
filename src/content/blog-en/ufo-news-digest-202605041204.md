@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News — May 4, 19:00"
-titleEn: '🛸 UFO/UAP News Digest — May 4, 2026'
+descriptionEn: "The first day of the 2026 U.S. Congressional UFO/UAP Hearing has wrapped. Burlison grilled officials on whistleblower deaths. New testimonies from AARO and…"
+titleEn: "🛸 UFO/UAP News Digest — May 4, 2026"
 description: "Live U.S. congressional UFO hearing Day 1 recap · Key testimonies · Burlison demands answers · Zona Divulgación"
-pubDate: 2026-05-04T12:00:00.000Z
-updatedDate: 2026-05-04T12:00:00.000Z
-heroImage: ../../assets/blog-placeholder-2.jpg
+pubDate: "2026-05-04T12:00:00.000Z"
+updatedDate: "2026-05-04T12:00:00.000Z"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
 
 > The first day of the **2026 U.S. Congressional UFO/UAP Hearing** has wrapped. Rep. **Burlison** grilled officials on whistleblower deaths. New testimonies from AARO and military witnesses. Live coverage roundup.

@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 UFO/UAP News Flash — 05月03日01:04'
+descriptionEn: "Its time for the late-night UFO news flash! Today is May 2, 2026 (Saturday), and Hong Kong has already entered the early hours of May 3. Even though…"
+titleEn: "🛸 UFO/UAP News Flash — 05月03日01:04"
 description: "UFO/UAP news and case coverage"
-
-pubDate: 2026-05-02T17:04:00Z
+pubDate: "2026-05-02T17:04:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > It's time for the late-night UFO news flash! Today is May 2, 2026 (Saturday), and Hong Kong has already entered the early hours of May 3. Even though it's the weekend, the UFO scene hasn't slowed down! Tonight brings multiple updates, along with some astronomical trivia to fuel your UFO cravings! 🛸
 
 ![UFO Night Sky Concept](/blog-placeholder-2.jpg)

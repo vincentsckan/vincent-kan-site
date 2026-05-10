@@ -1,6 +1,7 @@
 ---
 title: "🛸 UFO/UAP News Flash — May 5, 14:03"
-titleEn: '🛸 UFO/UAP 快訊 — 05月05日14:03'
+descriptionEn: "Daily UFO/UAP News \u2014 \\\"2026-05-05T06:03:00Z\\\" \ud83d\udcf0 Today''''s Headlines - \\\"Project Serpo controversy returns; Rep. Burlison tracks overseas giant UAP structure;\u2026"
+titleEn: "🛸 UFO/UAP 快訊 — 05月05日14:03"
 description: "Project Serpo controversy returns; Rep. Burlison tracks overseas giant UAP structure; California night vision triangle UFO"
 pubDate: "2026-05-05T06:03:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]

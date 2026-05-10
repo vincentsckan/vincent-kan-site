@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1947 Maury Island: A UFO Crash Before Roswell"
+descriptionEn: "Most people, when talking about the 1947 UFO crash incident, immediately think of Roswell. But just a few days before the Roswell event, another mysterious…"
+titleEn: "1947 Maury Island Incident: The Pre-Roswell UFO Crash"
 description: "UFO/UAP news and case coverage"
-titleEn: '1947 Maury Island Incident: The Pre-Roswell UFO Crash'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "crash"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 Most people, when talking about the 1947 UFO crash incident, immediately think of Roswell. But just a few days before the Roswell event, another mysterious UFO crash had already occurred on Maury Island in Washington State on the US West Coast—and the truth is even more perplexing.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

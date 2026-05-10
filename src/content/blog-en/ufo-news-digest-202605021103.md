@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 UFO/UAP News Flash — 5月2日11:03'
+descriptionEn: "May 2 UFO/UAP Top News Express! The timing of Nick Pope''''s death has sparked numerous rumors and speculation, shallow earthquakes near Area 51, Chandra\u2026"
+titleEn: "🛸 UFO/UAP News Flash — 5月2日11:03"
 description: "UFO/UAP news and case coverage"
-
-pubDate: '2026-05-02T11:03:00Z'
+pubDate: "2026-05-02T11:03:00Z"
+heroImage: "../../assets/blog-placeholder-5.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-heroImage: '../../assets/blog-placeholder-5.jpg'
-
-
-
 ---
+
 > **May 2 UFO/UAP Top News Express!** The timing of Nick Pope's death has sparked numerous rumors and speculation, shallow earthquakes near Area 51, Chandra Levy's parents speak out suggesting her death may be linked to UFOs. US government disclosure progress continues to heat up!
 
 | 📍 *Global: UK · Nevada · Washington DC · Los Angeles* | 📅 *May 2, 2026* | 🔍 *Personnel · Earthquake · Disclosure · Culture* |

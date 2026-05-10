@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 The Gobi Desert UFO Base Legend — Cold War Secret History"
+descriptionEn: "📍 Mongolian Gobi Desert 📅 1980s 🔍 Spy rumors, Soviet archives During the Cold War, Western intelligence circles had a persistent claim: the Soviet Union…"
+titleEn: "\ud83c\udfdc\ufe0f The Gobi Desert UFO Incident \u2014 China''''s Most Documented Case"
 description: "UFO/UAP news and case coverage"
-titleEn: '🏜️ The Gobi Desert UFO Incident — China''s Most Documented Case'
-
-pubDate: '2022-09-01'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-09-01"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Mongolian Gobi Desert**
 > 📅 **1980s**
 > 🔍 **Spy rumors, Soviet archives**

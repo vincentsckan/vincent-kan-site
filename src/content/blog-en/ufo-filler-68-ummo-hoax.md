@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1967 Ummo Hoax: The Most Elaborate Alien Communication Hoax"
+descriptionEn: "In February 1967, a family in the outskirts of Madrid, Spain, received a strange letter—written in a previously unseen language, accompanied by technical…"
+titleEn: "The 1967 Ummo Hoax: Spain''''s Elaborate Alien Correspondence"
 description: "UFO/UAP news and case coverage"
-titleEn: 'The 1967 Ummo Hoax: Spain''s Elaborate Alien Correspondence'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "hoax"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 In February 1967, a family in the outskirts of Madrid, Spain, received a strange letter—written in a previously unseen language, accompanied by technical drawings and an alien symbol. The letter claimed to be from the planet "Ummo," a civilization 14.6 light-years from Earth. This phenomenon, known as the Ummo Incident, lasted over 20 years, becoming the most complex alien communication event in UFO history.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

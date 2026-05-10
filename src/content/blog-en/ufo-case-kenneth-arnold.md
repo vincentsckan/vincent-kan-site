@@ -1,13 +1,12 @@
 ---
-
-title: '🛸 Kenneth Arnold Sighting — The Origin of "Flying Saucer" (1947)'
+title: "The Kenneth Arnold Sighting — Origin of Flying Saucers"
+descriptionEn: "📍 Case Focus: Mount Rainier, Washington State, USA 📅 Date: June 24, 1947 🔍 Category: Air Sighting / Classic Historical Case Overview"
+titleEn: "\u2708\ufe0f The Kenneth Arnold Sighting \u2014 Where \\\"Flying Saucers\\\" Got Their Name (1947)"
 description: "UFO/UAP news and case coverage"
-titleEn: '✈️ The Kenneth Arnold Sighting — Where "Flying Saucers" Got Their Name (1947)'
-
-pubDate: '2022-01-15'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
+pubDate: "2022-01-15"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Case Focus**: Mount Rainier, Washington State, USA
 > 📅 **Date**: June 24, 1947
 > 🔍 **Category**: Air Sighting / Classic Historical Case

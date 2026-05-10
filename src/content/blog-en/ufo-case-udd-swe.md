@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 The Deyeet Incident — Swedish Radar Locks UFO Underwater (1992)"
+descriptionEn: "\ud83d\udccd Sweden, Baltic Sea \ud83d\udcc5 1992 \ud83d\udd0d Navy Sonar, Underwater UAP During a routine patrol in the Baltic Sea, the Swedish Navy''''s sonar system detected one or more\u2026"
+titleEn: "\ud83d\udef8 The Ubmeje UFO Case \u2014 Sweden''''s Most Remarkable Encounter"
 description: "UFO/UAP news and case coverage"
-titleEn: '🛸 The Ubmeje UFO Case — Sweden''s Most Remarkable Encounter'
-
-pubDate: '2022-10-01'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-10-01"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Sweden, Baltic Sea**
 > 📅 **1992**
 > 🔍 **Navy Sonar, Underwater UAP**

@@ -1,17 +1,12 @@
 ---
-
-
-
-title: "🛸 Rendlesham Forest Incident — Britain's Roswell (1980)"
+title: "\\\"\ud83d\udef8 Rendlesham Forest Incident \u2014 Britain''"
+descriptionEn: "\ud83d\udccd Case Focus: Rendlesham Forest, Suffolk, England \ud83d\udcc5 Date of Incident: December 26, 1980 \ud83d\udd0d Classification: Military Contact / Ground Traces / Radar\u2026'\ud83d\udccd Case\u2026"
+titleEn: "\ud83c\udf32 The Rendlesham Forest Incident \u2014 Britain''''s Most Famous UFO Case (1980)"
 description: "UFO/UAP news and case coverage"
-titleEn: '🌲 The Rendlesham Forest Incident — Britain''s Most Famous UFO Case (1980)'
-
-pubDate: '2022-04-01'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-04-01"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Case Focus**: Rendlesham Forest, Suffolk, England  
 > 📅 **Date of Incident**: December 26, 1980  
 > 🔍 **Classification**: Military Contact / Ground Traces / Radar Confirmation  

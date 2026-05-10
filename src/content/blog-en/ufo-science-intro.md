@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🧠 Introduction to UAP Science — From Skepticism to Evidence-Based Analysis"
+descriptionEn: "🧪 Series: UAP Scientific Research Purpose: Introduce scientific analysis methods for UAP phenomena Preface For a long time, UFO/UAP has been labeled as…"
+titleEn: "🔭 A Scientific Introduction to UFOs — From Stigma to Serious Study"
 description: "UFO/UAP news and case coverage"
-titleEn: '🔭 A Scientific Introduction to UFOs — From Stigma to Serious Study'
-
-pubDate: '2022-04-20'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-04-20"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 🧪 **Series**: UAP Scientific Research  
 > **Purpose**: Introduce scientific analysis methods for UAP phenomena  
 

@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-03"
-titleEn: '🛸 UFO/UAP News Flash — 05月03日11:03'
+descriptionEn: "Were not joking around this time, this is really going to be made public. — Former President Trump on UFO files Welcome to a new episode of the…"
+titleEn: "🛸 UFO/UAP News Flash — 05月03日11:03"
 description: "UFO/UAP news and case coverage"
-
 pubDate: "2026-05-03T03:03:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > *"We're not joking around this time, this is really going to be made public." — Former President Trump on UFO files*
 
 Welcome to a new episode of the UFO/UAP Flash Briefing! Today, we have multiple key stories, from the highest-level political figures speaking out to civilian footage—all with substance. Let's dive in!

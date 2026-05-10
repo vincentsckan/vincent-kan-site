@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1626 Tianqi Explosion: Ming Dynasty Mystery Linked to Aliens?"
+descriptionEn: "On May 30, 1626 (the sixth year of the Tianqi era of the Ming Dynasty), an unprecedented massive explosion occurred near the Wanggongchang gunpowder depot…"
+titleEn: "1626 Ming Dynasty Tianqi Explosion: Beijing''''s Mysterious Catastrophe"
 description: "UFO/UAP news and case coverage"
-titleEn: '1626 Ming Dynasty Tianqi Explosion: Beijing''s Mysterious Catastrophe'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "asia"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 On May 30, 1626 (the sixth year of the Tianqi era of the Ming Dynasty), an unprecedented massive explosion occurred near the Wanggongchang gunpowder depot in the southwestern corner of Beijing. But this was no ordinary gunpowder depot explosion—the bizarre phenomena at the scene have left modern UFO researchers utterly baffled.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

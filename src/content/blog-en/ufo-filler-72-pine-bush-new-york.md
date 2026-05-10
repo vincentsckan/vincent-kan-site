@@ -1,18 +1,13 @@
 ---
-
-
-
-title: "New York's Pine Bush: The East Coast's Most Active UFO Corridor"
+title: "\\\"New York''"
+descriptionEn: "Located in Pine Bush, Orange County, New York, this remote township has a population of only about 2,000. However, in the UFO research community, this…"
+titleEn: "Pine Bush UFO Hotspot: New York''''s Most Active UFO Corridor"
 description: "UFO/UAP news and case coverage"
-titleEn: 'Pine Bush UFO Hotspot: New York''s Most Active UFO Corridor'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "hotspot"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 Located in Pine Bush, Orange County, New York, this remote township has a population of only about 2,000. However, in the UFO research community, this small town is highly renowned—since the 1970s, it has become one of the most famous UFO hotspots on the East Coast of the United States.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

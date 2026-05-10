@@ -1,7 +1,8 @@
 ---
 title: "🛸 UFO/UAP News Flash — May 4, 18:03"
-titleEn: '🛸 UFO/UAP News Flash — May 4, 18:03'
-description: "Trump UFO file release enters final stretch | Mysterious scientist deaths continue to unfold | Amy Eskridge pre-death recording reveals kidnapping plot | UFO researcher mysterious death wave spans decades"
+descriptionEn: "Todays UFO/UAP news: Trump UFO file release; FBI investigating scientist deaths; Amy Eskridge kidnapping plot. 📰 Trump UFO File Release Trump: files…"
+titleEn: "🛸 UFO/UAP News Flash — May 4, 18:03"
+description: "UFO/UAP news coverage: 🛸 UFO/UAP News Flash — May 4, 18:03"
 pubDate: "2026-05-04T18:03:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
 ---

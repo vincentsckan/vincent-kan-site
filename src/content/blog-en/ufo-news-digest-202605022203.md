@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 UFO/UAP News Flash — 05月03日06:03'
+descriptionEn: "The UFO community experienced a week full of controversy and upheaval. From the death of prominent researcher David Wilcock, to the White House officially…"
+titleEn: "🛸 UFO/UAP News Flash — 05月03日06:03"
 description: "UFO/UAP news and case coverage"
-
 pubDate: "2026-05-02T22:03:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > The UFO community experienced a week full of controversy and upheaval. From the death of prominent researcher David Wilcock, to the White House officially registering the Aliens.gov domain, to the FBI investigating the deaths and disappearances of multiple scientists, the UFO disclosure movement appears to be at a critical juncture.
 
 ---

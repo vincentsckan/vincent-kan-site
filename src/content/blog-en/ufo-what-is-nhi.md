@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🧠 What is NHI? — A Complete Guide to Non-Human Intelligence"
+descriptionEn: "📚 UAP Glossary 📅 Concept Analysis 🔍 NHI Comprehensive Introduction What is NHI? NHI = Non-Human Intelligence This is the latest official term used by the U.S."
+titleEn: "🤔 What Is NHI? Understanding Non-Human Intelligence — The New Frontier in UAP Research"
 description: "UFO/UAP news and case coverage"
-titleEn: '🤔 What Is NHI? Understanding Non-Human Intelligence — The New Frontier in UAP Research'
-
-pubDate: '2022-11-01'
-heroImage: '../../assets/blog-placeholder-3.jpg'
-
-
-
+pubDate: "2022-11-01"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
+
 > 📚 **UAP Glossary** | 📅 **Concept Analysis** | 🔍 **NHI Comprehensive Introduction**
 
 ## What is NHI?

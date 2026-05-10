@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 Jets Chase UFO — The Belgian UFO Wave (1989-1990)"
+descriptionEn: "📍 Case Focus: Nationwide in Belgium 📅 Date of Occurrence: November 1989 — April 1990 🔍 Category: Military Involvement / Radar Confirmation / Classic…"
+titleEn: "🛸 The Belgian UFO Wave — NATO Fighters Scrambled (1989-1990)"
 description: "UFO/UAP news and case coverage"
-titleEn: '🛸 The Belgian UFO Wave — NATO Fighters Scrambled (1989-1990)'
-
-pubDate: '2022-02-15'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-02-15"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Case Focus**: Nationwide in Belgium
 > 📅 **Date of Occurrence**: November 1989 — April 1990
 > 🔍 **Category**: Military Involvement / Radar Confirmation / Classic European Case

@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 The Sutton Farm UFO Gunfight (1955)"
+descriptionEn: "📍 Hopkinsville, Kentucky, USA 📅 August 21, 1955 🔍 Close Encounter of the Third Kind, Gunfight On the night of August 21, 1955, an incredible incident…"
+titleEn: "🏠 The Sutton-Braxton Incident — The Night the Aliens Came to the Farm (WV, 1952)"
 description: "UFO/UAP news and case coverage"
-titleEn: '🏠 The Sutton-Braxton Incident — The Night the Aliens Came to the Farm (WV, 1952)'
-
-pubDate: '2022-07-10'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-07-10"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Hopkinsville, Kentucky, USA**
 > 📅 **August 21, 1955**
 > 🔍 **Close Encounter of the Third Kind, Gunfight**

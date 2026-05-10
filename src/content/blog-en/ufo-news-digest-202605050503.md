@@ -1,6 +1,7 @@
 ---
 title: "🛸 UFO/UAP News Flash — May 5, 13:03"
-titleEn: '🛸 UFO/UAP 快訊 — 05月05日13:03'
+descriptionEn: "Daily UFO/UAP News \u2014 \\\"2026-05-05T05:03:50Z\\\" \ud83d\udcf0 Today''''s Headlines - \\\"Trump whistleblower: Pentagon to release UFO files; whistleblowers testify cover-up;\u2026"
+titleEn: "🛸 UFO/UAP 快訊 — 05月05日13:03"
 description: "Trump whistleblower: Pentagon to release UFO files; whistleblowers testify cover-up; scientist disappearances trigger FBI investigation"
 pubDate: "2026-05-05T05:03:50Z"
 tags: ["UFO", "UAP", "news", "auto-update"]

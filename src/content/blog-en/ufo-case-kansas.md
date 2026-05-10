@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 1965 Kansas Crash — The Mysterious Burning Debris Storm"
+descriptionEn: "📍 Multiple towns in Kansas, USA 📅 August 2, 1965 🔍 Debris fall, military封锁 On August 2, 1965, hundreds of residents in Kansas and Nebraska witnessed pieces…"
+titleEn: "🌾 The Kansas UFO Sightings (2022) — Mass Sighting Over the Plains"
 description: "UFO/UAP news and case coverage"
-titleEn: '🌾 The Kansas UFO Sightings (2022) — Mass Sighting Over the Plains'
-
-pubDate: '2022-07-01'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-07-01"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Multiple towns in Kansas, USA**
 > 📅 **August 2, 1965**
 > 🔍 **Debris fall, military封锁**

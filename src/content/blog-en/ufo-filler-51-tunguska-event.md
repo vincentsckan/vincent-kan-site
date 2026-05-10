@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1908 Tunguska Event: Meteorite or UFO Crash?"
+descriptionEn: "On the morning of June 30, 1908, a cataclysmic explosion occurred above the Tunguska River in Siberia. The blast''''s power was estimated to be equivalent to\u2026"
+titleEn: "1908 Tunguska Event: Asteroid or UFO Crash?"
 description: "UFO/UAP news and case coverage"
-titleEn: '1908 Tunguska Event: Asteroid or UFO Crash?'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "mystery"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 On the morning of June 30, 1908, a cataclysmic explosion occurred above the Tunguska River in Siberia. The blast's power was estimated to be equivalent to 10 to 15 million tons of TNT—about 1,000 times more powerful than the Hiroshima atomic bomb. The shockwave swept across over 2,000 square kilometers of taiga, flattening approximately 80 million trees.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

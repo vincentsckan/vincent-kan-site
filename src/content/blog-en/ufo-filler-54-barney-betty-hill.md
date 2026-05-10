@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1961 Barney & Betty Hill Abduction: A Classic Case"
+descriptionEn: "On the evening of September 19, 1961, Barney Hill and Betty Hill drove from Montreal, Canada, back to their home in Portsmouth, New Hampshire, USA. As they…"
+titleEn: "The Betty and Barney Hill Abduction: The First Famous Alien Abduction Case"
 description: "UFO/UAP news and case coverage"
-titleEn: 'The Betty and Barney Hill Abduction: The First Famous Alien Abduction Case'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "abduction"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 On the evening of September 19, 1961, Barney Hill and Betty Hill drove from Montreal, Canada, back to their home in Portsmouth, New Hampshire, USA. As they passed through the White Mountains near Lancaster, they suddenly spotted a strange glowing object in the sky following their car.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "🛸 Global UFO/UAP News Digest — April 28, 2026"
+descriptionEn: "📡 Daily UAP News Digest — April 28, 2026 (Tuesday・Midday Update｜Late Night Addition: FBI Officially Leads Investigation) AI-automated collection,…"
+titleEn: "🛸 Global UFO/UAP News Roundup — April 28, 2026"
 description: "UFO/UAP news and case coverage"
-titleEn: '🛸 Global UFO/UAP News Roundup — April 28, 2026'
-
-pubDate: '2026-04-28'
-updatedDate: '2026-04-28T12:00+08:00'
-heroImage: '../../assets/blog-placeholder-2.jpg'
-
-
-
+pubDate: "2026-04-28"
+updatedDate: "2026-04-28T12:00+08:00"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 ---
+
 > 📡 **Daily UAP News Digest** — April 28, 2026 (Tuesday・Midday Update｜Late Night Addition: FBI Officially Leads Investigation)
 > AI-automated collection, organization, and formatting, focusing on authoritative sources and key developments
 

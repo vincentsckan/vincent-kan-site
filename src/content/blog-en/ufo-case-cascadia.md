@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 The Cascadia UAP Incident — U.S. Coast Guard Sighting (2015)"
+descriptionEn: "📍 Alaska, Cascadia Coast 📅 2015 🔍 Military thermal imaging, radar confirmation During a patrol mission off the coast of Alaska, the crew of a U.S. Coast…"
+titleEn: "🌲 The Cascadia Subduction Zone — Could UFOs Predict Earthquakes?"
 description: "UFO/UAP news and case coverage"
-titleEn: '🌲 The Cascadia Subduction Zone — Could UFOs Predict Earthquakes?'
-
-pubDate: '2022-06-15'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-06-15"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Alaska, Cascadia Coast**
 > 📅 **2015**
 > 🔍 **Military thermal imaging, radar confirmation**

@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 Westall Primary Mass Sighting — Australia (1966)"
+descriptionEn: "📍 Melbourne, Australia – Westall Primary School 📅 6 April 1966 🔍 Mass Sighting, School Gag Order On the afternoon of 6 April 1966, students and teachers at…"
+titleEn: "\ud83c\udfeb The Westall UFO Incident \u2014 Australia''''s Largest Mass Sighting (1966, Melbourne)"
 description: "UFO/UAP news and case coverage"
-titleEn: '🏫 The Westall UFO Incident — Australia''s Largest Mass Sighting (1966, Melbourne)'
-
-pubDate: '2022-06-25'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-06-25"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Melbourne, Australia – Westall Primary School**
 > 📅 **6 April 1966**
 > 🔍 **Mass Sighting, School Gag Order**

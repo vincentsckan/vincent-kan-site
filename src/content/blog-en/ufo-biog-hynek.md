@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🧑‍🔬 Dr. J. Allen Hynek — Father of UFO Research (1910-1986)"
+descriptionEn: "📍 USA 📅 1910-1986 🔍 Biography, Scientific Research Josef Allen Hynek is one of the most important figures in the history of UFO research. Originally an…"
+titleEn: "🔬 Dr. J. Allen Hynek — The Astronomer Who Went from UFO Skeptic to Pioneer"
 description: "UFO/UAP news and case coverage"
-titleEn: '🔬 Dr. J. Allen Hynek — The Astronomer Who Went from UFO Skeptic to Pioneer'
-
-pubDate: '2022-10-05'
-heroImage: '../../assets/blog-placeholder-4.jpg'
-
-
-
+pubDate: "2022-10-05"
+heroImage: "../../assets/blog-placeholder-4.jpg"
 ---
+
 > 📍 **USA** | 📅 **1910-1986** | 🔍 **Biography, Scientific Research**
 
 **Josef Allen Hynek** is one of the most important figures in the history of UFO research. Originally an astronomer, he was hired by the U.S. Air Force to serve as a scientific consultant for Project Blue Book.

@@ -1,10 +1,10 @@
 ---
 title: "🛸 Global UFO/UAP News Digest — 2026-05-04"
-titleEn: '🛸 Global UFO/UAP News Digest — 2026-05-04'
-description: "Today's UFO/UAP news summary: US Congressional hearing follow-ups, global sighting reports, government file declassification progress"
-pubDate: 2026-05-04T16:05:25Z
-updatedDate: 2026-05-04T16:05:25Z
-
+descriptionEn: "Daily Update: Latest developments in the global UFO/UAP disclosure movement. This page is updated automatically every day. \ud83d\udcf0 Today''''s Headlines -\u2026"
+titleEn: "🛸 Global UFO/UAP News Digest — 2026-05-04"
+description: "Today''s UFO/UAP news summary: US Congressional hearing follow-ups, global sighting reports, government file declassification progress"
+pubDate: "2026-05-04T16:05:25Z"
+updatedDate: "2026-05-04T16:05:25Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
 ---
 

@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🧠 UAP Propulsion Systems — How Might Tic Tac Anti-Gravity Tech Work?"
+descriptionEn: "📚 UAP Scientific Research 🔍 Propulsion System Theory Limitations of Human Technology Currently, the fastest human-made aircraft (X-43A) reaches speeds of…"
+titleEn: "🔬 How Do UFOs Fly? Theoretical Propulsion and Anti-Gravity"
 description: "UFO/UAP news and case coverage"
-titleEn: '🔬 How Do UFOs Fly? Theoretical Propulsion and Anti-Gravity'
-
-pubDate: '2023-02-01'
-heroImage: '../../assets/blog-placeholder-3.jpg'
-
-
-
+pubDate: "2023-02-01"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
+
 > 📚 **UAP Scientific Research** | 🔍 **Propulsion System Theory**
 
 ## Limitations of Human Technology

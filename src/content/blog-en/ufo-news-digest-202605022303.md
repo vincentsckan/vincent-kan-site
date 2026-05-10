@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 UFO/UAP News Flash — '
+descriptionEn: "Tracking global UFO/UAP updates every hour! This week''''s highlights: NUFORC''''s newly released 1967 Cold War radar mystery high-speed UFO case, and the\u2026"
+titleEn: "🛸 UFO/UAP News Flash — "
 description: "UFO/UAP news and case coverage"
-
+pubDate: "2026-05-02T23:03:00.000Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-pubDate: 2026-05-02T23:03:00.000Z
-
-
-
 ---
+
 > Tracking global UFO/UAP updates every hour! This week's highlights: NUFORC's newly released 1967 Cold War radar mystery high-speed UFO case, and the earthquake swarm near Area 51 sparking speculation about secret alien tests. **The more videos, the better—let's dive in!** 🚀
 
 ---

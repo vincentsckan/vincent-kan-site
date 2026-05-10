@@ -1,11 +1,13 @@
 ---
-title: '🛸 Global UFO/UAP News Digest — 2026-05-07'
-description: '· House Oversight Committee plans mid-July UFO hearing· Pentagon''s AARO releases new annual report with 144 cases· Brazil military declassifies 1977 Colares UFO incident files· Japan''s Defense Ministr'
-pubDate: '2026-05-07'
-updatedDate: '2026-05-07T08:00+08:00'
-heroImage: '../../assets/blog-placeholder-2.jpg'
-tags: ['UFO', 'UAP', 'Government Disclosure', 'Pentagon', 'Congress', 'Brazil', 'Japan', 'Scientific Study', 'Whistleblower', 'Military Encounters']
+title: "🛸 Global UFO/UAP News Digest — 2026-05-07"
+descriptionEn: "📡 Daily UAP News Digest — 2026-05-07 Curated, organized, and formatted by AI, focusing on authoritative sources and major developments. US Congress &…"
+description: "UFO/UAP news coverage: 🛸 Global UFO/UAP News Digest — 2026-05-07"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07T08:00+08:00"
+heroImage: "../../assets/blog-placeholder-2.jpg"
+tags: ["UFO", "UAP", "Government Disclosure", "Pentagon", "Congress", "Brazil", "Japan", "Scientific Study", "Whistleblower", "Military Encounters"]
 ---
+
 > 📡 **Daily UAP News Digest** — 2026-05-07
 > Curated, organized, and formatted by AI, focusing on authoritative sources and major developments.
 

@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 Lubbock Lights — Mysterious V-Shaped Formations Over Texas (1951)"
+descriptionEn: "📍 Lubbock, Texas, USA 📅 August 25, 1951 🔍 Scientist Sighting, Photographic Evidence, Unexplained by Blue Book In August 1951, three electrical engineering…"
+titleEn: "💡 The Lubbock Lights — A Mass Sighting That Shocked America (1951, Texas)"
 description: "UFO/UAP news and case coverage"
-titleEn: '💡 The Lubbock Lights — A Mass Sighting That Shocked America (1951, Texas)'
-
-pubDate: '2023-05-15'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2023-05-15"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Lubbock, Texas, USA**
 > 📅 **August 25, 1951**
 > 🔍 **Scientist Sighting, Photographic Evidence, Unexplained by Blue Book**

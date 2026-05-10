@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News — May 4, Afternoon"
-titleEn: '🛸 UFO/UAP News Digest — May 4, 2026'
+descriptionEn: "Afternoon update: The public portion of the hearing has adjourned. A classified briefing is now underway. Key takeaways from Day 1 include bipartisan…"
+titleEn: "🛸 UFO/UAP News Digest — May 4, 2026"
 description: "Hearing afternoon session · Classified briefing underway · Key takeaways from Day 1 · What comes next"
-pubDate: 2026-05-04T06:00:00.000Z
-updatedDate: 2026-05-04T06:00:00.000Z
-heroImage: ../../assets/blog-placeholder-2.jpg
+pubDate: "2026-05-04T06:00:00.000Z"
+updatedDate: "2026-05-04T06:00:00.000Z"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
 
 > **Afternoon update:** The public portion of the hearing has adjourned. A classified briefing is now underway. Key takeaways from Day 1 include bipartisan support for transparency and new details on AARO operations. What comes next in the disclosure process.

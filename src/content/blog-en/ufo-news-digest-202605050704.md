@@ -1,6 +1,7 @@
 ---
 title: "🛸 UFO/UAP News Flash — May 5, 15:04"
-titleEn: '🛸 UFO/UAP 快訊 — 05月05日15:04'
+descriptionEn: "Daily UFO/UAP News \u2014 \\\"2026-05-05T07:04:00Z\\\" \ud83d\udcf0 Today''''s Headlines - \\\"Trump previews new UFO files; Corbell warns of mysterious craft; Congresswoman\u2026"
+titleEn: "🛸 UFO/UAP 快訊 — 05月05日15:04"
 description: "Trump previews new UFO files; Corbell warns of mysterious craft; Congresswoman demands 46 UAP videos, promises non-human origin evidence"
 pubDate: "2026-05-05T07:04:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]

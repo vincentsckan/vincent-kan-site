@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "🧠 CIA Remote Viewing Program Stargate & UFOs — Psychic Abilities and Alien Intelligence"
+descriptionEn: "If I told you that the U.S. Central Intelligence Agency (CIA) spent over 20 years and millions of dollars researching a group of people who claimed they…"
+titleEn: "\ud83e\udde0 Project Stargate \u2014 The CIA''''s Psychic Remote Viewing Program"
 description: "UFO/UAP news and case coverage"
-titleEn: '🧠 Project Stargate — The CIA''s Psychic Remote Viewing Program'
-
-pubDate: '2026-04-28'
+pubDate: "2026-04-28"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-heroImage: '../../assets/blog-placeholder-3.jpg'
-
-
-
 ---
+
 If I told you that the U.S. Central Intelligence Agency (CIA) spent **over 20 years** and millions of dollars researching a group of people who claimed they could use "telepathy" to see things thousands of kilometers away, would you think they were crazy?
 
 But this isn't a science fiction plot; it's something that really happened—**Project Stargate**.

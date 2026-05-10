@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-03"
-titleEn: '🛸 UFO/UAP News Flash — 5月3日21:03'
+descriptionEn: "🔔 Breaking UFO/UAP News — Evening of Sunday, May 3, 2026 AI-automated collection, organization, and formatting, focusing on the latest authoritative sources…"
+titleEn: "🛸 UFO/UAP News Flash — 5月3日21:03"
 description: "UFO/UAP news and case coverage"
-
-pubDate: '2026-05-03T13:03:00Z'
+pubDate: "2026-05-03T13:03:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > 🔔 **Breaking UFO/UAP News** — Evening of Sunday, May 3, 2026
 > AI-automated collection, organization, and formatting, focusing on the latest authoritative sources
 

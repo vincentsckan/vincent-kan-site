@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1975 Loring AFB: UFO Flies Over Nuclear Weapons Storage"
+descriptionEn: "On October 28, 1975, an incident occurred at Loring Air Force Base in Maine, USA, that greatly alarmed the top brass of the U.S. Air Force—an unidentified…"
+titleEn: "1975 Loring AFB Incident: UFO Over Nuclear Weapons Storage"
 description: "UFO/UAP news and case coverage"
-titleEn: '1975 Loring AFB Incident: UFO Over Nuclear Weapons Storage'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "nuclear-connection"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 On October 28, 1975, an incident occurred at Loring Air Force Base in Maine, USA, that greatly alarmed the top brass of the U.S. Air Force—an unidentified flying object directly overflew the base's nuclear weapons storage area. This nuclear weapons storage facility was one of the most sensitive installations of the U.S. Air Force.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

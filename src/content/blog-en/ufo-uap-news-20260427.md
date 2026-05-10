@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "🛸 Global UFO/UAP News Digest — April 27, 2026"
+descriptionEn: "📡 Daily UAP News Digest — April 27, 2026 (Monday) Automatically collected, organized, and formatted by AI, focusing on authoritative sources and key…"
+titleEn: "🛸 Global UFO/UAP News Roundup — April 27, 2026"
 description: "UFO/UAP news and case coverage"
-titleEn: '🛸 Global UFO/UAP News Roundup — April 27, 2026'
-
-pubDate: '2026-04-27'
-updatedDate: '2026-04-27'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2026-04-27"
+updatedDate: "2026-04-27"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📡 **Daily UAP News Digest** — April 27, 2026 (Monday)
 > Automatically collected, organized, and formatted by AI, focusing on authoritative sources and key developments
 

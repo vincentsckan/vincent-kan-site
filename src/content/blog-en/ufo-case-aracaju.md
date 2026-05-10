@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 The Aracaju Incident — Brazilian Military UFO Chase (1977)"
+descriptionEn: "📍 Pará State, Brazil, Aracaju 📅 1977 🔍 Military Investigation, Beam Attacks In 1977, a series of strange events occurred in the area surrounding the…"
+titleEn: "\ud83d\udef8 The Aracaju Incident \u2014 Brazil Military''''s UFO Chase (1977)"
 description: "UFO/UAP news and case coverage"
-titleEn: '🛸 The Aracaju Incident — Brazil Military''s UFO Chase (1977)'
-
-pubDate: '2022-06-01'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-06-01"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Pará State, Brazil, Aracaju**
 > 📅 **1977**
 > 🔍 **Military Investigation, Beam Attacks**

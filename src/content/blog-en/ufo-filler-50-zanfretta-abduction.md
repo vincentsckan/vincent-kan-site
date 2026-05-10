@@ -1,18 +1,13 @@
 ---
-
-
-
-title: "The Zanfretta Abduction: Italy's Most Detailed Alien Encounter"
+title: "\\\"The Zanfretta Abduction: Italy''"
+descriptionEn: "On the night of December 6, 1978, in the northern Italian city of Marzano, night watchman Fortunato Zanfretta received a strange distress call—but no…"
+titleEn: "The Zanfretta Abductions: Italy''''s Most Documented Alien Contact"
 description: "UFO/UAP news and case coverage"
-titleEn: 'The Zanfretta Abductions: Italy''s Most Documented Alien Contact'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "abduction"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 On the night of December 6, 1978, in the northern Italian city of Marzano, night watchman Fortunato Zanfretta received a strange distress call—but no one spoke on the other end, only eerie breathing sounds. He decided to drive out for a patrol, and that decision changed his life forever.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

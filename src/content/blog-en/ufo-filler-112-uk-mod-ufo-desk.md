@@ -1,18 +1,13 @@
 ---
-
-
-
-title: "UK Ministry of Defence UFO Desk: The World's Most Transparent Gov't UFO Dept"
+title: "UK Ministry of Defence UFO Desk"
+descriptionEn: "Before 2009 the UK Ministry of Defence had a dedicated UFO Desk for handling reports managed by DI55"
+titleEn: "UK Ministry of Defence UFO Desk: The Most Transparent Government UFO Office"
 description: "UFO/UAP news and case coverage"
-titleEn: 'UK Ministry of Defence UFO Desk: The Most Transparent Government UFO Office'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "government-agency"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 Before 2009, the UK Ministry of Defence (MoD) had a dedicated office for handling UFO reports—known as the "UFO Desk." This office was managed by the DI55 branch of the Defence Intelligence Staff and received hundreds of sighting reports each year, including those from military personnel.
 
 The government announced in 2008 that the UFO Desk would be closed in 2009, citing that "investigations over the past 50 years have found no national security threats." However, that same year, over 600 UFO reports poured in—some from Air Force pilots and radar operators. All files began to be released in batches through The National Archives starting in 2013, totaling over 52,000 pages.

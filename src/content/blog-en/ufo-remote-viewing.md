@@ -1,17 +1,12 @@
 ---
-
-
-
-title: "🧠 Remote Viewing — The CIA's Secret Program to Find UFOs with Psychic Powers"
+title: "\\\"\ud83e\udde0 Remote Viewing \u2014 The CIA''"
+descriptionEn: "📚 UAP Glossary 🔍 Remote Viewing What is Remote Viewing? Remote Viewing is a controversial ability that claims individuals can perceive distant or…"
+titleEn: "\ud83e\udde0 Remote Viewing \u2014 The CIA''''s Psychic Spy Program That Targeted UFOs"
 description: "UFO/UAP news and case coverage"
-titleEn: '🧠 Remote Viewing — The CIA''s Psychic Spy Program That Targeted UFOs'
-
-pubDate: '2022-12-25'
-heroImage: '../../assets/blog-placeholder-4.jpg'
-
-
-
+pubDate: "2022-12-25"
+heroImage: "../../assets/blog-placeholder-4.jpg"
 ---
+
 > 📚 **UAP Glossary** | 🔍 **Remote Viewing**
 
 ## What is Remote Viewing?

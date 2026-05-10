@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-03"
-titleEn: '🛸 UFO/UAP News Flash — 05月03日08:03'
+descriptionEn: "Another new day! UFO news never stops! This time''''s briefing includes a giant spaceship on the moon, a suspected creature on Mars, strange fireballs over\u2026"
+titleEn: "🛸 UFO/UAP News Flash — 05月03日08:03"
 description: "UFO/UAP news and case coverage"
-
 pubDate: "2026-05-03T00:03:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > Another new day! UFO news never stops! This time's briefing includes a giant spaceship on the moon, a suspected creature on Mars, strange fireballs over Italy, and a massive flying object near the sun... The more you look, the more it feels like it's not just a "natural phenomenon"! 🤯
 
 ---

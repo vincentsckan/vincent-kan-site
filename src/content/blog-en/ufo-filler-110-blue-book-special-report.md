@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "Project Blue Book Special Report No. 14: The Air Force Statistical Analysis"
+descriptionEn: "In 1955, the U.S. Air Force Technical Intelligence Center released a several-hundred-page document titled \\\"Project Blue Book Special Report No. 14.\\\" This\u2026"
+titleEn: "Blue Book Special Report 14: The Air Force Statistical Analysis"
 description: "UFO/UAP news and case coverage"
-titleEn: 'Blue Book Special Report 14: The Air Force Statistical Analysis'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "government-analysis"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 In 1955, the U.S. Air Force Technical Intelligence Center released a several-hundred-page document titled "Project Blue Book Special Report No. 14." This report was analyzed by scientists at the Battelle Memorial Institute, who examined over 3,200 UFO reports.
 
 The conclusion was quite contradictory: although the report stated that most cases had explanations, it simultaneously acknowledged that the cases in the "unexplained" category—approximately 22%—were of higher quality, with more witnesses and physical evidence. Statistical analysis further showed that the "quality/credibility ratings" of these unexplained cases were higher than those of cases attributed to known phenomena.

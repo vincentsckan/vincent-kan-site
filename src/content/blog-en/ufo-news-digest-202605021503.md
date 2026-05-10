@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 UFO/UAP News Flash — 05月02日23:03'
+descriptionEn: "Back with another daily UFO/UAP news flash! Today''''s news is packed\u2014Area 51 earthquake swarm, a congressman''''s leak about a giant overseas UFO, the\u2026"
+titleEn: "🛸 UFO/UAP News Flash — 05月02日23:03"
 description: "UFO/UAP news and case coverage"
-
 pubDate: "2026-05-02T15:03:00.000Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > Back with another daily UFO/UAP news flash! Today's news is packed—Area 51 earthquake swarm, a congressman's leak about a giant overseas UFO, the MKUltra hearing, and the investigation deadline for the missing scientists case. All of it is intricately linked to the UFO/UAP world! 👽
 
 ---

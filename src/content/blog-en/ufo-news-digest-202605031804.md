@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-03"
-titleEn: '🛸 UFO/UAP News Flash — 05月04日02:04'
+descriptionEn: "Trumps at it again! The Pentagon is preparing to release very interesting classified UFO files. At the same time, the Gimbal incident remains unsolved,\u2026''s\u2026"
+titleEn: "🛸 UFO/UAP News Flash — 05月04日02:04"
 description: "UFO/UAP news and case coverage"
-
 pubDate: "2026-05-03T18:04:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > Trump's at it again! The Pentagon is preparing to release "very interesting" classified UFO files. At the same time, the Gimbal incident remains unsolved, plus a NASA engineer's mysterious death, and a giant fireball appearing over the Pacific Northwest — today's UFO news, all in one go for you!
 
 ---

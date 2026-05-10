@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 UFO/UAP News Flash — 5月02日14:03'
+descriptionEn: "Latest UFO/UAP International News All in One! Trump''''s Latest Statement, Congressional News, Area 51 Earthquake Swarm, Former Pentagon Official''''s\u2026"
+titleEn: "🛸 UFO/UAP News Flash — 5月02日14:03"
 description: "UFO/UAP news and case coverage"
-
-pubDate: '2026-05-02T14:03:00Z'
+pubDate: "2026-05-02T14:03:00Z"
+heroImage: "../../assets/blog-placeholder-4.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-heroImage: '../../assets/blog-placeholder-4.jpg'
-
-
-
 ---
+
 > Latest UFO/UAP International News All in One! Trump's Latest Statement, Congressional News, Area 51 Earthquake Swarm, Former Pentagon Official's Leaks — All Covered!
 
 ---

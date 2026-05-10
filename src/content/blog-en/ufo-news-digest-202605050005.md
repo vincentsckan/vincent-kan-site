@@ -1,6 +1,7 @@
 ---
 title: "🛸 UFO/UAP News Flash — May 5, 08:05"
-titleEn: '🛸 UFO/UAP News Flash — May 5, 08:05'
+descriptionEn: "Daily UFO/UAP tracking 🌍 Trump declassification progress, aliens noticing Earth, Disclosure Day scenarios 🇺🇸 Trump UFO Declassification Space.com: Trump…"
+titleEn: "🛸 UFO/UAP News Flash — May 5, 08:05"
 description: "Trump promises UFO file declassification | Scientists: aliens may have already noticed Earth | How would Earth react if ET formally contacted humanity?"
 pubDate: "2026-05-05T00:05:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]

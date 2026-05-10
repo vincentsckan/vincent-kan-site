@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 Japan Airlines Flight 1628 UFO Incident (1986)"
+descriptionEn: "📍 Alaska, USA - Airspace 📅 November 17, 1986 🔍 Reported by Commercial Airline Pilot, Confirmed by FAA Radar Japan Airlines (JAL) Flight 1628 was a Boeing…"
+titleEn: "🛸 Japan Airlines Flight 1628 — When a 747 Was Followed by a Giant UFO (1986, Alaska)"
 description: "UFO/UAP news and case coverage"
-titleEn: '🛸 Japan Airlines Flight 1628 — When a 747 Was Followed by a Giant UFO (1986, Alaska)'
-
-pubDate: '2022-09-15'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-09-15"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Alaska, USA - Airspace**
 > 📅 **November 17, 1986**
 > 🔍 **Reported by Commercial Airline Pilot, Confirmed by FAA Radar**

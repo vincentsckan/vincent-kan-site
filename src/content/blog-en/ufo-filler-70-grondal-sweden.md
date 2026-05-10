@@ -1,18 +1,13 @@
 ---
-
-
-
-title: "Sweden's Gröndal: Military Radar Tracks UFOs for Years"
+title: "\\\"Sweden''"
+descriptionEn: "In the 1970s, the Gröndal military radar station in the Jämtland region of northern Sweden recorded a series of highly unusual radar contact events.…"
+titleEn: "Swedish Gröndal Incident: Military Radar Tracked UFOs for Years"
 description: "UFO/UAP news and case coverage"
-titleEn: 'Swedish Gröndal Incident: Military Radar Tracked UFOs for Years'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "military-radar"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 In the 1970s, the Gröndal military radar station in the Jämtland region of northern Sweden recorded a series of highly unusual radar contact events. Local military personnel reported that their radar frequently locked onto unidentified objects flying at speeds exceeding Mach 10 (ten times the speed of sound)—a velocity far beyond any known man-made aircraft at the time.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

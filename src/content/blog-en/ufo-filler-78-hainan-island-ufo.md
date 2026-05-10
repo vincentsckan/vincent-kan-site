@@ -1,18 +1,13 @@
 ---
-
-
-
-title: "Hainan Island UFO: China's Southern Radar Locks onto Unknown Targets"
+title: "\\\"Hainan Island UFO: China''"
+descriptionEn: "As a strategic location in the South China Sea, Hainan Island is equipped with multiple military radar stations. From the 1990s to the early 2000s,…"
+titleEn: "Hainan Island Radar UFOs: Chinese Military Tracked Anomalous Targets"
 description: "UFO/UAP news and case coverage"
-titleEn: 'Hainan Island Radar UFOs: Chinese Military Tracked Anomalous Targets'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "asia"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 As a strategic location in the South China Sea, Hainan Island is equipped with multiple military radar stations. From the 1990s to the early 2000s, these stations repeatedly recorded unexplained aerial targets—objects with extreme flight performance far exceeding any known human aircraft.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

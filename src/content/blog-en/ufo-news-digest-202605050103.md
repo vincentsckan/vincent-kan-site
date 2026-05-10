@@ -1,7 +1,8 @@
 ---
 title: "🛸 UFO/UAP News Flash — May 5, 09:03"
-titleEn: '🛸 UFO/UAP News Flash — May 5, 09:03'
-description: "Mars photos may show biological traces, NASA sun satellite captures 7-mile giant UFO, Google Maps reveals reptilian face in Antarctica, Project Serpo uncovered"
+descriptionEn: "Mars biological traces, 7-mile UFO past Sun, reptilian face in Antarctica, Project Serpo 🔥 Mars: Possible Animal Found Scott Waring found suspected…"
+titleEn: "🛸 UFO/UAP News Flash — May 5, 09:03"
+description: "Mars photos may show biological traces, NASA sun satellite captures 7-mile giant UFO, Google Maps reveals reptilian face in Antarctica, Project Serpo…"
 pubDate: "2026-05-05T01:03:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
 ---

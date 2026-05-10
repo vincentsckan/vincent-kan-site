@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 UFO/UAP News Flash — 05月03日02:03'
+descriptionEn: "Dont worry about whether its real or not, the most important thing is that theres something to watch \ud83d\udc7d Todays UFO/UAP news all in one place, plus a ton\u2026''t\u2026"
+titleEn: "🛸 UFO/UAP News Flash — 05月03日02:03"
 description: "UFO/UAP news and case coverage"
-
 pubDate: "2026-05-02T18:03:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > Don't worry about whether it's real or not, the most important thing is that there's something to watch 👽 Today's UFO/UAP news all in one place, plus a ton of videos waiting for you!
 
 ---

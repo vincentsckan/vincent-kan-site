@@ -1,15 +1,12 @@
 ---
-
-
 title: "🛸 UFO/UAP News — May 4, 16:00"
-titleEn: '🛸 UFO/UAP News Digest — May 4, 2026'
-description: '"2026 UFO hearing opening statements · Live from Capitol Hill · Burlison, Luna, Grothman lead the charge'
-pubDate: 2026-05-04T08:00:00.000Z
-updatedDate: 2026-05-04T08:00:00.000Z
-heroImage: ../../assets/blog-placeholder-2.jpg
+descriptionEn: "BREAKING: The 2026 U.S. Congressional UFO/UAP Hearing is now live! Burlison, Luna, and Grothman deliver opening statements. Watch live coverage here. 🔴…"
+titleEn: "🛸 UFO/UAP News Digest — May 4, 2026"
+description: "\\\"2026 UFO hearing opening statements \u00b7 Live from Capitol Hill \u00b7 Burlison, Luna, Grothman lead the charge"
+pubDate: "2026-05-04T08:00:00.000Z"
+updatedDate: "2026-05-04T08:00:00.000Z"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
 ---
 
 > **BREAKING: The 2026 U.S. Congressional UFO/UAP Hearing is now live!** Reps. **Burlison**, **Luna**, and **Grothman** deliver opening statements. Watch live coverage here.

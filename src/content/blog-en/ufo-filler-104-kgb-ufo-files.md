@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "Soviet KGB UFO Files: Secret Cold War UFO Investigations"
+descriptionEn: "After the collapse of the Soviet Union, a large number of former KGB UFO files were exposed. These documents reveal the Soviet Union''''s high level of\u2026"
+titleEn: "Soviet KGB UFO Files: Cold War Secrets Revealed"
 description: "UFO/UAP news and case coverage"
-titleEn: 'Soviet KGB UFO Files: Cold War Secrets Revealed'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "government-files"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 After the collapse of the Soviet Union, a large number of former KGB UFO files were exposed. These documents reveal the Soviet Union's high level of attention to UFO phenomena during the Cold War—a country mistakenly believed by the West to have "no UFO problem" actually possessed an extremely rich collection of UFO archives.
 
 The KGB's special files include: incidents of UFOs flying over nuclear missile bases (the 1982 Pervomaisk incident in Ukraine), records of fighter jets scrambled to intercept UFOs but unable to approach, cases where military and civilian radars simultaneously locked onto targets, and even documents about alleged UFO crash retrievals.

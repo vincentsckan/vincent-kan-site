@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1974 Coyame Incident: UFO Crash and Secret US Recovery"
+descriptionEn: "On August 25, 1974, a series of bizarre events occurred in the Coyame desert region of Chihuahua, northern Mexico — an unidentified flying object was…"
+titleEn: "The 1974 Coyame Incident: UFO Crash & US Military Recovery in Mexico"
 description: "UFO/UAP news and case coverage"
-titleEn: 'The 1974 Coyame Incident: UFO Crash & US Military Recovery in Mexico'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "crash-military"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 On August 25, 1974, a series of bizarre events occurred in the Coyame desert region of Chihuahua, northern Mexico — an unidentified flying object was reportedly crashed, followed by the disappearance of a small Mexican aircraft in the same area. The UFO research community has long believed that this incident involved a secret recovery operation by the U.S. military.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

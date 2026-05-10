@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 UFO/UAP News Flash — 05月02日18:03'
+descriptionEn: "🎥 UFO Video Roundup! Today we focus on the hottest trending videos in the YouTube UFO community, from the latest uploads and leaks to classic rewatches,…"
+titleEn: "🛸 UFO/UAP News Flash — 05月02日18:03"
 description: "UFO/UAP news and case coverage"
-
-pubDate: '2026-05-02T10:03:00Z'
+pubDate: "2026-05-02T10:03:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > 🎥 **UFO Video Roundup!** Today we focus on the hottest trending videos in the YouTube UFO community, from the latest uploads and leaks to classic rewatches, compiling the must-see content for you.
 
 | 📍 *Global Trending UFO Video Selection* | 📅 *May 2, 2026* | 🔍 *Video Highlights & Trivia* |

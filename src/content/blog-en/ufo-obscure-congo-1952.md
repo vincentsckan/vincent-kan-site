@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "🇨🇩 1952 CIA Classified Report: Fireball UFOs Over Belgian Congo Uranium Mines"
+descriptionEn: "When talking about 1950s UFOs, most people only think of Roswell and the U.S. But on the other side of the world, in the African continent, an even stranger…"
+titleEn: "🧑‍🚀 The Congo UFO Case (1952) — The Strangest Encounter in African History"
 description: "UFO/UAP news and case coverage"
-titleEn: '🧑‍🚀 The Congo UFO Case (1952) — The Strangest Encounter in African History'
-
-pubDate: '2026-04-28'
+pubDate: "2026-04-28"
+heroImage: "../../assets/blog-placeholder-4.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-heroImage: '../../assets/blog-placeholder-4.jpg'
-
-
-
 ---
+
 When talking about 1950s UFOs, most people only think of Roswell and the U.S. Air Force. But on the other side of the world, in the African continent, an even stranger UFO incident occurred, backed by CIA documents—one that most UFO enthusiasts have never heard of!
 
 In 1952, at the height of the Cold War, the U.S. and the Soviet Union were frantically building atomic bombs. A key raw material for these bombs—uranium—came largely from the **Belgian Congo** (present-day Democratic Republic of the Congo). It was precisely over these uranium mines that declassified CIA documents recorded glowing disc-shaped objects appearing, with a pilot even chasing them and drawing a hand-drawn flight path map!

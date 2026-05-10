@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1942 Battle of Los Angeles: The Military Shells a UFO"
+descriptionEn: "At 2:25 AM on February 25, 1942, just three months after the attack on Pearl Harbor, the city of Los Angeles was suddenly plunged into war panic. Radar…"
+titleEn: "The Battle of Los Angeles: WWII US Military Fired on UFOs"
 description: "UFO/UAP news and case coverage"
-titleEn: 'The Battle of Los Angeles: WWII US Military Fired on UFOs'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "military"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 At 2:25 AM on February 25, 1942, just three months after the attack on Pearl Harbor, the city of Los Angeles was suddenly plunged into war panic. Radar detected an "unidentified object" moving approximately 8 kilometers above Santa Monica, prompting the U.S. military to activate a full-scale air raid alert.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

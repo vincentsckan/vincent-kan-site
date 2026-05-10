@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 Pentagon UAP Programs — From AATIP to AARO"
+descriptionEn: "📍 Case Focus: U.S. Department of Defense 📅 Timeline: 2007 — Present 🔍 Category: Government Disclosure / Policy Analysis Starting Point: The AATIP Era"
+titleEn: "🏛️ How the US Government Investigates UFOs — From Blue Book to AARO"
 description: "UFO/UAP news and case coverage"
-titleEn: '🏛️ How the US Government Investigates UFOs — From Blue Book to AARO'
-
-pubDate: '2022-03-15'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-03-15"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Case Focus**: U.S. Department of Defense
 > 📅 **Timeline**: 2007 — Present
 > 🔍 **Category**: Government Disclosure / Policy Analysis

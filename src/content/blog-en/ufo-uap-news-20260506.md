@@ -1,11 +1,13 @@
 ---
-title: '🛸 Global UFO/UAP News Digest — 2026-05-06'
-description: '· House Oversight Committee announces UAP hearing for June 12, 2026· Pentagon AARO reports 40% surge in UAP sightings for May 2026· Brazilian Air Force declassifies 1977 Colares UFO incident files· Ja'
-pubDate: '2026-05-06'
-updatedDate: '2026-05-06T08:00+08:00'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-tags: ['UFO', 'UAP', 'Government Disclosure', 'Congress Hearing', 'AARO', 'Brazil UFO', 'Japan UAP', 'Scientific Paper', 'Breaking News']
+title: "🛸 Global UFO/UAP News Digest — 2026-05-06"
+descriptionEn: "📡 Daily UAP News Digest — 2026-05-06 Curated, organized, and formatted by AI, focusing on authoritative sources and major developments. US Congress &…"
+description: "UFO/UAP news coverage: 🛸 Global UFO/UAP News Digest — 2026-05-06"
+pubDate: "2026-05-06"
+updatedDate: "2026-05-06T08:00+08:00"
+heroImage: "../../assets/blog-placeholder-1.jpg"
+tags: ["UFO", "UAP", "Government Disclosure", "Congress Hearing", "AARO", "Brazil UFO", "Japan UAP", "Scientific Paper", "Breaking News"]
 ---
+
 > 📡 **Daily UAP News Digest** — 2026-05-06
 > Curated, organized, and formatted by AI, focusing on authoritative sources and major developments.
 

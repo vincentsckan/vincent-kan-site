@@ -1,15 +1,11 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-03"
+descriptionEn: "This issue of UFO Express has groundbreaking news: The U.S. government has officially registered the \\\"Aliens.gov\\\" domain, Trump has ordered the FBI to lead\u2026"
 description: "UFO/UAP news and case coverage"
 pubDate: "2026-05-03T21:02:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > This issue of UFO Express has groundbreaking news: The U.S. government has officially registered the "Aliens.gov" domain, Trump has ordered the FBI to lead an investigation into the series of missing scientists, and renowned UFO researcher David Wilcock has sadly passed away. The UFO world is truly in turmoil!
 
 ---

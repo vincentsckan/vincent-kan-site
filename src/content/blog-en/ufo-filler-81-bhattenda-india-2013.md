@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "2013 Bhattenda UAP: Mass Sighting in West Bengal, India"
+descriptionEn: "In September 2013, a small village called Bhattenda in West Bengal, India, suddenly became the focus of local and international media. For several…"
+titleEn: "2013 Bhattenda UAP: Mass Sighting in West Bengal, India"
 description: "UFO/UAP news and case coverage"
-titleEn: '2013 Bhattenda UAP: Mass Sighting in West Bengal, India'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "asia"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 In September 2013, a small village called Bhattenda in West Bengal, India, suddenly became the focus of local and international media. For several consecutive nights, over 10,000 villagers collectively witnessed an unidentified flying object emitting a strong light hovering in the night sky—it was even mistakenly rumored to be a Pakistani spy drone.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🌍 Join the Discussion — Talk UFOs with Enthusiasts Worldwide"
+descriptionEn: "📍 Global UFO Community 📅 2025 🔍 Discussion Board Launched 💬 Welcome to the Discussion! Our discussion board is now officially open! At the bottom of every…"
+titleEn: "🌍 Join the Discussion — Connect with UFO Enthusiasts Worldwide"
 description: "UFO/UAP news and case coverage"
-titleEn: '🌍 Join the Discussion — Connect with UFO Enthusiasts Worldwide'
-
-pubDate: '2025-01-01'
-heroImage: '../../assets/blog-placeholder-3.jpg'
-
-
-
+pubDate: "2025-01-01"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
+
 > 📍 **Global UFO Community** | 📅 **2025** | 🔍 **Discussion Board Launched**
 
 ## 💬 Welcome to the Discussion!

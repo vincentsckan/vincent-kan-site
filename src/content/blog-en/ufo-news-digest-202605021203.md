@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 UFO/UAP News Flash — 05月02日20:03'
+descriptionEn: "🛸 UFO/UAP Flash — May 2, 2026 (Saturday) 8:00 PM Catching every UFO news item, big and small, tracking the latest breaking developments 📍 Multiple Locations…"
+titleEn: "🛸 UFO/UAP News Flash — 05月02日20:03"
 description: "UFO/UAP news and case coverage"
-
-pubDate: '2026-05-02T12:03:00Z'
+pubDate: "2026-05-02T12:03:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > 🛸 **UFO/UAP Flash — May 2, 2026 (Saturday) 8:00 PM**
 > Catching every UFO news item, big and small, tracking the latest breaking developments
 

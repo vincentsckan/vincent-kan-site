@@ -1,16 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-03"
+descriptionEn: "🛸 UFO News Flash — May 4, 2026 (Hong Kong Time) Trump Hints at Imminent UFO File Release! Speaker Refuses Hearing, but Disclosure Momentum Continues 📍…"
 description: "UFO/UAP news and case coverage"
-pubDate: '2026-05-03T20:03:00Z'
+pubDate: "2026-05-03T20:03:00Z"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-heroImage: '../../assets/blog-placeholder-3.jpg'
-
-
-
 ---
+
 > 🛸 **UFO News Flash** — May 4, 2026 (Hong Kong Time)  
 > Trump Hints at Imminent UFO File Release! Speaker Refuses Hearing, but Disclosure Momentum Continues
 

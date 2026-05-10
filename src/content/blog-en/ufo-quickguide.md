@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "⚡ UFO/UAP Quick Guide — Essential Basics"
+descriptionEn: "📚 UAP Beginners Guide Master the basics in 3 minutes UFO vs UAP: Whats the Difference? Term Meaning UFO Unidentified Flying Object — Traditional term…"
+titleEn: "\ud83d\ude80 UFO Quick Guide \u2014 A Beginner''''s Introduction to the Phenomenon"
 description: "UFO/UAP news and case coverage"
-titleEn: '🚀 UFO Quick Guide — A Beginner''s Introduction to the Phenomenon'
-
-pubDate: '2022-06-20'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-06-20"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📚 **UAP Beginner's Guide**
 > Master the basics in 3 minutes
 

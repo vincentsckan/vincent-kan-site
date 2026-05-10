@@ -1,18 +1,13 @@
 ---
-
-
-
-title: "French GEPAN/SEPRA: The World's First Gov't UFO Investigation Agency"
+title: "\\\"French GEPAN/SEPRA: The World''"
+descriptionEn: "In 1977, the French National Centre for Space Studies (CNES) established the worlds first government-led UFO investigation agency—GEPAN (Groupe dÉtude…"
+titleEn: "GEPAN/SEPRA: France''''s Pioneering Government UFO Investigation Agency"
 description: "UFO/UAP news and case coverage"
-titleEn: 'GEPAN/SEPRA: France''s Pioneering Government UFO Investigation Agency'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "government-agency"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 In 1977, the French National Centre for Space Studies (CNES) established the world's first government-led UFO investigation agency—GEPAN (Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés). The creation of this agency made France one of the most open countries in the world regarding the UFO phenomenon.
 
 GEPAN was composed of engineers and scientists from CNES, dedicated to collecting and analyzing UFO reports. Their investigative methods were scientifically orthodox—including on-site inspections, physical sample analysis, radar data review, and psychological assessments of witnesses.

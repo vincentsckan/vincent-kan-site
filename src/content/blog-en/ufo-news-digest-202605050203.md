@@ -1,6 +1,7 @@
 ---
 title: "🛸 UFO/UAP News Flash — May 5, 10:03"
-titleEn: '🛸 UFO/UAP News Flash — May 5, 10:03'
+descriptionEn: "Serpo mission deep dive, Mars tortoise creature, 7-mile UFO, Naples lights 1️⃣ 🔥 Serpo Mission: Most Controversial Exchange Program Former AFOSI agent…"
+titleEn: "🛸 UFO/UAP News Flash — May 5, 10:03"
 description: "Serpo mission deep dive, Mars suspected tortoise creature, 7-mile UFO flies past Sun, mysterious lights over Naples Italy"
 pubDate: "2026-05-05T02:03:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]

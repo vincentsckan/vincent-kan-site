@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-03"
-titleEn: '🛸 UFO/UAP News Flash — 05月03日15:03'
+descriptionEn: "Its time for another UFO News Flash! Even though its Sunday, the UFO world never takes a day off. Today we bring several major stories: a former US\u2026''s\u2026"
+titleEn: "🛸 UFO/UAP News Flash — 05月03日15:03"
 description: "UFO/UAP news and case coverage"
-
 pubDate: "2026-05-03T07:02:00.000Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > It's time for another UFO News Flash! Even though it's Sunday, the UFO world never takes a day off. Today we bring several major stories: a former US president brings up UFO files again, a congresswoman pressures for classified information, and the UK's most classic UFO case is back in the spotlight. Buckle up!
 
 ![UFO concept image](/blog-placeholder-4.jpg)

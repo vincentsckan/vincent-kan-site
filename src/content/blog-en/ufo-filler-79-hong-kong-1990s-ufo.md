@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1990s Hong Kong UFO: Mysterious Triangular Craft Over Kowloon"
+descriptionEn: "Hong Kong—this international metropolis is not only a financial hub but also an active location for UFOs. In the 1990s, residents and tourists in multiple…"
+titleEn: "Hong Kong Triangle UFOs: 1990s Sightings Over Kowloon"
 description: "UFO/UAP news and case coverage"
-titleEn: 'Hong Kong Triangle UFOs: 1990s Sightings Over Kowloon'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "asia"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 Hong Kong—this international metropolis is not only a financial hub but also an active location for UFOs. In the 1990s, residents and tourists in multiple areas of Hong Kong witnessed mysterious triangular aircraft, with some even capturing them on mobile phones or cameras.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

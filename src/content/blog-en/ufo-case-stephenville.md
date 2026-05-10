@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 Stephenville UFO — Mass Sighting in a Texas Town (2008)"
+descriptionEn: "📍 Stephenville, Texas, USA 📅 January 8, 2008 🔍 Mass Sighting, Multiple Videos On the evening of January 8, 2008, a series of UFO sighting reports emerged in…"
+titleEn: "🤠 The Stephenville Sightings — TX Town Faces a UFO Mystery (2008)"
 description: "UFO/UAP news and case coverage"
-titleEn: '🤠 The Stephenville Sightings — TX Town Faces a UFO Mystery (2008)'
-
-pubDate: '2022-10-15'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-10-15"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Stephenville, Texas, USA**
 > 📅 **January 8, 2008**
 > 🔍 **Mass Sighting, Multiple Videos**

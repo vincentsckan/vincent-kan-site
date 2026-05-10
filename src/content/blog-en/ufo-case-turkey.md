@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 Turkey UFO Footage — One of the Clearest UFO Videos (2007)"
+descriptionEn: "📍 Istanbul, Turkey 📅 2007 🔍 Video evidence, night-time footage In 2007, an unidentified flying object appeared in the night sky near Istanbul, Turkey,…"
+titleEn: "📷 The Turkey UFO Case — The Clearest UFO Video Ever Recorded? (2007-2008)"
 description: "UFO/UAP news and case coverage"
-titleEn: '📷 The Turkey UFO Case — The Clearest UFO Video Ever Recorded? (2007-2008)'
-
-pubDate: '2022-11-01'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-11-01"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Istanbul, Turkey**
 > 📅 **2007**
 > 🔍 **Video evidence, night-time footage**

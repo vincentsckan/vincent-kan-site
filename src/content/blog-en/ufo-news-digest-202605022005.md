@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 UFO/UAP News Flash — 5月2日'
+descriptionEn: "Continuing to track the latest global UFO/UAP developments! Tonight''''s briefing brings multiple whistleblower revelations, congressional accountability,\u2026"
+titleEn: "🛸 UFO/UAP News Flash — 5月2日"
 description: "UFO/UAP news and case coverage"
-
 pubDate: "2026-05-02T20:05:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > Continuing to track the latest global UFO/UAP developments! Tonight's briefing brings multiple whistleblower revelations, congressional accountability, and sighting videos—a massive information dump. Ready? 🚀
 
 ---

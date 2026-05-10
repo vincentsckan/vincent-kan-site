@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1978 Emilcin Abduction: Polish Farmer Taken by Green Aliens"
+descriptionEn: "On May 10, 1978, in the small village of Emilcin in southeastern Poland, an event occurred that remains the most famous alien abduction case in Eastern…"
+titleEn: "The 1978 Emilcin Abduction: Polish Farmer Taken by Green Aliens"
 description: "UFO/UAP news and case coverage"
-titleEn: 'The 1978 Emilcin Abduction: Polish Farmer Taken by Green Aliens'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "abduction"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 On May 10, 1978, in the small village of Emilcin in southeastern Poland, an event occurred that remains the most famous alien abduction case in Eastern Europe to this day. A 71-year-old farmer named Jan Wolski, while driving his horse-drawn cart home, encountered an experience that changed his life.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

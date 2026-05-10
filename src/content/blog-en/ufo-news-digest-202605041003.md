@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News — May 4, 17:00"
-titleEn: '🛸 UFO/UAP News Digest — May 4, 2026'
+descriptionEn: "Trump confirms UFO files are being gathered and says release is \\\"near future.\\\" Liberty Times reports White House coordinating release of never-before-seen\u2026"
+titleEn: "🛸 UFO/UAP News Digest — May 4, 2026"
 description: "Trump UFO file release latest · UAP whistleblower warnings · Liberation Times War Department update · UFO hearing live countdown"
-pubDate: 2026-05-04T09:00:00.000Z
-updatedDate: 2026-05-04T09:00:00.000Z
-heroImage: ../../assets/blog-placeholder-2.jpg
+pubDate: "2026-05-04T09:00:00.000Z"
+updatedDate: "2026-05-04T09:00:00.000Z"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
 
 > **Trump confirms UFO files are being gathered** and says release is "near future." Liberty Times reports White House coordinating release of never-before-seen material. UAP whistleblowers issue warnings. Countdown to the 2026 UFO hearing continues.

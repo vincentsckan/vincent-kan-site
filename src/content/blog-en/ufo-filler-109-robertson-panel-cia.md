@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1953 CIA Robertson Panel: The Origin of UFO Stigmatization"
+descriptionEn: "In January 1953, the CIA assembled a group of scientists to form the \\\"Robertson Panel,\\\" chaired by physicist H.P. Robertson from the California Institute of\u2026"
+titleEn: "1953 CIA Robertson Panel: The Origins of UFO Stigma"
 description: "UFO/UAP news and case coverage"
-titleEn: '1953 CIA Robertson Panel: The Origins of UFO Stigma'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "government-panel"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 In January 1953, the CIA assembled a group of scientists to form the "Robertson Panel," chaired by physicist H.P. Robertson from the California Institute of Technology. The panel met for only four days and reviewed a small number of UFO cases.
 
 The panel's conclusion was that the vast majority of UFO sightings had ordinary explanations, and although a small portion remained unexplained, there was "insufficient evidence to prove they were of extraterrestrial origin." The panel's most critical recommendation was to "reduce" public interest in UFOs through public education, debunk the UFO myth, and prevent it from being exploited by adversaries to cause public panic.

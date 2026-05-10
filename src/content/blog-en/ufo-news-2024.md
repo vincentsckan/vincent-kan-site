@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 2024 Global UFO News Review — The Year of Legislation"
+descriptionEn: "📅 2024 Year in Review 🔍 Annual Summary 2024 UAP Major Events First Half of the Year - Multiple UAP hearings held by the U.S. Congress - AARO report shows…"
+titleEn: "📰 UFO News 2024 — Disclosure Continues to Accelerate"
 description: "UFO/UAP news and case coverage"
-titleEn: '📰 UFO News 2024 — Disclosure Continues to Accelerate'
-
-pubDate: '2023-04-01'
-heroImage: '../../assets/blog-placeholder-2.jpg'
-
-
-
+pubDate: "2023-04-01"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 ---
+
 > 📅 **2024 Year in Review** | 🔍 **Annual Summary**
 
 ## 2024 UAP Major Events

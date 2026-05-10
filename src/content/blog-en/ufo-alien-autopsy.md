@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "👽 The Alien Autopsy — The Most Controversial UFO Film (1995)"
+descriptionEn: "📍 UK/Global 📅 1995 🔍 Controversial Media, Fabricated Event Event Background In 1995, British producer Ray Santilli released a black-and-white film claiming…"
+titleEn: "👽 Alien Autopsy — The Biggest UFO Hoax in History?"
 description: "UFO/UAP news and case coverage"
-titleEn: '👽 Alien Autopsy — The Biggest UFO Hoax in History?'
-
-pubDate: '2022-11-20'
-heroImage: '../../assets/blog-placeholder-5.jpg'
-
-
-
+pubDate: "2022-11-20"
+heroImage: "../../assets/blog-placeholder-5.jpg"
 ---
+
 > 📍 **UK/Global** | 📅 **1995** | 🔍 **Controversial Media, Fabricated Event**
 
 ## Event Background

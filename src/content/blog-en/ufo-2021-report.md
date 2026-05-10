@@ -1,10 +1,12 @@
 ---
 title: "🛸 2021 UAP Report — The First Official U.S. Government UFO Report"
+descriptionEn: "📍 United States 📅 June 25, 2021 🔍 Official Report, Historical Milestone Report Background On June 25, 2021, the Office of the Director of National…"
+titleEn: "\ud83d\udef8 The 2021 UAP Report \u2014 America''s First Official UFO Report"
 description: "UFO/UAP news and case coverage"
-titleEn: "🛸 The 2021 UAP Report — America's First Official UFO Report"
-pubDate: '2023-01-15'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+pubDate: "2023-01-15"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 ---
+
 > 📍 **United States** | 📅 **June 25, 2021** | 🔍 **Official Report, Historical Milestone**
 
 ## Report Background

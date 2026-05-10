@@ -1,18 +1,13 @@
 ---
-
-
-
-title: "1990 Shanghai UFO Event: Millions Witness China's UFO Wave"
+title: "\\\"1990 Shanghai UFO Event: Millions Witness China''"
+descriptionEn: "On the evening of July 17, 1990, one of the largest UFO sightings in modern Chinese history occurred in Shanghai and its surrounding areas\u2014millions of\u2026'On\u2026"
+titleEn: "1990 Shanghai UFO Wave: Millions Witnessed Mysterious Lights"
 description: "UFO/UAP news and case coverage"
-titleEn: '1990 Shanghai UFO Wave: Millions Witnessed Mysterious Lights'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "asia"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 On the evening of July 17, 1990, one of the largest UFO sightings in modern Chinese history occurred in Shanghai and its surrounding areas—millions of citizens simultaneously witnessed a giant unidentified flying object emitting red and white light in the night sky.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

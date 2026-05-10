@@ -1,17 +1,12 @@
 ---
-
-
-
-title: "🛸 The Peter Carrington UFO Case — A Scientist's Sighting (1917)"
+title: "\\\"\ud83d\udef8 The Peter Carrington UFO Case \u2014 A Scientist''"
+descriptionEn: "📍 Portugal 📅 1917 🔍 Scientist Sighting, Early Classic The renowned British/Portuguese biologist Peter Carrington, while conducting fieldwork in…"
+titleEn: "📅 The Carrington Event — When a Solar Storm Changed UFO History (1859)"
 description: "UFO/UAP news and case coverage"
-titleEn: '📅 The Carrington Event — When a Solar Storm Changed UFO History (1859)'
-
-pubDate: '2022-07-20'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-07-20"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Portugal**
 > 📅 **1917**
 > 🔍 **Scientist Sighting, Early Classic**

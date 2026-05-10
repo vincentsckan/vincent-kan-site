@@ -1,11 +1,13 @@
 ---
-title: '🛸 Global UFO/UAP News Digest — 2026-05-09'
-description: '· Pentagon''s AARO releases annual report showing surge in UAP reports in 2024· US Congress holds closed-door hearing with UAP whistleblower testimony· Brazilian Navy releases new UAP video showing tri'
-pubDate: '2026-05-09'
-updatedDate: '2026-05-09T08:00+08:00'
-heroImage: '../../assets/blog-placeholder-3.jpg'
-tags: ['UFO', 'UAP', 'Government Disclosure', 'AARO', 'Brazil', 'Japan', 'Congressional Hearing', 'Scientific Research']
+title: "🛸 Global UFO/UAP News Digest — 2026-05-09"
+descriptionEn: "📡 Daily UAP News Digest — 2026-05-09 Curated, organized, and formatted by AI, focusing on authoritative sources and major developments. US Congress &…"
+description: "UFO/UAP news coverage: 🛸 Global UFO/UAP News Digest — 2026-05-09"
+pubDate: "2026-05-09"
+updatedDate: "2026-05-09T08:00+08:00"
+heroImage: "../../assets/blog-placeholder-3.jpg"
+tags: ["UFO", "UAP", "Government Disclosure", "AARO", "Brazil", "Japan", "Congressional Hearing", "Scientific Research"]
 ---
+
 > 📡 **Daily UAP News Digest** — 2026-05-09
 > Curated, organized, and formatted by AI, focusing on authoritative sources and major developments.
 

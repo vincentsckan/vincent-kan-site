@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1975 Wurtsmith AFB: Mysterious Intruder at Nuclear Base"
+descriptionEn: "On the nights of November 7-8, 1975, Wurtsmith Air Force Base in Michigan became another stop on the wave of UFO intrusions over U.S. Air Force strategic…"
+titleEn: "1975 Wurtsmith AFB: UFO Intrusion at Nuclear Weapons Depot"
 description: "UFO/UAP news and case coverage"
-titleEn: '1975 Wurtsmith AFB: UFO Intrusion at Nuclear Weapons Depot'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "nuclear-connection"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 On the nights of November 7-8, 1975, Wurtsmith Air Force Base in Michigan became another stop on the wave of UFO intrusions over U.S. Air Force strategic nuclear weapons bases. The level of detail and the number of official documents regarding this incident make it one of the most important cases among nuclear-related UFO events.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

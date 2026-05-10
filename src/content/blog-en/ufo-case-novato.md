@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 Novato UFO Photo — One of the Clearest UFO Photos (1967)"
+descriptionEn: "📍 Novato Police Department, California, USA 📅 November 29, 1967 🔍 Police-verified, classic photo During the 1967 Thanksgiving holiday, a woman reported…"
+titleEn: "🌁 The Novato UFO Case — An AARO-Investigated Incident (2021, California)"
 description: "UFO/UAP news and case coverage"
-titleEn: '🌁 The Novato UFO Case — An AARO-Investigated Incident (2021, California)'
-
-pubDate: '2022-06-10'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-06-10"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Novato Police Department, California, USA**
 > 📅 **November 29, 1967**
 > 🔍 **Police-verified, classic photo**

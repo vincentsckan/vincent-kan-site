@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 The Kecksburg UFO Crash (1965)"
+descriptionEn: "📍 Kecksburg, Pennsylvania, USA 📅 December 9, 1965 🔍 Crash event, military recovery On the afternoon of December 9, 1965, residents of Kecksburg,…"
+titleEn: "\ud83d\udd25 The Kecksburg Incident \u2014 Pennsylvania''''s \\\"Roswell\\\" (1965)"
 description: "UFO/UAP news and case coverage"
-titleEn: '🔥 The Kecksburg Incident — Pennsylvania''s "Roswell" (1965)'
-
-pubDate: '2022-07-05'
-heroImage: '../../assets/blog-placeholder-2.jpg'
-
-
-
+pubDate: "2022-07-05"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 ---
+
 > 📍 **Kecksburg, Pennsylvania, USA**
 > 📅 **December 9, 1965**
 > 🔍 **Crash event, military recovery**

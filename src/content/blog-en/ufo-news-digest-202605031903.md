@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-03"
-titleEn: '🛸 UFO/UAP News Flash — '
+descriptionEn: "\ud83d\udef8 Latest UFO/UAP Flash \u2014 May 3, 2026 (Hong Kong Evening) \u00b7 More major UFO news continues today! Trump again hints that UFO files will be \\\"released soon,\\\"\u2026"
+titleEn: "🛸 UFO/UAP News Flash — "
 description: "UFO/UAP news and case coverage"
-
-pubDate: '2026-05-03T19:02:00Z'
+pubDate: "2026-05-03T19:02:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > 🛸 **Latest UFO/UAP Flash** — May 3, 2026 (Hong Kong Evening) · More major UFO news continues today! Trump again hints that UFO files will be "released soon," and a congressman even vows to show evidence of "nonhuman origin" — waiting to see the real deal!
 
 ---

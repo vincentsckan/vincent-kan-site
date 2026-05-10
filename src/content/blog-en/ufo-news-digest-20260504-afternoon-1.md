@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News — May 4, Late Afternoon"
-titleEn: '🛸 UFO/UAP News Digest — May 4, 2026'
+descriptionEn: "Day 1 wrap-up: Historic hearing concludes with key revelations. Lawmakers pledge continued oversight. Disclosure timeline appears to be accelerating.…"
+titleEn: "🛸 UFO/UAP News Digest — May 4, 2026"
 description: "Hearing Day 1 wrap · Key revelations · Congressional next steps · Disclosure timeline update"
-pubDate: 2026-05-04T07:00:00.000Z
-updatedDate: 2026-05-04T07:00:00.000Z
-heroImage: ../../assets/blog-placeholder-2.jpg
+pubDate: "2026-05-04T07:00:00.000Z"
+updatedDate: "2026-05-04T07:00:00.000Z"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
 
 > **Day 1 wrap-up:** Historic hearing concludes with key revelations. Lawmakers pledge continued oversight. Disclosure timeline appears to be accelerating. Summary of what was learned and what comes next.

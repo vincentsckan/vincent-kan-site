@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 Cash-Landrum Incident — Witnesses Radiation-Burned by UFO (1980)"
+descriptionEn: "📍 Texas, United States 📅 December 29, 1980 🔍 Radiation Injuries, Legal Action On the evening of December 29, 1980, Betty Cash, Vickie Landrum, and her…"
+titleEn: "🔥 The Cash-Landrum Incident — When a UFO Left Real Burns (1980, Texas)"
 description: "UFO/UAP news and case coverage"
-titleEn: '🔥 The Cash-Landrum Incident — When a UFO Left Real Burns (1980, Texas)'
-
-pubDate: '2023-06-01'
-heroImage: '../../assets/blog-placeholder-2.jpg'
-
-
-
+pubDate: "2023-06-01"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 ---
+
 > 📍 **Texas, United States**
 > 📅 **December 29, 1980**
 > 🔍 **Radiation Injuries, Legal Action**

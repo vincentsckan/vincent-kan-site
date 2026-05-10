@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-03"
-titleEn: '🛸 UFO/UAP News Flash — 05月03日12:05'
+descriptionEn: "Todays Key Points: Trump White House again hints at imminent UFO document release, 17 earthquakes near Area 51 spark speculation, leaked NASA internal\u2026''s\u2026"
+titleEn: "🛸 UFO/UAP News Flash — 05月03日12:05"
 description: "UFO/UAP news and case coverage"
-
 pubDate: "2026-05-03T04:05:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > **Today's Key Points: Trump White House again hints at imminent UFO document release, 17 earthquakes near Area 51 spark speculation, leaked NASA internal emails reveal major flaws in GoFast UFO video analysis, veteran disclosure advocate analyzes three forces driving historic transparency.**
 
 ---

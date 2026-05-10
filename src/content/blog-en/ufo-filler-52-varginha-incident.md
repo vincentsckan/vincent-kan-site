@@ -1,18 +1,13 @@
 ---
-
-
-
-title: "Brazil's Varginha Incident: Did the Military Capture Alien Life?"
+title: "\\\"Brazil''"
+descriptionEn: "On January 20, 1996, residents of the small southeastern Brazilian city of Varginha witnessed a strange craft flying low over the urban area. But even…"
+titleEn: "The Varginha Incident: Brazil''''s Alien Creature Capture"
 description: "UFO/UAP news and case coverage"
-titleEn: 'The Varginha Incident: Brazil''s Alien Creature Capture'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "military-coverup"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 On January 20, 1996, residents of the small southeastern Brazilian city of Varginha witnessed a strange craft flying low over the urban area. But even more shocking—according to witnesses, they saw a bizarre creature with brown skin, large eyes, and a height of about 1.2 meters appearing on the streets. This incident quickly escalated into the most sensational UFO event in Brazilian history.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

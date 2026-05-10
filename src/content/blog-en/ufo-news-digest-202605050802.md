@@ -1,9 +1,10 @@
 ---
 title: "🛸 UFO/UAP News Flash — May 5, 16:02"
-titleEn: '🛸 UFO/UAP 快訊 — 5月5日16:02'
+descriptionEn: "Daily UFO/UAP News \u2014 ''''2026-05-05T08:02:00.000Z'''' \ud83d\udcf0 Today''''s Headlines - \\\"NUFORC publishes full 1967 Fortuna radar investigation; Northern Michigan\u2026"
+titleEn: "🛸 UFO/UAP 快訊 — 5月5日16:02"
 description: "NUFORC publishes full 1967 Fortuna radar investigation; Northern Michigan mysterious orbs; three US states legislating UFO research"
-pubDate: '2026-05-05T08:02:00.000Z'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+pubDate: "2026-05-05T08:02:00.000Z"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["UFO", "UAP", "news", "auto-update"]
 ---
 

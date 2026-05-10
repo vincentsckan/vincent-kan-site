@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "2023 NASA UAP Study Team: Space Agency Formally Studies UAP"
+descriptionEn: "In June 2022, NASA announced the formation of an independent UAP (Unidentified Anomalous Phenomena) study team—marking the first time in the space…"
+titleEn: "2023 NASA UAP Study: The Space Agency''''s Bold Step into UAP Research"
 description: "UFO/UAP news and case coverage"
-titleEn: '2023 NASA UAP Study: The Space Agency''s Bold Step into UAP Research'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "government-report"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 In June 2022, NASA announced the formation of an independent UAP (Unidentified Anomalous Phenomena) study team—marking the first time in the space agency's history that it officially ventured into this long-stigmatized field.
 
 The team consisted of 16 members, including former astronaut Scott Kelly, astrophysicist David Spergel (team chair), oceanographer Paula Bontempi, and other top experts. The team held a public meeting on May 31, 2023, which was NASA's first open discussion of UAP.

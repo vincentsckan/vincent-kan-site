@@ -1,17 +1,12 @@
 ---
-
-
-
-title: "🛸 The Cana-Nab Abduction — A Police Officer's Firsthand Account (1967)"
+title: "\\\"\ud83d\udef8 The Cana-Nab Abduction \u2014 A Police Officer''"
+descriptionEn: "📍 Manitoba, Canada, The Pas 📅 May 20, 1967 🔍 Close Encounter of the Third Kind, Government Investigation Royal Canadian Mounted Police (RCMP) officer…"
+titleEn: "\ud83d\udef8 The Cana, Nab, and Nab-3 UFO Incidents \u2014 AARO''''s Investigated Cases"
 description: "UFO/UAP news and case coverage"
-titleEn: '🛸 The Cana, Nab, and Nab-3 UFO Incidents — AARO''s Investigated Cases'
-
-pubDate: '2022-06-05'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-06-05"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Manitoba, Canada, The Pas**
 > 📅 **May 20, 1967**
 > 🔍 **Close Encounter of the Third Kind, Government Investigation**

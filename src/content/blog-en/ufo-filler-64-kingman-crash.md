@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1953 Kingman UFO Crash: Mystery Recovery in the Arizona Desert"
+descriptionEn: "In May 1953, a mysterious UFO crash was reportedly occurred in the Mojave Desert near Kingman, Arizona, USA. The incident gained significant attention due…"
+titleEn: "The 1953 Kingman Crash: Alleged UFO Recovery in Arizona Desert"
 description: "UFO/UAP news and case coverage"
-titleEn: 'The 1953 Kingman Crash: Alleged UFO Recovery in Arizona Desert'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "crash"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 In May 1953, a mysterious UFO crash was reportedly occurred in the Mojave Desert near Kingman, Arizona, USA. The incident gained significant attention due to the highly detailed testimony provided by an engineer who claimed to have participated in the recovery operation—Dr. Arthur G. "Art" Stancil.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

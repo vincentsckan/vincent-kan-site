@@ -1,17 +1,12 @@
 ---
-
-
-
-title: "🛸 Shag Harbour Incident — Canada's Roswell (1967)"
+title: "\\\"\ud83d\udef8 Shag Harbour Incident \u2014 Canada''"
+descriptionEn: "📍 Shag Harbour, Nova Scotia, Canada 📅 October 4, 1967 🔍 Water crash, naval search, government files On the evening of October 4, 1967, residents of…"
+titleEn: "\ud83c\udf0a The Shag Harbour Incident \u2014 Canada''''s Official UFO Case (1967)"
 description: "UFO/UAP news and case coverage"
-titleEn: '🌊 The Shag Harbour Incident — Canada''s Official UFO Case (1967)'
-
-pubDate: '2022-09-05'
-heroImage: '../../assets/blog-placeholder-2.jpg'
-
-
-
+pubDate: "2022-09-05"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 ---
+
 > 📍 **Shag Harbour, Nova Scotia, Canada**
 > 📅 **October 4, 1967**
 > 🔍 **Water crash, naval search, government files**

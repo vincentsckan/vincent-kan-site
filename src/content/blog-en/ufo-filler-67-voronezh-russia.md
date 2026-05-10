@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "1989 Voronezh Alien Landing: Soviet Military Investigates"
+descriptionEn: "In late September 1989, an event shook the entire nation in the city of Voronezh, Soviet Union — as many as hundreds of people claimed to have seen a giant…"
+titleEn: "1989 Voronezh Alien Landing: Soviet Citizens Witness Extraterrestrials"
 description: "UFO/UAP news and case coverage"
-titleEn: '1989 Voronezh Alien Landing: Soviet Citizens Witness Extraterrestrials'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "alien-encounter"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 In late September 1989, an event shook the entire nation in the city of Voronezh, Soviet Union — as many as hundreds of people claimed to have seen a giant spaceship land in a city park, with alien beings 3 meters tall emerging from it. Most notably, the official Soviet media TASS and the Academy of Sciences both reported and investigated the incident.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "2009 Morristown UFO: Elaborate Hoax or Genuine Phenomenon?"
+descriptionEn: "In January 2009, the peaceful life of residents in Morristown, New Jersey was disrupted. For several consecutive nights, inexplicable red and green lights…"
+titleEn: "2009 Morristown UFOs: High-Tech Hoax or Genuine Phenomenon?"
 description: "UFO/UAP news and case coverage"
-titleEn: '2009 Morristown UFOs: High-Tech Hoax or Genuine Phenomenon?'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "hoax-debate"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 In January 2009, the peaceful life of residents in Morristown, New Jersey was disrupted. For several consecutive nights, inexplicable red and green lights appeared in the sky—they moved slowly overhead, sometimes forming V-shaped formations. These "drones" appeared for a week, sparking massive media attention and an FBI investigation.
 
 | 📍 **Location** | 📅 **Date** | 🔍 **Category** |

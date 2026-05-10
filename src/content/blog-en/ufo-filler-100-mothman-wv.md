@@ -1,18 +1,13 @@
 ---
-
-
-
-title: "1966-67 Mothman: West Virginia's Prophetic UFO Legend"
+title: "\\\"1966-67 Mothman: West Virginia''"
+descriptionEn: "Between November 1966 and December 1967, a legendary mysterious creature known as Mothman appeared in the Point Pleasant area of West Virginia.…"
+titleEn: "The Mothman Prophecies: West Virginia''''s Winged Cryptid and UFO Connection"
 description: "UFO/UAP news and case coverage"
-titleEn: 'The Mothman Prophecies: West Virginia''s Winged Cryptid and UFO Connection'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "cryptid"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 Between November 1966 and December 1967, a legendary mysterious creature known as Mothman appeared in the Point Pleasant area of West Virginia. Witnesses described it as a humanoid figure about 2 meters tall, with huge wings and eyes that emitted a red glow.
 
 The Mothman story is closely linked to UFOs—many witnesses saw UFOs either before or after encountering Mothman. At the same time, numerous reports mention the appearance of "Men in Black" attempting to silence witnesses.

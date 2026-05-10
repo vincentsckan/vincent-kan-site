@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 UFO/UAP News Digest — 2026-05-02"
-titleEn: '🛸 UFO/UAP News Flash — 05月03日00:04'
+descriptionEn: "Back to the daily UFO news flash! Today, we have several major stories—from mysterious earthquake swarms in the Nevada desert, to UFO revelations on Capitol…"
+titleEn: "🛸 UFO/UAP News Flash — 05月03日00:04"
 description: "UFO/UAP news and case coverage"
-
-pubDate: 2026-05-02T16:04:00Z
+pubDate: "2026-05-02T16:04:00Z"
 tags: ["UFO", "UAP", "news", "auto-update"]
-
-
-
 ---
+
 > Back to the daily UFO news flash! Today, we have several major stories—from mysterious earthquake swarms in the Nevada desert, to UFO revelations on Capitol Hill, to the bizarre disappearance of a scientist, all closely tied to the UFO/UAP world! 🛸
 
 ---

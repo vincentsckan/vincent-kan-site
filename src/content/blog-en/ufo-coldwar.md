@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 US-China-Soviet UFO Competition — Cold War Aerial Mysteries"
+descriptionEn: "🌍 Special Series: The Geopolitical Dimensions of UFOs Coverage: The UFO military rivalry among the three major powers during the Cold War The Cold War UFO…"
+titleEn: "☢️ UFOs and the Cold War — The Secret History of Nuclear Connection"
 description: "UFO/UAP news and case coverage"
-titleEn: '☢️ UFOs and the Cold War — The Secret History of Nuclear Connection'
-
-pubDate: '2022-05-15'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-05-15"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 🌍 **Special Series**: The Geopolitical Dimensions of UFOs
 > **Coverage**: The UFO military rivalry among the three major powers during the Cold War
 

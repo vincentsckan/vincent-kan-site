@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 Marshall County UFO — Sheriff Deputy Abducted (1975)"
+descriptionEn: "📍 Marshall County, Minnesota, USA 📅 August 27, 1975 🔍 Police Encounter, Missing Time Police in Marshall County, Minnesota, received multiple reports from…"
+titleEn: "📡 The Battle of Los Angeles — The Night the City Fired on UFOs (1942)"
 description: "UFO/UAP news and case coverage"
-titleEn: '📡 The Battle of Los Angeles — The Night the City Fired on UFOs (1942)'
-
-pubDate: '2022-08-15'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-08-15"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Marshall County, Minnesota, USA**
 > 📅 **August 27, 1975**
 > 🔍 **Police Encounter, Missing Time**

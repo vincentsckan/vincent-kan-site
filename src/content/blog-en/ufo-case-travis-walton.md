@@ -1,17 +1,12 @@
 ---
-
-
-
 title: "🛸 The Travis Walton Abduction — The Most Famous Alien Kidnapping (1975)"
+descriptionEn: "📍 Snowflake, Arizona, USA 📅 November 5, 1975 🔍 Alien abduction, witnesses, film adaptation On November 5, 1975, Arizona lumberjack Travis Walton and six…"
+titleEn: "👽 The Travis Walton Abduction — The Most Credible Alien Abduction Case (1975)"
 description: "UFO/UAP news and case coverage"
-titleEn: '👽 The Travis Walton Abduction — The Most Credible Alien Abduction Case (1975)'
-
-pubDate: '2022-08-10'
-heroImage: '../../assets/blog-placeholder-4.jpg'
-
-
-
+pubDate: "2022-08-10"
+heroImage: "../../assets/blog-placeholder-4.jpg"
 ---
+
 > 📍 **Snowflake, Arizona, USA**
 > 📅 **November 5, 1975**
 > 🔍 **Alien abduction, witnesses, film adaptation**

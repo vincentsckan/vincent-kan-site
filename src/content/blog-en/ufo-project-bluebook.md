@@ -1,17 +1,12 @@
 ---
-
-
-
-title: "🛸 Project Blue Book — The USAF's UFO Investigation Files (1952-1969)"
+title: "\\\"\ud83d\udef8 Project Blue Book \u2014 The USAF''"
+descriptionEn: "\ud83d\udccd Institution: United States Air Force \ud83d\udcc5 Operational Period: 1952 \u2014 1969 \ud83d\udd0d Classification: Official Investigation Program / Historical Archive Program\u2026'\ud83d\udccd\u2026"
+titleEn: "\ud83d\udccb Project Blue Book \u2014 The US Air Force''''s Official UFO Investigation (1947-1969)"
 description: "UFO/UAP news and case coverage"
-titleEn: '📋 Project Blue Book — The US Air Force''s Official UFO Investigation (1947-1969)'
-
-pubDate: '2022-05-01'
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
+pubDate: "2022-05-01"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
+
 > 📍 **Institution**: United States Air Force  
 > 📅 **Operational Period**: 1952 — 1969  
 > 🔍 **Classification**: Official Investigation Program / Historical Archive  

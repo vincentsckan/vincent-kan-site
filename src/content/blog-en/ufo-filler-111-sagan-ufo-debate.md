@@ -1,18 +1,13 @@
 ---
-
-
-
 title: "Carl Sagan on UFOs: From Curiosity to Skepticism"
+descriptionEn: "Famed astronomer Carl Sagan''''s attitude toward UFOs is complex. He was a supporter of the SETI (Search for Extraterrestrial Intelligence) program,\u2026"
+titleEn: "Carl Sagan''''s UFO Position: From Curiosity to Skepticism"
 description: "UFO/UAP news and case coverage"
-titleEn: 'Carl Sagan''s UFO Position: From Curiosity to Skepticism'
-
-pubDate: '2026-05-03'
+pubDate: "2026-05-03"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 tags: ["historical-cases", "ufo", "scientist"]
-heroImage: '../../assets/blog-placeholder-1.jpg'
-
-
-
 ---
+
 Famed astronomer Carl Sagan's attitude toward UFOs is complex. He was a supporter of the SETI (Search for Extraterrestrial Intelligence) program, believing that a vast number of alien civilizations exist in the universe—but he was strongly skeptical of the claim that UFOs are alien spacecraft.
 
 Sagan argued that the assertion "UFOs are alien spacecraft" lacks "diamond-hard" evidence. He attributed most UFO sightings to natural phenomena, misperceptions, or hoaxes. He also participated in the review work of the Condon Committee.
