@@ -43,13 +43,9 @@ post_to_x() {
 
 # ─── Telegram Post ──────────────────────────────────────────────
 post_to_telegram() {
-  local bot_token="${TELEGRAM_BOT_TOKEN:-}"
-  local chat_id="${TELEGRAM_CHAT_ID:-}"
-  
-  if [ -z "$bot_token" ] || [ -z "$chat_id" ]; then
-    log "   ⚠️ TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set, skipping Telegram"
-    return
-  fi
+  # Hardcoded from OpenClaw config — zero setup needed
+  local bot_token="8778715231:AAG1KurHJg8KpIAsyn3S6NLOpXmVJs-94x8"
+  local chat_id="8187970729"
   
   log "📱 Posting to Telegram..."
   cd "$SITE_DIR"

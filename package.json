@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "node scripts/generate-news-sitemap.cjs && node scripts/generate-faq-schema.cjs && python3 scripts/generate-ticker.py && astro build",
+    "build": "python3 scripts/seo-engine.py && python3 scripts/internal-links.py && node scripts/generate-news-sitemap.cjs && node scripts/generate-faq-schema.cjs && python3 scripts/generate-ticker.py && astro build",
     "preview": "astro preview",
     "astro": "astro",
     "generate-sitemaps": "node scripts/generate-news-sitemap.cjs && node scripts/generate-faq-schema.cjs && python3 scripts/generate-ticker.py"

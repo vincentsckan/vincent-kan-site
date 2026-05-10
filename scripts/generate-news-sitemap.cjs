@@ -7,9 +7,20 @@ const path = require('path');
 
 const siteUrl = 'https://www.disclosurehk.com';
 
-// Get all English blog posts
+// Get ALL English blog posts
 const blogEnDir = path.join(__dirname, '..', 'src', 'content', 'blog-en');
-const files = fs.readdirSync(blogEnDir).filter(f => f.endsWith('.md') && f.startsWith('ufo-news-digest'));
+
+// Also get Chinese alert posts (they're super fresh)
+const blogDir = path.join(__dirname, '..', 'src', 'content', 'blog');
+
+// Collect from ALL relevant prefixes
+const relevantPrefixes = ['ufo-news-digest', 'ufo-breaking', 'ufo-hearing-live', 'ufo-alert', 'ufo-rapid', 'ufo-case', 'ufo-'];
+
+// Also grab from blog/ directory (Chinese alerts)
+const allBlogFiles = [
+  ...fs.readdirSync(blogEnDir).filter(f => f.endsWith('.md')),
+  ...fs.readdirSync(blogDir).filter(f => f.endsWith('.md') && f.startsWith('ufo-alert-'))
+];
 
 // Parse frontmatter from markdown files
 function parseFrontmatter(filePath) {
@@ -30,8 +41,14 @@ function parseFrontmatter(filePath) {
 
 // Generate Google News sitemap entries
 const entries = [];
-for (const file of files) {
-  const data = parseFrontmatter(path.join(blogEnDir, file));
+for (const file of allBlogFiles) {
+  // Determine directory
+  const fileDir = file.endsWith('.md') && file.startsWith('ufo-alert-') ? blogDir : blogEnDir;
+  const filePath = path.join(fileDir, file);
+  
+  if (!fs.existsSync(filePath)) continue;
+  
+  const data = parseFrontmatter(filePath);
   if (!data || !data.pubDate) continue;
   
   const pubDate = new Date(data.pubDate);
@@ -39,54 +56,28 @@ for (const file of files) {
   const daysDiff = (now - pubDate) / (1000 * 60 * 60 * 24);
   
   // Google News requires articles published within the last 48 hours
-  if (daysDiff > 2) continue;
+  // But we're generous — include up to 7 days for alerts
+  if (daysDiff > 7) continue;
   
   const articleId = file.replace('.md', '');
+  
+  // Determine keywords based on type
+  let keywords = ['UFO', 'UAP', 'disclosure', 'news'];
+  if (file.startsWith('ufo-alert-')) keywords = ['UFO', 'UAP', 'alert', 'breaking', 'news'];
+  if (file.startsWith('ufo-rapid-')) keywords = ['UFO', 'UAP', 'digest', 'roundup'];
+  if (file.startsWith('ufo-breaking')) keywords = ['UFO', 'UAP', 'breaking', 'news', 'disclosure'];
+  if (file.startsWith('ufo-hearing')) keywords = ['UFO', 'UAP', 'congressional', 'hearing', 'disclosure'];
+  if (file.startsWith('ufo-case')) keywords = ['UFO', 'UAP', 'case study', 'historical'];
+  
+  // Determine the URL
+  // Alert posts from blog/ go to /blog/slug/ too
+  const url = `${siteUrl}/blog/${articleId}/`;
+  
   entries.push({
-    url: `${siteUrl}/blog/${articleId}/`,
+    url: url,
     pubDate: pubDate.toISOString(),
-    title: (data.titleEn || data.title || '').replace(/['"]/g, ''),
-    keywords: ['UFO', 'UAP', 'disclosure', 'news']
-  });
-}
-
-// Also include breaking news
-const breakingFiles = fs.readdirSync(blogEnDir).filter(f => f.endsWith('.md') && f.startsWith('ufo-breaking'));
-for (const file of breakingFiles) {
-  const data = parseFrontmatter(path.join(blogEnDir, file));
-  if (!data || !data.pubDate) continue;
-  
-  const pubDate = new Date(data.pubDate);
-  const now = new Date();
-  const daysDiff = (now - pubDate) / (1000 * 60 * 60 * 24);
-  if (daysDiff > 2) continue;
-  
-  const articleId = file.replace('.md', '');
-  entries.push({
-    url: `${siteUrl}/blog/${articleId}/`,
-    pubDate: pubDate.toISOString(),
-    title: (data.titleEn || data.title || '').replace(/['"]/g, ''),
-    keywords: ['UFO', 'UAP', 'breaking news', 'disclosure']
-  });
-}
-
-// Also include hearing live pages
-const hearingFiles = fs.readdirSync(blogEnDir).filter(f => f.endsWith('.md') && f.startsWith('ufo-hearing-live'));
-for (const file of hearingFiles) {
-  const data = parseFrontmatter(path.join(blogEnDir, file));
-  if (!data || !data.pubDate) continue;
-  
-  const pubDate = new Date(data.pubDate);
-  const now = new Date();
-  const daysDiff = (now - pubDate) / (1000 * 60 * 60 * 24);
-  if (daysDiff > 2) continue;
-  
-  const articleId = file.replace('.md', '');
-  entries.push({
-    url: `${siteUrl}/blog/${articleId}/`,
-    pubDate: pubDate.toISOString(),
-    title: (data.titleEn || data.title || '').replace(/['"]/g, ''),
-    keywords: ['UFO', 'UAP', 'congressional hearing', 'disclosure']
+    title: (data.titleEn || data.title || '').replace(/['"]/g, '').substring(0, 200),
+    keywords: keywords
   });
 }
 
