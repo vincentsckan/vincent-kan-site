@@ -2,7 +2,7 @@
 # UAP News - Build & Deploy Script
 # Triggered after a new blog post is created
 
-cd /root/.openclaw/workspace/vincent-site || exit 1
+cd "$(dirname "$0")/.." || exit 1
 
 echo "=== Pre-build: generating sitemaps ==="
 node scripts/generate-news-sitemap.cjs 2>&1 || true

@@ -2,7 +2,8 @@
 # Generate 64 historical UFO filler articles to reach 200 total
 # Each article is a real, well-documented historical UFO case
 
-BLOG_DIR="/root/.openclaw/workspace/vincent-site/src/content/blog"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+BLOG_DIR="$SCRIPT_DIR/../src/content/blog"
 PUB_DATE="2026-05-03"
 
 cd "$BLOG_DIR"

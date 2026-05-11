@@ -7,8 +7,9 @@ from datetime import datetime, timezone
 from xml.etree import ElementTree
 from urllib.request import Request, urlopen
 
-SITE = "/root/.openclaw/workspace/vincent-site"
-TICKER_FILE = f"{SITE}/src/data/ticker.json"
+import sys
+SITE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+TICKER_FILE = os.path.join(SITE, "src", "data", "ticker.json")
 
 # Quick RSS fetch (no dedup, just latest headlines)
 SOURCES = [

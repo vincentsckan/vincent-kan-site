@@ -3,7 +3,8 @@
 # Run by cron job every 30 minutes
 # Detects live hearings and updates the homepage + creates blog post
 
-SITE_DIR="/root/.openclaw/workspace/vincent-site"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+SITE_DIR="$SCRIPT_DIR/.."
 STATE_FILE="$SITE_DIR/.last-hearing-state.json"
 
 # YouTube channel IDs known for UAP hearings coverage

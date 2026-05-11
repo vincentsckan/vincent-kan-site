@@ -8,10 +8,10 @@ from xml.etree import ElementTree
 from urllib.request import Request, urlopen
 from urllib.error import URLError
 
-SITE = "/root/.openclaw/workspace/vincent-site"
-STATE_FILE = f"{SITE}/.last-news-state.json"
-LOG_FILE = f"{SITE}/.news-detector-log.json"
-NEWS_DIR = f"{SITE}/src/content/blog"
+SITE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+STATE_FILE = os.path.join(SITE, ".last-news-state.json")
+LOG_FILE = os.path.join(SITE, ".news-detector-log.json")
+NEWS_DIR = os.path.join(SITE, "src", "content", "blog-en")
 
 SOURCES = [
     ("Google News UFO", "https://news.google.com/rss/search?q=UFO+UAP+disclosure+hearing+Pentagon&hl=en-US&gl=US&ceid=US:en"),

@@ -14,9 +14,9 @@ from datetime import datetime, timezone
 from xml.etree import ElementTree
 from urllib.request import Request, urlopen
 
-SITE = "/root/.openclaw/workspace/vincent-site"
-CACHE_FILE = f"{SITE}/.news-cache.json"
-LOG_FILE = f"{SITE}/.news-log.json"
+SITE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CACHE_FILE = os.path.join(SITE, ".news-cache.json")
+LOG_FILE = os.path.join(SITE, ".news-log.json")
 
 SOURCES = [
     ("Google UFO", "https://news.google.com/rss/search?q=UFO+UAP+disclosure+hearing+Pentagon&hl=en-US&gl=US&ceid=US:en"),
