@@ -140,7 +140,7 @@ tags: ["UFO","UAP","breaking","即時"]
 
 *🤖 DisclosureHK Real-Time Engine v3*
 """
-            path = f"{SITE}/src/content/blog/{slug}.md"
+            path = f"{SITE}/src/content/blog-en/{slug}.md"
             with open(path,"w") as f: f.write(post)
             msgs.append(f"  ✍️ {slug}")
         
@@ -166,7 +166,7 @@ tags: ["UFO","UAP","news","即時快訊"]
 
 *🤖 DisclosureHK v3 · 資料：Google News / Reddit / RSS*
 """
-            with open(f"{SITE}/src/content/blog/{slug}.md","w") as f: f.write(post)
+            with open(f"{SITE}/src/content/blog-en/{slug}.md","w") as f: f.write(post)
             msgs.append(f"  ✍️ digest")
         
         msgs.append("  🔨 Building...")
@@ -198,7 +198,7 @@ tags: ["UFO","UAP","news"]
 
 *🤖 DisclosureHK v3*
 """
-            with open(f"{SITE}/src/content/blog/{slug}.md","w") as f: f.write(post)
+            with open(f"{SITE}/src/content/blog-en/{slug}.md","w") as f: f.write(post)
             msgs.append("  ✍️ digest + deploying...")
             build_push()
             Path(f"{SITE}/.last-minor-build").touch()
