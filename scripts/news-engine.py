@@ -113,40 +113,9 @@ def main():
     
     if all_major:
         msgs.append(f"🚨 {len(all_major)} major")
-        for idx, item in enumerate(all_major[:3]):
-            title = html.unescape(item["title"]).replace('"',"'").strip()[:96]
-            pub = now.strftime("%Y-%m-%dT%H:%M:%SZ")
-            slug = f"ufo-alert-{now.strftime('%Y%m%d%H%M%S')}-{idx}"
-            desc = re.sub(r'<[^>]+>','',item.get("desc",""))[:200]
-            link = item["link"]
-            post = f"""---
-title: "🚨 即時UFO：{title}"
-description: "DisclosureHK 自動偵測 — {desc[:150]}"
-pubDate: "{pub}"
-tags: ["UFO","UAP","breaking","即時"]
----
-
-# 🚨 即時UFO資訊
-
-| 📍 *全球* | 📅 *{now.strftime('%Y年%m月%d日 %H:%M UTC')}* | 🔍 *即時新聞*
-
-> 以下由 DisclosureHK 即時引擎在 {now.strftime('%H:%M:%S UTC')} 偵測
-
-## {title}
-
-{desc}
-
-🔗 **[閱讀全文 →]({link})**
-
-*🤖 DisclosureHK Real-Time Engine v3*
-"""
-            path = f"{SITE}/src/content/blog-en/{slug}.md"
-            with open(path,"w") as f: f.write(post)
-            msgs.append(f"  ✍️ {slug}")
         
-        # Create combined digest if 3+
-        if len(all_major) >= 3:
-            slug = f"ufo-rapid-{now.strftime('%Y%m%d%H%M%S')}"
+        # Create digest (always)
+        slug = f"ufo-rapid-{now.strftime('%Y%m%d%H%M%S')}"
             lines = []
             for i,item in enumerate(all_major[:8],1):
                 t = html.unescape(item["title"]).replace("\n"," ").strip()[:120]

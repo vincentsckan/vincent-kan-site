@@ -4,17 +4,11 @@
 
 cd /root/.openclaw/workspace/vincent-site || exit 1
 
-echo "=== Pre-build SEO: Internal Links ==="
-python3 scripts/internal-links.py 2>&1 || true
-
-# Generate news sitemap before build so it's included
+echo "=== Pre-build: generating sitemaps ==="
 node scripts/generate-news-sitemap.cjs 2>&1 || true
 
 echo "=== Building site ==="
 npm run build 2>&1
-
-echo "=== Post-build SEO ==="
-python3 scripts/seo-engine.py 2>&1 || true
 
 echo "=== Deploying to GitHub ==="
 git add -A
