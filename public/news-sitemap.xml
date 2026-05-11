@@ -194,18 +194,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-20260504-afternoon/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-04T06:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 UFO/UAP News Digest — May 4, 2026]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.disclosurehk.com/blog/ufo-news-digest-20260504-evening-1/</loc>
     <news:news>
       <news:publication>
@@ -226,18 +214,6 @@
       </news:publication>
       <news:publication_date>2026-05-04T16:05:25.000Z</news:publication_date>
       <news:title><![CDATA[🛸 Global UFO/UAP News Digest — 2026-05-04]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605040704/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-04T06:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 UFO/UAP News Digest — May 4, 2026]]></news:title>
       <news:keywords>UFO,UAP,disclosure,news</news:keywords>
     </news:news>
   </url>
@@ -19857,6 +19833,42 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-05-11T05:58:08.000Z</news:publication_date>
+      <news:title><![CDATA[🚨 即時UFO：News Wrap: Pentagon releases ‘never-before-seen’ UFO files on its website - PBS]]></news:title>
+      <news:keywords>UFO,UAP,alert,breaking,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-alert-20260511060308-0/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T06:03:08.000Z</news:publication_date>
+      <news:title><![CDATA[🚨 即時UFO：Pentagon UFO files release: Amid new UFO disclosure, officials say public can draw conclusions o]]></news:title>
+      <news:keywords>UFO,UAP,alert,breaking,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-alert-20260511060308-1/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T06:03:08.000Z</news:publication_date>
+      <news:title><![CDATA[🚨 即時UFO：Trump administration begins to release new UFO files to the public - LiveNOW from FOX]]></news:title>
+      <news:keywords>UFO,UAP,alert,breaking,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-alert-20260511060308-2/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T06:03:08.000Z</news:publication_date>
       <news:title><![CDATA[🚨 即時UFO：News Wrap: Pentagon releases ‘never-before-seen’ UFO files on its website - PBS]]></news:title>
       <news:keywords>UFO,UAP,alert,breaking,news</news:keywords>
     </news:news>
