@@ -26,18 +26,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-filler-202605040200/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-04T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Pentagon UFO Office: Anomalies Confirmed, But Can the Truth Be Told?]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.disclosurehk.com/blog/ufo-filler-202605041000/</loc>
     <news:news>
       <news:publication>
@@ -266,18 +254,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605032302/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-04T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 UFO/UAP News Digest — May 4, 2026]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.disclosurehk.com/blog/ufo-news-digest-20260504-afternoon-1/</loc>
     <news:news>
       <news:publication>
@@ -333,18 +309,6 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-05-04T03:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 UFO/UAP News Digest — May 4, 2026]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-20260504-morning/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-04T00:00:00.000Z</news:publication_date>
       <news:title><![CDATA[🛸 UFO/UAP News Digest — May 4, 2026]]></news:title>
       <news:keywords>UFO,UAP,disclosure,news</news:keywords>
     </news:news>
@@ -742,18 +706,6 @@
       </news:publication>
       <news:publication_date>2026-05-05T09:04:00.000Z</news:publication_date>
       <news:title><![CDATA[🛸 UFO/UAP 快訊 — 05月05日17:04]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-uap-news-20260504/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-04T00:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 Global UFO/UAP News Digest — 2026-05-04]]></news:title>
       <news:keywords>UFO,UAP,disclosure,news</news:keywords>
     </news:news>
   </url>
@@ -17277,6 +17229,42 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-05-10T23:58:07.000Z</news:publication_date>
+      <news:title><![CDATA[🚨 即時UFO：Pentagon Begins Release of UAP Files - MeriTalk]]></news:title>
+      <news:keywords>UFO,UAP,alert,breaking,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-alert-20260511000306-0/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T00:03:06.000Z</news:publication_date>
+      <news:title><![CDATA[🚨 即時UFO：Trump administration begins to release new UFO files to the public - LiveNOW from FOX]]></news:title>
+      <news:keywords>UFO,UAP,alert,breaking,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-alert-20260511000306-1/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T00:03:06.000Z</news:publication_date>
+      <news:title><![CDATA[🚨 即時UFO：‘Orbs,’ ‘Saucers,’ and ‘Flashes’ on the Moon: Pentagon Drops New UFO Files - WIRED]]></news:title>
+      <news:keywords>UFO,UAP,alert,breaking,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-alert-20260511000306-2/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T00:03:06.000Z</news:publication_date>
       <news:title><![CDATA[🚨 即時UFO：Pentagon Begins Release of UAP Files - MeriTalk]]></news:title>
       <news:keywords>UFO,UAP,alert,breaking,news</news:keywords>
     </news:news>
