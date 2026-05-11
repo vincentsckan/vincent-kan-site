@@ -97,7 +97,7 @@ def main():
     now = datetime.now(timezone.utc)
     seen = load_cache()
     all_new, all_major = [], []
-    
+
     for name, url in SOURCES:
         raw = fetch(url)
         if not raw: continue
@@ -108,19 +108,19 @@ def main():
                 all_new.append(e)
                 if is_major(e["title"], e.get("desc","")):
                     all_major.append(e)
-    
+
     msgs = []
-    
+
     if all_major:
         msgs.append(f"🚨 {len(all_major)} major")
-        
+
         # Create digest (always)
         slug = f"ufo-rapid-{now.strftime('%Y%m%d%H%M%S')}"
-            lines = []
-            for i,item in enumerate(all_major[:8],1):
-                t = html.unescape(item["title"]).replace("\n"," ").strip()[:120]
-                lines.append(f"{i}. [{t}]({item['link']})")
-            post = f"""---
+        lines = []
+        for i,item in enumerate(all_major[:8],1):
+            t = html.unescape(item["title"]).replace("\n"," ").strip()[:120]
+            lines.append(f"{i}. [{t}]({item['link']})")
+        post = f"""---
 title: "🛸 UFO 即時快訊 x{len(all_major)}"
 description: "DisclosureHK 自動聚合 {len(all_major)} 條最新 UFO 新聞"
 pubDate: "{now.strftime('%Y-%m-%dT%H:%M:%SZ')}"
@@ -135,15 +135,15 @@ tags: ["UFO","UAP","news","即時快訊"]
 
 *🤖 DisclosureHK v3 · 資料：Google News / Reddit / RSS*
 """
-            with open(f"{SITE}/src/content/blog-en/{slug}.md","w") as f: f.write(post)
-            msgs.append(f"  ✍️ digest")
-        
+        with open(f"{SITE}/src/content/blog-en/{slug}.md","w") as f: f.write(post)
+        msgs.append(f"  ✍️ digest")
+
         msgs.append("  🔨 Building...")
         if build_push():
             msgs.append("  ✅ Deployed!")
         else:
             msgs.append("  ⚠️ Build failed")
-    
+
     elif all_new:
         msgs.append(f"📰 {len(all_new)} minor — digest only")
         # Only build every 15 min for minor news
@@ -175,10 +175,10 @@ tags: ["UFO","UAP","news"]
             msgs.append("  ⏳ (last build < 15m ago, skipping)")
     else:
         msgs.append("✅ Up to date — no new articles")
-    
+
     save_cache(seen)
     log_run({"ts":now.isoformat(),"new":len(all_new),"major":len(all_major)})
-    
+
     # Print results
     print(f"[{now.strftime('%H:%M:%S UTC')}] {' | '.join(msgs)}")
     sys.stdout.flush()
