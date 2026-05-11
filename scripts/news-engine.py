@@ -110,17 +110,37 @@ def main():
                     all_major.append(e)
 
     msgs = []
-
+    
     if all_major:
         msgs.append(f"🚨 {len(all_major)} major")
-
-        # Create digest (always)
+        
+        # Create bilingual digest (same slug for both, in different folders)
         slug = f"ufo-rapid-{now.strftime('%Y%m%d%H%M%S')}"
         lines = []
         for i,item in enumerate(all_major[:8],1):
             t = html.unescape(item["title"]).replace("\n"," ").strip()[:120]
             lines.append(f"{i}. [{t}]({item['link']})")
-        post = f"""---
+        
+        # English version
+        en_post = f"""---
+title: "🛸 UFO Rapid Digest x{len(all_major)}"
+description: "DisclosureHK auto-aggregated {len(all_major)} latest UFO news"
+pubDate: "{now.strftime('%Y-%m-%dT%H:%M:%SZ')}"
+tags: ["UFO","UAP","news","breaking"]
+---
+
+# 🛸 UFO Rapid Digest x{len(all_major)}
+
+| 🌍 Global | 📅 {now.strftime('%Y-%m-%d %H:%M UTC')} | 🔍 Auto-aggregated |
+
+{chr(10).join(lines)}
+
+*🤖 DisclosureHK v3 · Sources: Google News / Reddit / RSS*
+"""
+        with open(f"{SITE}/src/content/blog-en/{slug}.md","w") as f: f.write(en_post)
+        
+        # Chinese version
+        zh_post = f"""---
 title: "🛸 UFO 即時快訊 x{len(all_major)}"
 description: "DisclosureHK 自動聚合 {len(all_major)} 條最新 UFO 新聞"
 pubDate: "{now.strftime('%Y-%m-%dT%H:%M:%SZ')}"
@@ -135,8 +155,8 @@ tags: ["UFO","UAP","news","即時快訊"]
 
 *🤖 DisclosureHK v3 · 資料：Google News / Reddit / RSS*
 """
-        with open(f"{SITE}/src/content/blog-en/{slug}.md","w") as f: f.write(post)
-        msgs.append(f"  ✍️ digest")
+        with open(f"{SITE}/src/content/blog-zh/{slug}.md","w") as f: f.write(zh_post)
+        msgs.append(f"  ✍️ digest (EN+ZH)")
 
         msgs.append("  🔨 Building...")
         if build_push():
@@ -145,7 +165,7 @@ tags: ["UFO","UAP","news","即時快訊"]
             msgs.append("  ⚠️ Build failed")
 
     elif all_new:
-        msgs.append(f"📰 {len(all_new)} minor — digest only")
+        msgs.append(f"📰 {len(all_new)} minor - digest only")
         # Only build every 15 min for minor news
         from pathlib import Path
         if not Path(f"{SITE}/.last-minor-build").exists() or (now - datetime.fromtimestamp(os.path.getmtime(f"{SITE}/.last-minor-build"), tz=timezone.utc)).total_seconds() > 900:
@@ -167,14 +187,29 @@ tags: ["UFO","UAP","news"]
 
 *🤖 DisclosureHK v3*
 """
-            with open(f"{SITE}/src/content/blog-en/{slug}.md","w") as f: f.write(post)
+            # Write both EN and ZH versions
+            en_post = f"""---
+title: "🛸 UFO News x{len(all_new)}"
+description: "DisclosureHK auto-aggregated {len(all_new)} latest news"
+pubDate: "{now.strftime('%Y-%m-%dT%H:%M:%SZ')}"
+tags: ["UFO","UAP","news"]
+---
+
+# 🛸 UFO Latest News x{len(all_new)}
+
+{chr(10).join(lines)}
+
+*DisclosureHK v3*
+"""
+            with open(f"{SITE}/src/content/blog-en/{slug}.md","w") as f: f.write(en_post)
+            with open(f"{SITE}/src/content/blog-zh/{slug}.md","w") as f: f.write(post)
             msgs.append("  ✍️ digest + deploying...")
             build_push()
             Path(f"{SITE}/.last-minor-build").touch()
         else:
             msgs.append("  ⏳ (last build < 15m ago, skipping)")
     else:
-        msgs.append("✅ Up to date — no new articles")
+        msgs.append("✅ Up to date - no new articles")
 
     save_cache(seen)
     log_run({"ts":now.isoformat(),"new":len(all_new),"major":len(all_major)})
