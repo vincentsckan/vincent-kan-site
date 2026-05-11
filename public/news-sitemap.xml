@@ -290,18 +290,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605040604/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-04T04:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 UFO/UAP News Digest — May 4, 2026]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605040704/</loc>
     <news:news>
       <news:publication>
@@ -18994,6 +18982,42 @@
       </news:publication>
       <news:publication_date>2026-05-11T03:58:08.000Z</news:publication_date>
       <news:title><![CDATA[🚨 即時UFO：Televangelist’s UFO Warning Goes Viral As America Waits For Disclosure And Proof - USA Herald]]></news:title>
+      <news:keywords>UFO,UAP,alert,breaking,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-alert-20260511040308-0/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T04:03:08.000Z</news:publication_date>
+      <news:title><![CDATA[🚨 即時UFO：Trump administration begins to release new UFO files to the public - LiveNOW from FOX]]></news:title>
+      <news:keywords>UFO,UAP,alert,breaking,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-alert-20260511040308-1/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T04:03:08.000Z</news:publication_date>
+      <news:title><![CDATA[🚨 即時UFO：‘Orbs,’ ‘Saucers,’ and ‘Flashes’ on the Moon: Pentagon Drops New UFO Files - WIRED]]></news:title>
+      <news:keywords>UFO,UAP,alert,breaking,news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-alert-20260511040308-2/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T04:03:08.000Z</news:publication_date>
+      <news:title><![CDATA[🚨 即時UFO：Pentagon Begins Release of UAP Files - MeriTalk]]></news:title>
       <news:keywords>UFO,UAP,alert,breaking,news</news:keywords>
     </news:news>
   </url>
