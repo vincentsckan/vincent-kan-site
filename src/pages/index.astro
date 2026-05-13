@@ -135,18 +135,56 @@ const welcomeEN = {
         animation-delay: 0s;
         width: 100%;
       }
-      .war-card {
-        transition: all 0.25s;
-      }
-      .war-card:hover .live-embed-container {
-        border-color: rgba(0,100,255,0.4) !important;
-        box-shadow: 0 0 50px rgba(0,100,255,0.12) !important;
-        transform: translateY(-2px);
-      }
       .live-embed-container {
-        transition: all 0.25s;
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        background: transparent;
+      }
+      .live-embed-container .iframe-wrap {
+        position: relative;
+        width: 100%;
+        padding-bottom: 56.25%;
+      }
+      .live-embed-container iframe {
+        position: absolute;
+        top: 0; left: 0;
+        width: 100%; height: 100%;
+        border-radius: 12px;
+        border: 1px solid rgba(0,100,255,0.2);
+        box-shadow: 0 0 30px rgba(0,100,255,0.08);
+      }
+      .live-embed-overlay {
+        position: absolute;
+        top: 0; left: 0; right: 0;
+        display: flex; align-items: center; gap: 0.5rem;
+        padding: 0.5rem 0.8rem;
+        background: linear-gradient(to bottom, rgba(0,0,0,0.7), transparent);
+        pointer-events: none;
+      }
+      .live-badge-inline {
+        display: inline-flex; align-items: center; gap: 0.4rem;
+        background: rgba(0,100,255,0.2);
+        border: 1px solid rgba(0,100,255,0.3);
+        padding: 0.2rem 0.6rem;
+        border-radius: 50px;
+        color: #4488ff;
+        font-weight: 700;
+        font-size: 0.7rem;
+        font-family:'SF Mono',monospace;
+      }
+      .live-dot-inline {
+        width: 8px; height: 8px; border-radius: 50%;
+        background: #4488ff;
+        animation: pulseLive 2s infinite;
       }
       @keyframes pulseLive { 0%,100% { opacity: 1; box-shadow: 0 0 8px rgba(68,136,255,0.6); } 50% { opacity: 0.3; } }
+      .live-embed-title {
+        font-size: 0.8rem;
+        font-weight: 500;
+        color: rgba(255,255,255,0.9);
+        text-shadow: 0 1px 4px rgba(0,0,0,0.5);
+      }
 
       .breaking {
         display: flex; gap: 0.75rem; align-items: center;
@@ -456,34 +494,18 @@ const welcomeEN = {
           )}
         </section>
 
-        <!-- WAR.GOV PURSUE PORTAL — direct link card (iframe not permitted by war.gov) -->
-        <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener" class="war-card" style="text-decoration:none;color:inherit;display:block;">
-          <div class="home-live-section" style="width:100%;">
-            <div class="live-embed-container" style="width:100%;background:linear-gradient(135deg,rgba(0,40,80,0.3),rgba(0,20,40,0.1));border:1px solid rgba(0,100,255,0.25);border-radius:14px;box-shadow:0 0 40px rgba(0,100,255,0.06);">
-              <div style="padding:2rem 1.5rem;text-align:center;">
-                <div style="font-size:2.5rem;margin-bottom:0.8rem;">🏛️</div>
-                <div style="display:inline-flex;align-items:center;gap:0.5rem;background:rgba(0,100,255,0.15);border:1px solid rgba(0,100,255,0.25);padding:0.3rem 0.8rem;border-radius:50px;color:#4488ff;font-weight:700;font-size:0.75rem;font-family:'SF Mono',monospace;margin-bottom:0.8rem;">
-                  <span style="width:8px;height:8px;border-radius:50%;background:#4488ff;display:inline-block;animation:pulseLive 2s infinite;"></span>
-                  📜 PURSUE PROGRAM
-                </div>
-                <h2 style="font-size:1.25rem;font-weight:700;margin:0 0 0.4rem;color:var(--text-primary);">
-                  {lang === 'en' ? 'US War Department — 162 Declassified UFO Files' : '美國戰爭部 — 162份解密UFO文件'}
-                </h2>
-                <p style="font-size:0.85rem;color:var(--text-muted);margin:0 0 0.3rem;max-width:500px;margin-left:auto;margin-right:auto;">
-                  {lang === 'en' 
-                    ? 'Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) — Apollo photos, FBI files, military footage & more' 
-                    : 'PURSUE 計畫 — 阿波羅任務照片、FBI檔案、軍方影片等'}
-                </p>
-                <div style="margin-top:1rem;display:inline-flex;align-items:center;gap:0.4rem;padding:0.45rem 1.2rem;border-radius:8px;background:rgba(0,100,255,0.12);border:1px solid rgba(0,100,255,0.2);color:var(--neon-cyan);font-weight:600;font-size:0.82rem;font-family:'SF Mono',monospace;transition:all 0.2s;">
-                  {lang === 'en' ? 'Open WAR.GOV/UFO ↗' : '前往 WAR.GOV/UFO ↗'}
-                </div>
-                <p style="font-size:0.68rem;color:rgba(255,255,255,0.25);margin-top:0.6rem;font-family:'SF Mono',monospace;">
-                  war.gov/ufo — {lang === 'en' ? 'Official US Government Portal' : '美國政府官方門戶'}
-                </p>
-              </div>
+        <!-- WAR.GOV PURSUE PORTAL EMBED (replaced live stream) -->
+        <div class="home-live-section">
+          <div class="live-embed-container" style="width:auto;height:auto;max-width:100%;background:transparent;">
+            <div class="iframe-wrap" style="position:relative;width:100%;padding-bottom:56.25%;">
+              <iframe src="https://www.war.gov/UFO/" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" allowfullscreen></iframe>
+            </div>
+            <div class="live-embed-overlay" style="padding:0.5rem 0.8rem;pointer-events:none;">
+              <span class="live-badge-inline" style="background:rgba(0,100,255,0.2);border-color:rgba(0,100,255,0.3);color:#4488ff;"><span class="live-dot-inline" style="background:#4488ff;animation:pulseLive 2s infinite;"></span> 📜 PURSUE</span>
+              <span class="live-embed-title">{lang === 'en' ? 'US War Department — 162 Declassified UFO Files' : '美國戰爭部 — 162份解密UFO文件'}</span>
             </div>
           </div>
-        </a>
+        </div>
 
         <!-- REAL-TIME NEWS TICKER (embedded at build time) -->
         <div id="live-ticker" class="ticker-section">
