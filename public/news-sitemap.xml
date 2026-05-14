@@ -20042,18 +20042,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-news-digest-20260507-evening/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T16:05:28.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 全球UFO/UAP新聞摘要 — 2026-05-07]]></news:title>
-      <news:keywords>UFO,UAP,disclosure,news</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.disclosurehk.com/blog/ufo-news-digest-202605072004/</loc>
     <news:news>
       <news:publication>
@@ -61150,6 +61138,18 @@
       </news:publication>
       <news:publication_date>2026-05-14T16:04:36.000Z</news:publication_date>
       <news:title><![CDATA[🛸 UFO Rapid Digest x123]]></news:title>
+      <news:keywords>UFO,UAP,digest,roundup</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-rapid-20260514160548/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-14T16:05:48.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO Rapid Digest x124]]></news:title>
       <news:keywords>UFO,UAP,digest,roundup</news:keywords>
     </news:news>
   </url>
