@@ -80,7 +80,7 @@ def is_major(title, desc=""):
     return s >= 3
 
 def build_push():
-    r = subprocess.run(["npm","run","build"],cwd=SITE,capture_output=True,text=True,timeout=90)
+    r = subprocess.run(["npm","run","build"],cwd=SITE,capture_output=True,text=True,timeout=300)
     if r.returncode != 0: return False
     for cmd in [["git","add","-A"],["git","commit","-m",f"auto: news [{datetime.now(timezone.utc).strftime('%H:%M UTC')}]"],["git","push","origin","master"]]:
         subprocess.run(cmd,cwd=SITE,capture_output=True,timeout=30)
