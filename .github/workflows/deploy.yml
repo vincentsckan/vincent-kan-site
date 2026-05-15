@@ -31,6 +31,8 @@ jobs:
         run: npm ci
       - name: Build
         run: npm run build
+      - name: SEO Audit
+        run: node scripts/seo-audit.mjs || true
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

@@ -50,16 +50,29 @@ const metaKeywords = lang === 'en'
 <link rel="alternate" href={new URL('/zh/', Astro.site)} hreflang="zh-Hant" />
 <link rel="alternate" href={new URL('/', Astro.site)} hreflang="x-default" />
 
+<!-- OpenSearch -->
+<link rel="search" type="application/opensearchdescription+xml" title="DisclosureHK UFO Search" href="/opensearch.xml" />
+
+<!-- PWA manifest -->
+<link rel="manifest" href="/manifest.json" />
+
 <!-- Primary Meta Tags -->
 <title>{metaTitle}</title>
 <meta name="title" content={metaTitle} />
 <meta name="description" content={metaDesc} />
 <meta name="keywords" content={metaKeywords} />
-<!-- REPLACE with actual Google Search Console verification code -->
+<!-- Google Search Console verification -->
 <meta name="google-site-verification" content="Iwlj7qfGJg6ilBJKXgXvul7M9iGbRk9_EBSzIWtxdm4" />
-<!-- Google Search Console verification — replace with your GSC meta tag -->
 <meta name="author" content="Davis Kan" />
 <meta name="robots" content="index, follow" />
+
+<!-- Pinterest verification -->
+<meta name="p:domain_verify" content="disclosurehk.com" />
+
+<!-- Mobile / App -->
+<meta name="theme-color" content="#0a0a12" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
 <!-- GoatCounter analytics (no cookies, privacy-first) -->
 <script
@@ -75,7 +88,7 @@ const metaKeywords = lang === 'en'
 </noscript>
 
 <!-- Open Graph / Facebook -->
-<meta property="og:type" content="website" />
+<meta property="og:type" content={Astro.url.pathname === '/' ? 'website' : 'article'} />
 <meta property="og:url" content={Astro.url} />
 <meta property="og:title" content={metaTitle} />
 <meta property="og:description" content={metaDesc} />
@@ -87,6 +100,7 @@ const metaKeywords = lang === 'en'
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:domain" content="disclosurehk.com" />
 <meta property="twitter:url" content={Astro.url} />
 <meta property="twitter:title" content={metaTitle} />
 <meta property="twitter:description" content={metaDesc} />

@@ -1,0 +1,47 @@
+name: Auto-Share to Social Media
+
+on:
+  schedule:
+    - cron: '30 1,13 * * *'  # 09:30 HKT (01:30 UTC) and 21:30 HKT (13:30 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  share:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Share to X/Twitter
+        id: xpost
+        continue-on-error: true
+        run: node scripts/auto-share.mjs --post --platform x
+        env:
+          # xurl uses its own config — make sure ~/.config/xurl is set up
+          HOME: /root
+
+      - name: Share to Telegram
+        if: always()
+        id: tgpost
+        continue-on-error: true
+        run: node scripts/auto-share.mjs --post --platform tg
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      - name: Commit state changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 auto: update social share state [skip ci]"
+          file_pattern: ".auto-share-state.json"

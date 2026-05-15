@@ -1,0 +1,17 @@
+# humans.txt — DisclosureHK
+# https://www.disclosurehk.com/humans.txt
+
+/* TEAM */
+Owner/Developer: Davis Kan
+Location: Hong Kong
+Contact: disclosurehk@proton.me
+
+/* SITE */
+Language: English, Chinese (Traditional)
+Content: UFO/UAP Research, News, Cases
+First launched: 2022
+
+/* TOOLS */
+Built with: Astro
+Hosted: GitHub Pages
+News Engine: OpenClaw + OpenRouter AI

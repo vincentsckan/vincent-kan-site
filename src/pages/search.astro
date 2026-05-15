@@ -1,0 +1,71 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { SITE_TITLE } from '../../consts';
+import { useTranslations, getLangFromUrl } from '../../i18n';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const pageTitle = lang === 'en' ? 'Search — UFO/UAP Articles' : '搜尋 — UFO/UAP文章';
+const pageDesc = lang === 'en' 
+  ? 'Search through thousands of UFO/UAP articles, cases, and news updates on DisclosureHK.'
+  : '搜尋數千篇UFO/UAP文章、案例及新聞';
+---
+
+<!DOCTYPE html>
+<html lang={lang === 'en' ? 'en' : 'zh-HK'}>
+  <head>
+    <BaseHead title={pageTitle} description={pageDesc} />
+    <style>
+      .search-wrap { max-width: 720px; margin: 0 auto; padding: 2rem 1.5rem; }
+      .search-wrap h1 { font-size: 1.6rem; margin-bottom: 0.5rem; }
+      .search-wrap p { color: var(--text-muted); margin-bottom: 1.5rem; font-size: 0.9rem; }
+      .search-box {
+        width: 100%; padding: 0.8rem 1rem;
+        background: var(--bg-card); border: 1px solid var(--border);
+        border-radius: var(--radius-sm); color: var(--text);
+        font-size: 1rem; font-family: inherit;
+        outline: none; transition: all 0.2s;
+      }
+      .search-box:focus { border-color: var(--neon-cyan); box-shadow: 0 0 20px rgba(0,229,255,0.08); }
+      .search-hint {
+        margin-top: 1rem; padding: 1rem;
+        border: 1px dashed var(--border); border-radius: var(--radius-sm);
+        font-size: 0.85rem; color: var(--text-muted);
+        text-align: center;
+      }
+      .search-hint code {
+        background: rgba(0,229,255,0.08); padding: 0.15rem 0.4rem;
+        border-radius: 4px; color: var(--neon-cyan); font-size: 0.8rem;
+      }
+    </style>
+  </head>
+  <body>
+    <Header />
+    <main>
+      <div class="search-wrap">
+        <h1>{lang === 'en' ? '🔍 Search Articles' : '🔍 搜尋文章'}</h1>
+        <p>{lang === 'en' 
+          ? 'Search through thousands of UFO/UAP articles, cases, and news updates.'
+          : '搜尋數千篇UFO/UAP文章、案例及新聞'}</p>
+        
+        <form action="https://www.google.com/search" method="get" target="_blank">
+          <input type="hidden" name="as_sitesearch" value="www.disclosurehk.com" />
+          <input type="text" name="q" class="search-box" 
+            placeholder={lang === 'en' ? 'Search disclosurehk.com via Google...' : '透過 Google 搜尋...'}
+            autofocus />
+        </form>
+
+        <div class="search-hint">
+          {lang === 'en' ? (
+            <>🔎 Powered by Google Site Search. You can also use <code>site:disclosurehk.com [your query]</code> directly in Google.</>
+          ) : (
+            <>🔎 由 Google 提供搜尋。你亦可以直接在 Google 搜尋 <code>site:disclosurehk.com [關鍵字]</code></>
+          )}
+        </div>
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>

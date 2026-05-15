@@ -1,7 +1,11 @@
 User-agent: *
 Allow: /
+Crawl-delay: 10
 
+# Sitemaps
 Sitemap: https://www.disclosurehk.com/sitemap-index.xml
-
-
 Sitemap: https://www.disclosurehk.com/news-sitemap.xml
+
+# Block admin / internal pages
+Disallow: /counter/
+Disallow: /schema/
