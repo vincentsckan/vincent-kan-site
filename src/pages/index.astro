@@ -494,18 +494,20 @@ const welcomeEN = {
           )}
         </section>
 
-        <!-- WAR.GOV PURSUE PORTAL EMBED (replaced live stream) -->
-        <div class="home-live-section">
-          <div class="live-embed-container" style="width:auto;height:auto;max-width:100%;background:transparent;">
-            <div class="iframe-wrap" style="position:relative;width:100%;padding-bottom:56.25%;">
-              <iframe src="https://www.war.gov/UFO/" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" allowfullscreen></iframe>
-            </div>
-            <div class="live-embed-overlay" style="padding:0.5rem 0.8rem;pointer-events:none;">
-              <span class="live-badge-inline" style="background:rgba(0,100,255,0.2);border-color:rgba(0,100,255,0.3);color:#4488ff;"><span class="live-dot-inline" style="background:#4488ff;animation:pulseLive 2s infinite;"></span> 📜 PURSUE</span>
-              <span class="live-embed-title">{lang === 'en' ? 'US War Department — 162 Declassified UFO Files' : '美國戰爭部 — 162份解密UFO文件'}</span>
+        <!-- LIVE STREAM EMBED (auto-updated by cron) -->
+        {liveStream.active && liveStream.videoId && (
+          <div class="home-live-section">
+            <div class="live-embed-container">
+              <div class="iframe-wrap">
+              <iframe src={`https://www.youtube.com/embed/${liveStream.videoId}?autoplay=1&rel=0`} frameborder="0" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe>
+              </div>
+              <div class="live-embed-overlay">
+                <span class="live-badge-inline"><span class="live-dot-inline"></span> 🔴 LIVE</span>
+                <span class="live-embed-title">{liveStream.title || (lang === 'en' ? 'UFO/UAP Hearing Live' : 'UFO/UAP聽證會直播')}</span>
+              </div>
             </div>
           </div>
-        </div>
+        )}
 
         <!-- REAL-TIME NEWS TICKER (embedded at build time) -->
         <div id="live-ticker" class="ticker-section">
