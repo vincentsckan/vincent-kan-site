@@ -1,0 +1,47 @@
+name: Auto-Translate Chinese Posts to English
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Number of posts to translate (default: 50)'
+        required: false
+        default: '50'
+      slug:
+        description: 'Specific slug to translate (optional)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Batch Translate
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          if [ -n "${{ inputs.slug }}" ]; then
+            node scripts/batch-translate.mjs --slug=${{ inputs.slug }}
+          else
+            node scripts/batch-translate.mjs limit=${{ inputs.limit }}
+          fi
+
+      - name: Commit translations
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🌐 auto: batch translate ZH→EN [skip ci]"
+          file_pattern: "src/content/blog-en/*.md"
