@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+# ==========================================
+# DisclosureHK - X/Twitter Auth Setup
+# ==========================================
+# Run this after you've created your X Developer App
+# ==========================================
+
+echo "=== DisclosureHK X/Twitter Auto-Poster Setup ==="
+echo ""
+echo "Step 1: Go to https://developer.twitter.com/en/portal/dashboard"
+echo "Step 2: Create a new Project + App (or use existing)"
+echo "Step 3: In 'User authentication settings' set:"
+echo "   - App permissions: Read and Write"
+echo "   - Type of App: Web App, Automated App or Bot"
+echo "   - Callback URI: http://localhost:3000"
+echo "   - Website URL: https://www.disclosurehk.com"
+echo ""
+echo "Step 4: Generate Consumer Key and Consumer Secret"
+echo "         (API Key and API Key Secret)"
+echo ""
+echo "Step 5: Register app with xurl:"
+echo "   Run this manually (outside agent):"
+echo ""
+echo "   xurl auth apps add \\"
+echo "     --name disclosurehk \\"
+echo "     --consumer-key YOUR_API_KEY \\"
+echo "     --consumer-secret YOUR_API_SECRET \\"
+echo ""
+echo "Step 6: Authenticate:"
+echo "   xurl auth default disclosurehk"
+echo "   xurl auth oauth2"
+echo ""
+echo "Step 7: Verify:"
+echo "   xurl auth status"
+echo "   xurl whoami"
+echo ""
+echo "After xurl is authenticated, the auto-poster cron jobs will work!"
+echo ""
+echo "Current xurl status:"
+xurl auth status 2>&1 || echo "⚠️  Not set up yet"
