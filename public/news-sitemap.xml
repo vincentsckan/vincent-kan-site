@@ -26,18 +26,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.disclosurehk.com/blog/ufo-rapid-20260513074425/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisclosureHK</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T07:44:25.000Z</news:publication_date>
-      <news:title><![CDATA[🛸 UFO Rapid Digest x118]]></news:title>
-      <news:keywords>UFO,UAP,digest,roundup</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.disclosurehk.com/blog/ufo-rapid-20260513074625/</loc>
     <news:news>
       <news:publication>
@@ -25174,6 +25162,18 @@
       </news:publication>
       <news:publication_date>2026-05-20T07:44:12.000Z</news:publication_date>
       <news:title><![CDATA[🛸 UFO Rapid Digest x56]]></news:title>
+      <news:keywords>UFO,UAP,digest,roundup</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disclosurehk.com/blog/ufo-rapid-20260520074527/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisclosureHK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T07:45:27.000Z</news:publication_date>
+      <news:title><![CDATA[🛸 UFO Rapid Digest x57]]></news:title>
       <news:keywords>UFO,UAP,digest,roundup</news:keywords>
     </news:news>
   </url>
