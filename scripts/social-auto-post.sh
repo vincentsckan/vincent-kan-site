@@ -9,7 +9,7 @@
 #
 # Designed to be run via cron (set and forget).
 # ================================================================
-set -euo pipefail
+set -uo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 SITE_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
