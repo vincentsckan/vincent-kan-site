@@ -3379,3 +3379,60 @@ Read more: https://disclosurehk.com/blog/ufo-breaking-202605082220/
 📌 Next up: The 2004 Nimitz Tic-Tac: Pentagon confirmed, still unexplain… → r/UFOs
 [2026-06-09 14:02:19]    ✅ Reddit post attempt completed
 [2026-06-09 14:02:19] ✅ Social Auto-Poster done.
+[2026-06-10 02:03:19] 🚀 Social Auto-Poster starting...
+[2026-06-10 02:03:19] 📱 Posting to X/Twitter...
+[twitter-auto-post] Reading blog-en articles from: /root/.openclaw/workspace/vincent-site/src/content/blog-en
+[twitter-auto-post] Found 7117 files
+[twitter-auto-post] Latest post: "\ud83d\udea8 BREAKING: US War Department Releases 162 Declassified UFO Files via WAR.GOV \u2014 Trump''s PURSUE Program" (2026-05-08T22:00:00.000Z)
+[twitter-auto-post] Generated tweet (278 chars):
+---
+🛸 \ud83d\udea8 BREAKING: US War Department Releases 162 Declassified UFO Files via WAR.GOV \u2014 Trump''s PURSU…
+
+UFO/UAP news coverage: BREAKING: US War Department Releases 162 Declassified UFO Files via W…
+
+Read more: https://disclosurehk.com/blog/ufo-breaking-202605082220/
+---
+[twitter-auto-post] Posting to X via xurl...
+[twitter-auto-post] ❌ Failed to post: Command failed: xurl post "🛸 \\ud83d\\udea8 BREAKING: US War Department Releases 162 Declassified UFO Files via WAR.GOV \\u2014 Trump''s PURSU…\n\nUFO/UAP news coverage: BREAKING: US War Department Releases 162 Declassified UFO Files via W…\n\nRead more: https://disclosurehk.com/blog/ufo-breaking-202605082220/"
+[2026-06-10 02:03:20]    ⚠️ X/Twitter post failed (exit 1)
+[2026-06-10 02:03:20] 📱 Posting to Telegram...
+[telegram-auto-post] Reading blog-en articles from: /root/.openclaw/workspace/vincent-site/src/content/blog-en
+[telegram-auto-post] Latest: "\ud83d\udea8 BREAKING: US War Department Releases 162 Declassified UFO Files via WAR.GOV \u2014 Trump''s PURSUE Program" (2026-05-08T22:00:00.000Z)
+[telegram-auto-post] ✅ Sent to Telegram channel 8187970729
+{"ok":true,"message_id":14035}
+[2026-06-10 02:03:22]    ✅ Telegram post successful
+[2026-06-10 02:03:22] 📱 Posting to Reddit...
+⚠️ Reddit credentials not configured. Running in PREVIEW mode.
+
+   Set these env vars to enable actual posting:
+   REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USERNAME, REDDIT_PASSWORD
+
+📋 Reddit Auto-Poster — Template Status
+
+ # Route                                         Status      
+------------------------------------------------------------
+ 1 ufo-case-nimitz                               ⏳ Pending    (r/UFOs)
+ 2 ufo-case-phoenix-lights                       ⏳ Pending    (r/UFOs)
+ 3 ufo-case-belgium-wave                         ⏳ Pending    (r/UFOs)
+ 4 ufo-case-roswell                              ⏳ Pending    (r/UFOs)
+ 5 ufo-case-ariel                                ⏳ Pending    (r/UFOs)
+ 6 ufo-case-rendlesham                           ⏳ Pending    (r/UFOs)
+ 7 ufo-case-tehran                               ⏳ Pending    (r/UFOs)
+ 8 ufo-case-travis-walton                        ⏳ Pending    (r/UFObelievers)
+ 9 ufo-case-turkey                               ⏳ Pending    (r/aliens)
+10 ufo-case-cash-landrum                         ⏳ Pending    (r/aliens)
+11 ufo-case-uss-omaha                            ⏳ Pending    (r/UAP)
+12 ufo-case-jal1628                              ⏳ Pending    (r/UFOB)
+13 ufo-case-shag-harbour                         ⏳ Pending    (r/HighStrangeness)
+14 ufo-case-kenneth-arnold                       ⏳ Pending    (r/UFOs)
+15 ufo-case-kecksburg                            ⏳ Pending    (r/HighStrangeness)
+16 ufo-case-sutton                               ⏳ Pending    (r/aliens)
+17 ufo-case-ohare                                ⏳ Pending    (r/UAP)
+18 ufo-case-stephenville                         ⏳ Pending    (r/UFOB)
+19 ufo-case-marshall                             ⏳ Pending    (r/UFOs)
+20 ufo-case-lubbock                              ⏳ Pending    (r/HighStrangeness)
+21 ufo-case-gobi                                 ⏳ Pending    (r/UFOs)
+
+📌 Next up: The 2004 Nimitz Tic-Tac: Pentagon confirmed, still unexplain… → r/UFOs
+[2026-06-10 02:03:22]    ✅ Reddit post attempt completed
+[2026-06-10 02:03:22] ✅ Social Auto-Poster done.
