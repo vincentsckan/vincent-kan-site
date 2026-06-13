@@ -21,39 +21,44 @@ SOURCES = [
     ("Google News UAP Gov", "https://news.google.com/rss/search?q=UAP+government+Congress+hearing+disclosure&hl=en-US&gl=US&ceid=US:en"),
     ("Google News Aliens", "https://news.google.com/rss/search?q=alien+extraterrestrial+NHI+non-human+intelligence&hl=en-US&gl=US&ceid=US:en"),
     ("Google News ET Tech", "https://news.google.com/rss/search?q=mysterious+drones+UFO+sighting+US+government&hl=en-US&gl=US&ceid=US:en"),
-    # Space/science sources
-    ("Space.com UFO", "https://www.space.com/feeds/all"),
-    # Alternative Reddit (text-based, less blocked)
-    ("Reddit r/UFOs (txt)", "https://old.reddit.com/r/UFOs/.rss"),
-    ("Reddit r/UAP", "https://old.reddit.com/r/UAP/.rss"),
-    # NUFORC public feed
-    ("NUFORC RSS", "https://nuforc.org/feed/"),
+    ("Google News UAP 2026", "https://news.google.com/rss/search?q=UAP+2026+disclosure+Congress+hearing&hl=en-US&gl=US&ceid=US:en"),
+    # Space/science
+    ("Space.com UFO", "https://www.space.com/feeds.xml"),
+    # Reddit (blocked from this server, skip)
+    # NUFORC alternative (timeout-prone, skip for now)
+    # ("NUFORC RSS", "https://nuforc.org/feed/"),
 ]
 
 TIMEOUT = 20
 
-def fetch_rss(url, timeout=TIMEOUT):
-    """Fetch RSS with retry on failure"""
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-        "Accept": "application/rss+xml, application/xml, text/xml, */*",
-        "Accept-Language": "en-US,en;q=0.9",
-    }
-    req = Request(url, headers=headers)
+def fetch_rss(url, timeout=10):
+    """Fetch RSS via curl (more reliable than Python urllib for intermittent HTTPS hangs)"""
     try:
-        resp = urlopen(req, timeout=timeout)
-        data = resp.read()
-        # If it's HTML (not RSS), reject
+        result = subprocess.run([
+            "curl", "-s", "--max-time", str(timeout),
+            "-H", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "-H", "Accept: application/rss+xml, application/xml, text/xml, */*",
+            url
+        ], capture_output=True, timeout=timeout+5)
+        data = result.stdout
+        if not data or result.returncode != 0:
+            if result.stderr:
+                stderr = result.stderr.decode()[:50]
+                if "403" in stderr or "404" in stderr:
+                    print(f"    ⚠ HTTP error")
+                else:
+                    print(f"    ⚠ {stderr.strip()}")
+            return None
+        # Check if response is HTML error page (not RSS)
         text = data.decode("utf-8", errors="replace")[:200]
         if "<!DOCTYPE html" in text or "<html" in text.lower():
             return None
         return data
-    except HTTPError as e:
-        if e.code == 403:
-            print(f"    ⚠ 403 forbidden (blocked)")
-            return None
+    except subprocess.TimeoutExpired:
+        print(f"    ⚠ timeout")
         return None
-    except Exception:
+    except Exception as e:
+        print(f"    ⚠ {type(e).__name__}")
         return None
 
 def parse_rss(xml_bytes):
