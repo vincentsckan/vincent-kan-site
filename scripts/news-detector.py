@@ -35,23 +35,21 @@ def fetch_rss(url, timeout=10):
     """Fetch RSS via curl (more reliable than Python urllib for intermittent HTTPS hangs)"""
     try:
         result = subprocess.run([
-            "curl", "-s", "--max-time", str(timeout),
-            "-H", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "-H", "Accept: application/rss+xml, application/xml, text/xml, */*",
+            "curl", "-sL", "--max-time", str(timeout),
+            "-A", "Mozilla/5.0 (compatible; NewsBot; disclosurehk.com)",
             url
         ], capture_output=True, timeout=timeout+5)
         data = result.stdout
-        if not data or result.returncode != 0:
-            if result.stderr:
-                stderr = result.stderr.decode()[:50]
-                if "403" in stderr or "404" in stderr:
-                    print(f"    ⚠ HTTP error")
-                else:
-                    print(f"    ⚠ {stderr.strip()}")
+        if not data:
             return None
-        # Check if response is HTML error page (not RSS)
-        text = data.decode("utf-8", errors="replace")[:200]
-        if "<!DOCTYPE html" in text or "<html" in text.lower():
+        if result.returncode != 0 and len(data) < 100:
+            return None
+        # Quick check for RSS content (not HTML)
+        text = data.decode("utf-8", errors="replace")[:100]
+        if not text.startswith("<"):
+            return None
+        if "<!DOCTYPE html" in text[:200] or "<html" in text[:200].lower():
+            print(f"    ⚠ got HTML (likely blocked)")
             return None
         return data
     except subprocess.TimeoutExpired:
