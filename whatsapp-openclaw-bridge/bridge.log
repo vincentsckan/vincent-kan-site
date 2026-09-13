@@ -1,0 +1,54 @@
+WhatsApp bridge listening on http://0.0.0.0:3000
+OpenClaw base URL: http://10.0.12.102:18789
+Verify token: openclaw-whatsapp
+WhatsApp Web connected.
+WhatsApp messages.upsert: type=notify, count=1
+WhatsApp message skipped: {"fromMe":true,"isSelfChat":false,"isBridgeReply":false,"remoteJid":"266747718439165@lid","messageKeys":["conversation"]}
+WhatsApp messages.upsert: type=notify, count=1
+WhatsApp incoming text from 120363253383650537@g.us
+WhatsApp reply sent to 120363253383650537@g.us
+WhatsApp messages.upsert: type=append, count=1
+WhatsApp messages.upsert: type=notify, count=1
+WhatsApp incoming text from 120363333076670910@g.us
+WhatsApp reply sent to 120363333076670910@g.us
+WhatsApp messages.upsert: type=append, count=1
+WhatsApp messages.upsert: type=notify, count=1
+WhatsApp incoming text from 120363333076670910@g.us
+WhatsApp messages.upsert: type=notify, count=1
+WhatsApp incoming text from 120363333076670910@g.us
+WhatsApp reply sent to 120363333076670910@g.us
+WhatsApp messages.upsert: type=append, count=1
+WhatsApp reply sent to 120363333076670910@g.us
+WhatsApp messages.upsert: type=append, count=1
+WhatsApp messages.upsert: type=notify, count=1
+WhatsApp incoming text from 120363184640156927@g.us
+WhatsApp reply sent to 120363184640156927@g.us
+WhatsApp messages.upsert: type=append, count=1
+WhatsApp messages.upsert: type=notify, count=1
+WhatsApp incoming text from 120363253383650537@g.us
+WhatsApp messages.upsert: type=notify, count=1
+WhatsApp incoming text from 120363253383650537@g.us
+WhatsApp reply sent to 120363253383650537@g.us
+WhatsApp messages.upsert: type=append, count=1
+WhatsApp reply sent to 120363253383650537@g.us
+WhatsApp messages.upsert: type=append, count=1
+WhatsApp messages.upsert: type=notify, count=1
+WhatsApp incoming text from status@broadcast
+WhatsApp reply sent to status@broadcast
+WhatsApp messages.upsert: type=append, count=1
+WhatsApp messages.upsert: type=notify, count=1
+WhatsApp message skipped: {"fromMe":true,"isSelfChat":false,"isBridgeReply":false,"remoteJid":"266747718439165@lid","messageKeys":["conversation"]}
+WhatsApp messages.upsert: type=notify, count=1
+WhatsApp incoming text from 120363147907574103@g.us
+WhatsApp messages.upsert: type=notify, count=1
+WhatsApp incoming text from 120363147907574103@g.us
+WhatsApp reply sent to 120363147907574103@g.us
+WhatsApp messages.upsert: type=append, count=1
+WhatsApp reply sent to 120363147907574103@g.us
+WhatsApp messages.upsert: type=append, count=1
+WhatsApp messages.upsert: type=notify, count=1
+WhatsApp incoming text from 120363253383650537@g.us
+WhatsApp reply sent to 120363253383650537@g.us
+WhatsApp messages.upsert: type=append, count=1
+WhatsApp messages.upsert: type=notify, count=1
+WhatsApp incoming text from 120363184640156927@g.us

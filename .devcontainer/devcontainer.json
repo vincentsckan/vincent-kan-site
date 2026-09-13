@@ -1,0 +1,9 @@
+{
+  "name": "vincent-kan-site",
+  "postStartCommand": "bash -lc 'source /etc/profile 2>/dev/null || true; source ~/.bashrc 2>/dev/null || true; export PATH=/usr/local/share/nvm/current/bin:/home/codespace/nvm/current/bin:/usr/local/bin:/usr/bin:/bin:$PATH; bash /workspaces/vincent-kan-site/scripts/start-openclaw-gateway.sh'",
+  "customizations": {
+    "vscode": {
+      "settings": {}
+    }
+  }
+}
