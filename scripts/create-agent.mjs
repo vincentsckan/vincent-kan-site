@@ -23,8 +23,7 @@ const agentPath = path.join(agentsDir, `${agentName}.json`);
 
 const agentConfig = {
   name: agentName,
-  enabled: true,
-  command: `/create-agent ${agentName}`
+  enabled: true
 };
 
 await mkdir(agentsDir, { recursive: true });
