@@ -1,0 +1,5 @@
+{
+  "name": "openclaw",
+  "enabled": true,
+  "command": "/create-agent openclaw"
+}
