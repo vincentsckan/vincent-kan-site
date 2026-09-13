@@ -1,8 +1,7 @@
 #!/usr/bin/env node
 
-import { mkdir, access, writeFile } from 'node:fs/promises';
+import { mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
-import { constants } from 'node:fs';
 
 const args = process.argv.slice(2);
 const commandArgs = args[0] === '/create-agent' ? args.slice(1) : args;
@@ -31,10 +30,16 @@ const agentConfig = {
 await mkdir(agentsDir, { recursive: true });
 
 try {
-  await access(agentPath, constants.F_OK);
-  console.log(`Agent already exists: ${agentPath}`);
-  process.exit(0);
-} catch {
-  await writeFile(agentPath, `${JSON.stringify(agentConfig, null, 2)}\n`, 'utf8');
+  await writeFile(agentPath, `${JSON.stringify(agentConfig, null, 2)}\n`, {
+    encoding: 'utf8',
+    flag: 'wx'
+  });
   console.log(`Created agent config: ${agentPath}`);
+} catch (error) {
+  if (error?.code === 'EEXIST') {
+    console.log(`Agent already exists: ${agentPath}`);
+    process.exit(0);
+  }
+
+  throw error;
 }
