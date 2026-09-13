@@ -5,7 +5,7 @@ import path from 'node:path';
 
 const args = process.argv.slice(2);
 const commandArgs = args[0] === '/create-agent' ? args.slice(1) : args;
-const agentName = commandArgs[0]?.trim().toLowerCase();
+const agentName = commandArgs[0]?.trim();
 
 if (!agentName) {
   console.error('Usage: npm run create-agent -- <agent-name>');
