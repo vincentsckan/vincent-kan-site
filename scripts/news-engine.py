@@ -11,6 +11,7 @@ No API keys needed. Fully self-contained.
 
 import json, os, re, sys, subprocess, html, hashlib, time
 from datetime import datetime, timezone
+from pathlib import Path
 from xml.etree import ElementTree
 from urllib.request import Request, urlopen
 
