@@ -24,9 +24,7 @@ jobs:
         run: npm ci
 
       - name: Generate UFO News
-        env:
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-        run: node scripts/generate-ufo-news.mjs
+        run: python3 scripts/news-engine.py
 
       - name: Generate Sitemaps
         run: |
