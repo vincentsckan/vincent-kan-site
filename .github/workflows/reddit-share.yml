@@ -23,8 +23,24 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Check Reddit credentials
+        id: creds
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+        run: |
+          if [ -n "$REDDIT_CLIENT_ID" ] && [ -n "$REDDIT_CLIENT_SECRET" ] && [ -n "$REDDIT_USERNAME" ] && [ -n "$REDDIT_PASSWORD" ]; then
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::warning::Reddit secrets not set (REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USERNAME, REDDIT_PASSWORD). Skipping post."
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Post to Reddit
         id: redditpost
+        if: steps.creds.outputs.ok == 'true'
         run: node scripts/auto-reddit.mjs --post
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
@@ -34,6 +50,7 @@ jobs:
           REDDIT_USER_AGENT: "DisclosureHK/1.0"
 
       - name: Commit state changes
+        if: steps.creds.outputs.ok == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🤖 auto: update reddit share state [skip ci]"
